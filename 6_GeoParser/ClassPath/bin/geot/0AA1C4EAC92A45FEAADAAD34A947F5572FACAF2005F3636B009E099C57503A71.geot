@@ -1,0 +1,677 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+            
+        		
+            
+                Platforms > Earth Observation Satellites > METEOSAT
+            
+        
+
+
+	
+            
+
+
+
+
+
+
+
+
+
+
+
+	
+      			
+            Refine by Category
+          		
+				
+	
+            
+          	
+
+            				
+		
+        	
+          
+  Please select a field 
+Projects
+Data Centers
+Locations
+Instruments/Sensors
+Platforms/Sources
+Science Keywords
+Spatial Coverage
+Temporal Coverage
+-------------------
+Parent Records Only
+Children Records Only
+Include Global Land
+Include Global Ocean
+
+
+            
+          
+
+        
+	 
+	 
+	 
+        
+	
+	
+
+
+          
+					
+
+
+
+    	 	 
+
+      
+      			
+            Refine by Full text 
+          		
+				
+	
+            
+          	
+            				
+		
+                  	
+                    
+                    
+                    
+                    
+                    
+                  
+                
+	
+	
+
+
+          
+					
+
+
+    
+
+
+
+ 
+ 
+
+
+
+        
+	
+            
+        
+
+
+
+	
+            	13 Titles Match Your Query
+	
+                        
+                        
+                        Showing 1 through 13 of 13
+                        
+                    
+	
+                            1.
+                            
+                                MSG Native Image Reader  [EUMETSAT_MSG_READER]
+                            
+                            
+                            
+                            
+                            
+
+                            
+                            The MSG Native image reader allows visualisation of MSG native images. This program works under Windows NT, 98, 2000, ME and XP and can use a coastline map in bitmap format (13779008 bytes, 3712 x ...
+                            
+
+                            
+
+                            
+
+                        
+	
+                            2.
+                            
+                                Coastline Program  [EUMETSAT_COASTLINES]
+                            
+                            
+                            
+                            
+                            
+
+                            
+                            Developed by EUMETSAT, the coastline program enables users to overlay coastal outlines on to VIS/IR/WV channel JPEG or GIF files. 
+
+EUMETSAT makes available a set of coastlines for several geostationary ...
+                            
+
+                            
+
+                            
+
+                        
+	
+                            3.
+                            
+                                Navigation Software for Meteosat-9 (MSG) - Level 1.5 VIS/IR/HRV Data  [EUMETSAT_MSG_NAV]
+                            
+                            
+                            
+                            
+                            
+
+                            
+                            The navigation software incorporates source code written in Fortran 90 and C-Code, for the conversion of image coordinates (pixel column and row) into the corresponding geographical coordinates (Latitude ...
+                            
+
+                            
+
+                            
+
+                        
+	
+                            4.
+                            
+                                Public Wavelet Transform Decompression Library Software  [EUMETSAT_wavelet]
+                            
+                            
+                            
+                            
+                            
+
+                            
+                            The Wavelet Transform Software is the decompression software used to decompress SEVIRI High Rate Information Transmission (HRIT) and Foreign Satellite data files. The software is compilable on Microsoft ...
+                            
+
+                            
+
+                            
+
+                        
+	
+                            5.
+                            
+                                SEVIRI Image Processing and Visualization Software (MSGView)  [EUMETSAT_MSGView]
+                            
+                            
+                            
+                            
+                            
+
+                            
+                            MSGView software displays HDF5 formatted HRIT and LRIT MSG SEVIRI data. The software has been developed by Ayd?n G?rol ERT?RK from Turkish State Meteorological Service to support operational meteorology, ...
+                            
+
+                            
+
+                            
+
+                        
+	
+                            6.
+                            
+                                Famine Early Warning System (FEWS)  [FEWS]
+                            
+                            
+                            
+                            
+                            
+
+                            
+                            The Famine Early Warning System (FEWS) provides the infrastructure for African
+countries and regional organizations to manage risk of food insecurity through
+the provision of timely and analytical ...
+                            
+
+                            
+
+                            
+
+                        
+	
+                            7.
+                            
+                                National Hurricane Center: Tropical Prediction Center  [National_Hurricane_Center]
+                            
+                            
+                                 
+                                
+                                    CHILD DIFs
+                                
+                            
+                            
+                            
+                            
+
+                            
+                            The Tropical Prediction Center (TPC) is a component of the National Centers for Environmental Prediction (NCEP) located at Florida International University in Miami, Florida. The TPC mission is to ...
+                            
+
+                            
+
+                            
+
+                        
+	
+                            8.
+                            
+                                Xrit2raw:  A tool to convert XRIT/SEVIRI data into a simple, headerless, raw binary file  [ICARE_xrit]
+                            
+                            
+                            
+                            
+                            
+
+                            
+                            Xrit2raw a tool to convert XRIT/SEVIRI data into a simple, headerless, raw binary file (along with libxrit, the library xrit2raw is based upon). 
+
+ EUMETSAT broadcasts Meteosat Second Generation (MSG) ...
+                            
+
+                            
+
+                            
+
+                        
+	
+                            9.
+                            
+                                Cookie-cutter: A tool for the extraction of geostationary SEVIRI data in coincidence with heliosynchronous satellites  [ICARE_cookie_cutter]
+                            
+                            
+                            
+                            
+                            
+
+                            
+                            The Cookie-cutter project is born from the need to compare data from various moving satellites to those from the SEVIRI instrument over geostationnary satellite MSG. The goal was to obtain, for each ...
+                            
+
+                            
+
+                            
+
+                        
+	
+                            10.
+                            
+                                OpenMTP Tools: Tools to Read and Visualize OpenMTP Data (METEOSAT)  [ICARE_OpenMTP]
+                            
+                            
+                            
+                            
+                            
+
+                            
+                            OpenMTP tools allows you to read and visualize OpenMTP data (METEOSAT).
+                            
+
+                            
+
+                            
+
+                        
+	
+                            11.
+                            
+                                Meteorological Office of the United Kingdom Weather Services  [METOFFICE_UKMET]
+                            
+                            
+                                 
+                                
+                                    CHILD DIFs
+                                
+                            
+                            
+                            
+                            
+
+                            
+                            The United Kingdom's Meteorological Office (UK Met Office) offers weather forecasts for all zones in the UK and for locations worldwide. The UK weather forecasts include 5 day forecasts with regional ...
+                            
+
+                            
+
+                            
+
+                        
+	
+                            12.
+                            
+                                EUMETSAT's Archived Data Retrieval Service  [EUMETSAT_ARCHIVED_SERVICE]
+                            
+                            
+                            
+                            
+                            
+
+                            
+                            EUMETSAT has been archiving all Meteosat image data and derived products in
+digital format since December 1995. It provides a comprehensive data retrieval
+service including on-line access to the data ...
+                            
+
+                            
+
+                            
+
+                        
+	
+                            13.
+                            
+                                The Earth and Moon Viewer  [EARTHVIEW]
+                            
+                            
+                            
+                            
+                            
+
+                            
+                            The Earth and Moon Viewer allows users to view a map of the Earth showing the
+day and night regions at this moment, or view the Earth from the Sun, the Moon,
+the night side of the Earth, above any ...
+                            
+
+                            
+
+                            
+
+                        
+	
+                        
+                        Showing 1 through 13 of 13
+                        
+                    
+
+
+        
+
+
+
+
+
+        
+
+        
+            Click
+                
+                here
+            
+            for a static view of records.
+        
+    
+
+
+
+
+                    
+                    
+                
+
+            
+
+            
+
+        
+
+    
+
+    
+    
+
+    
+
+
+
+
+
+
+
+
+    
+        	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+   
+
+
+
+
+    
+        	
+            
+        
+            + 
+                NASA Privacy Policy and Important Notices 
+
+
+    
+
+    
+    
+        
+            
+                
+        
+
+        	
+                Webmaster:
+                Monica Lyles
+            
+	
+                Responsible NASA Official:
+                Dr. Stephen Wharton
+            
+	Last updated: February 2015
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+

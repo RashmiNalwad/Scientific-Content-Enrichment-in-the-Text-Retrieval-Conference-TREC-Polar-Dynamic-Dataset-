@@ -1,0 +1,333 @@
+
+
+
+
+
+
+Not logged inOcean Color Forum
+
+
+ Forum
+ Ocean Color Home
+ Help
+ Search
+ Login
+
+
+
+
+
+
+
+
+
+
+Topic Products and Algorithms / Satellite Data Access / Unable to access url
+
+
+
+
+
+
+
+
+
+
+By Chris_Fullilove
+Date 2014-06-25 14:48
+Edited 2014-06-27 10:15
+
+
+
+Im getting access denied when trying to access the following URL from my computer.
+http://oceandata.sci.gsfc.nasa.gov/
+
+I can access this fine from other computers.
+
+
+
+
+
+
+
+
+
+
+By towens
+Date 2014-06-25 14:58
+
+
+
+Can you supply your external IP address ? 
+
+Thanks
+Tommy
+
+
+
+
+
+
+
+
+
+
+By Chris_Fullilove
+Date 2014-06-25 22:33
+Edited 2014-06-27 10:15
+
+
+
+The following IP addres is unable to retrieve data: 75.126.x.x
+
+Thanks,
+
+
+
+
+
+
+
+
+
+
+By Chris_Fullilove
+Date 2014-06-26 18:10
+
+
+
+Whats the status of this?
+
+
+
+
+
+
+
+
+
+
+By sean
+Date 2014-06-27 08:52
+
+
+
+The block on the IP should be removed later today.
+We are not modifying any rules and if the behavior 
+that resulted in the block appears again, the IPs will 
+be blocked again.  If you're curious as to what that 
+behavior was - might have been related to over 10,000
+file_search requests a day for over two weeks...
+
+Sean
+
+
+
+
+
+
+
+
+
+
+By Chris_Fullilove
+Date 2014-06-27 10:14
+
+
+
+Thanks for the update. 
+That must have been a hung process or something. I've run this script for a long time without any problems
+I'll pay attention to it and verify things are running as intended.
+Thanks
+
+
+
+
+
+
+
+
+
+
+By Chris_Fullilove
+Date 2014-08-03 08:23
+
+
+
+appears my IP is blocked again. Can you assist again? 
+My IPs are: 
+75.126.153.155
+66.85.155.210
+
+I have a script that runs every 3 minutes, is that too frequent?
+
+
+
+
+
+
+
+
+
+
+By sean
+Date 2014-08-04 11:14
+
+
+
+Neither of those IPs has a block on our firewalls.
+
+
+
+
+
+
+
+
+
+
+By Chris_Fullilove
+Date 2014-08-05 23:09
+
+
+
+Hi Sean, thanks for your assistance. I get the following results from my 66.85.155.210 box.
+This script works from other boxes.
+
+
+
+
+
+
+
+
+
+
+
+
+By sean
+Date 2014-08-06 12:00
+
+
+
+sys admins found the issue, you should be able to access samoa FTP again
+
+Sean
+
+
+
+
+
+
+
+
+
+
+By Chris_Fullilove
+Date 2014-08-18 11:06
+
+
+
+Encountering access issues from the box below.
+
+Machine IP address: 75.126.153.155
+
+Can't access resources located at oceandata.sci.gsfc.nasa.gov
+
+
+
+Thanks,
+
+
+
+
+
+
+
+
+
+
+By chris
+Date 2014-08-19 13:07
+
+
+
+Chris,
+
+The ip, 75.126.153.155 is not on any of our block lists. Are you still unable to connect to oceandata or samoa?
+
+
+
+
+
+
+
+
+
+
+By Chris_Fullilove
+Date 2014-08-31 09:51
+
+
+
+Ah, I just realized the IP I gave you is incorrect. My outgoing IP is: 74.86.100.66
+
+And yes, I am still unable to reach the http://oceandata.sci.gsfc.nasa.gov. Apologies for the mistake.
+
+Thanks for your help.
+Chris
+
+
+
+
+
+
+
+
+
+
+By chris
+Date 2014-09-02 12:01
+
+
+
+Chris,
+
+The ip, 74.86.100.66 was blocked and is now unblicked. Tell us if you have any other issues.
+
+
+
+
+
+
+
+
+
+
+Topic Products and Algorithms / Satellite Data Access / Unable to access url
+
+
+
+
+
+
+
+
+
+
+
+	
+            Responsible NASA Official:  Gene C. Feldman
+        
+Curator:  OceanColor Webmaster
+        
+Authorized by:  Gene C. Feldman
+
+Updated: 03 July 2013
+    	Privacy Policy and Important Notices
+    	 
+        
+    
+
+
+

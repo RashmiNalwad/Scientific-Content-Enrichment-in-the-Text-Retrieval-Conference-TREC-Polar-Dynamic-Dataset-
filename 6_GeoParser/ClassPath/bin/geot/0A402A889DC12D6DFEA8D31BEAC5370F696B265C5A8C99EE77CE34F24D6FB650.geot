@@ -1,0 +1,1672 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only
+ Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Locations>SOLID EARTH>CRUST
+
+
+
+	
+            
+
+
+	
+             <?xml   version="1.0"   encoding="utf-8"?>
+
+<gmd:MD_Metadata   xmlns:util="java:java.util.UUID"   xmlns:gmd="http://www.isotc211.org/2005/gmd"
+
+                                                   xmlns:gco="http://www.isotc211.org/2005/gco"
+
+                                                   xmlns:dif="http://gcmd.gsfc.nasa.gov/Aboutus/xml/dif/"
+
+                                                   xmlns:gml="http://www.opengis.net/gml"
+
+                                                   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+
+         <gmd:fileIdentifier>
+
+                  <gco:CharacterString>NSF-ANT07-39781</gco:CharacterString>
+
+         </gmd:fileIdentifier>
+
+         <gmd:language>
+
+                  <gco:CharacterString>eng</gco:CharacterString>
+
+         </gmd:language>
+
+         <gmd:characterSet>
+
+                  <gmd:MD_CharacterSetCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode"
+
+                                                                                             codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+
+         </gmd:characterSet>
+
+         <gmd:hierarchyLevel>
+
+                  <gmd:MD_ScopeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode"
+
+                                                                        codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+
+         </gmd:hierarchyLevel>
+
+         <gmd:contact>
+
+                  <gmd:CI_ResponsibleParty>
+
+                           <gmd:organisationName>
+
+                                    <gco:CharacterString>GCMD</gco:CharacterString>
+
+                           </gmd:organisationName>
+
+                           <gmd:role>
+
+                                    <gmd:CI_RoleCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+
+                                                                                       codeListValue="originator">originator</gmd:CI_RoleCode>
+
+                           </gmd:role>
+
+                  </gmd:CI_ResponsibleParty>
+
+         </gmd:contact>
+
+         <gmd:dateStamp>
+
+                  <gco:Date>2012-12-07</gco:Date>
+
+         </gmd:dateStamp>
+
+         <gmd:metadataStandardName>
+
+                  <gco:CharacterString>CEOS   IDN   DIF</gco:CharacterString>
+
+         </gmd:metadataStandardName>
+
+         <gmd:metadataStandardVersion>
+
+                  <gco:CharacterString>VERSION   9.8.4</gco:CharacterString>
+
+         </gmd:metadataStandardVersion>
+
+         <gmd:identificationInfo>
+
+                  <gmd:MD_DataIdentification>
+
+                           <gmd:citation>
+
+                                    <gmd:CI_Citation>
+
+                                             <gmd:title>
+
+                                                      <gco:CharacterString>Thermochronologic   and   modelling   test   for   a   Mesozoic   West   Antarctic   Plateau</gco:CharacterString>
+
+                                             </gmd:title>
+
+                                             <gmd:date>
+
+                                                      <gmd:CI_Date>
+
+                                                               <gmd:date>
+
+                                                                        <gco:Date>2012-12-07</gco:Date>
+
+                                                               </gmd:date>
+
+                                                               <gmd:dateType>
+
+                                                                        <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                       codeListValue="publication">publication</gmd:CI_DateTypeCode>
+
+                                                               </gmd:dateType>
+
+                                                      </gmd:CI_Date>
+
+                                             </gmd:date>
+
+                                             <gmd:identifier>
+
+                                                      <gmd:MD_Identifier>
+
+                                                               <gmd:code>
+
+                                                                        <gco:CharacterString>NSF-ANT07-39781</gco:CharacterString>
+
+                                                               </gmd:code>
+
+                                                      </gmd:MD_Identifier>
+
+                                             </gmd:identifier>
+
+                                             <gmd:citedResponsibleParty>
+
+                                                      <gmd:CI_ResponsibleParty>
+
+                                                               <gmd:individualName>
+
+                                                                        <gco:CharacterString>BLYTHE,   ANNELIZABETH</gco:CharacterString>
+
+                                                               </gmd:individualName>
+
+                                                               <gmd:contactInfo>
+
+                                                                        <gmd:CI_Contact>
+
+                                                                                 <gmd:phone>
+
+                                                                                          <gmd:CI_Telephone>
+
+                                                                                                   <gmd:voice>
+
+                                                                                                            <gco:CharacterString>323-259-2553</gco:CharacterString>
+
+                                                                                                   </gmd:voice>
+
+                                                                                          </gmd:CI_Telephone>
+
+                                                                                 </gmd:phone>
+
+                                                                                 <gmd:address>
+
+                                                                                          <gmd:CI_Address>
+
+                                                                                                   <gmd:deliveryPoint>
+
+                                                                                                            <gco:CharacterString>Department   of   Geology</gco:CharacterString>
+
+                                                                                                   </gmd:deliveryPoint>
+
+                                                                                                   <gmd:city>
+
+                                                                                                            <gco:CharacterString>Los   Angeles</gco:CharacterString>
+
+                                                                                                   </gmd:city>
+
+                                                                                                   <gmd:administrativeArea>
+
+                                                                                                            <gco:CharacterString>CA</gco:CharacterString>
+
+                                                                                                   </gmd:administrativeArea>
+
+                                                                                                   <gmd:postalCode>
+
+                                                                                                            <gco:CharacterString>90041</gco:CharacterString>
+
+                                                                                                   </gmd:postalCode>
+
+                                                                                                   <gmd:country>
+
+                                                                                                            <gco:CharacterString>US</gco:CharacterString>
+
+                                                                                                   </gmd:country>
+
+                                                                                                   <gmd:electronicMailAddress>
+
+                                                                                                            <gco:CharacterString>ablythe@oxy.edu</gco:CharacterString>
+
+                                                                                                   </gmd:electronicMailAddress>
+
+                                                                                          </gmd:CI_Address>
+
+                                                                                 </gmd:address>
+
+                                                                        </gmd:CI_Contact>
+
+                                                               </gmd:contactInfo>
+
+                                                               <gmd:role>
+
+                                                                        <gmd:CI_RoleCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+
+                                                                                                                           codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+
+                                                               </gmd:role>
+
+                                                      </gmd:CI_ResponsibleParty>
+
+                                             </gmd:citedResponsibleParty>
+
+                                             <gmd:citedResponsibleParty>
+
+                                                      <gmd:CI_ResponsibleParty>
+
+                                                               <gmd:individualName>
+
+                                                                        <gco:CharacterString>HUERTA,   AUDREYD.</gco:CharacterString>
+
+                                                               </gmd:individualName>
+
+                                                               <gmd:contactInfo>
+
+                                                                        <gmd:CI_Contact>
+
+                                                                                 <gmd:phone>
+
+                                                                                          <gmd:CI_Telephone>
+
+                                                                                                   <gmd:voice>
+
+                                                                                                            <gco:CharacterString>(814)   863   3419</gco:CharacterString>
+
+                                                                                                   </gmd:voice>
+
+                                                                                                   <gmd:facsimile>
+
+                                                                                                            <gco:CharacterString>(814)   863   8724</gco:CharacterString>
+
+                                                                                                   </gmd:facsimile>
+
+                                                                                          </gmd:CI_Telephone>
+
+                                                                                 </gmd:phone>
+
+                                                                                 <gmd:address>
+
+                                                                                          <gmd:CI_Address>
+
+                                                                                                   <gmd:deliveryPoint>
+
+                                                                                                            <gco:CharacterString>Department   of   Geosciences,   Pennsylvania   State   University</gco:CharacterString>
+
+                                                                                                   </gmd:deliveryPoint>
+
+                                                                                                   <gmd:city>
+
+                                                                                                            <gco:CharacterString>University   Park</gco:CharacterString>
+
+                                                                                                   </gmd:city>
+
+                                                                                                   <gmd:administrativeArea>
+
+                                                                                                            <gco:CharacterString>PA</gco:CharacterString>
+
+                                                                                                   </gmd:administrativeArea>
+
+                                                                                                   <gmd:postalCode>
+
+                                                                                                            <gco:CharacterString>16801</gco:CharacterString>
+
+                                                                                                   </gmd:postalCode>
+
+                                                                                                   <gmd:country>
+
+                                                                                                            <gco:CharacterString>USA</gco:CharacterString>
+
+                                                                                                   </gmd:country>
+
+                                                                                                   <gmd:electronicMailAddress>
+
+                                                                                                            <gco:CharacterString>ahuerta@geosc.psu.edu</gco:CharacterString>
+
+                                                                                                   </gmd:electronicMailAddress>
+
+                                                                                          </gmd:CI_Address>
+
+                                                                                 </gmd:address>
+
+                                                                        </gmd:CI_Contact>
+
+                                                               </gmd:contactInfo>
+
+                                                               <gmd:role>
+
+                                                                        <gmd:CI_RoleCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+
+                                                                                                                           codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+
+                                                               </gmd:role>
+
+                                                      </gmd:CI_ResponsibleParty>
+
+                                             </gmd:citedResponsibleParty>
+
+                                    </gmd:CI_Citation>
+
+                           </gmd:citation>
+
+                           <gmd:abstract>
+
+                                    <gco:CharacterString>This   project   studies   formation   of   the   TransAntarctic   Mountains   (TAM)   through   numerical   modeling   based   on   cooling   histories   of   apatite   mineral   grains.   The   TAM   are   the   highest   and   longest   rift-related   mountain   range   in   the   world.   Various   models   for   their   uplift   have   been   proposed,   the   most   provocative   of   which   is   that   they   are   not   uplifted,   but   instead   are   the   eroded   remnant   of   a   plateau.   This   project   evaluates   that   hypothesis   by   collecting   apatites   from   around   Byrd   Glacier   for   fission   track   thermochronology.   Results   will   be   combined   with   a   kinematic   and   thermal   model   to   determine   the   TAM's   structural   evolution.   The   plateau   model,   if   correct,   implies   that   the   Byrd   Glacier   originated   not   as   a   glacier-carved   valley   through   the   TAM,   but   as   a   river   system   flowing   in   the   opposite   direction.   Given   that   the   Byrd   Glacier   is   a   key   drainage   for   the   East   Antarctic   ice   sheet,   this   result   has   important   implications   for   ice   sheet   models   and   interpretation   of   both   regional   geology   and   sediment   records.      The   main   broader   impacts   are   undergraduate   research   and   a   new   collaboration   between   a   primarily   undergraduate   and   a   research   institution.   Students   will   be   involved   in   the   field   program,   sample   analyses,   and   numerical   modeling.
+
+	      [   This   document   was   provided   by   NASA's   Global   Change   Master   Directory.   
+
+                  For   more   information   on   the   source   of   this   metadata   please   visit
+
+                  http://gcmd.nasa.gov/r/geoss/[GCMD]NSF-ANT07-39781   ]
+
+					</gco:CharacterString>
+
+                           </gmd:abstract>
+
+                           <gmd:status>
+
+                                    <gmd:MD_ProgressCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode"
+
+                                                                                                   codeListValue="completed">completed</gmd:MD_ProgressCode>
+
+                           </gmd:status>
+
+                           <gmd:pointOfContact>
+
+                                    <gmd:CI_ResponsibleParty>
+
+                                             <gmd:individualName>
+
+                                                      <gco:CharacterString>ARKO,   ROBERTA.</gco:CharacterString>
+
+                                             </gmd:individualName>
+
+                                             <gmd:organisationName>
+
+                                                      <gco:CharacterString>USAP/DCC   &gt;   Data   Coordination   Center,   United   States   Antarctic   Program</gco:CharacterString>
+
+                                             </gmd:organisationName>
+
+                                             <gmd:positionName>
+
+                                                      <gco:CharacterString>DATA   CENTER   CONTACT</gco:CharacterString>
+
+                                             </gmd:positionName>
+
+                                             <gmd:contactInfo>
+
+                                                      <gmd:CI_Contact>
+
+                                                               <gmd:address>
+
+                                                                        <gmd:CI_Address>
+
+                                                                                 <gmd:deliveryPoint>
+
+                                                                                          <gco:CharacterString>Lamont-Doherty   Earth   Observatory</gco:CharacterString>
+
+                                                                                 </gmd:deliveryPoint>
+
+                                                                                 <gmd:deliveryPoint>
+
+                                                                                          <gco:CharacterString>61   Route   9W</gco:CharacterString>
+
+                                                                                 </gmd:deliveryPoint>
+
+                                                                                 <gmd:city>
+
+                                                                                          <gco:CharacterString>Palisades</gco:CharacterString>
+
+                                                                                 </gmd:city>
+
+                                                                                 <gmd:administrativeArea>
+
+                                                                                          <gco:CharacterString>NY</gco:CharacterString>
+
+                                                                                 </gmd:administrativeArea>
+
+                                                                                 <gmd:postalCode>
+
+                                                                                          <gco:CharacterString>10964</gco:CharacterString>
+
+                                                                                 </gmd:postalCode>
+
+                                                                                 <gmd:country>
+
+                                                                                          <gco:CharacterString>USA</gco:CharacterString>
+
+                                                                                 </gmd:country>
+
+                                                                                 <gmd:electronicMailAddress>
+
+                                                                                          <gco:CharacterString>info@usap-data.org</gco:CharacterString>
+
+                                                                                 </gmd:electronicMailAddress>
+
+                                                                        </gmd:CI_Address>
+
+                                                               </gmd:address>
+
+                                                               <gmd:onlineResource>
+
+                                                                        <gmd:CI_OnlineResource>
+
+                                                                                 <gmd:linkage>
+
+                                                                                          <gmd:URL>http://www.usap-data.org/</gmd:URL>
+
+                                                                                 </gmd:linkage>
+
+                                                                        </gmd:CI_OnlineResource>
+
+                                                               </gmd:onlineResource>
+
+                                                      </gmd:CI_Contact>
+
+                                             </gmd:contactInfo>
+
+                                             <gmd:role>
+
+                                                      <gmd:CI_RoleCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+
+                                                                                                         codeListValue="resourceProvider">resourceProvider</gmd:CI_RoleCode>
+
+                                             </gmd:role>
+
+                                    </gmd:CI_ResponsibleParty>
+
+                           </gmd:pointOfContact>
+
+                           <gmd:descriptiveKeywords>
+
+                                    <gmd:MD_Keywords>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>EARTH   SCIENCE   &gt;   CRYOSPHERE   &gt;   GLACIERS/ICE   SHEETS   &gt;   GLACIER   MOTION/ICE   SHEET   MOTION</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>EARTH   SCIENCE   &gt;   LAND   SURFACE   &gt;   GEOMORPHOLOGY   &gt;   TECTONIC   LANDFORMS/PROCESSES</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>EARTH   SCIENCE   &gt;   SOLID   EARTH   &gt;   TECTONICS   &gt;   PLATE   TECTONICS   &gt;   PLATE   BOUNDARIES</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:thesaurusName>
+
+                                                      <gmd:CI_Citation>
+
+                                                               <gmd:title>
+
+                                                                        <gco:CharacterString>NASA/GCMD   Earth   Science   Keywords</gco:CharacterString>
+
+                                                               </gmd:title>
+
+                                                               <gmd:alternateTitle>
+
+                                                                        <gco:CharacterString>Science   Keywords</gco:CharacterString>
+
+                                                               </gmd:alternateTitle>
+
+                                                               <gmd:date>
+
+                                                                        <gmd:CI_Date>
+
+                                                                                 <gmd:date>
+
+                                                                                          <gco:Date>2008-02-05</gco:Date>
+
+                                                                                 </gmd:date>
+
+                                                                                 <gmd:dateType>
+
+                                                                                          <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                                         codeListValue="revision">revision</gmd:CI_DateTypeCode>
+
+                                                                                 </gmd:dateType>
+
+                                                                        </gmd:CI_Date>
+
+                                                               </gmd:date>
+
+                                                               <gmd:collectiveTitle>
+
+                                                                        <gco:CharacterString>Olsen,   L.M.,   G.   Major,   K.   Shein,   J.   Scialdone,   R.   Vogel,   S.   Leicester,   H.   Weir,   S.   Ritz,   T.   Stevens,   M.   Meaux,   C.Solomon,   R.   Bilodeau,   M.   Holland,   T.   Northcutt,   R.   A.   Restrepo,   2007   .         NASA/Global   Change   Master   Directory   (GCMD)   Earth   Science   Keywords.   Version      6.0.0.0.0</gco:CharacterString>
+
+                                                               </gmd:collectiveTitle>
+
+                                                      </gmd:CI_Citation>
+
+                                             </gmd:thesaurusName>
+
+                                    </gmd:MD_Keywords>
+
+                           </gmd:descriptiveKeywords>
+
+                           <gmd:descriptiveKeywords>
+
+                                    <gmd:MD_Keywords>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>NSF/PLR   &gt;   Division   of   Polar   Programs,   National   Science   Foundation</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:thesaurusName>
+
+                                                      <gmd:CI_Citation>
+
+                                                               <gmd:title>
+
+                                                                        <gco:CharacterString>NASA/GCMD   Earth   Science   Keywords</gco:CharacterString>
+
+                                                               </gmd:title>
+
+                                                               <gmd:alternateTitle>
+
+                                                                        <gco:CharacterString>Projects</gco:CharacterString>
+
+                                                               </gmd:alternateTitle>
+
+                                                               <gmd:date>
+
+                                                                        <gmd:CI_Date>
+
+                                                                                 <gmd:date>
+
+                                                                                          <gco:Date>2009-06-10</gco:Date>
+
+                                                                                 </gmd:date>
+
+                                                                                 <gmd:dateType>
+
+                                                                                          <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                                         codeListValue="revision">revision</gmd:CI_DateTypeCode>
+
+                                                                                 </gmd:dateType>
+
+                                                                        </gmd:CI_Date>
+
+                                                               </gmd:date>
+
+                                                               <gmd:collectiveTitle>
+
+                                                                        <gco:CharacterString>Olsen,   L.M.,   G.   Major,   K.   Shein,   J.   Scialdone,   R.   Vogel,   S.   Leicester,   H.   Weir,   S.   Ritz,   T.   Stevens,   M.   Meaux,   C.Solomon,   R.   Bilodeau,   M.   Holland,   T.   Northcutt,   R.   A.   Restrepo,   2007   .         NASA/Global   Change   Master   Directory   (GCMD)   Earth   Science   Keywords.   Version      6.0.0.0.0</gco:CharacterString>
+
+                                                               </gmd:collectiveTitle>
+
+                                                      </gmd:CI_Citation>
+
+                                             </gmd:thesaurusName>
+
+                                    </gmd:MD_Keywords>
+
+                           </gmd:descriptiveKeywords>
+
+                           <gmd:descriptiveKeywords>
+
+                                    <gmd:MD_Keywords>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>AMD</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>AMD/US</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>CEOS</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>USA/NSF</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:thesaurusName>
+
+                                                      <gmd:CI_Citation>
+
+                                                               <gmd:title>
+
+                                                                        <gco:CharacterString>NASA/GCMD   Earth   Science   Keywords</gco:CharacterString>
+
+                                                               </gmd:title>
+
+                                                               <gmd:alternateTitle>
+
+                                                                        <gco:CharacterString>IDN   Nodes</gco:CharacterString>
+
+                                                               </gmd:alternateTitle>
+
+                                                               <gmd:date>
+
+                                                                        <gmd:CI_Date>
+
+                                                                                 <gmd:date>
+
+                                                                                          <gco:Date>2007-04-01</gco:Date>
+
+                                                                                 </gmd:date>
+
+                                                                                 <gmd:dateType>
+
+                                                                                          <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                                         codeListValue="revision">revision</gmd:CI_DateTypeCode>
+
+                                                                                 </gmd:dateType>
+
+                                                                        </gmd:CI_Date>
+
+                                                               </gmd:date>
+
+                                                               <gmd:collectiveTitle>
+
+                                                                        <gco:CharacterString>Olsen,   L.M.,   G.   Major,   K.   Shein,   J.   Scialdone,   R.   Vogel,   S.   Leicester,   H.   Weir,   S.   Ritz,   T.   Stevens,   M.   Meaux,   C.Solomon,   R.   Bilodeau,   M.   Holland,   T.   Northcutt,   R.   A.   Restrepo,   2007   .         NASA/Global   Change   Master   Directory   (GCMD)   Earth   Science   Keywords.   Version      6.0.0.0.0</gco:CharacterString>
+
+                                                               </gmd:collectiveTitle>
+
+                                                      </gmd:CI_Citation>
+
+                                             </gmd:thesaurusName>
+
+                                    </gmd:MD_Keywords>
+
+                           </gmd:descriptiveKeywords>
+
+                           <gmd:descriptiveKeywords>
+
+                                    <gmd:MD_Keywords>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>CONTINENT   &gt;   ANTARCTICA</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>SOLID   EARTH   &gt;   CRUST</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>GEOGRAPHIC   REGION   &gt;   POLAR</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:thesaurusName>
+
+                                                      <gmd:CI_Citation>
+
+                                                               <gmd:title>
+
+                                                                        <gco:CharacterString>NASA/GCMD   Earth   Science   Keywords</gco:CharacterString>
+
+                                                               </gmd:title>
+
+                                                               <gmd:alternateTitle>
+
+                                                                        <gco:CharacterString>Locations</gco:CharacterString>
+
+                                                               </gmd:alternateTitle>
+
+                                                               <gmd:date>
+
+                                                                        <gmd:CI_Date>
+
+                                                                                 <gmd:date>
+
+                                                                                          <gco:Date>2009-12-22</gco:Date>
+
+                                                                                 </gmd:date>
+
+                                                                                 <gmd:dateType>
+
+                                                                                          <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                                         codeListValue="revision">revision</gmd:CI_DateTypeCode>
+
+                                                                                 </gmd:dateType>
+
+                                                                        </gmd:CI_Date>
+
+                                                               </gmd:date>
+
+                                                               <gmd:collectiveTitle>
+
+                                                                        <gco:CharacterString>Olsen,   L.M.,   G.   Major,   K.   Shein,   J.   Scialdone,   R.   Vogel,   S.   Leicester,   H.   Weir,   S.   Ritz,   T.   Stevens,   M.   Meaux,   C.Solomon,   R.   Bilodeau,   M.   Holland,   T.   Northcutt,   R.   A.   Restrepo,   2007   .         NASA/Global   Change   Master   Directory   (GCMD)   Earth   Science   Keywords.   Version      6.0.0.0.0</gco:CharacterString>
+
+                                                               </gmd:collectiveTitle>
+
+                                                      </gmd:CI_Citation>
+
+                                             </gmd:thesaurusName>
+
+                                    </gmd:MD_Keywords>
+
+                           </gmd:descriptiveKeywords>
+
+                           <gmd:language>
+
+                                    <gco:CharacterString>eng</gco:CharacterString>
+
+                           </gmd:language>
+
+                           <gmd:characterSet>
+
+                                    <gmd:MD_CharacterSetCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode"
+
+                                                                                                               codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+
+                           </gmd:characterSet>
+
+                           <gmd:topicCategory>
+
+                                    <gmd:MD_TopicCategoryCode>geoscientific   information</gmd:MD_TopicCategoryCode>
+
+                           </gmd:topicCategory>
+
+                           <gmd:extent>
+
+                                    <gmd:EX_Extent>
+
+                                             <gmd:geographicElement>
+
+                                                      <gmd:EX_GeographicBoundingBox>
+
+                                                               <gmd:westBoundLongitude>
+
+                                                                        <gco:Decimal>155.77667</gco:Decimal>
+
+                                                               </gmd:westBoundLongitude>
+
+                                                               <gmd:eastBoundLongitude>
+
+                                                                        <gco:Decimal>160.09833</gco:Decimal>
+
+                                                               </gmd:eastBoundLongitude>
+
+                                                               <gmd:southBoundLatitude>
+
+                                                                        <gco:Decimal>-80.43833</gco:Decimal>
+
+                                                               </gmd:southBoundLatitude>
+
+                                                               <gmd:northBoundLatitude>
+
+                                                                        <gco:Decimal>-79.793335</gco:Decimal>
+
+                                                               </gmd:northBoundLatitude>
+
+                                                      </gmd:EX_GeographicBoundingBox>
+
+                                             </gmd:geographicElement>
+
+                                             <gmd:geographicElement>
+
+                                                      <gmd:EX_GeographicDescription>
+
+                                                               <gmd:geographicIdentifier>
+
+                                                                        <gmd:MD_Identifier>
+
+                                                                                 <gmd:authority>
+
+                                                                                          <gmd:CI_Citation>
+
+                                                                                                   <gmd:title>
+
+                                                                                                            <gco:CharacterString>NASA/GCMD   Earth   Science   Keywords</gco:CharacterString>
+
+                                                                                                   </gmd:title>
+
+                                                                                                   <gmd:alternateTitle>
+
+                                                                                                            <gco:CharacterString>Locations</gco:CharacterString>
+
+                                                                                                   </gmd:alternateTitle>
+
+                                                                                                   <gmd:date>
+
+                                                                                                            <gmd:CI_Date>
+
+                                                                                                                     <gmd:date>
+
+                                                                                                                              <gco:Date>2009-12-22</gco:Date>
+
+                                                                                                                     </gmd:date>
+
+                                                                                                                     <gmd:dateType>
+
+                                                                                                                              <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                                                                             codeListValue="revision"/>
+
+                                                                                                                     </gmd:dateType>
+
+                                                                                                            </gmd:CI_Date>
+
+                                                                                                   </gmd:date>
+
+                                                                                                   <gmd:collectiveTitle>
+
+                                                                                                            <gco:CharacterString>Olsen,   L.M.,   G.   Major,   K.   Shein,   J.   Scialdone,   R.   Vogel,   S.   Leicester,   H.   Weir,   S.   Ritz,   T.   Stevens,   M.   Meaux,   C.Solomon,   R.   Bilodeau,   M.   Holland,   T.   Northcutt,   R.   A.   Restrepo,   2007   .         NASA/Global   Change   Master   Directory   (GCMD)   Earth   Science   Keywords.   Version      6.0.0.0.0</gco:CharacterString>
+
+                                                                                                   </gmd:collectiveTitle>
+
+                                                                                          </gmd:CI_Citation>
+
+                                                                                 </gmd:authority>
+
+                                                                                 <gmd:code>
+
+                                                                                          <gco:CharacterString>CONTINENT   &gt;   ANTARCTICA</gco:CharacterString>
+
+                                                                                 </gmd:code>
+
+                                                                        </gmd:MD_Identifier>
+
+                                                               </gmd:geographicIdentifier>
+
+                                                      </gmd:EX_GeographicDescription>
+
+                                             </gmd:geographicElement>
+
+                                             <gmd:geographicElement>
+
+                                                      <gmd:EX_GeographicDescription>
+
+                                                               <gmd:geographicIdentifier>
+
+                                                                        <gmd:MD_Identifier>
+
+                                                                                 <gmd:authority>
+
+                                                                                          <gmd:CI_Citation>
+
+                                                                                                   <gmd:title>
+
+                                                                                                            <gco:CharacterString>NASA/GCMD   Earth   Science   Keywords</gco:CharacterString>
+
+                                                                                                   </gmd:title>
+
+                                                                                                   <gmd:alternateTitle>
+
+                                                                                                            <gco:CharacterString>Locations</gco:CharacterString>
+
+                                                                                                   </gmd:alternateTitle>
+
+                                                                                                   <gmd:date>
+
+                                                                                                            <gmd:CI_Date>
+
+                                                                                                                     <gmd:date>
+
+                                                                                                                              <gco:Date>2009-12-22</gco:Date>
+
+                                                                                                                     </gmd:date>
+
+                                                                                                                     <gmd:dateType>
+
+                                                                                                                              <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                                                                             codeListValue="revision"/>
+
+                                                                                                                     </gmd:dateType>
+
+                                                                                                            </gmd:CI_Date>
+
+                                                                                                   </gmd:date>
+
+                                                                                                   <gmd:collectiveTitle>
+
+                                                                                                            <gco:CharacterString>Olsen,   L.M.,   G.   Major,   K.   Shein,   J.   Scialdone,   R.   Vogel,   S.   Leicester,   H.   Weir,   S.   Ritz,   T.   Stevens,   M.   Meaux,   C.Solomon,   R.   Bilodeau,   M.   Holland,   T.   Northcutt,   R.   A.   Restrepo,   2007   .         NASA/Global   Change   Master   Directory   (GCMD)   Earth   Science   Keywords.   Version      6.0.0.0.0</gco:CharacterString>
+
+                                                                                                   </gmd:collectiveTitle>
+
+                                                                                          </gmd:CI_Citation>
+
+                                                                                 </gmd:authority>
+
+                                                                                 <gmd:code>
+
+                                                                                          <gco:CharacterString>SOLID   EARTH   &gt;   CRUST</gco:CharacterString>
+
+                                                                                 </gmd:code>
+
+                                                                        </gmd:MD_Identifier>
+
+                                                               </gmd:geographicIdentifier>
+
+                                                      </gmd:EX_GeographicDescription>
+
+                                             </gmd:geographicElement>
+
+                                             <gmd:geographicElement>
+
+                                                      <gmd:EX_GeographicDescription>
+
+                                                               <gmd:geographicIdentifier>
+
+                                                                        <gmd:MD_Identifier>
+
+                                                                                 <gmd:authority>
+
+                                                                                          <gmd:CI_Citation>
+
+                                                                                                   <gmd:title>
+
+                                                                                                            <gco:CharacterString>NASA/GCMD   Earth   Science   Keywords</gco:CharacterString>
+
+                                                                                                   </gmd:title>
+
+                                                                                                   <gmd:alternateTitle>
+
+                                                                                                            <gco:CharacterString>Locations</gco:CharacterString>
+
+                                                                                                   </gmd:alternateTitle>
+
+                                                                                                   <gmd:date>
+
+                                                                                                            <gmd:CI_Date>
+
+                                                                                                                     <gmd:date>
+
+                                                                                                                              <gco:Date>2009-12-22</gco:Date>
+
+                                                                                                                     </gmd:date>
+
+                                                                                                                     <gmd:dateType>
+
+                                                                                                                              <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                                                                             codeListValue="revision"/>
+
+                                                                                                                     </gmd:dateType>
+
+                                                                                                            </gmd:CI_Date>
+
+                                                                                                   </gmd:date>
+
+                                                                                                   <gmd:collectiveTitle>
+
+                                                                                                            <gco:CharacterString>Olsen,   L.M.,   G.   Major,   K.   Shein,   J.   Scialdone,   R.   Vogel,   S.   Leicester,   H.   Weir,   S.   Ritz,   T.   Stevens,   M.   Meaux,   C.Solomon,   R.   Bilodeau,   M.   Holland,   T.   Northcutt,   R.   A.   Restrepo,   2007   .         NASA/Global   Change   Master   Directory   (GCMD)   Earth   Science   Keywords.   Version      6.0.0.0.0</gco:CharacterString>
+
+                                                                                                   </gmd:collectiveTitle>
+
+                                                                                          </gmd:CI_Citation>
+
+                                                                                 </gmd:authority>
+
+                                                                                 <gmd:code>
+
+                                                                                          <gco:CharacterString>GEOGRAPHIC   REGION   &gt;   POLAR</gco:CharacterString>
+
+                                                                                 </gmd:code>
+
+                                                                        </gmd:MD_Identifier>
+
+                                                               </gmd:geographicIdentifier>
+
+                                                      </gmd:EX_GeographicDescription>
+
+                                             </gmd:geographicElement>
+
+                                             <gmd:temporalElement>
+
+                                                      <gmd:EX_TemporalExtent>
+
+                                                               <gmd:extent>
+
+                                                                        <gml:TimePeriod   gml:id="w1aac17">
+
+                                                                                 <gml:begin>
+
+                                                                                          <gml:TimeInstant   gml:id="w1aac17b1">
+
+                                                                                                   <gml:timePosition>2008-09-01</gml:timePosition>
+
+                                                                                          </gml:TimeInstant>
+
+                                                                                 </gml:begin>
+
+                                                                                 <gml:end>
+
+                                                                                          <gml:TimeInstant   gml:id="w1aac17b3">
+
+                                                                                                   <gml:timePosition>2012-08-31</gml:timePosition>
+
+                                                                                          </gml:TimeInstant>
+
+                                                                                 </gml:end>
+
+                                                                        </gml:TimePeriod>
+
+                                                               </gmd:extent>
+
+                                                      </gmd:EX_TemporalExtent>
+
+                                             </gmd:temporalElement>
+
+                                    </gmd:EX_Extent>
+
+                           </gmd:extent>
+
+                  </gmd:MD_DataIdentification>
+
+         </gmd:identificationInfo>
+
+         <gmd:distributionInfo>
+
+                  <gmd:MD_Distribution>
+
+                           <gmd:distributionFormat>
+
+                                    <gmd:MD_Format>
+
+                                             <gmd:name   gco:nilReason="missing">
+
+                                                      <gco:CharacterString/>
+
+                                             </gmd:name>
+
+                                             <gmd:version   gco:nilReason="missing">
+
+                                                      <gco:CharacterString/>
+
+                                             </gmd:version>
+
+                                    </gmd:MD_Format>
+
+                           </gmd:distributionFormat>
+
+                           <gmd:distributor>
+
+                                    <gmd:MD_Distributor>
+
+                                             <gmd:distributorContact>
+
+                                                      <gmd:CI_ResponsibleParty>
+
+                                                               <gmd:individualName>
+
+                                                                        <gco:CharacterString>ARKO,   ROBERTA.</gco:CharacterString>
+
+                                                               </gmd:individualName>
+
+                                                               <gmd:organisationName>
+
+                                                                        <gco:CharacterString>USAP/DCC   &gt;   Data   Coordination   Center,   United   States   Antarctic   Program</gco:CharacterString>
+
+                                                               </gmd:organisationName>
+
+                                                               <gmd:positionName>
+
+                                                                        <gco:CharacterString>DATA   CENTER   CONTACT</gco:CharacterString>
+
+                                                               </gmd:positionName>
+
+                                                               <gmd:contactInfo>
+
+                                                                        <gmd:CI_Contact>
+
+                                                                                 <gmd:address>
+
+                                                                                          <gmd:CI_Address>
+
+                                                                                                   <gmd:deliveryPoint>
+
+                                                                                                            <gco:CharacterString>Lamont-Doherty   Earth   Observatory</gco:CharacterString>
+
+                                                                                                   </gmd:deliveryPoint>
+
+                                                                                                   <gmd:deliveryPoint>
+
+                                                                                                            <gco:CharacterString>61   Route   9W</gco:CharacterString>
+
+                                                                                                   </gmd:deliveryPoint>
+
+                                                                                                   <gmd:city>
+
+                                                                                                            <gco:CharacterString>Palisades</gco:CharacterString>
+
+                                                                                                   </gmd:city>
+
+                                                                                                   <gmd:administrativeArea>
+
+                                                                                                            <gco:CharacterString>NY</gco:CharacterString>
+
+                                                                                                   </gmd:administrativeArea>
+
+                                                                                                   <gmd:postalCode>
+
+                                                                                                            <gco:CharacterString>10964</gco:CharacterString>
+
+                                                                                                   </gmd:postalCode>
+
+                                                                                                   <gmd:country>
+
+                                                                                                            <gco:CharacterString>USA</gco:CharacterString>
+
+                                                                                                   </gmd:country>
+
+                                                                                                   <gmd:electronicMailAddress>
+
+                                                                                                            <gco:CharacterString>info@usap-data.org</gco:CharacterString>
+
+                                                                                                   </gmd:electronicMailAddress>
+
+                                                                                          </gmd:CI_Address>
+
+                                                                                 </gmd:address>
+
+                                                                                 <gmd:onlineResource>
+
+                                                                                          <gmd:CI_OnlineResource>
+
+                                                                                                   <gmd:linkage>
+
+                                                                                                            <gmd:URL>http://www.usap-data.org/</gmd:URL>
+
+                                                                                                   </gmd:linkage>
+
+                                                                                          </gmd:CI_OnlineResource>
+
+                                                                                 </gmd:onlineResource>
+
+                                                                        </gmd:CI_Contact>
+
+                                                               </gmd:contactInfo>
+
+                                                               <gmd:role>
+
+                                                                        <gmd:CI_RoleCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+
+                                                                                                                           codeListValue="distributor">distributor</gmd:CI_RoleCode>
+
+                                                               </gmd:role>
+
+                                                      </gmd:CI_ResponsibleParty>
+
+                                             </gmd:distributorContact>
+
+                                    </gmd:MD_Distributor>
+
+                           </gmd:distributor>
+
+                           <gmd:transferOptions>
+
+                                    <gmd:MD_DigitalTransferOptions>
+
+                                             <gmd:onLine>
+
+                                                      <gmd:CI_OnlineResource>
+
+                                                               <gmd:linkage>
+
+                                                                        <gmd:URL>http://www.usap-data.org/entry/NSF-ANT07-39781/</gmd:URL>
+
+                                                               </gmd:linkage>
+
+                                                               <gmd:protocol>
+
+                                                                        <gco:CharacterString>WWW:LINK-1.0-http--link</gco:CharacterString>
+
+                                                               </gmd:protocol>
+
+                                                               <gmd:name>
+
+                                                                        <gco:CharacterString>GET   DATA</gco:CharacterString>
+
+                                                               </gmd:name>
+
+                                                               <gmd:description>
+
+                                                                        <gco:CharacterString>
+
+                           Original   data   submitted.
+
+                  </gco:CharacterString>
+
+                                                               </gmd:description>
+
+                                                      </gmd:CI_OnlineResource>
+
+                                             </gmd:onLine>
+
+                                             <gmd:onLine>
+
+                                                      <gmd:CI_OnlineResource>
+
+                                                               <gmd:linkage>
+
+                                                                        <gmd:URL>http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0739781</gmd:URL>
+
+                                                               </gmd:linkage>
+
+                                                               <gmd:protocol>
+
+                                                                        <gco:CharacterString>WWW:LINK-1.0-http--link</gco:CharacterString>
+
+                                                               </gmd:protocol>
+
+                                                               <gmd:name>
+
+                                                                        <gco:CharacterString>VIEW   RELATED   INFORMATION</gco:CharacterString>
+
+                                                               </gmd:name>
+
+                                                               <gmd:description>
+
+                                                                        <gco:CharacterString>
+
+                           NSF   Award   Abstract   #0739781
+
+                  </gco:CharacterString>
+
+                                                               </gmd:description>
+
+                                                      </gmd:CI_OnlineResource>
+
+                                             </gmd:onLine>
+
+                                    </gmd:MD_DigitalTransferOptions>
+
+                           </gmd:transferOptions>
+
+                  </gmd:MD_Distribution>
+
+         </gmd:distributionInfo>
+
+         <gmd:dataQualityInfo>
+
+                  <gmd:DQ_DataQuality>
+
+                           <gmd:scope>
+
+                                    <gmd:DQ_Scope>
+
+                                             <gmd:level>
+
+                                                      <gmd:MD_ScopeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode"
+
+                                                                                                            codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+
+                                             </gmd:level>
+
+                                    </gmd:DQ_Scope>
+
+                           </gmd:scope>
+
+                           <gmd:lineage>
+
+                                    <gmd:LI_Lineage>
+
+                                             <gmd:statement   gco:nilReason="missing">
+
+                                                      <gco:CharacterString/>
+
+                                             </gmd:statement>
+
+                                    </gmd:LI_Lineage>
+
+                           </gmd:lineage>
+
+                  </gmd:DQ_DataQuality>
+
+         </gmd:dataQualityInfo>
+
+         <gmd:metadataConstraints>
+
+                  <gmd:MD_LegalConstraints>
+
+                           <gmd:useLimitation>
+
+                                    <gco:CharacterString>This   metadata   record   is   publicly   available.</gco:CharacterString>
+
+                           </gmd:useLimitation>
+
+                  </gmd:MD_LegalConstraints>
+
+         </gmd:metadataConstraints>
+
+         <gmd:metadataMaintenance>
+
+                  <gmd:MD_MaintenanceInformation>
+
+                           <gmd:maintenanceAndUpdateFrequency>
+
+                                    <gmd:MD_MaintenanceFrequencyCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode"
+
+                                                                                                                                       codeListValue="asNeeded">asNeeded</gmd:MD_MaintenanceFrequencyCode>
+
+                           </gmd:maintenanceAndUpdateFrequency>
+
+                  </gmd:MD_MaintenanceInformation>
+
+         </gmd:metadataMaintenance>
+
+</gmd:MD_Metadata>
+            
+ 
+
+
+
+           
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                              
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+        
+
+
+
+    
+
+
+
+
+                    
+                    
+                
+
+            
+
+            
+
+        
+
+    
+
+    
+    
+
+    
+
+
+
+
+
+
+
+
+    
+        	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+   
+
+
+
+
+    
+        	
+            
+        
+            + 
+                NASA Privacy Policy and Important Notices 
+
+
+    
+
+    
+    
+        
+            
+                
+        
+
+        	
+                Webmaster:
+                Monica Lyles
+            
+	
+                Responsible NASA Official:
+                Dr. Stephen Wharton
+            
+	Last updated: February 2015
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+

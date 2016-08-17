@@ -1,0 +1,199 @@
+
+
+
+
+	
+		
+			
+				
+					
+				
+
+				 
+					National Aeronautics and Space Administration
+
+					Goddard Space Flight Center
+
+				
+ 
+				
+					Search:
+
+              
+
+ 
+    
+    Enter Search Term(s):
+    
+    
+  
+
+
+            
+
+					 Sciences and Exploration
+
+				
+
+			
+
+			
+				Skip Navigation (press 2)
+			
+
+			
+			
+				
+					
+				
+
+			
+
+			
+
+			
+			
+					Home
+	
+						Products                    		
+						                            
+							Surface Reflectance
+	Snow Cover/ Sea Ice
+	Land Surface Temperature
+	Land Cover/ Dynamics
+	Vegetation Indices
+	Thermal Anomalies/ Fire
+	LAI/Fpar
+	Gross Primary Productivity
+	BRDF/Albedo
+	Veg Continuous Fields
+	Burned Area
+
+              
+					
+	People
+	News
+	Links
+	Tools
+
+
+			
+
+		  
+			
+		   
+            
+              
+                Thermal Anomalies/Fire
+
+                  
+                       
+                  
+                  MODIS Thermal Anomalies/Fire products are primarily derived from MODIS 4- and 11-micrometer radiances. The fire detection strategy is based on absolute detection of a fire (when the fire strength is sufficient to detect), and on detection relative to its background (to account for variability of the surface temperature and reflection by sunlight).
+
+The product includes fire occurrence (day/night), fire location, the logical criteria used for the fire selection, detection confidence, Fire Radiative Power and numerous other layers describing fire pixel attributes.. The product distinguishes between fire, no fire and no observation. Level 3 Daily fire products include 8 separate days of data detailing pixels according to their level of confidence as fires. This information will be used in monitoring the spatial and temporal distribution of fires in different ecosystems, detecting changes in fire distribution and identifying new fire frontiers, wild fires, and changes in the frequency of the fires or their relative strength.
+
+MODIS data on Terra and Aqua are acquired from each platform twice daily at mid-latitudes. These four daily MODIS fire observations that are typically acquired serve operational fire management needs while also advancing global monitoring of the fire process and its effects on ecosystems, the atmosphere, and climate.
+
+
+
+Product PI: Louis Giglio
+
+                PI-maintained product web page
+
+                   User Guide
+
+                   
+
+                   ATBD
+
+                   
+
+                    
+
+                   See links below to the Product Description pages posted at the LP DAAC 
+                   (product details, data access links, and more....)
+
+
+
+	  	 	Product Name 
+
+        
+        Thermal An0malies/Fire Daily L3 Global 1km
+         
+        Thermal Anomalies/Fire 8-Day L3 Global 1km
+         
+        Thermal Anomalies/Fire 5-Min L2 Swath 1km
+	Terra Product ID 
+   
+    
+     MOD14A1
+       
+     MOD14A2
+       
+     MOD14
+	Aqua Product ID 
+  
+     
+      MYD14A1
+       
+     MYD14A2
+       
+     MYD14
+
+
+
+     
+
+                      
+                   
+
+                   
+                  
+
+              
+
+              
+              
+            
+
+
+		    
+
+          
+
+		
+
+		  
+		  
+
+			
+				
+					
+				
+
+				
+					
+				
+
+				
+						Responsible NASA Official :  Robert Wolfe
+	Web Curator:  Jaime Nickeson
+
+
+				
+
+				
+			      	Privacy Policy & Important Notices
+	Contact Us
+	Last Updated: November 8, 2013  
+
+
+			  
+
+			
+
+		
+
+	
+08-Nov-2013

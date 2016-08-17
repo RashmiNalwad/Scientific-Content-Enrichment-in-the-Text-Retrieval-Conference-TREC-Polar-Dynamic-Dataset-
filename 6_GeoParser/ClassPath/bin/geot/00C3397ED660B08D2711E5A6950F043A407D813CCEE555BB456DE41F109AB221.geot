@@ -1,0 +1,102 @@
+
+******************************************************************************
+dorisreport             26-Jun-2008 02:22:23 Message No 1300
+******************************************************************************
+
+
+Author: willis@ipgp.fr ( WILLIS Pascal)
+Subject: IGN/JPL DORIS Report for week 1479 = 08132
+
+
+==============================================================
+Summary report for weekly DORIS IGN/JPL Analysis solution
+GPS week number: 1479 
+from 11-05-2008 to 17-05-2008
+DORIS name (using day of start): 08132
+Days of year: from 2008/132 to 2008/138
+==============================================================
+
+Author: Pascal Willis 
+
+1) Contacts
+===========
+
+Email    pascal.willis@ign.fr
+Phone    +33-1-4427-2484
+FAX      +33-1-4427-7340
+
+2) Products
+===========
+
+All the following products are available at the CDDIS data center
+
+    ftp cddis.gsfc.nasa.gov
+
+ weekly sinex in free-network
+     pub/doris/products/sinex_series/ignwd/ign08132wd05.snx.Z
+
+ weekly sinex in ITRF2005   
+     pub/doris/products/sinex_series/ignwd/ign08132wd06.snx.Z
+
+ geocenter series in ITRF2005
+     pub/doris/products/geoc/ign07wd01.geoc.Z
+
+ Earth Orientation Parameters time series in ITRF2005 
+     pub/doris/products/eop/ign07wd01.eop.Z
+
+3) Analysis Strategy
+====================
+
+The DORIS data have been processed using the Gipsy/Oasis software
+from the Jet Propulsion Laboratory
+
+Suggestions on which solutions should be used or not can be found in
+
+        pub/doris/products/sinex_series/ign.snx.readme
+
+Complete description files can be found at CDDIS at
+
+ weekly sinex in free-network
+	pub/doris/products/sinex_series/ignwd/ignwd05.snx.dsc
+
+ weekly sinex in ITRF2005 
+        pub/doris/products/sinex_series/ignwd/ignwd06.snx.dsc
+
+ geocenter series in ITRF2005 
+	pub/doris/products/geoc/ign07wd01.geoc.dsc
+
+Earth Orientation Parameters time series in ITRF2005 
+	pub/doris/products/eop/ign07wd01.eop.dsc
+
+For references, the following papers are recommended :
+
+  Willis, P., Y.E. Bar-Sever, G. Tavernier (2005), DORIS as a potential part
+  of a Global Geodetic Observing System, J. Geodyn., 40(4-5), 494-501,
+  DOI: 10.1016/j.jog.2005.06.011 
+
+  Willis, P., C. Boucher, H. Fagard, Z. Altamimi (2005), Applications
+  geodesiques du systeme DORIS a l'Institut Geographique National,
+  Geodetic applications of the DORIS system at the French Institut Geographique
+  National, C.R. Geoscience, 337(7), 653-662, DOI: 10.1016/j.crte.2005.03.002
+
+Last changes in the time series data analysis:
+ Week 678: See DORISMail #0288, start of the time series
+ 
+4) Global Statistics
+====================
+
+GPS week number 1479            from 11-05-2008 to 17-05-2008
+
+Total number of stations   = 49
+
+Total number of satellites = 4
+
+Combinations (daily to weekly) CHI2 / DOF = 2.45
+
+The following table only counts DORIS data that have passed
+CNES preprocesing step
+
+Individual daily DORIS statistics
+
+   Day       total_obs  rejected   valid_obs  %_rejected
+

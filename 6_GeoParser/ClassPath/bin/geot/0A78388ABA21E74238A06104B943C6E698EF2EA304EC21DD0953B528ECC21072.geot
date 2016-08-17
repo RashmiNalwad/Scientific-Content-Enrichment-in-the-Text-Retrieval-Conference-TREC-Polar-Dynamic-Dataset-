@@ -1,0 +1,2189 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        [ISO_Topic_Category='GEOSCIENTIFIC INFORMATION']
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                1:2,000,000-Scale Hydrologic Unit Maps
+            
+        
+
+        
+        
+            Entry ID:
+            
+                2MILHUC
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+        
+        
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+               
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            This data set contains hydrologic units (drainage basins) at a scale of 1:2,000,000 for the conterminous United States and Alaska. The attributes assigned to each unit follow the 8-digit Hydrologic Unit Code (HUC) scheme, which has been approved as a Federal Information Processing Standard. The following example shows the four levels of classification, code, and description of a typical  ... 8-digit HUC: 
+ 
+ Classification Level Code Description 
+ -------------------- -------- -------------------------- 
+ Region 04 Great Lakes 
+ Subregion 0403 Northwestern Lake 
+ Michigan 
+ Accounting Unit 040302 Fox River Basin, 
+ Wisconsin 
+ Catalog Unit 04030203 Lake Winnebago, 
+ Wisconsin 
+ 
+ The following procedures were used to compile the 1:2,000,000-scale hydrologic unit data set: 
+ 
+ Individual 1:500,000-scale State Hydrologic Unit maps, in a Lambert Conformal Conic Projection, were photo-reduced to 1:2,000,000 scale. The reduced maps were edge matched and combined to form 20 sections coincident with 1:2,000,000-scale National Atlas boundaries. 
+ 
+ Hydrologic unit boundaries were digitized from the photo-reduced maps; digitized line work was then compared to both the original source materials and U.S. Geological Survey 1:2,000,000-scale digital line graph (DLG) drainage maps to verify the accuracy of of the digitized lines. Attribute codes, which were assigned to each hydrologic unit, were also verified. 
+ 
+ Sections were then combined into two files with one file containing coverage of the conterminous United States and the other file containing coverage of Alaska. Outermost hydrologic unit boundaries were extended beyond coastlines and U.S. boundaries to allow users to clip data using their own digital U.S. boundary files. 
+ 
+ The EROS Data Center (EDC) has clipped the Hydrologic Unit data using an EDC-modified 1:2,000,000-scale DLG boundary file. The EDC distributes this version as well as the unclipped version of the data. These data are available from the EDC in the following formats: 
+ 
+ Data Form Projection Media Type 
+ Coverage 
+ -------------- ------ -------------------------- ---------- 
+ ------------- 
+ Unclipped Vector Albers Equal Area Mag Tape Co. 
+ U.S. & AK 
+ Clipped by EDC Vector Lambert Azimuthal Eq. Area Mag Tape Co. 
+ U.S. Only 
+ " Vector " CD-ROM 
+ " 
+ " Raster " Mag Tape 
+ " 
+ " Raster " CD-ROM 
+ " 
+ 
+ The vector data are in an optional DLG format. The raster data set consists of four images (one for each level of Hydrologic Unit classification) at a resolution of 1 kilometer. 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Query and order satellite images, aerial photographs, and cartographic
+ products through the U.S. Geological Survey. Log in as a guest or as a
+ registered user. Registered users have access to more features than guests do.
+ If you plan on using EarthExplorer frequently, you may wish to register.
+ Please note that this site uses Session Cookies and Java applets. 
+                            
+
+                        
+			
+                        
+                    
+		    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 72.0
+                                
+                            	 	
+                                
+                                    S: 24.0
+                                
+                            	 	
+                                
+                                    E: -60.0
+                                
+                            	 	
+                                
+                                    W: -180.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            U.S. Geological Survey
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Title: 
+                            1:2,000,000-Scale Hydrologic Unit 
+Maps
+                        
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Release Date: 
+                            1987
+                         
+
+                    
+                    
+                    
+                        
+                            Dataset Release Place: 
+                            Sioux Falls, South Dakota, 
+USA
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            U.S. Geological Survey
+                        
+
+                    
+                    
+                    
+                    
+                    
+
+
+                    
+                    
+                    
+                        
+                            Data Presentation Form: 
+                            Map
+                        
+
+                    
+
+                    
+
+                    
+                    
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1987-01-01
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        1987-12-31
+                    
+
+                
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > NORTH AMERICA
+                            
+                            
+                                > CANADA
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > NORTH AMERICA
+                            
+                            
+                                > UNITED STATES OF AMERICA
+                            
+                            
+                            
+                            
+                                > CONTERMINOUS U.S.
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > NORTH AMERICA
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > NORTH AMERICA
+                            
+                            
+                                > UNITED STATES OF AMERICA
+                            
+                            
+                                > ALASKA
+                            
+                            
+                            
+                                > ALASKA
+                            
+                        
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                TERRESTRIAL HYDROSPHERE
+                            
+                            
+                                >
+                                SURFACE WATER
+                            
+                            
+                                >
+                                DRAINAGE
+                            
+                            
+                            
+                            
+                                >
+                                DRAINAGE BASINS
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+		
+            
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            GEOSCIENTIFIC INFORMATION
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            INLAND WATERS
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    MAPS
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+		    
+                
+
+
+    
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            DIGITIZER
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+	    
+        
+
+
+    
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Quality
+        
+            Hydrologic unit boundaries were digitized from photo-reduced maps; digitized 
+ line work was then compared to both the original source materials and U.S. 
+ Geological Survey 1:2,000,000-scale digital line graph drainage maps to verify 
+ the accuracy of the digitized lines. Attribute codes, which were assigned to 
+ each hydrologic unit, were also verified. 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Access Constraints
+        
+            None 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Use Constraints
+        
+            There is no guarantee of warranty concerning the accuracy of these data. Users should be aware that temporal changes may have occurred since the data was collected and that some parts of these data may no longer represent actual surface conditions. Users should not use these data for critical applications without a full awareness of their limitations. Acknowledgement of the originating agencies would be appreciated in products derived from these data. Any user who modifies the data set is obligated to describe the types of modifications they perform. User specifically agrees not to misrepresent the data set, nor to imply that changes made were approved or endorsed by the U.S. Geological Survey. Please refer to http://www.usgs.gov/privacy.html for the USGS disclaimer. 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CARTOGRAPHY
+                    
+
+		    
+                
+                    
+                    
+                        
+                            DIGITAL MAPPING
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            DRAINAGE BASIN
+                    
+
+		    
+                
+                    
+                    
+                        
+                            USGS/EROS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GIS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            HUC
+                    
+
+		    
+                
+                    
+                    
+                        
+                            HYDROLOGIC UNIT CODES
+                    
+
+		    
+                
+                    
+                    
+                        
+                            HYDROLOGY
+                    
+
+		    
+                
+                    
+                    
+                        
+                            RASTER
+                    
+
+		    
+                
+                    
+                    
+                        
+                            USGS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            VECTOR
+                    
+
+		    
+                
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            COMPLETE
+        
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        USGS/EROS
+                    
+                
+
+                
+            
+	    
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Earth Resources Observation and Science Center, U.S. Geological Survey, U.S. Department of the Interior
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://eros.usgs.gov/
+
+                        
+                    
+                    
+                    
+                        
+                            Dataset ID: 
+                            2MILHUC 
+
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    
+                                                    
+                                                    EROS CENTER
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            605-594-6151, 800-252-4547
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            605-594-6589
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            lta at usgs.gov
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        LTA Customer Services
+
+                                                                    
+                                                                        U.S. Geological Survey
+
+                                                                    
+                                                                        EROS Center
+
+                                                                    
+                                                                        47914 252nd Street
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Sioux Falls
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                SD
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                57198-0001
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    Tape
+                
+
+            
+            
+            
+                
+                    Distribution Size: 
+                    12-18 kilobytes uncompressed
+                
+
+            
+            
+            
+                
+                    Distribution Format: 
+                    8 mm
+                
+
+            
+            
+            
+                
+                    Fees: 
+                    $70
+                
+
+            
+
+            
+                
+                
+                
+		
+            
+        
+
+    
+
+
+ 
+          
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        GREG
+                        
+                        ALLORD
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                608-238-9333 ext. 200
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                gjallord at usgs.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                U.S. Geological Survey
+
+                                            
+                                                Water Resources Division
+
+                                            
+                                                Cartography and Publishing Program
+
+                                            
+                                                505 Science Drive
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Madison
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    WI
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    53711-1061
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                 
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        
+                        
+                        INFORMATION SYSTEMS MANAGEMENT
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                605-594-6594
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                605-594-6589
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                custserv at usgs.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Information Systems Management
+
+                                            
+                                                U.S. Geological Survey
+
+                                            
+                                                EROS Data Center
+
+                                            
+                                                47914 252nd Street
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Sioux Falls
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    SD
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    57198-0001
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+            
+             
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            Seaber, P.R., Kapinos, F.P., and Knapp, G.L., 1987, Hydrologic 
+ unit maps: U.S. Geological Survey Water-Supply Paper 2249, 63 p. 
+
+        
+    
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Extended Metadata Properties
+
+        
+            
+            (Click to view more)
+        
+
+        
+            
+
+            
+
+            
+                Extended Metadata Properties From GCMD
+
+                metadata.extraction_date: 2015-02-21 03:37:02
+metadata.keyword_version: 8.0
+metadata.uuid: 0ff84b36-dcc9-4a34-8ce3-09a03cb097ec
+
+            
+        
+
+    
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+        
+            
+                Last DIF Revision Date:
+                2015-02-10
+            
+
+        
+        
+    
+
+ 
+ 
+
+             
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                Reformat as ISO 19115 document
+            
+        
+    
+
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                              
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+        
+
+
+
+
+
+    
+
+
+
+
+                    
+                    
+                
+
+            
+
+            
+
+        
+
+    
+
+    
+    
+
+    
+
+
+
+
+
+
+
+
+    
+        	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+   
+
+
+
+
+    
+        	
+            
+        
+            + 
+                NASA Privacy Policy and Important Notices 
+
+
+    
+
+    
+    
+        
+            
+                
+        
+
+        	
+                Webmaster:
+                Monica Lyles
+            
+	
+                Responsible NASA Official:
+                Dr. Stephen Wharton
+            
+	Last updated: February 2015
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+

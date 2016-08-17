@@ -1,0 +1,1719 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords>BIOLOGICAL CLASSIFICATION>PROTISTS>FLAGELLATES
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                Sir Alister Hardy Foundation for Ocean Science (SAHFOS) Continuous Plankton Recorder (CPR) Survey Database
+            
+        
+
+        
+        
+            Entry ID:
+            
+                GLOBEC_009_SAHFOS_001
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+        
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+	
+        
+            This data set description is a member of a collection.
+
+            
+                Click to see members of this collection.
+            
+        
+	
+    
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            The aims of the Continuous Plankton Recorder (CPR) Survey are to monitor the near-surface plankton of the North Atlantic and North Sea on a monthly basis, using Continuous Plankton Recorders on a network of routes to cover the area. 
+ 
+ Tables of month/year sampling, or a list of latitude, longitude and date of selected samples in the database can be obtained by using the 'Data Extract' link. There  ... is second trial page returning data from irregular polygons. 
+ 
+ Spatial and temporal data are stored for every sample analyzed by the CPR survey, since 1946. This amounts to almost 170000 samples, with around 200 more samples added per month. The presence of every planktonic entity identified on each sample is stored in the database and there are almost 2 million plankton records in total. The database also contains supportive information such as tow locations, times and dates, ship details, a taxon catalogue and analyst details. 
+ 
+ Over 400 entities have been identified on CPR samples, and the 'abundance' of each entity on each sample can be extracted from the database. Some are identified to species level, some to genus level, and some at a higher taxanomic level. Some entities are groups of other entities. A complete list is kept in the database and can be found in the Plankton List page. 
+ 
+ Data can be extracted from user defined areas, over specified periods, for selected entities. For example, all samples taken from the Dogger Bank area in the North Sea during March April and May since 1946 could be extracted from the database, and the 'abundance' of selected diatom species on each sample could be listed. Alternatively, an average value, number of samples, and standard deviation per year per month, could be retrieved. The data can be exported to statistical and presentation packages in many popular formats such as text, rich text, comma separated, MS Excel, MS Access, MS Word, Fox Pro, Dbase, Lotus and to SQL compliant databases. SAHFOS can supply some descriptive data at little cost (usually free). 
+ 
+ Information taken from SAHFOS website: http://www.sahfos.ac.uk/sahfos-home.aspx 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                SAHFOS is unique in having comparable data on the geographical distribution, seasonal cycles and year-to-year changes in abundance of plankton over a large spatial area. There is no other survey in the world with 76 years of marine plankton data.
+ 
+ CPR Data are available in paper form back to 1931 and from January 1946 onwards in a computerized relational database. The database contains results from 212,014 samples with 2,542,580 taxonomic abundance entries.
+ 
+ Analyzed sample information is entered on to an analysis sheet which is typed into the computer once the whole route is completed. These data are then scrutinized by rigorous quality control methods, before the survey database is incremented. The database then calculates the accepted mean value for the categories and applies abundance values. In 2008 a new database for the unique CPR data set will be in regular use. The advantage of this new database is that it streamlines the data input, checking and data extraction process. 
+                            
+
+                        
+			
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                The GOSIC Portal provides convenient, central, one-stop access to data and information identified by the Global Climate Observing System (GCOS), the Global Ocean Observing System (GOOS) and the Global Terrestrial Observing System (GTOS) and their partner programs, such as the Global Atmosphere Watch (GAW) and regional observing systems, such as the GOOS Regional Alliances (GRA). More about the GOSIC: http://gosic.org/gosic/GOSIC-program.htm 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Sir Alister Hardy Foundation for Ocean Science Website 
+                            
+
+                        
+			
+                        
+                    
+		    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 70.0
+                                
+                            	 	
+                                
+                                    S: 30.0
+                                
+                            	 	
+                                
+                                    E: 20.0
+                                
+                            	 	
+                                
+                                    W: -80.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1946-01-01
+                    
+
+                
+                
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > ATLANTIC OCEAN
+                            
+                            
+                                > NORTH ATLANTIC OCEAN
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > ATLANTIC OCEAN
+                            
+                            
+                                > NORTH ATLANTIC OCEAN
+                            
+                            
+                                > NORTH SEA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                ANIMALS/VERTEBRATES
+                            
+                            
+                                >
+                                FISH
+                            
+                            
+                            
+                            
+                                >
+                                ICHTHYOPLANKTON
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                ANIMALS/INVERTEBRATES
+                            
+                            
+                                >
+                                ARTHROPODS
+                            
+                            
+                                >
+                                CRUSTACEANS
+                            
+                            
+                            
+                                >
+                                LARVAE
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+                        
+                	
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                PROTISTS
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                PROTISTS
+                            
+                            
+                                >
+                                AMOEBOIDS
+                            
+                            
+                                >
+                                RADIOLARIANS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                PROTISTS
+                            
+                            
+                                >
+                                AMOEBOIDS
+                            
+                            
+                                >
+                                FORAMINIFERS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                PROTISTS
+                            
+                            
+                                >
+                                FLAGELLATES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                PROTISTS
+                            
+                            
+                                >
+                                FLAGELLATES
+                            
+                            
+                                >
+                                HAPTOPHYTES
+                            
+                            
+                                >
+                                COCCOLITHOPHORES
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                PROTISTS
+                            
+                            
+                                >
+                                CILIATES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                PROTISTS
+                            
+                            
+                                >
+                                DIATOMS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                PLANTS
+                            
+                            
+                                >
+                                MICROALGAE
+                            
+                            
+                                >
+                                HAPTOPHYTES
+                            
+                            
+                                >
+                                COCCOLITHOPHORES
+                            
+                            
+                        
+                    
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                PLANTS
+                            
+                            
+                                >
+                                MICROALGAE
+                            
+                            
+                                >
+                                DIATOMS
+                            
+                            
+                            
+                        
+                    
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOSPHERE
+                            
+                            
+                                >
+                                AQUATIC ECOSYSTEMS
+                            
+                            
+                                >
+                                PLANKTON
+                            
+                            
+                                >
+                                ZOOPLANKTON
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOSPHERE
+                            
+                            
+                                >
+                                AQUATIC ECOSYSTEMS
+                            
+                            
+                                >
+                                PLANKTON
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOSPHERE
+                            
+                            
+                                >
+                                AQUATIC ECOSYSTEMS
+                            
+                            
+                                >
+                                PELAGIC HABITAT
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            BIOTA
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEANS
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    SHIPS
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+		    
+                
+
+
+    
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            CPR
+                            
+                                >
+                                Continuous Plankton Recorder
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+	    
+        
+
+
+    
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            GLOBEC
+                            
+                                >
+                                Global Ocean Ecosystem Dynamics, IGBP
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            IGBP
+                            
+                                >
+                                International Geosphere-Biosphere Programme
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SAHFOS
+                            
+                                >
+                                Sir Alister Hardy Foundation for Ocean Science
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CONTINUOUS PLANKTON RECORDER
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GLOBEC
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            NORTH ATLANTIC
+                    
+
+		    
+                
+                    
+                    
+                        
+                            NORTH SEA
+                    
+
+		    
+                
+                    
+                    
+                        
+                            PLANKTON
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SAHFOS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SHIPS OF OPPORTUNITY
+                    
+
+		    
+                
+                    
+                    
+                        
+                            TIME SERIES
+                    
+
+		    
+                
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        Sir Alister Hardy Foundation for Ocean Science (SAHFOS)
+                    
+                
+
+                
+            
+	    
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Sir Alister Hardy Foundation for Ocean Science
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://www.sahfos.org
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    DARREN
+                                                    
+                                                    STEVENS
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+

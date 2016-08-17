@@ -1,0 +1,609 @@
+
+
+
+
+
+
+
+
+	
+    
+	
+    	
+
+
+      
+    	
+	 
+       	
+	 
+	 
+	 + Contact NASA
+       
+	
+       
+	
+      	
+	 HOME
+	
+	
+	 PROGRAMS
+         	
+	   MISSION PURPOSE
+	   
+	
+	   MISSION OVERVIEW
+	   
+	
+	   PROGRAMS OVERVIEW
+	   
+	
+	   GUEST OBSERVATIONS
+	   	
+	       SCOPE
+	     
+	
+	       EXECUTED PROGRAMS
+	       	
+	          CYCLE 1
+	        
+	
+	          CYCLE 2
+	        
+	
+	          CYCLE 3
+	        
+	
+	          CYCLE 4
+	        
+
+
+	     
+	
+	       DIRECTOR'S DISCRETIONARY TARGETS
+	     
+
+
+         
+	
+            ASTROPHYSICS DATA ANALYSIS
+         
+	
+           PARTICIPATING SCIENTIST PROGRAM
+           	
+              PROGRAM SUMMARY AND PROPOSALS
+            
+	
+              CYCLE 1
+            
+	
+	      CYCLE 2
+            
+	
+              CYCLE 3
+            
+
+
+         
+	
+           WORKING GROUPS
+         
+	
+           KASC
+         
+
+
+	      
+    
+	
+      PROPOSAL PREPARATION
+   
+	
+      INSTRUMENTATION
+    
+	
+      DOCUMENTATION
+    
+	
+      FAQ
+    
+	
+    OUTREACH
+    
+	
+    K2
+    
+
+
+
+   
+	
+    
+	
+  
+	
+  
+	
+    	
+      ARCHIVE
+      	
+    STELLAR CATALOGS
+    	
+      TARGET SEARCH/KEPLER INPUT CATALOG
+      
+	
+      KEPLER STAR PROPERTIES WORKING GROUP CATALOG
+      
+	
+      GALEX SURVEY
+      
+	
+      UKIRT SURVEY
+      
+	
+      HOWELL-EVERETT UBV PHOTOMETRIC SURVEY
+      
+	
+      KEPLER INT SURVEY
+      
+
+
+  
+	
+	LIGHT CURVES, PIXELS AND IMAGES
+
+		
+	  SCHEDULE
+	  
+	
+	  DOWNLOAD INSTRUCTIONS
+	  
+	
+	  DATA DOWNLOAD
+	  	
+	    LIGHT CURVES & PIXEL DATA
+	    
+	
+	    FULL-FRAME IMAGES
+	    
+	
+	    COTRENDING BASIS VECTORS
+	    
+	
+	    PIXEL RESPONSE FUNCTIONS
+	    
+
+
+	
+
+
+    
+	
+    EXOPLANET CANDIDATES
+    	
+      DOCUMENTATION AND PHILOSOPHY
+      
+	
+      THRESHOLD CROSSING EVENTS TABLE
+      
+	
+      KEPLER OBJECTS OF INTEREST TABLE
+      
+	
+      CONFIRMED PLANET TABLE
+      
+	
+      KOI FOLLOW-UP DATA
+      
+
+
+  
+	
+	CONFIRMED PLANETS
+    
+
+
+
+	 PIPELINE
+   	
+      PIPELINE OVERVIEW
+    
+	
+      PIXEL CALIBRATION (CAL)
+    
+	
+      PHOTOMETRIC ANALYSIS (PA)
+    
+	
+      PRE-SEARCH DATA CONDITIONING (PDC)
+    
+
+
+   
+	CALIBRATION
+    	
+       RESPONSE FUNCTION
+     
+	
+       SIGNAL-TO-NOISE PROPERTIES
+     
+	
+       FLUX & ZERO POINT
+     
+	
+       FIELD OF VIEW
+     
+	
+       PIXEL RESPONSE FUNCTION
+     
+	
+       BACKGROUNDS
+     
+	
+       ARTIFACTS
+     
+	
+       ASTROMETRY
+      
+
+
+  
+	DATA ANALYSIS
+    	
+       OVERVIEW
+     
+	
+       ANALYSIS SOFTWARE
+     
+	
+       DATA PRODUCTS
+     
+	
+       FULL-FRAME IMAGES
+     
+	
+       TARGET PIXEL FILES
+     
+	
+       LIGHT CURVES
+     
+	
+       PyKE
+     	
+       DOWNLOAD
+       
+	
+       PYKE TASKS
+       
+	
+       PRIMER
+       
+	
+       EXAMPLES
+       
+
+
+     
+
+
+  
+	TOOLS
+  
+  	
+    ANALYSIS SOFTWARE
+    
+	
+    FFI DISPLAY
+    
+	
+    GOOGLE SKY
+    
+	
+    KIC FOV OVERLAY
+    
+	
+    PLANET CANDIDATE EXPLORER
+    
+
+
+ 
+	
+ SCIENCE
+ 
+ 	
+   ASTROPHYSICS
+   
+	
+   EXOPLANETS
+   
+	
+   1st KEPLER SCIENCE CONFERENCE
+   
+	
+   2nd KEPLER SCIENCE CONFERENCE
+   
+	
+   SHOWCASE
+   
+
+
+
+	 NEWS
+   	
+     NEWS
+    
+	
+     KEPLER BLOG
+    
+	
+     NEWS EXPLODER
+    
+	
+     MISSION STATUS
+    
+
+
+  
+	 HELPDESK
+   	
+    EMAIL
+   
+	
+    KEPLER USERS' PANEL
+   
+	
+    KEPLER EXOPLANET COUNCIL
+   
+	
+    GO OFFICE PERSONNEL
+   
+
+
+  
+	RELATED SITES
+   	
+    EDUCATION & PUBLIC OUTREACH
+   
+	
+    KEPLER @ NASA
+   
+	
+    MAST
+   
+	
+    KASC
+   
+	
+    PLANET HUNTERS
+   
+	
+    PLANETQUEST
+   
+	
+    NASA EXOPLANET ARCHIVE
+   
+	
+    EXOPLANET NEWS
+   
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+    	
+      
+      	
+
+	  
+	
+	  
+
+
+	    
+
+
+
+      
+ 	
+      Kepler Community Programs
+      
+    
+	
+    
+	
+    
+
+ 
+
+ 
+ 	
+     
+     Any interested individual or group from the scientific community can download Kepler data products and exploit them for science. Public data archives are open, containing calibrated pixels and light curves for each target, tables of exoplanet candidates, eclipsing binaries and false positive events vetted from the data and a repository of open source software for inspecting, reducing and analyzing data continues to grow.
+
+     	
+   
+   
+     QUICK LINKS
+   
+
+    
+    
+  
+     » MAST - Kepler images, pixels and light curves
+
+      » Exoplanet Archive - confirmed planets, planet candidates, and false positives
+
+    » CFOP - ground- and space-based follow-up data for planet candidates
+
+     » Open source software for inspecting, reducing and analyzing spacecraft data
+   
+
+    
+
+    
+
+
+    
+  
+COMMUNITY PROGRAMS:
+
+Programs exist that provide collaborative and financial opportunities and which further facilitate the scientific community's participation in the mission and exploitation of the Kepler data: 
+     
+
+       
+     (1) The Guest Observer (GO) Program:
+
+     Members of the community can propose their own target observations with Kepler through annual opportunity. This opportunity is open to all scientists but can also provide research grants to successful US investigators. Grants are funded through NASA's 
+     Research Opportunities in Space and Earth Sciences (ROSES) omnibus solicitation. This opportunity is competitive - research proposals and their associated target lists are graded by peer review, managed by NASA Headquarters. 
+     
+
+
+     (2)  The Director's Discretionary Target (DDT) Program:
+
+     During the 12 months between Guest Observer solicitations, a small number of target observations may be proposed on a quarterly basis. DDTs are an unfunded opportunity, managed by the Kepler Guest Observer Office. In the event of an oversubscribed DDT program, a TAC comprised of the Kepler Users' Panel (KUP) will review and allocate targets during quarterly reviews of the program.
+     
+
+
+     (3)  The Astrophysical Data Analysis Program (ADAP):
+
+     Whereas the Kepler GO program's purpose is to facilitate scientific investigations that require new or additional observations of field targets, scientific programs that can be completed using exclusively Kepler's archived data can be grant-funded through NASA's annual Astrophysics Data Analysis Program (ADAP). The program is competitive and graded by peer review, managed by NASA Headquarters. Kepler Full Frame Images, target pixels and target light curves are available for download, through the Kepler archive at MAST. Dispositioned and pre-dispositioned planet candidates are stored at the Exoplanet Archive.
+
+
+
+    (4)  The Participating Scientist Program (PSP):
+
+On a two year cycle, NASA selects individual scientists to pursue the primary goals of the Kepler mission. The program is competitive and participants are selected by peer review, managed by NASA Headquarters. The next call will occur for Mar 2013, funding to start in Oct 2013. 
+
+
+
+(5) NASA Keck Science Calls for Kepler Followup:
+
+     
+ Observing time on the W M Keck telescopes has been critical to validation and characterization of Kepler exoplanets. NASA intends the use of the Keck telescopes to be highly strategic in support of on-going missions and/or high priority, long term science goals. Single-semester proposals for all Kepler-related science will be accepted as part of the standard NASA Keck call which is open to a wide range of disciplines spanning from exoplanets and solar system topics to galactic and extragalactic topics. The opportunity to propose as Principal Investigators for the NASA time on the Keck Telescopes is open to all US-based astronomers (e.g., having their principal affiliation at a US institution). In addition, for the observing periods 2013B-2015A, NASA will allocate approximately an additional 10 nights per semester for Kepler follow-up activities via competitive selection of Key Projects. There will be only one opportunity to propose for the majority of Keck Key Project follow-up time for Kepler exoplanet science during these two years.  More information on the Key Project proposal process will be available in Feb 2013. 
+    
+
+
+(6) The Sagan Exoplanet Postdoctoral Fellowship Program:
+
+The Sagan Fellowships support outstanding recent postdoctoral scientists to conduct independent research that is broadly related to the science goals of the NASA Exoplanet Exploration program. The primary goal of missions within this program is to discover and characterize planetary systems and Earth-like planets around nearby stars.  This program is open to applicants of any nationality; however, the fellowships are only tenable at US institutions. Applications are due to the NASA Exoplanet Science Institute in early November for fellowships beginning in the fall of the following year.  See the Sagan Fellowship webpage for application guidelines and more information.
+     
+
+
+     (7) The Kepler Working Groups:
+
+The Kepler Project fosters working groups of community scientists in order to advance and advise upon aspects of primary mission science. Working groups also collaborate on science projects that are complementary to the primary science goals. Working groups are open for all scientists to contribute. Scientists are not precluded from working on the same topics as these working groups independently.
+
+	• Exoplanet candidate vetting
+    	• The observational follow-up of planetary candidates
+  
+	• Exoplanet false positives
+    	• Planet survey completeness
+  
+	• Stellar properties
+    	• Asteroseismology
+  
+	• Transit Timing Variations (TTVs)   
+ 
+
+
+
+
+
+
+(8) The Kepler Asteroseismic Science Consortium (KASC):
+
+The KASC comprises thirteen working groups of community scientists focused upon the investigation of Kepler data for asteroseismology and stellar pulsations. Any member of the community may join and contribute to the working groups. The KASC have a fixed quota of fixed targets, guaranteed for the extended mission.The working groups are:
+
+	• WG1: Solar-like p-mode Oscillations    
+    	• WG2: Oscillations in Clusters    
+    	• WG3: β Cephei Stars
+  
+	• WG4: Delta Scuti stars
+    	• WG5: roAp stars
+    	• WG6: Slowly Pulsating B-stars
+  
+	• WG7: Cepheids
+    	• WG8: Red Giants
+    	• WG9: Pulsations in binary and multiple stars 
+  
+	• WG10: γ Doradus stars
+    	• WG11: Compact pulsators
+    	• WG12: Miras and Semi-regulars
+
+	• WG13: RR Lyrae stars
+  
+
+
+
+
+
+
+
+
+
+
+     
+      
+
+      Questions concerning Kepler's science opportunities and open programs, public archive or community tools? Contact us via the     
+Kepler Science Center (with anti-spam)
+
+
+email address.
+
+      
+      
+      	
+	    
+	  	
+	    
++ Freedom of Information Act
+	    
++ Budgets, Strategic Plans and Accountability Reports
+	    
++ The President's Management Agenda			
+	    
++ NASA Privacy Statement, Disclaimer,
+	    
+and Accessibility Certification
+	    
++ Inspector General Hotline
+	    
++ Equal Employment Opportunity Data Posted Pursuant
+	    
+to the No Fear Act
+	    
++ Information-Dissemination Priorities and Inventories
+	    
+
+	  	
+	    
+	  	
+	    
+
+	    Editor: Martin Still
+
+	    NASA Official: Jessie Dotson
+
+	    Last Updated: Jan 11, 2013 
+
+	    + Contact NASA
+	  
+	
+	  
+
+
+
+    
+
+
+

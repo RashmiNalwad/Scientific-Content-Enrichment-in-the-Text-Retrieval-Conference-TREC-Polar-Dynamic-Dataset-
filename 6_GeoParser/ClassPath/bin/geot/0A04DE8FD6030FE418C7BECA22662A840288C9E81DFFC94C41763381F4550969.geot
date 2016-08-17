@@ -1,0 +1,2637 @@
+
+
+
+
+	 
+        
+
+	
+            
+                	
+            
+                
+	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                
+
+
+
+
+
+        
+        	 
+                
+        
+                
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Agriculture
+	
+
+	
+		
+	
+		Atmosphere
+	
+
+	
+		
+	
+		Biological Classification
+	
+
+	
+		
+	
+		Biosphere
+	
+
+	
+		
+	
+		Climate Indicators
+	
+
+	
+		
+	
+		Cryosphere
+	
+
+	
+		
+	
+		Human Dimensions
+	
+
+	
+		
+	
+		Land Surface
+	
+
+	
+		
+	
+		Oceans
+	
+
+	
+		
+	
+		Paleoclimate
+	
+
+	
+		
+	
+		Solid Earth
+	
+
+	
+		
+	
+		Spectral/Engineering
+	
+
+	
+		
+	
+		Sun-Earth Interactions
+	
+
+	
+		
+	
+		Terrestrial Hydrosphere
+	
+
+	
+	
+
+	
+		
+Data Centers
+
+	
+		 
+Locations
+
+	
+		
+Instruments
+
+	
+		
+Platforms/Sources
+
+	
+		
+Projects
+
+
+
+
+
+
+
+                
+                
+                	
+                    	
+	
+	
+
+
+                    
+                    	
+                            	
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+Record Search Query:
+Science Keywords>CRYOSPHERE>SEA ICE>SNOW DEPTH
+
+
+	
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        
+            
+                RAPPLS Surveys (Radar, Aerial Photography, Pyrometer, and Laser Scanning system) made during the SIPEX II voyage of the Aurora Australis, 2012
+            
+        
+
+        
+        
+            Entry ID:
+            
+                SIPEX_II_RAPPLS
+            
+            
+
+            
+
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+        
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                
+                    
+                    
+                        Update this Record
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+        
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            This dataset contains the data collected during the RAPPLS (Radar, Aerial Photography, Pyrometer, and Laser Scanning system) flights that were undertaken as a part of the SIPEX II (Sea Ice Physics and Ecosystems Experiment II) Antarctic marine science voyage in September-November 2012. 
+ 
+ The RAPPLS project involved designing and using a system using a helicopter with mounted sensors to record data  ... while flying over sea ice. 
+ 
+ The RAPPLS helicopter is an Aerospaciale AS 350 BA "Squirrel" helicopter with a range of scientific equipment mounted to it. These are generally imaging instruments that are used to derive snow and ice properties, such as roughness, surface elevation and skin temperature. The following is a list of instruments used and parameters measured: 
+ - 2-8 GHz frequency modulated continuous wave radar, measuring impedance differences between snow and sea ice; 
+ - Hasselblad H3D II 50 camera, taking aerial photographs at about 13 cm resolution every 3-5 seconds 
+ - Heitronics KT 19 pyranometer, measuring skin surface temperature 
+ - Riegl LMS Q240i-60 scanning LiDAR, measuring surface elevation of sea ice above sea level 
+ 
+ All data are geo-located with a combined inertial navigation and global positioning system, OxTS RT-4003. 
+ 
+ See Australian Antarctic Division Science Technical Support Project 07006 for detailed Engineering documents. 
+ 
+ Detailed flight information for each flight is available from WORD documents for each survey. 
+ 
+ Contained in this dataset are the following files: 
+ - A MS Word log file for all flights; 
+ - A QGIS map file showing all flights; 
+ - A folder for each flight containing the following (named - Date - Fxx - Mission: 
+ - A Microsoft Word document explaining the flight intentions, issues, and outcomes (flight log); 
+ - A folder of the photos taken by the Hasselblad camera; 
+ - A folder of raw and processed INS data: 
+ - RD files, which are raw INS and can be opened RT_PostProcess software; 
+ - PNG Files showing flight track, created with RT_View software based on NCOM files resulting from RT_PostProcess; 
+ - A folder with log files for Errors, Events, LaserScanner, Pyrometer, and INS. This folder also includes Q24 file of raw laser scanner data (purpose written software to analyse the data is available with the 2008 data set); 
+ - A folder with time synchronisation log file. 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+    
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Request point for the data 
+                            
+
+                        
+                        
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Public information for ASAC project 4073 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Citation reference for this metadata record and dataset 
+                            
+
+                        
+                        
+                        
+                    
+                    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: -63.5
+                                
+                            	 	
+                                
+                                    S: -66.5
+                                
+                            	 	
+                                
+                                    E: 123.0
+                                
+                            	 	
+                                
+                                    W: 113.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Parent DIF 
+
+        
+        
+            This data set description is a member of a collection. The
+            collection is described in
+
+            
+                
+                    
+                        SIPEX_II
+
+                    
+                
+                
+
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        2012-09-25
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        2012-11-06
+                    
+
+                
+                
+                
+            
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ANTARCTICA
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > SOUTHERN OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > POLAR
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                CRYOSPHERE
+                            
+                            
+                                >
+                                SEA ICE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                CRYOSPHERE
+                            
+                            
+                                >
+                                SEA ICE
+                            
+                            
+                                >
+                                ICE DEPTH/THICKNESS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                                CRYOSPHERE
+                            
+                            
+                                >
+                                SEA ICE
+                            
+                            
+                                >
+                                SNOW DEPTH
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                SEA ICE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                SEA ICE
+                            
+                            
+                                >
+                                ICE DEPTH/THICKNESS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                SEA ICE
+                            
+                            
+                                >
+                                SNOW DEPTH
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            GEOSCIENTIFIC INFORMATION
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEANS
+                        
+                    
+
+                    
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    R/V AA
+                                    
+                                        >
+                                        R/V Aurora Australis
+                                    
+                                
+                            
+                        
+                        
+
+                        
+                    
+                        
+                            
+                                
+                                    HELICOPTER
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+                        
+                    
+                    
+                
+
+
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            RADAR
+                            
+                                >
+                                Radio Detection and Ranging
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+                
+            
+                
+                    
+                        
+                            Pyrometers
+                            
+                        
+                    
+                    
+                    
+                    
+
+                
+            
+                
+                    
+                        
+                            AIRBORNE LASER SCANNER
+                            
+                        
+                    
+                    
+                    
+                    
+
+                
+            
+            
+        
+
+
+    
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Quality
+        
+            The FMCW RADAR proved to be recalcitrant and did not work during the experiment; no scientific data were collected. 
+ 
+ Issues specific to particular flights are contained in the flight logs. 
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Access Constraints
+        
+            These data are not yet publicly available. 
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+    
+    Use Constraints
+    
+        This data set conforms to the PICCCBY Attribution License 
+ (http://creativecommons.org/licenses/by/3.0/). 
+ 
+ Please follow instructions listed in the citation reference provided at http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=SIPEX_II... when using these data. 
+    
+    
+    
+        
+        
+
+            
+                
+            
+                
+                    
+                
+
+               
+                This 
+                "RAPPLS Surveys (Radar, Aerial Photography, Pyrometer, and Laser Scanning system) made during the SIPEX II voyage of the Aurora Australis, 2012" is licensed under a Creative Commons Attribution 3.0 Unported License.
+            
+        
+         
+        
+    
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            SIPEX
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            IN WORK
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        Australian Antarctic Division
+                    
+                
+
+                
+                
+            
+            
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Australian Antarctic Data Centre, Australia
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://data.aad.gov.au
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    DATA OFFICER
+                                                    
+                                                    AADC
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            +61 3 6232 3244
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            +61 3 6232 3351
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            metadata at aad.gov.au
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        Australian Antarctic Division
+
+                                                                    
+                                                                        203 Channel Highway
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Kingston
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                Tasmania
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                7050
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                Australia
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    HTTP
+                
+
+            
+            
+            
+                
+                    Distribution Size: 
+                    1.86 TB
+                
+
+            
+            
+            
+            
+            
+                
+                    Fees: 
+                    Free
+                
+
+            
+            
+            
+                
+                
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        JAN
+                        
+                        LIESER
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6226 7899
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                jan.lieser at acecrc.org.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                ACE CRC
+
+                                            
+                                                Private Bag 80
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Hobart
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7001
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        KYM
+                        
+                        NEWBERY
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6232 3329
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                Kym.Newbery at aad.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Australian Antarctic Division
+
+                                            
+                                                203 Channel Highway
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Kingston
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7050
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        PETER
+                        W
+                        JANSEN
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 62 323 533
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +61 3 62 323 351
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                peter.jansen at aad.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                203 Channel Highway
+
+                                            
+                                                Australian Antarctic Division
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Kingston
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7050
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        ADAM
+                        
+                        STEER
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6226 7157
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                adam.steer at aad.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                ACE CRC
+
+                                            
+                                                Private Bag 80
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Hobart
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7001
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        STEVEN
+                        
+                        WHITESIDE
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6232 3470
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                steven.whiteside at aad.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Australian Antarctic Division
+
+                                            
+                                                203 Channel Highway
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Kingston
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7050
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        KLAUS
+                        
+                        MEINERS
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                + 61 3 6226 7201
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                klaus.meiners at acecrc.org.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Sea-ice Ecologist
+
+                                            
+                                                Antarctic Climate and Ecosystems Cooperative Research Centre (ACE CRC)
+
+                                            
+                                                Private Bag 80
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Hobart
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7001
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        ROB
+                        
+                        MASSOM
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6226 7647
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +61 3 6226 7650
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                rob.massom at aad.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Australian Antarctic Division
+
+                                            
+                                                203 Channel Highway
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Kingston
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7050
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+            
+            
+            
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+            
+                DIF Creation Date:
+                2013-03-01
+            
+
+        
+        
+            
+                Last DIF Revision Date:
+                2014-09-12
+            
+
+        
+        
+    
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                 Reformat as ISO 19115 document
+            
+        
+    
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+
+        
+
+
+
+
+
+
+                            
+
+                    
+                    
+                
+
+        
+        
+
+
+	
+            
+                
+        	
+            
+                
+                    NASA Privacy Policy and Important Notices
+            
+
+            
+                Responsible NASA Official:  
+                
+                    Dr. Stephen Wharton
+
+                Webmaster:  
+                
+                    Monica Lyles
+                  ·  Contact 
+                
+                    GCMD User Support for assistance
+            
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+
+

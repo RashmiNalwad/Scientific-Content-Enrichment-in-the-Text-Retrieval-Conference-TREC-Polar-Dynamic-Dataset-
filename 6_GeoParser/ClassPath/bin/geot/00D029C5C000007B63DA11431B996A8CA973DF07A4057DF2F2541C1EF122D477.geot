@@ -1,0 +1,2558 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        [Personnel: Last_Name='MAJOR', Middle_Name='R.', First_Name='GENE']
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+            
+        
+    
+
+
+
+
+    
+        
+        
+            
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                Time-Averaged Inventory of Volcanic Sulfur Emissions from the Global Emissions Inventory Activity (GEIA), IGBP/IGAC
+            
+        
+
+        
+        
+            Entry ID:
+            
+                GEIA_SO2_VOLCANO
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+        
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            The Global Emissions Inventory Activity (GEIA) is an activity of the 
+ International Global Atmospheric Chemistry (IGAC) Core Project of the 
+ International Geosphere-Biosphere Program (IGBP). The focus of GEIA 
+ is to make global emissions available on a one degree grid. 
+ 
+ A time-averaged inventory of subaerial volcanic sulfur emissions is 
+ presented primarily for the use of global sulfur and sulfate  ... modelers. 
+ This inventory is based upon the 25 year history of making sulfur, 
+ primarily sulfur dioxide, measurements at volcanoes. These "hard" 
+ data are then extrapolated to other volcanoes. Actual measurements of 
+ subaerial volcanic SO2 emissions indicate a time-averaged flux of 13 
+ Tg/a SO2 based upon an early 1970's to 1997 time frame. When 
+ considering the other sulfur species also present in volcanic 
+ emissions, a time-averaged inventory of subaerial volcanic sulfur 
+ emissions is 10 Tg/a S. 
+ 
+ The GEIA repository for this inventory contains nine files. The file, 
+ volcanos.txt, is a copy of the inventory description. Volcano 
+ altitudes are in volcalt.txt and the references used to construct the 
+ inventory in bibliography.txt. Volcano locations are stored in 
+ LOCavg1.1a and plotted in LOCavg1.ps. SO2 from continuously emitting 
+ volcanoes are stored in COVavg1.1a and plotted in COVavg1.ps. SO2 
+ from sporadically emitting volcanoes are stored in SPVmax1.1a and 
+ plotted in SPVmax1.ps. 
+ 
+ More information about GEIA, its products, and the data 
+ presented here can be accessed at 
+ http://geiacenter.org 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Access to Version 1 volcano emissions data 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Global Emissions Inventory Activity (GEIA) Home Page 
+                            
+
+                        
+			
+                        
+                    
+		    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                
+            
+        
+    
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+	Multimedia Sample
+
+            
+                
+
+                    
+                        
+                            
+View full image 
+
+
+                
+                    Caption:  
+                        Maximum SO2 from Sporadic Erupting Volcanoes
+                    
+
+
+                
+
+                
+                    Description:  
+                        Maximum SO2 from Sporadic Erupting Volcanoes (Global Emissions Inventory 
+            Activity)
+                    
+
+
+
+                
+
+                        
+                    
+                
+            
+        	 	
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                
+            
+        
+    
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 90.0
+                                
+                            	 	
+                                
+                                    S: -90.0
+                                
+                            	 	
+                                
+                                    E: 180.0
+                                
+                            	 	
+                                
+                                    W: -180.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+        
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            Andres, R.J. and A.D. Kasgnoc
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Title: 
+                            Time-Averaged Inventory of Volcanic Sulfur Emissions
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Series Name: 
+                            Time-Averaged Inventory of Volcanic Sulfur Emissions
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Release Date: 
+                            1998
+                         
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            Global Emissions Inventory Activity
+                        
+
+                    
+                    
+                    
+                        
+                            Version: 
+                            Version 1
+                        
+
+                    
+                    
+                    
+
+
+                    
+                    
+                    
+
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        http://geiacenter.org/presentData/volcano.html
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1970-01-01
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        1997-01-01
+                    
+
+                
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > GLOBAL
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Data Resolution
+
+        
+        
+        
+            
+            
+
+            
+                Latitude Resolution:
+                1 degree
+                
+
+            
+
+            
+                Longitude Resolution:
+                1 degree
+                
+
+            
+
+            
+
+            
+
+            
+
+            
+                Temporal Resolution:
+                25-year average
+                
+
+            
+
+            
+
+	    
+
+                
+
+                
+		
+
+            
+        
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                AEROSOLS
+                            
+                            
+                                >
+                                SULFATE PARTICLES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                AIR QUALITY
+                            
+                            
+                                >
+                                EMISSIONS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+                        
+                	
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC CHEMISTRY
+                            
+                            
+                                >
+                                TRACE GASES/TRACE SPECIES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SOLID EARTH
+                            
+                            
+                                >
+                                TECTONICS
+                            
+                            
+                                >
+                                VOLCANIC ACTIVITY
+                            
+                            
+                                >
+                                ERUPTION DYNAMICS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SOLID EARTH
+                            
+                            
+                                >
+                                TECTONICS
+                            
+                            
+                                >
+                                VOLCANIC ACTIVITY
+                            
+                            
+                                >
+                                ERUPTION DYNAMICS
+                            
+                            
+                                >
+                                VOLCANIC GASES
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC CHEMISTRY
+                            
+                            
+                                >
+                                SULFUR COMPOUNDS
+                            
+                            
+                                >
+                                SULFUR DIOXIDE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC CHEMISTRY
+                            
+                            
+                                >
+                                SULFUR COMPOUNDS
+                            
+                            
+                                >
+                                SULFATE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ENVIRONMENT
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOSCIENTIFIC INFORMATION
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    METEOR-3
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    NIMBUS-7
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+		    
+                
+
+
+    
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            COSPEC
+                            
+                                >
+                                Correlation Spectrometer
+                            
+                        
+                    
+                    
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            TOMS
+                            
+                                >
+                                Total Ozone Mapping Spectrometer
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+	    
+        
+
+
+    
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            GEIA
+                            
+                                >
+                                Global Emissions Inventory Activity
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            IGAC
+                            
+                                >
+                                International Global Atmospheric Chemistry Project, IGBP
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            IGBP
+                            
+                                >
+                                International Geosphere-Biosphere Programme
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ESIP
+                            
+                                >
+                                Earth Science Information Partners Program
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Access Constraints
+        
+            None 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Use Constraints
+        
+            None 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            GEIA
+                    
+
+		    
+                
+                    
+                    
+                        
+                            H2S
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            HYDROGEN SULFIDE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            IGAC
+                    
+
+		    
+                
+                    
+                    
+                        
+                            IGBP
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SO2
+                    
+
+		    
+                
+                    
+                    
+                        
+                            VOLCANIC EMISSIONS
+                    
+
+		    
+                
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            IN WORK
+        
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        GEIA
+                    
+                
+
+                
+            
+	    
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Global Emissions Inventory Activity, International Global Atmospheric Chemistry, International Geosphere-Biosphere Program
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://geiacenter.org
+
+                        
+                    
+                    
+                    
+                        
+                            Dataset ID: 
+                            COVavg1.1a 
+
+                        
+                            Dataset ID: 
+                            LOCavg1.1a 
+
+                        
+                            Dataset ID: 
+                            SPVmax1.1a 
+
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    PAULETTE
+                                                    
+                                                    MIDDLETON
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            303-442-6866
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            303-442-6958
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            Paulette at PanoramaPathways.net
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        GEIA Center
+
+                                                                    
+                                                                        Panorama Pathways
+
+                                                                    
+                                                                        2385 Panorama Avenue
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Boulder
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                Colorado
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                80304
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    ftp, WWW
+                
+
+            
+            
+            
+            
+            
+                
+                    Distribution Format: 
+                    ASCII
+                
+
+            
+            
+            
+                
+                    Fees: 
+                    None
+                
+
+            
+
+            
+                
+                
+                
+		
+            
+        
+
+    
+
+
+ 
+          
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        ROBERT
+                        J.
+                        ANDRES
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                andres at space.edu
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Department of Space Studies
+
+                                            
+                                                University of North Dakota
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Grand Forks
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    ND
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    58202-9008
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                 
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        A.
+                        D.
+                        KOSGNOC
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Institute of Northern Engineering
+
+                                            
+                                                University of Alaska
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Fairbanks
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    AK
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    99775-5900
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        GENE
+                        R.
+                        MAJOR
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                gsfc-gcmduso at mail.nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+            
+             
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            Andres RJ, Kasgnoc AD (1998) A time-averaged inventory of subaerial 
+ volcanic sulfur emissions. Journal of Geophysical Research 103: 
+ 25,251-25,261. 
+
+        
+    
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Extended Metadata Properties
+
+        
+            
+            (Click to view more)
+        
+
+        
+            
+
+            
+
+            
+                Extended Metadata Properties From GCMD
+
+                metadata.extraction_date: 2015-02-21 07:24:22
+metadata.keyword_version: 8.0
+
+            
+        
+
+    
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+        
+            
+                Last DIF Revision Date:
+                2012-02-15
+            
+
+        
+        
+    
+
+ 
+ 
+
+             
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                Reformat as ISO 19115 document
+            
+        
+    
+
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                              
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+        
+
+
+
+
+
+    
+
+
+
+
+                    
+                    
+                
+
+            
+
+            
+
+        
+
+    
+
+    
+    
+
+    
+
+
+
+
+
+
+
+
+    
+        	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+   
+
+
+
+
+    
+        	
+            
+        
+            + 
+                NASA Privacy Policy and Important Notices 
+
+
+    
+
+    
+    
+        
+            
+                
+        
+
+        	
+                Webmaster:
+                Monica Lyles
+            
+	
+                Responsible NASA Official:
+                Dr. Stephen Wharton
+            
+	Last updated: February 2015
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+

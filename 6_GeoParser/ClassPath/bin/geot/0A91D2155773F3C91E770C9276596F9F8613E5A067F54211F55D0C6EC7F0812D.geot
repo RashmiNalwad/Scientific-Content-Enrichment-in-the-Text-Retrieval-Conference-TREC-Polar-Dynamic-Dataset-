@@ -1,0 +1,280 @@
+
+            
+            	
+    Instrument: 
+    
+        MHS
+    
+
+    
+    : 
+    
+    Microwave Humidity Sounder
+    
+
+	
+        
+            
+                Instrument Category:
+
+                Earth Remote Sensing Instruments
+
+                Instrument Class:
+                Passive Remote Sensing
+
+                 
+                    Instrument Type:
+                    Profilers/Sounders
+
+                              
+                
+            
+        
+
+        
+            
+    
+
+
+            	
+
+
+    
+
+    Associated Platforms
+
+    
+    
+    
+        
+       
+           NOAA-19
+
+       
+
+
+	
+    
+        
+       
+           NOAA-18
+
+       
+
+
+	
+    
+        
+       
+           METOP-A
+
+       
+
+
+	
+    
+        
+       
+           METOP-B
+
+       
+
+
+	
+    
+    
+    
+
+
+
+
+
+
+
+    
+
+    Spectral/Frequency Information
+
+    
+        
+            
+            
+                
+                
+                    Wavelength Keyword:  
+                    Microwave
+
+                
+                
+                    Number Channels: 
+                    5
+
+                
+                
+                    Spectral/Frequency Coverage/Range:  
+                    89.0 GHz - 190.31 GHz
+
+                
+    
+                
+		
+                
+            
+	    
+        
+    
+
+
+
+
+
+Related Data Sets 
+
+
+    
+        
+            View all records related to this instrument
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    Description
+
+    
+         
+            
+            
+                [Text and Instrument Image Source: NASA POES Project home page, http://goespoes.gsfc.nasa.gov/poes/instruments/mhs.html ] 
+
+
+		
+            
+                 
+
+
+		
+            
+                 The MHS is a new instrument for the NOAA series of satellites. It is a five-channel microwave instrument intended primarily to measure profiles of atmospheric humidity. It is also sensitive to liquid water in clouds and measures cloud liquid water content. Additionally, it provides qualitative estimates of the precipitation rate. 
+
+
+		
+            
+                 
+
+
+		
+            
+                 Because of the high variability of atmospheric water, the MHS has a higher resolution than the AMSU-A, with an approximate 16-km (1 mi) diameter circular field of view at nadir. Ninety such fields of view are measure in each cross-track scan. The instrument has approximately the same swath width as AMSU-A but scans across-track in one-third the time in order to keep the two instruments synchronized. By this means, arrays of 3 x 3 MHS samples will overlay each AMSU-A sample, facilitating synergistic use of these instruments. 
+
+
+		
+            
+                 
+
+
+		
+            
+                 MHS has four humidity channels in the 157 GHz to 190 GHz range. As with AMSU-A, it also has a surface-viewing window channel at 89 GHz, partly to ensure cross-registration of the two sounding instruments. 
+
+
+		
+            
+	    
+        
+    
+
+
+
+
+    
+
+    Online Resources 
+
+
+    
+        
+        
+            
+                
+                    
+                     
+                    http://www.ncdc.noaa.gov/oa/pod-guide/ncdc/docs/klm/html/c3/sec3-9.htm
+
+		    
+                
+                    
+                     
+                    http://wdc.dlr.de/sensors/mhs/
+
+		    
+                
+		
+            
+        
+    
+
+
+
+
+    
+
+    Instrument Logistics
+
+    
+        
+            
+            
+                
+                
+                
+                
+                
+                    Instrument Owner:
+                    
+                        
+                            USA/NASA
+
+                        
+                            USA/NOAA
+
+                        
+                            EUMETSAT
+
+                        
+                    
+                
+
+		
+                
+            
+	    
+        
+    
+
+
+                    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+

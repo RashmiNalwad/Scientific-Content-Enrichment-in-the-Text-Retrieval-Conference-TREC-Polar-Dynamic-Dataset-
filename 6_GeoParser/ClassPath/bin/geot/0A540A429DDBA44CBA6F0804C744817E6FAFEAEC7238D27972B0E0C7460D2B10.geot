@@ -1,0 +1,1646 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Platforms>In Situ Land-based Platforms>OBSERVATORIES
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    
+
+
+
+
+    
+        
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                Coupling, Energetics, and Dynamics of Atmospheric Regions (CEDAR) Database at NCAR/HAO
+            
+        
+
+        
+        
+            Entry ID:
+            
+                CEDAR_NCAR_HAO
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+        
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+	
+        
+            This data set description is a member of a collection.
+
+            
+                Click to see members of this collection.
+            
+        
+	
+    
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            The Coupling, Energetics, and Dynamics of Atmospheric regions (CEDAR) is a 
+ program sponsored by the National Science Foundation (NSF) designed to enhance 
+ the capability of ground-based instruments to measure the upper atmosphere and 
+ to coordinate instrument and model data for the benefit of the scientific 
+ community. The CEDAR Data Base (formally the Incoherent Scatter Radar Data 
+ Base) is a  ... cooperative project between the National Center for Atmospheric 
+ Research (NCAR) and several institutions that provide upper atmosphere data and 
+ model output for community use. The CEDAR Data Base contains: documentation, 
+ catalogue information, geophysical indices, summary plots, analysis software, 
+ and computer models. A catalogue is produced every year and is available on the 
+ WWW at: 
+ http://cedarweb.hao.ucar.edu/wiki/index.php/Main_Page 
+ 
+ CEDAR instruments are located throughout the world. Only selected data from 
+ each instrument is available in the CEDAR Data Base. The on-line CEDAR Data 
+ Base contains information to contact investigators for additional data not 
+ found in the Data Base. 
+ 
+ The CEDAR Data Base currently contains approximately 10GB of data. A 
+ complete inventory of data and data availability is obtainable from 
+ the following: 
+ 
+ http://cedarweb.hao.ucar.edu/wiki/index.php/Main_Page 
+ 
+ The CEDAR Data Base consists of the following: 
+ 
+ Geophysical Indices. Includes Dst, Kp, ap, Ap, solar 10.7 cm flux, 
+ sunspot number, AE, and IMF parameters. 
+ 
+ Large Model Output. Includes model output from the Assimilative 
+ Mapping of Ionospheric Electrodynamics (AMIE), Thermosphere Ionosphere 
+ General Circulation Model (TIGCM), and Global-Scale Wave Model (GSWM). 
+ 
+ Incoherent Scatter Radar. This is the primary data in the CEDAR Data 
+ Base. Includes ionospheric electron densities, ion velocities, and 
+ electron and ion temperatures. 
+ 
+ Ionospheric Doppler Radars. HF ionospheric doppler radars are organized into a 
+ collection of radars called SuperDARN (Super Dual Auroral Radar Network). 
+ Eleven radars have data in the CEDAR Data Base. Basic parameters include 
+ line-of-sight plasma irregularity and velocity spread. 
+ 
+ Digisondes. Consists of ion drift data from the Qaanaaq Digisonde. 
+ 
+ Fabry-Perot Interferometers. Basic parameters from FPI are 
+ brightness, neutral temperature, and line-of-sight neutral winds. 
+ 
+ IR Michelson Interferometers. Data include neutral temperatures 
+ derived from nightglow hydroxyl (OH). 
+ 
+ Lidar. Basic Lidar parameters are photocounts, relative neutral number 
+ density, and sodium or iron density. 
+ 
+ Middle Atmosphere Radars. Data are from MST radars, MF radars, LF 
+ radars, meteor wind radars and ST radars. There is only limited data 
+ in the CEDAR Data Base. Parameters include line-of-sight neutral winds 
+ and turbulence. 
+ 
+ Airglow Imagers and All-Sky Cameras. Data includes brightness data 
+ from imagers. None of the imager data are in digital form. Some 
+ airglow data is on video tape. 
+ 
+ Models. Consists of both theoretical models and empirical models. 
+ Source code is available from the CEDAR Data Base. Model output 
+ consists of geomagnetic field data, electron densities, electric 
+ fields, interpolations and models of NOAA and DMSP satellite data, 
+ wind models, ionospheric parameters, and other data. 
+ 
+ The CEDAR Data Base is accessible through the WWW and ftp, but users must have 
+ a valid access form, available from the WWW or ftp (see Access and Use 
+ constraints) or contact Barbara Emery (emery@ucar.edu ). See the WWW site 
+ for additional information on accessing the data and Rules of the Road 
+ procedures. 
+ http://cedarweb.hao.ucar.edu/wiki/index.php/Main_Page 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Virtual Solar Terrestrial Observatory data access. 
+                            
+
+                        
+			
+                        
+                    
+		    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 90.0
+                                
+                            	 	
+                                
+                                    S: -90.0
+                                
+                            	 	
+                                
+                                    E: 180.0
+                                
+                            	 	
+                                
+                                    W: -180.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            Emery, B.A. and R. M. Barnes
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Title: 
+                            CEDAR Data Base
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Series Name: 
+                            CEDAR Data Base Catalog
+                        
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Release Place: 
+                            Boulder, CO
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            NCAR/HAO
+                        
+
+                    
+                    
+                    
+                    
+                    
+
+
+                    
+                    
+                    
+
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        http://cedarweb.hao.ucar.edu/wiki/index.php/Data_Services:General_O...
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1966-01-01
+                    
+
+                
+                
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            SPACE
+                            
+                                > EARTH MAGNETIC FIELD
+                            
+                            
+                                > HIGH LATITUDE MAGNETOSPHERE
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SPACE
+                            
+                                > SOLAR REGION
+                            
+                            
+                                > PHOTOSPHERE
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > GLOBAL
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > POLAR
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            VERTICAL LOCATION
+                            
+                                > IONOSPHERE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            VERTICAL LOCATION
+                            
+                                > MESOSPHERE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            VERTICAL LOCATION
+                            
+                                > THERMOSPHERE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+		
+                    
+
+                    
+                        
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC TEMPERATURE
+                            
+                            
+                                >
+                                AIR TEMPERATURE
+                            
+                            
+                            
+                            
+                                >
+                                NEUTRAL TEMPERATURE
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC WINDS
+                            
+                            
+                                >
+                                UPPER LEVEL WINDS
+                            
+                            
+                            
+                            
+                                >
+                                NEUTRAL WINDS
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+                        
+                	
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                IONOSPHERE/MAGNETOSPHERE DYNAMICS
+                            
+                            
+                                >
+                                AURORAE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                SOLAR ENERGETIC PARTICLE FLUX
+                            
+                            
+                                >
+                                ELECTRON FLUX
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                SOLAR ENERGETIC PARTICLE FLUX
+                            
+                            
+                                >
+                                ION FLUX
+                            
+                            
+                            
+                            
+                                >
+                                ION VELOCITY
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                SOLAR ENERGETIC PARTICLE PROPERTIES
+                            
+                            
+                                >
+                                PARTICLE DENSITY
+                            
+                            
+                            
+                            
+                                >
+                                ELECTRON DENSITY
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                SOLAR ENERGETIC PARTICLE PROPERTIES
+                            
+                            
+                                >
+                                PARTICLE SPEED
+                            
+                            
+                            
+                            
+                                >
+                                ELECTRON VELOCITY
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                SOLAR ENERGETIC PARTICLE PROPERTIES
+                            
+                            
+                                >
+                                PARTICLE TEMPERATURE
+                            
+                            
+                            
+                            
+                                >
+                                ELECTRON TEMPERATURE
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                SOLAR ACTIVITY
+                            
+                            
+                                >
+                                SOLAR ACTIVE REGIONS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                SOLAR ACTIVITY
+                            
+                            
+                                >
+                                SOLAR RADIO WAVE EMISSIONS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                SOLAR ACTIVITY
+                            
+                            
+                                >
+                                SUNSPOTS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SOLID EARTH
+                            
+                            
+                                >
+                                GEOMAGNETISM
+                            
+                            
+                                >
+                                ELECTRICAL FIELD
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SOLID EARTH
+                            
+                            
+                                >
+                                GEOMAGNETISM
+                            
+                            
+                                >
+                                GEOMAGNETIC INDICES
+                            
+                            
+                            
+                            
+                                >
+                                GEOPHYSICAL INDICES
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SOLID EARTH
+                            
+                            
+                                >
+                                GEOMAGNETISM
+                            
+                            
+                                >
+                                MAGNETIC FIELD
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC RADIATION
+                            
+                            
+                                >
+                                AIRGLOW
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                IONOSPHERE/MAGNETOSPHERE DYNAMICS
+                            
+                            
+                                >
+                                GEOMAGNETIC INDICES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                IONOSPHERE/MAGNETOSPHERE DYNAMICS
+                            
+                            
+                                >
+                                MAGNETIC FIELDS/MAGNETIC CURRENTS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                IONOSPHERE/MAGNETOSPHERE DYNAMICS
+                            
+                            
+                                >
+                                ION CHEMISTRY/IONIZATION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOSCIENTIFIC INFORMATION
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    FIXED OBSERVATION STATIONS
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    GEOMAGNETIC STATIONS
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                            
+                        
+                    
+                        
+                            
+                                
+                                    GROUND STATIONS
+                                    
+                                
+                            
+                        
+                            
+
+
+
+
+
+
+
+
+
+
+

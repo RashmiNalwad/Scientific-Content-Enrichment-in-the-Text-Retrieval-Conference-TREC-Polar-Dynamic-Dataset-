@@ -1,0 +1,2185 @@
+
+
+
+
+	 
+        
+
+	
+            
+                	
+            
+                
+	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                
+
+
+
+
+
+        
+        	 
+                
+        
+                
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Agriculture
+	
+
+	
+		
+	
+		Atmosphere
+	
+
+	
+		
+	
+		Biological Classification
+	
+
+	
+		
+	
+		Biosphere
+	
+
+	
+		
+	
+		Climate Indicators
+	
+
+	
+		
+	
+		Cryosphere
+	
+
+	
+		
+	
+		Human Dimensions
+	
+
+	
+		
+	
+		Land Surface
+	
+
+	
+		
+	
+		Oceans
+	
+
+	
+		
+	
+		Paleoclimate
+	
+
+	
+		
+	
+		Solid Earth
+	
+
+	
+		
+	
+		Spectral/Engineering
+	
+
+	
+		
+	
+		Sun-Earth Interactions
+	
+
+	
+		
+	
+		Terrestrial Hydrosphere
+	
+
+	
+	
+
+	
+		
+Data Centers
+
+	
+		 
+Locations
+
+	
+		
+Instruments
+
+	
+		
+Platforms/Sources
+
+	
+		
+Projects
+
+
+
+
+
+
+
+                
+                
+                	
+                    	
+	
+	
+
+
+                    
+                    	
+                            	
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+Record Search Query:
+[Location: Location_Category=&#039;GEOGRAPHIC REGION&#039;, Location_Type=&#039;GLOBAL&#039;]
+
+
+	
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        
+            
+                NGDC Marine Trackline Geophysics Database
+            
+        
+
+        
+        
+            Entry ID:
+            
+                gov.noaa.ngdc.G00129
+            
+            
+
+            
+
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+        
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                
+                    
+                    
+                        Update this Record
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        
+            This data set description is a member of a collection.
+
+            
+                Click to see members of this collection.
+            
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+        
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            This data set contains bathymetry, magnetic, gravity and seismic shot point navigation data collected during marine cruises from 1939 to the present. Coverage is worldwide. These data are stored in the MGD77 exchange format and are available for download in a variety of user selectable formats. One Header record and multiple Data records are available for a particular cruise/leg (port to port  ... operation). The Header record documents both the content and the structure of the subsequent Data records, containing that part of the data that remains invariant throughout the cruise. The Data records present geophysical data (bathymetry, magnetics and gravity) and seismic information (shot-point identification) with a corresponding time and position. Documentation that varies within the cruise is also included with the data records. Data are fully searchable on-line by geographic area, year of cruise, institution, platform, cruise, date or data type. 
+    
+                        
+
+                    
+                    
+                        
+                            
+
+                            Purpose: 
+                            Marine Research and Commercial Exploration     
+                        
+
+                    
+                
+            
+
+            
+    
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Geophysical Survey Data. Search for Marine Geophysical Trackline Data 
+                            
+
+                        
+                        
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW EXTENDED METADATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                View Source Metadata 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Marine Geophysical Trackline Data. NGDC's Marine Trackline Geophysics database provides access to bathymetry, magnetics, gravity and seismic reflection data collected during marine cruises from 1939 to the present. Coverage is worldwide. Data sources include both US and non-US oceanographic institutions, universities, and government agencies. 
+                            
+
+                        
+                        
+                        
+                    
+                    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 90.0
+                                
+                            	 	
+                                
+                                    S: -90.0
+                                
+                            	 	
+                                
+                                    E: 180.0
+                                
+                            	 	
+                                
+                                    W: -180.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            National Geophysical Data Center
+                        
+
+                    
+
+                    
+                        
+                            Dataset Title: 
+                            NGDC Marine Trackline Geophysics Database
+                        
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Release Date: 
+                            1977-01-01
+                         
+
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+                    
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1939-01-01
+                    
+
+                
+                
+                
+                
+            
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > GLOBAL OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            VERTICAL LOCATION
+                            
+                                > SEA FLOOR
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > ARCTIC OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > ATLANTIC OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > INDIAN OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > PACIFIC OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > SOUTHERN OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                
+                    
+
+                    
+                        
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                BATHYMETRY/SEAFLOOR TOPOGRAPHY
+                            
+                            
+                                >
+                                WATER DEPTH
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                MARINE GEOPHYSICS
+                            
+                            
+                                >
+                                MARINE GRAVITY FIELD
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                MARINE GEOPHYSICS
+                            
+                            
+                                >
+                                MARINE MAGNETICS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                SOLID EARTH
+                            
+                            
+                                >
+                                GEOMAGNETISM
+                            
+                            
+                                >
+                                MAGNETIC FIELD
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                BATHYMETRY/SEAFLOOR TOPOGRAPHY
+                            
+                            
+                                >
+                                BATHYMETRY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                BATHYMETRY/SEAFLOOR TOPOGRAPHY
+                            
+                            
+                                >
+                                SEAFLOOR TOPOGRAPHY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                SOLID EARTH
+                            
+                            
+                                >
+                                GEOMAGNETISM
+                            
+                            
+                                >
+                                MAGNETIC FIELD
+                            
+                            
+                                >
+                                MAGNETIC ANOMALIES
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                SOLID EARTH
+                            
+                            
+                                >
+                                TECTONICS
+                            
+                            
+                                >
+                                EARTHQUAKES
+                            
+                            
+                                >
+                                SEISMIC PROFILE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                SOLID EARTH
+                            
+                            
+                                >
+                                GRAVITY/GRAVITATIONAL FIELD
+                            
+                            
+                                >
+                                GRAVITY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            OCEANS
+                        
+                    
+
+                    
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            ECHO SOUNDERS
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+                
+            
+                
+                    
+                        
+                            Gravimeters
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+                
+            
+                
+                    
+                        
+                            MAGNETOMETERS
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+                
+            
+                
+                    
+                        
+                            SEISMIC REFLECTION PROFILERS
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+                
+            
+            
+        
+
+
+    
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+    
+    Use Constraints
+    
+        While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty. 
+    
+    
+    
+        
+         
+        
+    
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            Earth Science > Oceans > Bathymetry/Seafloor Topography > Water Depth
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Earth Science > Oceans > Marine Geophysics > Magnetic Anomalies
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            Earth Science > Oceans > Marine Geophysics > Marine Gravity Field
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Earth Science > Oceans > Marine Geophysics > Marine Magnetics
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Earth Science > Solid Earth > Geodetics/Gravity > Gravity
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Earth Science > Solid Earth > Geomagnetism > Magnetic Anomalies
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Earth Science > Solid Earth > Geomagnetism > Magnetic Field
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Earth Science > Solid Earth > Seismology > Seismic Profile
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Earth Science > Oceans > Bathymetry/Seafloor Topography > Bathymetry
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Earth Science > Oceans > Bathymetry/Seafloor Topography > Seafloor Topography
+                    
+
+                    
+                
+                    
+                    
+                        
+                            INFOTERRA > Energy > Energy processes > Natural gas exploration
+                    
+
+                    
+                
+                    
+                    
+                        
+                            INFOTERRA > Energy > Energy processes > Oil exploration
+                    
+
+                    
+                
+                    
+                    
+                        
+                            INFOTERRA > Subject disciplines > Geophysics > Geophysics
+                    
+
+                    
+                
+                    
+                    
+                        
+                            NGDA
+                    
+
+                    
+                
+                    
+                    
+                        
+                            National Geospatial Data Asset
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Elevation Theme
+                    
+
+                    
+                
+                    
+                    
+                        
+                            WDC/MGG, BOULDER > World Data Center for Marine Geology and Geophysics, Boulder
+                    
+
+                    
+                
+                    
+                    
+                        
+                            DOC/NOAA/NESDIS/NGDC > National Geophysical Data Center, NESDIS, NOAA, U.S. Department of Commerce
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Geographic Region > Global Ocean
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Vertical Location > Sea Floor
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Ocean > Arctic Ocean
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Ocean > Atlantic Ocean
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Ocean > Indian Ocean
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Ocean > Pacific Ocean
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Ocean > Southern Ocean
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                National Geophysical Data Center, NESDIS, NOAA, U.S. Department of Commerce
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://www.ngdc.noaa.gov/
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    NOAA NGDC
+                                                    
+                                                    TRACKLINE TEAM
+                                                
+                                            
+
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            Trackline.Info at noaa.gov
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        325 Broadway, E/GC3
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Boulder
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                CO
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                80305-3328
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        NOAA NGDC
+                        
+                        TRACKLINE TEAM
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                Trackline.Info at noaa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                325 Broadway, E/GC3
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Boulder
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    CO
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    80305-3328
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        BRIAN
+                        
+                        MEYER
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                303-497-6125
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                Brian.Meyer at noaa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+            
+            
+            
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+            
+                DIF Creation Date:
+                2015-01-05
+            
+
+        
+        
+            
+                Last DIF Revision Date:
+                2015-01-07
+            
+
+        
+        
+    
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                 Reformat as ISO 19115 document
+            
+        
+    
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+
+        
+
+
+
+
+
+
+                            
+
+                    
+                    
+                
+
+        
+        
+
+
+	
+            
+                
+        	
+            
+                
+                    NASA Privacy Policy and Important Notices
+            
+
+            
+                Responsible NASA Official:  
+                
+                    Dr. Stephen Wharton
+
+                Webmaster:  
+                
+                    Monica Lyles
+                  ·  Contact 
+                
+                    GCMD User Support for assistance
+            
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+
+

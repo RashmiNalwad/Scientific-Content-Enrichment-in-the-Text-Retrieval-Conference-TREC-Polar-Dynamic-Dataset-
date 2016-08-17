@@ -1,0 +1,334 @@
+Priority,Selected,Target & Passes Identifier,Operation Type,Start Time,Path,Start Row,Stop Row,Target Path,Target Start Row,Target Stop Row,Site Latitude,Site Longitude,Start Delta Time Offset, Stop Delta Time Offset,Stop Time,Scene ID,Max Cloud Cover,Predicted Cloud Cover,Alignment Bias,Pointing Mode,Pointing Sensor Text, UseAC, UseALI, UseHSI,ALI SWIR, HSI SWIR, Requestor, Start, End, Duration, Event UTC, Event Seperation
+,X,ali internal cal 1, , 041:00:29:01, , , , , , , , , , , , , , , , , , , , , , , , 00:29:01, , , Event UTC, Event Seperation
+,X,"TR2-70457,TR4", S-Band Pass, 041:00:52:39, , , , , , , , , , , 041:01:02:53, , , , , , , , , , , , , 00:52:39, 01:02:53, 00:10:14, Event UTC, Event Seperation
+,X,TR2-70457, X-Band Pass, 041:00:52:39, , , , , , , , , , , 041:01:02:38, , , , , , , , , , , , , 00:52:39, 01:02:38, 00:09:59, Event UTC, Event Seperation
+,X,Clear WARP, Cmd, 041:01:04:08, , , , , , , , , , , 041:01:04:46, , , , , , , , , , , , , 01:04:08, 01:04:46, 00:00:38, Event UTC, Event Seperation
+,,, Eclipse, 041:01:07:15, , , , , , , , , , , , , , , , , , , , , , , , 01:07:15, , , Event UTC, Event Seperation
+,,, Light, 041:01:36:46, , , , , , , , , , , , , , , , , , , , , , , , 01:36:46, , , Event UTC, Event Seperation
+,,, Eclipse, 041:02:45:43, , , , , , , , , , , , , , , , , , , , , , , , 02:45:43, , , Event UTC, Event Seperation
+,X,"PF2-70459,TR4", S-Band Pass, 041:03:14:08, , , , , , , , , , , 041:03:22:45, , , , , , , , , , , , , 03:14:08, 03:22:45, 00:08:37, Event UTC, Event Seperation
+,,PF2-70459, X-Band Pass, 041:03:14:08, , , , , , , , , , , 041:03:22:26, , , , , , , , , , , , , 03:14:08, 03:22:26, 00:08:18, Event UTC, Event Seperation
+,,, Light, 041:03:15:14, , , , , , , , , , , , , , , , , , , , , , , , 03:15:14, , , Event UTC, Event Seperation
+750,X,"Igor 78 [JPL/W]", Image, 041:03:23:53, 137, 4, 4, 136, 4, 4, 78, 135, 7, 9, 041:03:24:01, EO11360042014041110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 03:23:53, 03:24:01, 00:00:08, 03:24:01, Event Seperation
+,,Clear WARP, Cmd, 041:03:23:56, , , , , , , , , , , 041:03:24:34, , , , , , , , , , , , , 03:23:56, 03:24:34, 00:00:38, Event UTC, Event Seperation
+500,X,"Dunhuang China HYP [MSO/N]", Image, 041:03:35:04, 137, 32, 32, 137, 32, 32, 40.13, 94.34, 12, 3, 041:03:35:13, EO11370322014041110T7, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 03:35:04, 03:35:13, 00:00:09, 03:35:13, Event Seperation
+750,,"Heard [JPL/W2]", Image, 041:04:00:43, 137, 97, 97, 135, 97, 97, -53.106, 73.513, 1, 15, 041:04:00:51, EO11350972014041110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 04:00:43, 04:00:51, 00:00:08, 04:00:51, Event Seperation
+,,, Eclipse, 041:04:24:11, , , , , , , , , , , , , , , , , , , , , , , , 04:24:11, , , Event UTC, Event Seperation
+,,, Light, 041:04:53:42, , , , , , , , , , , , , , , , , , , , , , , , 04:53:42, , , Event UTC, Event Seperation
+,,, Eclipse, 041:06:02:38, , , , , , , , , , , , , , , , , , , , , , , , 06:02:38, , , Event UTC, Event Seperation
+,X,"PF1-70461,TR4", S-Band Pass, 041:06:25:41, , , , , , , , , , , 041:06:37:40, , , , , , , , , , , , , 06:25:41, 06:37:40, 00:11:59, Event UTC, Event Seperation
+,X,PF1-70461, X-Band Pass, 041:06:26:08, , , , , , , , , , , 041:06:37:24, , , , , , , , , , , , , 06:26:08, 06:37:24, 00:11:16, Event UTC, Event Seperation
+750,,"Redoubt Night [JPL/E]", Image, 041:06:30:44, 153, 226, 227, 154, 226, 226, 60.485, -152.742, 20, 20, 041:06:30:52, EO11542262014041110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 06:30:44, 06:30:52, 00:00:08, 06:30:52, Event Seperation
+,,, Light, 041:06:32:09, , , , , , , , , , , , , , , , , , , , , , , , 06:32:09, , , Event UTC, Event Seperation
+,X,Clear WARP, Cmd, 041:06:38:54, , , , , , , , , , , 041:06:39:32, , , , , , , , , , , , , 06:38:54, 06:39:32, 00:00:38, Event UTC, Event Seperation
+750,,"Tolstoy 79 [JPL/E5]", Image, 041:06:40:49, 169, 4, 4, 174, 3, 3, 79, 80, 8, 8, 041:06:40:57, EO11740032014041110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 06:40:49, 06:40:57, 00:00:08, 06:40:57, Event Seperation
+500,,"Turkey East [MSO/E]", Image, 041:06:52:21, 169, 33, 34, 170, 33, 34, 38.758, 43.349, 9, 20, 041:06:52:40, EO11700332014041110K3, 0, 0, ALI, C, MS/PAN, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 06:52:21, 06:52:40, 00:00:19, 06:52:40, Event Seperation
+750,X,"Manda Hararo [JPL/W2]", Image, 041:06:59:35, 169, 51, 52, 167, 51, 52, 12.17, 40.82, 16, 23, 041:06:59:44, EO11670512014041110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 06:59:35, 06:59:44, 00:00:09, 06:59:44, Event Seperation
+500,X,"Skukuza 2008 [MSO/W]", Image, 041:07:09:53, 169, 77, 77, 168, 77, 78, -25.02, 31.497, 11, 2, 041:07:10:04, EO11680772014041110K0, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 07:09:53, 07:10:04, 00:00:11, 07:10:04, Event Seperation
+750,,"Siple Night [JPL/E2]", Image, 041:07:31:53, 169, 132, 133, 171, 132, 132, -73.43, -126.67, 18, 21, 041:07:32:02, EO11711322014041110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 07:31:53, 07:32:02, 00:00:09, 07:32:02, Event Seperation
+,,, Eclipse, 041:07:41:06, , , , , , , , , , , , , , , , , , , , , , , , 07:41:06, , , Event UTC, Event Seperation
+,X,"PF2-70462,TR4", S-Band Pass, 041:08:04:56, , , , , , , , , , , 041:08:14:56, , , , , , , , , , , , , 08:04:56, 08:14:56, 00:10:00, Event UTC, Event Seperation
+,X,PF2-70462, X-Band Pass, 041:08:05:29, , , , , , , , , , , 041:08:14:35, , , , , , , , , , , , , 08:05:29, 08:14:35, 00:09:06, Event UTC, Event Seperation
+750,,"Atka Night [JPL/E2]", Image, 041:08:06:59, 169, 221, 221, 171, 220, 221, 52.381, -174.154, 3, 13, 041:08:07:07, EO11712202014041110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 08:06:59, 08:07:07, 00:00:08, 08:07:07, Event Seperation
+,,, Light, 041:08:10:37, , , , , , , , , , , , , , , , , , , , , , , , 08:10:37, , , Event UTC, Event Seperation
+,X,Clear WARP, Cmd, 041:08:16:05, , , , , , , , , , , 041:08:16:43, , , , , , , , , , , , , 08:16:05, 08:16:43, 00:00:38, Event UTC, Event Seperation
+750,,"Zara 75 [JPL/W]", Image, 041:08:20:21, 185, 6, 7, 184, 7, 7, 75, 50, 23, 17, 041:08:20:29, EO11840072014041110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 08:20:21, 08:20:29, 00:00:08, 08:20:29, Event Seperation
+500,,"Libya 1 [MSO/E2]", Image, 041:08:34:57, 185, 43, 44, 187, 43, 43, 24.42, 13.35, 17, 22, 041:08:35:06, EO11870432014041110T4, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 08:34:57, 08:35:06, 00:00:09, 08:35:06, Event Seperation
+500,X,"CG-Kis [MSO/W]", Image, 041:08:42:45, 185, 63, 63, 184, 63, 63, -4.7914, 11.9822, 11, 4, 041:08:42:54, EO11840632014041110T6, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 08:42:45, 08:42:54, 00:00:09, 08:42:54, Event Seperation
+750,,"Gould Bay [JPL/E6]", Image, 041:09:04:07, 185, 117, 117, 191, 116, 116, -78, -45, 0, 16, 041:09:04:15, EO11911162014041110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 09:04:07, 09:04:15, 00:00:08, 09:04:15, Event Seperation
+,,, Eclipse, 041:09:19:34, , , , , , , , , , , , , , , , , , , , , , , , 09:19:34, , , Event UTC, Event Seperation
+750,,"Tolbachik Night [JPL/E2]", Image, 041:09:46:23, 185, 223, 223, 187, 223, 223, 55.83, 160.33, 12, 4, 041:09:46:31, EO11872232014041110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 09:46:23, 09:46:31, 00:00:08, 09:46:31, Event Seperation
+,,, Light, 041:09:49:04, , , , , , , , , , , , , , , , , , , , , , , , 09:49:04, , , Event UTC, Event Seperation
+750,,"Yuri 80 [JPL/W6]", Image, 041:09:56:39, 201, 1, 1, 195, 2, 2, 80, 55, 13, 3, 041:09:56:47, EO11950022014041110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 09:56:39, 09:56:47, 00:00:08, 09:56:47, Event Seperation
+500,X,"Barton Bendish 2008 [MSO/N]", Image, 041:10:05:26, 201, 23, 24, 201, 23, 24, 52.618, 0.524, 15, 21, 041:10:05:38, EO12010232014041110P0, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 10:05:26, 10:05:38, 00:00:12, 10:05:38, Event Seperation
+500,X,"L7 Uniform Radiance 2 [Brakke/N]", Image, 041:10:14:19, 201, 46, 46, 201, 46, 46, 20.23, -9.27, 0, 0, 041:10:14:43, EO12010462014041110PP, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 10:14:19, 10:14:43, 00:00:24, 10:14:43, Event Seperation
+750,,"Belinda [JPL/W3]", Image, 041:10:36:04, 201, 100, 101, 198, 101, 101, -58.436, -26.383, 16, 24, 041:10:36:12, EO11981012014041110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 10:36:04, 10:36:12, 00:00:08, 10:36:12, Event Seperation
+,,, Eclipse, 041:10:58:01, , , , , , , , , , , , , , , , , , , , , , , , 10:58:01, , , Event UTC, Event Seperation
+750,,"Akan Night [JPL/N]", Image, 041:11:21:13, 201, 214, 214, 201, 214, 214, 43.384, 144.013, 9, 6, 041:11:21:22, EO12012142014041110PF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 11:21:13, 11:21:22, 00:00:09, 11:21:22, Event Seperation
+,,, Light, 041:11:27:32, , , , , , , , , , , , , , , , , , , , , , , , 11:27:32, , , Event UTC, Event Seperation
+500,X,"Myvatn Iceland [MSO/E]", Image, 041:11:40:11, 217, 14, 15, 218, 14, 14, 65.5965, -17.0138, 5, 22, 041:11:40:32, EO12180142014041110K5, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 11:40:11, 11:40:32, 00:00:21, 11:40:32, Event Seperation
+750,X,"Sao francisco brazil [JPL/E2]", Image, 041:12:02:14, 217, 69, 69, 219, 69, 69, -13.1033, -43.4858, 15, 1, 041:12:02:22, EO12190692014041110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 12:02:14, 12:02:22, 00:00:08, 12:02:22, Event Seperation
+,X,HGS-0, X-Band Pass, 041:12:30:00, , , , , , , , , , , 041:12:41:03, , , , , , , , , , , , , 12:30:00, 12:41:03, 00:11:03, Event UTC, Event Seperation
+,,, Eclipse, 041:12:36:29, , , , , , , , , , , , , , , , , , , , , , , , 12:36:29, , , Event UTC, Event Seperation
+,,, Light, 041:13:05:59, , , , , , , , , , , , , , , , , , , , , , , , 13:05:59, , , Event UTC, Event Seperation
+,X,"SG1-70465,TR4", S-Band Pass, 041:13:07:16, , , , , , , , , , , 041:13:19:25, , , , , , , , , , , , , 13:07:16, 13:19:25, 00:12:09, Event UTC, Event Seperation
+,X,SG1-70465, X-Band Pass, 041:13:07:41, , , , , , , , , , , 041:13:19:08, , , , , , , , , , , , , 13:07:41, 13:19:08, 00:11:27, Event UTC, Event Seperation
+750,,"Narsarsuaq [JPL/E]", Image, 041:13:19:58, 233, 17, 18, 1, 17, 17, 61.1707, -45.413, 17, 23, 041:13:20:06, EO10010172014041110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 13:19:58, 13:20:06, 00:00:08, 13:20:06, Event Seperation
+,X,Clear WARP, Cmd, 041:13:20:38, , , , , , , , , , , 041:13:21:16, , , , , , , , , , , , , 13:20:38, 13:21:16, 00:00:38, Event UTC, Event Seperation
+750,X,"Venezuela orinoco1 [JPL/N]", Image, 041:13:34:35, 233, 54, 54, 233, 54, 54, 8.81271, -61.9447, 8, 8, 041:13:34:43, EO12330542014041110PF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 13:34:35, 13:34:43, 00:00:08, 13:34:43, Event Seperation
+500,X,"Atacama H 2008 [MSO/N]", Image, 041:13:43:15, 233, 76, 76, 233, 76, 76, -23.023, -67.742, 3, 8, 041:13:43:28, EO12330762014041110P2, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 13:43:15, 13:43:28, 00:00:13, 13:43:28, Event Seperation
+750,,"Abbot Ice Shelf [JPL/W3]", Image, 041:13:57:06, 233, 111, 111, 230, 111, 111, -72.5, -90, 1, 15, 041:13:57:14, EO12301112014041110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 13:57:06, 13:57:14, 00:00:08, 13:57:14, Event Seperation
+,,, Eclipse, 041:14:14:56, , , , , , , , , , , , , , , , , , , , , , , , 14:14:56, , , Event UTC, Event Seperation
+,,, Light, 041:14:44:27, , , , , , , , , , , , , , , , , , , , , , , , 14:44:27, , , Event UTC, Event Seperation
+750,X,"Davis Strait 64 [JPL/W4]", Image, 041:14:57:21, 16, 14, 15, 12, 15, 15, 64, -60, 21, 19, 041:14:57:29, EO10120152014041110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 14:57:21, 14:57:29, 00:00:08, 14:57:29, Event Seperation
+500,X,"Duke Forest 2008 [MSO/N]", Image, 041:15:05:30, 16, 35, 35, 16, 35, 35, 35.974, -79.1, 7, 6, 041:15:05:41, EO10160352014041110P0, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 15:05:30, 15:05:41, 00:00:11, 15:05:41, Event Seperation
+750,,"Arenal [JPL/W]", Image, 041:15:12:27, 16, 53, 53, 15, 53, 53, 10.48, -84.72, 0, 16, 041:15:12:35, EO10150532014041110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 15:12:27, 15:12:35, 00:00:08, 15:12:35, Event Seperation
+,,, Eclipse, 041:15:53:24, , , , , , , , , , , , , , , , , , , , , , , , 15:53:24, , , Event UTC, Event Seperation
+,X,"SG1-70467,TR4", S-Band Pass, 041:16:21:48, , , , , , , , , , , 041:16:33:47, , , , , , , , , , , , , 16:21:48, 16:33:47, 00:11:59, Event UTC, Event Seperation
+,X,SG1-70467, X-Band Pass, 041:16:21:58, , , , , , , , , , , 041:16:33:27, , , , , , , , , , , , , 16:21:58, 16:33:27, 00:11:29, Event UTC, Event Seperation
+,,, Light, 041:16:22:55, , , , , , , , , , , , , , , , , , , , , , , , 16:22:55, , , Event UTC, Event Seperation
+,X,Clear WARP, Cmd, 041:16:34:57, , , , , , , , , , , 041:16:35:35, , , , , , , , , , , , , 16:34:57, 16:35:35, 00:00:38, Event UTC, Event Seperation
+750,,"Chesterfield Inlet [JPL/N]", Image, 041:16:36:10, 32, 15, 16, 32, 15, 16, 63.5, -91, 20, 20, 041:16:36:18, EO10320152014041110PF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 16:36:10, 16:36:18, 00:00:08, 16:36:18, Event Seperation
+500,,"Jornada 2008 [MSO/E]", Image, 041:16:44:55, 32, 37, 38, 33, 37, 38, 32.6, -106.86, 20, 16, 041:16:45:07, EO10330372014041110KB, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 16:44:55, 16:45:07, 00:00:12, 16:45:07, Event Seperation
+,,, Eclipse, 041:17:31:52, , , , , , , , , , , , , , , , , , , , , , , , 17:31:52, , , Event UTC, Event Seperation
+,,, Light, 041:18:01:22, , , , , , , , , , , , , , , , , , , , , , , , 18:01:22, , , Event UTC, Event Seperation
+,,, Eclipse, 041:19:10:20, , , , , , , , , , , , , , , , , , , , , , , , 19:10:20, , , Event UTC, Event Seperation
+,,, Light, 041:19:39:50, , , , , , , , , , , , , , , , , , , , , , , , 19:39:50, , , Event UTC, Event Seperation
+,X,"PF1-70469,TR4", S-Band Pass, 041:19:46:52, , , , , , , , , , , 041:19:58:52, , , , , , , , , , , , , 19:46:52, 19:58:52, 00:12:00, Event UTC, Event Seperation
+,,PF1-70469, X-Band Pass, 041:19:47:21, , , , , , , , , , , 041:19:58:52, , , , , , , , , , , , , 19:47:21, 19:58:52, 00:11:31, Event UTC, Event Seperation
+,,Clear WARP, Cmd, 041:20:00:22, , , , , , , , , , , 041:20:01:00, , , , , , , , , , , , , 20:00:22, 20:01:00, 00:00:38, Event UTC, Event Seperation
+625,,"Halemaumau HI [JPL/W]", Image, 041:20:05:19, 63, 46, 47, 62, 46, 47, 19.4075, -155.283, 20, 20, 041:20:05:27, EO10620462014041110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 20:05:19, 20:05:27, 00:00:08, 20:05:27, Event Seperation
+750,,"Blood Falls [JPL/W6]", Image, 041:20:32:33, 63, 115, 115, 57, 115, 116, -77.7219, 162.274, 1, 15, 041:20:32:41, EO10571152014041110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 20:32:33, 20:32:41, 00:00:08, 20:32:41, Event Seperation
+,,, Eclipse, 041:20:48:47, , , , , , , , , , , , , , , , , , , , , , , , 20:48:47, , , Event UTC, Event Seperation
+,,, Light, 041:21:18:18, , , , , , , , , , , , , , , , , , , , , , , , 21:18:18, , , Event UTC, Event Seperation
+,,, Eclipse, 041:22:27:15, , , , , , , , , , , , , , , , , , , , , , , , 22:27:15, , , Event UTC, Event Seperation
+,,, Light, 041:22:56:45, , , , , , , , , , , , , , , , , , , , , , , , 22:56:45, , , Event UTC, Event Seperation
+,X,"PF2-70471,TR4", S-Band Pass, 041:23:01:46, , , , , , , , , , , 041:23:10:50, , , , , , , , , , , , , 23:01:46, 23:10:50, 00:09:04, Event UTC, Event Seperation
+,,PF2-70471, X-Band Pass, 041:23:02:23, , , , , , , , , , , 041:23:10:50, , , , , , , , , , , , , 23:02:23, 23:10:50, 00:08:27, Event UTC, Event Seperation
+,,Clear WARP, Cmd, 041:23:12:20, , , , , , , , , , , 041:23:12:58, , , , , , , , , , , , , 23:12:20, 23:12:58, 00:00:38, Event UTC, Event Seperation
+,,, Eclipse, 042:00:05:42, , , , , , , , , , , , , , , , , , , , , , , , 00:05:42, , , Event UTC, Event Seperation
+,,, Light, 042:00:35:13, , , , , , , , , , , , , , , , , , , , , , , , 00:35:13, , , Event UTC, Event Seperation
+750,,"Okhutsk [JPL/N]", Image, 042:00:49:44, 111, 19, 19, 111, 19, 19, 59.25, 142.75, 0, 16, 042:00:49:52, EO11110192014042110PF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 00:49:44, 00:49:52, 00:00:08, 00:49:52, Event Seperation
+625,X,"Aso [JPL/E]", Image, 042:00:57:15, 111, 37, 38, 112, 37, 37, 32.88, 131.1, 17, 22, 042:00:57:24, EO11120372014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 00:57:15, 00:57:24, 00:00:09, 00:57:24, Event Seperation
+750,X,"Mount Bruce 2 [JPL/E]", Image, 042:01:12:40, 111, 76, 76, 112, 76, 76, -23.02, 118.25, 11, 5, 042:01:12:48, EO11120762014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 01:12:40, 01:12:48, 00:00:08, 01:12:48, Event Seperation
+,,, Eclipse, 042:01:44:10, , , , , , , , , , , , , , , , , , , , , , , , 01:44:10, , , Event UTC, Event Seperation
+,,, Light, 042:02:13:40, , , , , , , , , , , , , , , , , , , , , , , , 02:13:40, , , Event UTC, Event Seperation
+500,X,"Duolun_cropland HYP [MSO/N]", Image, 042:02:29:13, 127, 21, 21, 127, 21, 21, 55.86, 116.67, 9, 6, 042:02:29:22, EO11270212014042110TP, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 02:29:13, 02:29:22, 00:00:09, 02:29:22, Event Seperation
+750,,"Dazhou [JPL/N]", Image, 042:02:36:10, 127, 39, 39, 127, 39, 39, 30.72, 107.22, 2, 14, 042:02:36:18, EO11270392014042110PF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 02:36:10, 02:36:18, 00:00:08, 02:36:18, Event Seperation
+501,X,"Pasoh  Malaysia [MSO/W]", Image, 042:02:43:48, 127, 58, 58, 126, 58, 58, 2.982, 102.313, 4, 11, 042:02:43:57, EO11260582014042110T1, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 02:43:48, 02:43:57, 00:00:09, 02:43:57, Event Seperation
+625,,"Sinabung [JPL/E2]", Image, 042:02:43:54, 127, 58, 58, 129, 58, 58, 3.17, 98.392, 10, 6, 042:02:44:02, EO11290582014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 02:43:54, 02:44:02, 00:00:08, 02:44:02, Event Seperation
+750,,"Makenzie Bay [JPL/E3]", Image, 042:03:03:56, 127, 108, 109, 130, 108, 108, -68.25, 70, 19, 21, 042:03:04:04, EO11301082014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 03:03:56, 03:04:04, 00:00:08, 03:04:04, Event Seperation
+,,, Eclipse, 042:03:22:38, , , , , , , , , , , , , , , , , , , , , , , , 03:22:38, , , Event UTC, Event Seperation
+,X,"PF1-70474,TR4", S-Band Pass, 042:03:49:59, , , , , , , , , , , 042:03:59:20, , , , , , , , , , , , , 03:49:59, 03:59:20, 00:09:21, Event UTC, Event Seperation
+,X,PF1-70474, X-Band Pass, 042:03:49:59, , , , , , , , , , , 042:03:59:03, , , , , , , , , , , , , 03:49:59, 03:59:03, 00:09:04, Event UTC, Event Seperation
+750,,"Carswell Night [JPL/N]", Image, 042:03:50:06, 127, 225, 225, 127, 225, 225, 58.45, -109.5, 4, 12, 042:03:50:14, EO11272252014042110PF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 03:50:06, 03:50:14, 00:00:08, 03:50:14, Event Seperation
+,,, Light, 042:03:52:08, , , , , , , , , , , , , , , , , , , , , , , , 03:52:08, , , Event UTC, Event Seperation
+,X,Clear WARP, Cmd, 042:04:00:33, , , , , , , , , , , 042:04:01:11, , , , , , , , , , , , , 04:00:33, 04:01:11, 00:00:38, Event UTC, Event Seperation
+750,,"Karl 78 [JPL/W]", Image, 042:04:00:52, 143, 4, 4, 142, 4, 4, 78, 125, 9, 7, 042:04:01:00, EO11420042014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 04:00:52, 04:01:00, 00:00:08, 04:01:00, Event Seperation
+500,X,"Mudumalai  India [MSO/E]", Image, 042:04:20:04, 143, 52, 52, 144, 52, 52, 11.5989, 76.5338, 12, 3, 042:04:20:13, EO11440522014042110T3, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 04:20:04, 04:20:13, 00:00:09, 04:20:13, Event Seperation
+750,,"Amudsen Bay [JPL/E]", Image, 042:04:41:53, 143, 107, 107, 144, 107, 107, -67, 50, 13, 3, 042:04:42:01, EO11441072014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 04:41:53, 04:42:01, 00:00:08, 04:42:01, Event Seperation
+,,, Eclipse, 042:05:01:05, , , , , , , , , , , , , , , , , , , , , , , , 05:01:05, , , Event UTC, Event Seperation
+,,, Light, 042:05:30:36, , , , , , , , , , , , , , , , , , , , , , , , 05:30:36, , , Event UTC, Event Seperation
+750,X,"Novy 79 [JPL/W4]", Image, 042:05:38:51, 159, 2, 3, 155, 3, 3, 79, 110, 22, 18, 042:05:38:59, EO11550032014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 05:38:51, 05:38:59, 00:00:08, 05:38:59, Event Seperation
+500,X,"Oman_Archaeology_2 [MSO/N]", Image, 042:05:55:03, 159, 43, 44, 159, 43, 44, 23.79, 56.43, 18, 16, 042:05:55:17, EO11590432014042110K2, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 05:55:03, 05:55:17, 00:00:14, 05:55:17, Event Seperation
+750,,"Erskin Ice Port [JPL/E3]", Image, 042:06:21:19, 159, 109, 110, 162, 109, 109, -69.75, 19, 21, 19, 042:06:21:27, EO11621092014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 06:21:19, 06:21:27, 00:00:08, 06:21:27, Event Seperation
+,,, Eclipse, 042:06:39:33, , , , , , , , , , , , , , , , , , , , , , , , 06:39:33, , , Event UTC, Event Seperation
+,X,"PF2-70476,TR4", S-Band Pass, 042:07:03:38, , , , , , , , , , , 042:07:14:19, , , , , , , , , , , , , 07:03:38, 07:14:19, 00:10:41, Event UTC, Event Seperation
+,X,PF2-70476, X-Band Pass, 042:07:03:38, , , , , , , , , , , 042:07:13:50, , , , , , , , , , , , , 07:03:38, 07:13:50, 00:10:12, Event UTC, Event Seperation
+750,,"Veniaminof Night [JPL/E]", Image, 042:07:06:30, 159, 223, 224, 160, 223, 223, 56.1956, -159.388, 18, 22, 042:07:06:38, EO11602232014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 07:06:30, 07:06:38, 00:00:08, 07:06:38, Event Seperation
+,,, Light, 042:07:09:03, , , , , , , , , , , , , , , , , , , , , , , , 07:09:03, , , Event UTC, Event Seperation
+,X,Clear WARP, Cmd, 042:07:15:20, , , , , , , , , , , 042:07:15:58, , , , , , , , , , , , , 07:15:20, 07:15:58, 00:00:38, Event UTC, Event Seperation
+750,,"Winter 76 [JPL/E]", Image, 042:07:18:38, 175, 6, 6, 176, 6, 6, 76, 65, 11, 5, 042:07:18:46, EO11760062014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 07:18:38, 07:18:46, 00:00:08, 07:18:46, Event Seperation
+500,,"RLP_Zuevsky [MSO/N]", Image, 042:07:26:47, 175, 26, 27, 175, 26, 27, 48.0708, 38.2673, 23, 16, 042:07:26:56, EO11750262014042110K3, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 07:26:47, 07:26:56, 00:00:09, 07:26:56, Event Seperation
+500,X,"Mongu 2008 [MSO/N]", Image, 042:07:44:20, 175, 70, 71, 175, 70, 71, -15.438, 23.253, 23, 14, 042:07:44:31, EO11750702014042110P0, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 07:44:20, 07:44:31, 00:00:11, 07:44:31, Event Seperation
+750,,"Tottanbukla [JPL/E]", Image, 042:07:59:44, 175, 109, 110, 176, 109, 109, -70.1, -2.5, 19, 21, 042:07:59:52, EO11761092014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 07:59:44, 07:59:52, 00:00:08, 07:59:52, Event Seperation
+,,, Eclipse, 042:08:18:01, , , , , , , , , , , , , , , , , , , , , , , , 08:18:01, , , Event UTC, Event Seperation
+750,,"Little Sitkin Night [JPL/E]", Image, 042:08:43:45, 175, 220, 220, 176, 220, 220, 51.95, 178.543, 16, 0, 042:08:43:53, EO11762202014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 08:43:45, 08:43:53, 00:00:08, 08:43:53, Event Seperation
+,,, Light, 042:08:47:31, , , , , , , , , , , , , , , , , , , , , , , , 08:47:31, , , Event UTC, Event Seperation
+750,,"Yuri 80 [JPL/E4]", Image, 042:08:55:45, 191, 3, 3, 195, 2, 2, 80, 55, 1, 15, 042:08:55:53, EO11950022014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 08:55:45, 08:55:53, 00:00:08, 08:55:53, Event Seperation
+500,X,"Maccarese [MSO/N]", Image, 042:09:07:01, 191, 31, 31, 191, 31, 31, 41.8721, 12.2338, 5, 10, 042:09:07:10, EO11910312014042110K3, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 09:07:01, 09:07:10, 00:00:09, 09:07:10, Event Seperation
+501,X,"NE-WaF [MSO/E]", Image, 042:09:14:57, 191, 51, 51, 192, 50, 51, 13.6476, 2.6337, 2, 13, 042:09:15:06, EO11920502014042110T3, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 09:14:57, 09:15:06, 00:00:09, 09:15:06, Event Seperation
+750,,"Gould Bay [JPL/N]", Image, 042:09:40:43, 191, 116, 116, 191, 116, 116, -78, -45, 2, 14, 042:09:40:51, EO11911162014042110PF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 09:40:43, 09:40:51, 00:00:08, 09:40:51, Event Seperation
+,,, Eclipse, 042:09:56:28, , , , , , , , , , , , , , , , , , , , , , , , 09:56:28, , , Event UTC, Event Seperation
+750,,"Ruapehu Night [JPL/E2]", Image, 042:09:57:10, 191, 157, 157, 193, 157, 157, -39.28, 175.57, 10, 6, 042:09:57:18, EO11931572014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 09:57:10, 09:57:18, 00:00:08, 09:57:18, Event Seperation
+625,X,"Gorely Night [JPL/W2]", Image, 042:10:22:17, 191, 220, 220, 189, 220, 221, 52.558, 158.03, 16, 0, 042:10:22:25, EO11892202014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 10:22:17, 10:22:25, 00:00:08, 10:22:25, Event Seperation
+,,, Light, 042:10:25:58, , , , , , , , , , , , , , , , , , , , , , , , 10:25:58, , , Event UTC, Event Seperation
+750,,"Frigg 79 [JPL/E3]", Image, 042:10:34:36, 207, 3, 4, 210, 3, 3, 79, 25, 24, 16, 042:10:34:44, EO12100032014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 10:34:36, 10:34:44, 00:00:08, 10:34:44, Event Seperation
+500,X,"Gran Canaria [MSO/W]", Image, 042:10:49:10, 207, 40, 41, 206, 40, 41, 27.961, -15.568, 12, 10, 042:10:49:36, EO12060402014042110K0, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 10:49:10, 10:49:36, 00:00:26, 10:49:36, Event Seperation
+750,,"South Georgia Island [JPL/W]", Image, 042:11:12:03, 207, 98, 98, 206, 98, 98, -54.5, -37, 5, 11, 042:11:12:11, EO12060982014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 11:12:03, 11:12:11, 00:00:08, 11:12:11, Event Seperation
+,X,HGS-0, X-Band Pass, 042:11:29:16, , , , , , , , , , , 042:11:40:19, , , , , , , , , , , , , 11:29:16, 11:40:19, 00:11:03, Event UTC, Event Seperation
+,,, Eclipse, 042:11:34:56, , , , , , , , , , , , , , , , , , , , , , , , 11:34:56, , , Event UTC, Event Seperation
+750,,"Langila Night [JPL/W2]", Image, 042:11:44:39, 207, 180, 180, 205, 180, 180, -5.53, 148.42, 6, 10, 042:11:44:47, EO12051802014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 11:44:39, 11:44:47, 00:00:08, 11:44:47, Event Seperation
+625,,"Nishino-shima Night [JPL/W]", Image, 042:11:53:40, 207, 203, 203, 206, 203, 203, 27.274, 140.882, 0, 16, 042:11:53:48, EO12062032014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 11:53:40, 11:53:48, 00:00:08, 11:53:48, Event Seperation
+,,, Light, 042:12:04:26, , , , , , , , , , , , , , , , , , , , , , , , 12:04:26, , , Event UTC, Event Seperation
+,X,"SG1-70479,TR4", S-Band Pass, 042:12:06:32, , , , , , , , , , , 042:12:18:48, , , , , , , , , , , , , 12:06:32, 12:18:48, 00:12:16, Event UTC, Event Seperation
+,X,SG1-70479, X-Band Pass, 042:12:06:57, , , , , , , , , , , 042:12:18:33, , , , , , , , , , , , , 12:06:57, 12:18:33, 00:11:36, Event UTC, Event Seperation
+750,,"Geysir [JPL/W4]", Image, 042:12:17:18, 223, 14, 15, 219, 15, 15, 64.32, -20.3, 17, 22, 042:12:17:27, EO12190152014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 12:17:18, 12:17:27, 00:00:09, 12:17:27, Event Seperation
+,X,Clear WARP, Cmd, 042:12:20:03, , , , , , , , , , , 042:12:20:41, , , , , , , , , , , , , 12:20:03, 12:20:41, 00:00:38, Event UTC, Event Seperation
+500,X,"Brazil fire [Brakke/E]", Image, 042:12:39:12, 223, 69, 69, 224, 69, 69, -12.904, -52.3708, 10, 5, 042:12:39:21, EO12240692014042110KP, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 12:39:12, 12:39:21, 00:00:09, 12:39:21, Event Seperation
+750,X,"Hampton Glacier [JPL/W3]", Image, 042:12:54:42, 223, 108, 108, 220, 108, 109, -69, -70, 11, 5, 042:12:54:50, EO12201082014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 12:54:42, 12:54:50, 00:00:08, 12:54:50, Event Seperation
+,,, Eclipse, 042:13:13:23, , , , , , , , , , , , , , , , , , , , , , , , 13:13:23, , , Event UTC, Event Seperation
+,,, Light, 042:13:42:53, , , , , , , , , , , , , , , , , , , , , , , , 13:42:53, , , Event UTC, Event Seperation
+,,, Eclipse, 042:14:51:51, , , , , , , , , , , , , , , , , , , , , , , , 14:51:51, , , Event UTC, Event Seperation
+625,,"Sinabung Night [JPL/W2]", Image, 042:15:03:55, 6, 186, 186, 4, 186, 186, 3.17, 98.392, 4, 12, 042:15:04:03, EO10041862014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 15:03:55, 15:04:03, 00:00:08, 15:04:03, Event Seperation
+,X,"SG1-70481,TR4", S-Band Pass, 042:15:20:56, , , , , , , , , , , 042:15:33:05, , , , , , , , , , , , , 15:20:56, 15:33:05, 00:12:09, Event UTC, Event Seperation
+,,, Light, 042:15:21:21, , , , , , , , , , , , , , , , , , , , , , , , 15:21:21, , , Event UTC, Event Seperation
+,X,SG1-70481, X-Band Pass, 042:15:21:21, , , , , , , , , , , 042:15:32:46, , , , , , , , , , , , , 15:21:21, 15:32:46, 00:11:25, Event UTC, Event Seperation
+750,,"Tyr 73 [JPL/E]", Image, 042:15:31:56, 22, 8, 9, 23, 8, 8, 73, -65, 19, 20, 042:15:32:05, EO10230082014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 15:31:56, 15:32:05, 00:00:09, 15:32:05, Event Seperation
+,X,Clear WARP, Cmd, 042:15:34:16, , , , , , , , , , , 042:15:34:54, , , , , , , , , , , , , 15:34:16, 15:34:54, 00:00:38, Event UTC, Event Seperation
+500,,"Bondville 2008 [MSO/E]", Image, 042:15:41:23, 22, 32, 33, 23, 32, 32, 40, -88.292, 14, 23, 042:15:41:34, EO10230322014042110K1, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 15:41:23, 15:41:34, 00:00:11, 15:41:34, Event Seperation
+,,, Eclipse, 042:16:30:19, , , , , , , , , , , , , , , , , , , , , , , , 16:30:19, , , Event UTC, Event Seperation
+,,, Light, 042:16:59:49, , , , , , , , , , , , , , , , , , , , , , , , 16:59:49, , , Event UTC, Event Seperation
+750,X,"Kennedy Channel 80 [JPL/E4]", Image, 042:17:08:11, 38, 2, 3, 42, 2, 2, 80, -68, 23, 16, 042:17:08:20, EO10420022014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 17:08:11, 17:08:20, 00:00:09, 17:08:20, Event Seperation
+750,,"Rae Strait [JPL/W]", Image, 042:17:11:43, 38, 12, 12, 37, 12, 12, 68.5, -95, 3, 13, 042:17:11:51, EO10370122014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 17:11:43, 17:11:51, 00:00:08, 17:11:51, Event Seperation
+500,X,"Prince Edward National Park SK [MSO/N]", Image, 042:17:16:04, 38, 22, 23, 38, 22, 23, 53.7, -106.2, 20, 19, 042:17:16:13, EO10380222014042110P0, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 17:16:04, 17:16:13, 00:00:09, 17:16:13, Event Seperation
+500,,"Sonora_Desert_Mexico [MSO/N]", Image, 042:17:22:03, 38, 38, 38, 38, 38, 38, 32, -114.39, 3, 12, 042:17:22:12, EO10380382014042110K2, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 17:22:03, 17:22:12, 00:00:09, 17:22:12, Event Seperation
+,X,"MG1-70482,TR4", S-Band Pass, 042:17:48:19, , , , , , , , , , , 042:18:00:59, , , , , , , , , , , , , 17:48:19, 18:00:59, 00:12:40, Event UTC, Event Seperation
+,,, Eclipse, 042:18:08:46, , , , , , , , , , , , , , , , , , , , , , , , 18:08:46, , , Event UTC, Event Seperation
+,,, Light, 042:18:38:16, , , , , , , , , , , , , , , , , , , , , , , , 18:38:16, , , Event UTC, Event Seperation
+,X,"PF1-70483,TR4", S-Band Pass, 042:18:46:06, , , , , , , , , , , 042:18:57:24, , , , , , , , , , , , , 18:46:06, 18:57:24, 00:11:18, Event UTC, Event Seperation
+,X,PF1-70483, X-Band Pass, 042:18:46:37, , , , , , , , , , , 042:18:57:11, , , , , , , , , , , , , 18:46:37, 18:57:11, 00:10:34, Event UTC, Event Seperation
+,X,Clear WARP, Cmd, 042:18:58:41, , , , , , , , , , , 042:18:59:19, , , , , , , , , , , , , 18:58:41, 18:59:19, 00:00:38, Event UTC, Event Seperation
+,,, Eclipse, 042:19:47:14, , , , , , , , , , , , , , , , , , , , , , , , 19:47:14, , , Event UTC, Event Seperation
+625,X,"Etna Night [JPL/W2]", Image, 042:20:08:59, 54, 210, 210, 52, 210, 210, 37.72, 15, 5, 10, 042:20:09:08, EO10522102014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 20:08:59, 20:09:08, 00:00:09, 20:09:08, Event Seperation
+,,, Light, 042:20:16:44, , , , , , , , , , , , , , , , , , , , , , , , 20:16:44, , , Event UTC, Event Seperation
+750,X,"Shingle Point [JPL/W4]", Image, 042:20:28:18, 69, 11, 11, 65, 11, 12, 69, -137, 5, 11, 042:20:28:26, EO10650112014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 20:28:18, 20:28:26, 00:00:08, 20:28:26, Event Seperation
+,X,"MG1-70484,TR4", S-Band Pass, 042:21:03:08, , , , , , , , , , , 042:21:16:04, , , , , , , , , , , , , 21:03:08, 21:16:04, 00:12:56, Event UTC, Event Seperation
+,,, Eclipse, 042:21:25:42, , , , , , , , , , , , , , , , , , , , , , , , 21:25:42, , , Event UTC, Event Seperation
+,,, Light, 042:21:55:12, , , , , , , , , , , , , , , , , , , , , , , , 21:55:12, , , Event UTC, Event Seperation
+,X,"PF2-70485,TR4", S-Band Pass, 042:22:01:03, , , , , , , , , , , 042:22:11:43, , , , , , , , , , , , , 22:01:03, 22:11:43, 00:10:40, Event UTC, Event Seperation
+,X,PF2-70485, X-Band Pass, 042:22:01:35, , , , , , , , , , , 042:22:11:43, , , , , , , , , , , , , 22:01:35, 22:11:43, 00:10:08, Event UTC, Event Seperation
+,X,Clear WARP, Cmd, 042:22:13:13, , , , , , , , , , , 042:22:13:51, , , , , , , , , , , , , 22:13:13, 22:13:51, 00:00:38, Event UTC, Event Seperation
+,,, Eclipse, 042:23:04:09, , , , , , , , , , , , , , , , , , , , , , , , 23:04:09, , , Event UTC, Event Seperation
+,,, Light, 042:23:33:39, , , , , , , , , , , , , , , , , , , , , , , , 23:33:39, , , Event UTC, Event Seperation
+750,,"Eureka Ellsemere Night [JPL/N]", Image, 042:23:38:27, 85, 242, 242, 85, 242, 242, 79.9833, -85.8, 5, 11, 042:23:38:35, EO10852422014042110PF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 23:38:27, 23:38:35, 00:00:08, 23:38:35, Event Seperation
+625,X,"Tolbachik [JPL/W2]", Image, 042:23:49:09, 101, 21, 21, 99, 21, 21, 55.83, 160.33, 1, 14, 042:23:49:18, EO10990212014042110KF, 0, 0, ALI, C, MS/PAN, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 23:49:09, 23:49:18, 00:00:09, 23:49:18, Event Seperation
+625,,"Gorely [JPL/W2]", Image, 042:23:50:01, 101, 23, 23, 99, 23, 24, 52.558, 158.03, 11, 5, 042:23:50:09, EO10990232014042110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 23:50:01, 23:50:09, 00:00:08, 23:50:09, Event Seperation
+750,X,"Anatahan [JPL/W]", Image, 043:00:00:13, 101, 48, 49, 100, 49, 49, 16.35, 145.67, 22, 18, 043:00:00:21, EO11000492014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 00:00:13, 00:00:21, 00:00:08, 00:00:21, Event Seperation
+750,,"Leichardt queesland [JPL/W2]", Image, 043:00:10:03, 101, 73, 74, 99, 74, 74, -20.0419, 139.781, 21, 19, 043:00:10:11, EO10990742014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 00:10:03, 00:10:11, 00:00:08, 00:10:11, Event Seperation
+,X,"MG1-70486,TR4", S-Band Pass, 043:00:20:46, , , , , , , , , , , 043:00:32:14, , , , , , , , , , , , , 00:20:46, 00:32:14, 00:11:28, Event UTC, Event Seperation
+,,, Eclipse, 043:00:42:37, , , , , , , , , , , , , , , , , , , , , , , , 00:42:37, , , Event UTC, Event Seperation
+,X,"WPS-70487,TR4", S-Band Pass, 043:00:59:38, , , , , , , , , , , 043:01:10:48, , , , , , , , , , , , , 00:59:38, 01:10:48, 00:11:10, Event UTC, Event Seperation
+,X,WPS-70487, X-Band Pass, 043:01:00:52, , , , , , , , , , , 043:01:10:00, , , , , , , , , , , , , 01:00:52, 01:10:00, 00:09:08, Event UTC, Event Seperation
+750,,"Noveau Quebec Night [JPL/E2]", Image, 043:01:11:06, 101, 227, 227, 103, 227, 227, 61.2833, -73.6667, 11, 5, 043:01:11:14, EO11032272014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 01:11:06, 01:11:14, 00:00:08, 01:11:14, Event Seperation
+,X,Clear WARP, Cmd, 043:01:11:30, , , , , , , , , , , 043:01:12:08, , , , , , , , , , , , , 01:11:30, 01:12:08, 00:00:38, Event UTC, Event Seperation
+,,, Light, 043:01:12:07, , , , , , , , , , , , , , , , , , , , , , , , 01:12:07, , , Event UTC, Event Seperation
+750,X,"Vlad 55 [JPL/E]", Image, 043:01:28:07, 117, 22, 22, 118, 22, 22, 55, 130, 4, 12, 043:01:28:15, EO11180222014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 01:28:07, 01:28:15, 00:00:08, 01:28:15, Event Seperation
+500,X,"Lukuhsiang 2008 [MSO/N]", Image, 043:01:36:46, 117, 44, 44, 117, 44, 44, 23.664, 120.796, 0, 15, 043:01:36:55, EO11170442014043110P0, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 01:36:46, 01:36:55, 00:00:09, 01:36:55, Event Seperation
+750,,"Batur [JPL/W]", Image, 043:01:45:22, 117, 65, 66, 116, 66, 66, -8.242, 115.375, 22, 17, 043:01:45:31, EO11160662014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 01:45:22, 01:45:31, 00:00:09, 01:45:31, Event Seperation
+750,,"Posadowsky Bay [JPL/E]", Image, 043:02:01:55, 117, 107, 107, 118, 107, 107, -66.75, 90, 9, 7, 043:02:02:03, EO11181072014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 02:01:55, 02:02:03, 00:00:08, 02:02:03, Event Seperation
+,,, Eclipse, 043:02:21:04, , , , , , , , , , , , , , , , , , , , , , , , 02:21:04, , , Event UTC, Event Seperation
+,,, Light, 043:02:50:34, , , , , , , , , , , , , , , , , , , , , , , , 02:50:34, , , Event UTC, Event Seperation
+,,, Eclipse, 043:03:59:32, , , , , , , , , , , , , , , , , , , , , , , , 03:59:32, , , Event UTC, Event Seperation
+,X,"PF1-70489,TR4", S-Band Pass, 043:04:25:29, , , , , , , , , , , 043:04:35:58, , , , , , , , , , , , , 04:25:29, 04:35:58, 00:10:29, Event UTC, Event Seperation
+,X,PF1-70489, X-Band Pass, 043:04:25:29, , , , , , , , , , , 043:04:35:42, , , , , , , , , , , , , 04:25:29, 04:35:42, 00:10:13, Event UTC, Event Seperation
+,,, Light, 043:04:29:02, , , , , , , , , , , , , , , , , , , , , , , , 04:29:02, , , Event UTC, Event Seperation
+,X,Clear WARP, Cmd, 043:04:37:12, , , , , , , , , , , 043:04:37:50, , , , , , , , , , , , , 04:37:12, 04:37:50, 00:00:38, Event UTC, Event Seperation
+,,, Eclipse, 043:05:38:00, , , , , , , , , , , , , , , , , , , , , , , , 05:38:00, , , Event UTC, Event Seperation
+,,, Light, 043:06:07:30, , , , , , , , , , , , , , , , , , , , , , , , 06:07:30, , , Event UTC, Event Seperation
+750,,"Prudhoe Bay Night [JPL/W4]", Image, 043:06:08:51, 149, 233, 233, 145, 233, 234, 70.336, -148.362, 8, 8, 043:06:08:59, EO11452332014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 06:08:51, 06:08:59, 00:00:08, 06:08:59, Event Seperation
+750,,"Q 77 [JPL/W6]", Image, 043:06:16:23, 165, 4, 4, 159, 5, 5, 77, 95, 12, 4, 043:06:16:31, EO11590052014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 06:16:23, 06:16:31, 00:00:08, 06:16:31, Event Seperation
+750,X,"Volga Chapayevsk [JPL/E]", Image, 043:06:25:08, 165, 26, 26, 166, 26, 26, 49.3005, 53.1514, 5, 11, 043:06:25:16, EO11660262014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 06:25:08, 06:25:16, 00:00:08, 06:25:16, Event Seperation
+500,X,"L7 Uniform Radiance 3 [Brakke/N]", Image, 043:06:33:23, 165, 47, 47, 165, 47, 47, 18.791, 46.078, 0, 0, 043:06:33:47, EO11650472014043110PP, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 06:33:23, 06:33:47, 00:00:24, 06:33:47, Event Seperation
+750,,"Shire [JPL/E2]", Image, 043:06:43:20, 165, 72, 72, 167, 71, 72, -16.5442, 35.1343, 2, 14, 043:06:43:28, EO11670712014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 06:43:20, 06:43:28, 00:00:08, 06:43:28, Event Seperation
+,X,"TR2-70490,TR4", S-Band Pass, 043:06:52:50, , , , , , , , , , , 043:07:05:34, , , , , , , , , , , , , 06:52:50, 07:05:34, 00:12:44, Event UTC, Event Seperation
+,X,TR2-70490, X-Band Pass, 043:06:52:50, , , , , , , , , , , 043:07:05:34, , , , , , , , , , , , , 06:52:50, 07:05:34, 00:12:44, Event UTC, Event Seperation
+750,,"Erskin Ice Port [JPL/W3]", Image, 043:06:57:58, 165, 108, 109, 162, 109, 109, -69.75, 19, 23, 16, 043:06:58:07, EO11621092014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 06:57:58, 06:58:07, 00:00:09, 06:58:07, Event Seperation
+,X,Clear WARP, Cmd, 043:07:07:04, , , , , , , , , , , 043:07:07:42, , , , , , , , , , , , , 07:07:04, 07:07:42, 00:00:38, Event UTC, Event Seperation
+,,, Eclipse, 043:07:16:27, , , , , , , , , , , , , , , , , , , , , , , , 07:16:27, , , Event UTC, Event Seperation
+,X,"PF2-70491,TR4", S-Band Pass, 043:07:40:04, , , , , , , , , , , 043:07:50:37, , , , , , , , , , , , , 07:40:04, 07:50:37, 00:10:33, Event UTC, Event Seperation
+,,PF2-70491, X-Band Pass, 043:07:40:33, , , , , , , , , , , 043:07:50:35, , , , , , , , , , , , , 07:40:33, 07:50:35, 00:10:02, Event UTC, Event Seperation
+750,,"Pavlof Night [JPL/W3]", Image, 043:07:43:03, 165, 222, 222, 162, 223, 223, 55.42, -161.887, 13, 3, 043:07:43:11, EO11622232014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 07:43:03, 07:43:11, 00:00:08, 07:43:11, Event Seperation
+,,, Light, 043:07:45:57, , , , , , , , , , , , , , , , , , , , , , , , 07:45:57, , , Event UTC, Event Seperation
+,,Clear WARP, Cmd, 043:07:52:05, , , , , , , , , , , 043:07:52:43, , , , , , , , , , , , , 07:52:05, 07:52:43, 00:00:38, Event UTC, Event Seperation
+750,,"Zara 75 [JPL/E3]", Image, 043:07:56:07, 181, 7, 7, 184, 7, 7, 75, 50, 14, 2, 043:07:56:15, EO11840072014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 07:56:07, 07:56:15, 00:00:08, 07:56:15, Event Seperation
+500,X,"L7 Uniform Radiance 4 [Brakke/N]", Image, 043:08:09:05, 181, 40, 40, 181, 40, 40, 28.8751, 23.7787, 0, 0, 043:08:09:29, EO11810402014043110PP, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 08:09:05, 08:09:29, 00:00:24, 08:09:29, Event Seperation
+750,X,"Maudheim [JPL/W]", Image, 043:08:37:02, 181, 110, 110, 180, 110, 110, -71, -11, 6, 9, 043:08:37:11, EO11801102014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 08:37:02, 08:37:11, 00:00:09, 08:37:11, Event Seperation
+,X,"MG1-70491,TR4", S-Band Pass, 043:08:39:01, , , , , , , , , , , 043:08:50:20, , , , , , , , , , , , , 08:39:01, 08:50:20, 00:11:19, Event UTC, Event Seperation
+,,, Eclipse, 043:08:54:55, , , , , , , , , , , , , , , , , , , , , , , , 08:54:55, , , Event UTC, Event Seperation
+750,,"Korovin Night [JPL/W2]", Image, 043:09:20:41, 181, 220, 220, 179, 220, 221, 52.38, 174.15, 11, 5, 043:09:20:49, EO11792202014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 09:20:41, 09:20:49, 00:00:08, 09:20:49, Event Seperation
+,,, Light, 043:09:24:25, , , , , , , , , , , , , , , , , , , , , , , , 09:24:25, , , Event UTC, Event Seperation
+750,,"Yuri 80 [JPL/W2]", Image, 043:09:32:26, 197, 2, 2, 195, 2, 2, 80, 55, 3, 13, 043:09:32:34, EO11950022014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 09:32:26, 09:32:34, 00:00:08, 09:32:34, Event Seperation
+750,,"France Saone [JPL/N]", Image, 043:09:42:26, 197, 27, 27, 197, 27, 27, 47.3217, 5.4443, 9, 7, 043:09:42:34, EO11970272014043110PF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 09:42:26, 09:42:34, 00:00:08, 09:42:34, Event Seperation
+500,X,"French agricultural site 2 [MSO/E]", Image, 043:09:43:43, 197, 30, 30, 198, 30, 30, 43.5494, 1.1078, 7, 8, 043:09:43:52, EO11980302014043110KB, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 09:43:43, 09:43:52, 00:00:09, 09:43:52, Event Seperation
+500,,"Mali_2013 [MSO/E]", Image, 043:09:50:19, 197, 47, 48, 198, 47, 48, 18.78, -4.89, 3, 20, 043:09:50:44, EO11980472014043110K3, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 09:50:19, 09:50:44, 00:00:25, 09:50:44, Event Seperation
+750,X,"Burkina Faso [JPL/W]", Image, 043:09:52:15, 197, 51, 52, 196, 52, 52, 12.01, -3.41, 21, 19, 043:09:52:23, EO11960522014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 09:52:15, 09:52:23, 00:00:08, 09:52:23, Event Seperation
+750,,"Belinda [JPL/E]", Image, 043:10:11:51, 197, 101, 101, 198, 101, 101, -58.436, -26.383, 7, 9, 043:10:11:59, EO11981012014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 10:11:51, 10:11:59, 00:00:08, 10:11:59, Event Seperation
+750,,"Gould Bay [JPL/W6]", Image, 043:10:17:25, 197, 115, 115, 191, 116, 116, -78, -45, 5, 11, 043:10:17:33, EO11911162014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 10:17:25, 10:17:33, 00:00:08, 10:17:33, Event Seperation
+,,, Eclipse, 043:10:33:23, , , , , , , , , , , , , , , , , , , , , , , , 10:33:23, , , Event UTC, Event Seperation
+,,, Light, 043:11:02:52, , , , , , , , , , , , , , , , , , , , , , , , 11:02:52, , , Event UTC, Event Seperation
+750,,"Terra Nova Bay Night [JPL/E5]", Image, 043:12:02:35, 213, 132, 132, 218, 131, 131, -74.6833, 164.133, 4, 12, 043:12:02:43, EO12181312014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 12:02:35, 12:02:43, 00:00:08, 12:02:43, Event Seperation
+,X,HGS-0, X-Band Pass, 043:12:05:45, , , , , , , , , , , 043:12:17:09, , , , , , , , , , , , , 12:05:45, 12:17:09, 00:11:24, Event UTC, Event Seperation
+,,, Eclipse, 043:12:11:50, , , , , , , , , , , , , , , , , , , , , , , , 12:11:50, , , Event UTC, Event Seperation
+625,,"Aso Night [JPL/W2]", Image, 043:12:32:12, 213, 206, 207, 211, 207, 207, 32.88, 131.1, 19, 20, 043:12:32:21, EO12112072014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 12:32:12, 12:32:21, 00:00:09, 12:32:21, Event Seperation
+,,, Light, 043:12:41:20, , , , , , , , , , , , , , , , , , , , , , , , 12:41:20, , , Event UTC, Event Seperation
+,X,"SG1-70494,TR4", S-Band Pass, 043:12:43:09, , , , , , , , , , , 043:12:55:21, , , , , , , , , , , , , 12:43:09, 12:55:21, 00:12:12, Event UTC, Event Seperation
+,X,SG1-70494, X-Band Pass, 043:12:43:33, , , , , , , , , , , 043:12:55:06, , , , , , , , , , , , , 12:43:33, 12:55:06, 00:11:33, Event UTC, Event Seperation
+,X,Clear WARP, Cmd, 043:12:56:36, , , , , , , , , , , 043:12:57:14, , , , , , , , , , , , , 12:56:36, 12:57:14, 00:00:38, Event UTC, Event Seperation
+,,, Eclipse, 043:13:50:18, , , , , , , , , , , , , , , , , , , , , , , , 13:50:18, , , Event UTC, Event Seperation
+,,, Light, 043:14:19:47, , , , , , , , , , , , , , , , , , , , , , , , 14:19:47, , , Event UTC, Event Seperation
+750,,"Umanak [JPL/N]", Image, 043:14:31:09, 12, 10, 10, 12, 10, 10, 70.75, -52.5, 11, 5, 043:14:31:17, EO10120102014043110PF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 14:31:09, 14:31:17, 00:00:08, 14:31:17, Event Seperation
+500,X,"Bartlett Experimental Forest 2008 [MSO/N]", Image, 043:14:38:54, 12, 29, 30, 12, 29, 30, 44.065, -71.288, 17, 20, 043:14:39:05, EO10120292014043110P0, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 14:38:54, 14:39:05, 00:00:11, 14:39:05, Event Seperation
+750,X,"Los rios ecuador [JPL/W2]", Image, 043:14:51:27, 12, 61, 61, 10, 61, 62, -1.90305, -79.6664, 10, 6, 043:14:51:35, EO10100612014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 14:51:27, 14:51:35, 00:00:08, 14:51:35, Event Seperation
+,,, Eclipse, 043:15:28:45, , , , , , , , , , , , , , , , , , , , , , , , 15:28:45, , , Event UTC, Event Seperation
+,X,"SG1-70496,TR4", S-Band Pass, 043:15:57:42, , , , , , , , , , , 043:16:09:40, , , , , , , , , , , , , 15:57:42, 16:09:40, 00:11:58, Event UTC, Event Seperation
+,X,SG1-70496, X-Band Pass, 043:15:57:51, , , , , , , , , , , 043:16:09:21, , , , , , , , , , , , , 15:57:51, 16:09:21, 00:11:30, Event UTC, Event Seperation
+,,, Light, 043:15:58:15, , , , , , , , , , , , , , , , , , , , , , , , 15:58:15, , , Event UTC, Event Seperation
+750,,"Foxe 69 [JPL/N]", Image, 043:16:10:10, 28, 11, 12, 28, 11, 12, 69, -80, 20, 20, 043:16:10:18, EO10280112014043110PF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 16:10:10, 16:10:18, 00:00:08, 16:10:18, Event Seperation
+,X,Clear WARP, Cmd, 043:16:10:51, , , , , , , , , , , 043:16:11:29, , , , , , , , , , , , , 16:10:51, 16:11:29, 00:00:38, Event UTC, Event Seperation
+500,,"ARM-CART Ponca City 2008 [MSO/N]", Image, 043:16:19:15, 28, 34, 35, 28, 34, 35, 36.77, -97.13, 17, 20, 043:16:19:26, EO10280342014043110P3, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 16:19:15, 16:19:26, 00:00:11, 16:19:26, Event Seperation
+,,, Eclipse, 043:17:07:13, , , , , , , , , , , , , , , , , , , , , , , , 17:07:13, , , Event UTC, Event Seperation
+,,, Light, 043:17:36:43, , , , , , , , , , , , , , , , , , , , , , , , 17:36:43, , , Event UTC, Event Seperation
+500,X,"Hackett River HYP [MSO/N]", Image, 043:17:49:43, 44, 14, 14, 44, 14, 14, 65.6116, -107.9606, 7, 8, 043:17:49:52, EO10440142014043110K4, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 17:49:43, 17:49:52, 00:00:09, 17:49:52, Event Seperation
+500,X,"HYS Jasper Ridge [MSO/N]", Image, 043:17:57:33, 44, 34, 35, 44, 34, 35, 37.4021, -122.221, 1, 22, 043:17:57:58, EO10440342014043110P1, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 17:57:33, 17:57:58, 00:00:25, 17:57:58, Event Seperation
+,,, Eclipse, 043:18:45:41, , , , , , , , , , , , , , , , , , , , , , , , 18:45:41, , , Event UTC, Event Seperation
+,,, Light, 043:19:15:10, , , , , , , , , , , , , , , , , , , , , , , , 19:15:10, , , Event UTC, Event Seperation
+,X,"PF2-70498,TR4", S-Band Pass, 043:19:22:42, , , , , , , , , , , 043:19:34:43, , , , , , , , , , , , , 19:22:42, 19:34:43, 00:12:01, Event UTC, Event Seperation
+,X,PF2-70498, X-Band Pass, 043:19:23:11, , , , , , , , , , , 043:19:34:32, , , , , , , , , , , , , 19:23:11, 19:34:32, 00:11:21, Event UTC, Event Seperation
+,X,Clear WARP, Cmd, 043:19:36:02, , , , , , , , , , , 043:19:36:40, , , , , , , , , , , , , 19:36:02, 19:36:40, 00:00:38, Event UTC, Event Seperation
+625,,"Halemaumau HI [JPL/E2]", Image, 043:19:41:13, 60, 47, 47, 62, 46, 47, 19.4075, -155.283, 6, 9, 043:19:41:22, EO10620462014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 19:41:13, 19:41:22, 00:00:09, 19:41:22, Event Seperation
+500,X,"Thurston [MSO/E2]", Image, 043:19:41:18, 60, 47, 47, 62, 46, 47, 19.4142, -155.234, 4, 7, 043:19:41:31, EO10620462014043110KH, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 19:41:18, 19:41:31, 00:00:13, 19:41:31, Event Seperation
+750,X,"Blood Falls [JPL/W3]", Image, 043:20:08:27, 60, 115, 115, 57, 115, 116, -77.7219, 162.274, 12, 4, 043:20:08:35, EO10571152014043110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 20:08:27, 20:08:35, 00:00:08, 20:08:35, Event Seperation
+,,, Eclipse, 043:20:24:08, , , , , , , , , , , , , , , , , , , , , , , , 20:24:08, , , Event UTC, Event Seperation
+,,, Light, 043:20:53:38, , , , , , , , , , , , , , , , , , , , , , , , 20:53:38, , , Event UTC, Event Seperation
+,,, Eclipse, 043:22:02:36, , , , , , , , , , , , , , , , , , , , , , , , 22:02:36, , , Event UTC, Event Seperation
+,X,"SG1-70500,TR4", S-Band Pass, 043:22:31:00, , , , , , , , , , , 043:22:40:52, , , , , , , , , , , , , 22:31:00, 22:40:52, 00:09:52, Event UTC, Event Seperation
+,X,SG1-70500, X-Band Pass, 043:22:31:32, , , , , , , , , , , 043:22:40:23, , , , , , , , , , , , , 22:31:32, 22:40:23, 00:08:51, Event UTC, Event Seperation
+,,, Light, 043:22:32:05, , , , , , , , , , , , , , , , , , , , , , , , 22:32:05, , , Event UTC, Event Seperation
+,X,Clear WARP, Cmd, 043:22:41:53, , , , , , , , , , , 043:22:42:31, , , , , , , , , , , , , 22:41:53, 22:42:31, 00:00:38, Event UTC, Event Seperation
+,,, Eclipse, 043:23:41:03, , , , , , , , , , , , , , , , , , , , , , , , 23:41:03, , , Event UTC, Event Seperation
+,,, Light, 044:00:10:33, , , , , , , , , , , , , , , , , , , , , , , , 00:10:33, , , Event UTC, Event Seperation
+750,X,"Dmitri 74 [JPL/E4]", Image, 044:00:21:16, 107, 8, 8, 111, 7, 8, 74, 160, 14, 2, 044:00:21:24, EO11110072014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 00:21:16, 00:21:24, 00:00:08, 00:21:24, Event Seperation
+500,X,"Okuma A [MSO/N]", Image, 044:00:31:25, 107, 34, 34, 107, 34, 34, 37.42, 140.984, 3, 4, 044:00:31:42, EO11070342014044110K2, 0, 0, ALI, C, MS/PAN, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 00:31:25, 00:31:42, 00:00:17, 00:31:42, Event Seperation
+625,,"Nishino-shima [JPL/W2]", Image, 044:00:34:02, 107, 41, 41, 105, 41, 41, 27.274, 140.882, 3, 13, 044:00:34:10, EO11050412014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 00:34:02, 00:34:10, 00:00:08, 00:34:10, Event Seperation
+750,,"Lake Gilmore WA [JPL/E2]", Image, 044:00:50:51, 107, 83, 83, 109, 82, 83, -32.62, 121.57, 5, 11, 044:00:50:59, EO11090822014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 00:50:51, 00:50:59, 00:00:08, 00:50:59, Event Seperation
+750,,"Vincennes Bay [JPL/W]", Image, 044:01:00:13, 107, 106, 107, 106, 106, 107, -66.5, 110, 19, 21, 044:01:00:21, EO11061062014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 01:00:13, 01:00:21, 00:00:08, 01:00:21, Event Seperation
+,,, Eclipse, 044:01:19:31, , , , , , , , , , , , , , , , , , , , , , , , 01:19:31, , , Event UTC, Event Seperation
+,,, Light, 044:01:49:00, , , , , , , , , , , , , , , , , , , , , , , , 01:49:00, , , Event UTC, Event Seperation
+750,,"Resolute Bay Night [JPL/W]", Image, 044:01:51:53, 107, 236, 237, 106, 237, 237, 74.5, -94.9167, 23, 17, 044:01:52:01, EO11062372014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 01:51:53, 01:52:01, 00:00:08, 01:52:01, Event Seperation
+750,,"Lena bestyakh [JPL/E3]", Image, 044:02:02:13, 123, 15, 15, 126, 14, 14, 65.2993, 124.43, 1, 15, 044:02:02:21, EO11260142014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 02:02:13, 02:02:21, 00:00:08, 02:02:21, Event Seperation
+500,X,"Dinghushan  China [MSO/N]", Image, 044:02:13:54, 123, 44, 44, 123, 44, 44, 23.1558, 112.511, 6, 9, 044:02:14:03, EO11230442014044110T2, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 02:13:54, 02:14:03, 00:00:09, 02:14:03, Event Seperation
+750,X,"Galunggung [JPL/W2]", Image, 044:02:22:09, 123, 65, 65, 121, 65, 65, -7.25, 108.058, 2, 14, 044:02:22:17, EO11210652014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 02:22:09, 02:22:17, 00:00:08, 02:22:17, Event Seperation
+750,,"Ingrid Christensen Coast [JPL/E]", Image, 044:02:39:17, 123, 108, 108, 124, 108, 108, -68, 80, 6, 10, 044:02:39:25, EO11241082014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 02:39:17, 02:39:25, 00:00:08, 02:39:25, Event Seperation
+,,, Eclipse, 044:02:57:59, , , , , , , , , , , , , , , , , , , , , , , , 02:57:59, , , Event UTC, Event Seperation
+750,,"Gow Night [JPL/E2]", Image, 044:03:25:14, 123, 223, 224, 125, 223, 224, 56.45, -104.483, 23, 17, 044:03:25:22, EO11252232014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 03:25:14, 03:25:22, 00:00:08, 03:25:22, Event Seperation
+,X,"PF1-70503,TR4", S-Band Pass, 044:03:26:23, , , , , , , , , , , 044:03:35:13, , , , , , , , , , , , , 03:26:23, 03:35:13, 00:08:50, Event UTC, Event Seperation
+,X,PF1-70503, X-Band Pass, 044:03:26:23, , , , , , , , , , , 044:03:34:56, , , , , , , , , , , , , 03:26:23, 03:34:56, 00:08:33, Event UTC, Event Seperation
+,,, Light, 044:03:27:28, , , , , , , , , , , , , , , , , , , , , , , , 03:27:28, , , Event UTC, Event Seperation
+750,,"Igor 78 [JPL/W3]", Image, 044:03:36:18, 139, 3, 4, 136, 4, 4, 78, 135, 24, 16, 044:03:36:26, EO11360042014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 03:36:18, 03:36:26, 00:00:08, 03:36:26, Event Seperation
+,X,Clear WARP, Cmd, 044:03:36:26, , , , , , , , , , , 044:03:37:04, , , , , , , , , , , , , 03:36:26, 03:37:04, 00:00:38, Event UTC, Event Seperation
+500,X,"South Col [MSO/E]", Image, 044:03:51:00, 139, 40, 41, 140, 40, 41, 27.988, 86.925, 17, 5, 044:03:51:26, EO11400402014044110K1, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 03:51:00, 03:51:26, 00:00:26, 03:51:26, Event Seperation
+750,X,"William Scoresby Archipelago [JPL/W2]", Image, 044:04:17:30, 139, 107, 107, 137, 107, 107, -67.25, 60, 8, 8, 044:04:17:38, EO11371072014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 04:17:30, 04:17:38, 00:00:08, 04:17:38, Event Seperation
+,,, Eclipse, 044:04:36:26, , , , , , , , , , , , , , , , , , , , , , , , 04:36:26, , , Event UTC, Event Seperation
+750,,"Mt St Helens Night [JPL/N]", Image, 044:05:00:43, 139, 216, 216, 139, 216, 216, 46.2, -122.18, 11, 5, 044:05:00:51, EO11392162014044110PF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 05:00:43, 05:00:51, 00:00:08, 05:00:51, Event Seperation
+,,, Light, 044:05:05:56, , , , , , , , , , , , , , , , , , , , , , , , 05:05:56, , , Event UTC, Event Seperation
+750,,"Novy 79 [JPL/N]", Image, 044:05:14:36, 155, 3, 3, 155, 3, 3, 79, 110, 13, 3, 044:05:14:44, EO11550032014044110PF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 05:14:36, 05:14:44, 00:00:08, 05:14:44, Event Seperation
+500,X,"Shortandy Kazhstan HYP [MSO/N]", Image, 044:05:22:59, 155, 24, 24, 155, 24, 24, 51.57, 71.26, 10, 5, 044:05:23:08, EO11550242014044110TA, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 05:22:59, 05:23:08, 00:00:09, 05:23:08, Event Seperation
+750,X,"Pakistan 3905 [JPL/N]", Image, 044:05:30:22, 155, 42, 43, 155, 42, 43, 25.15, 62.38, 24, 16, 044:05:30:30, EO11550422014044110PF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 05:30:22, 05:30:30, 00:00:08, 05:30:30, Event Seperation
+750,,"Piton de la Fournaise [JPL/W2]", Image, 044:05:42:51, 155, 74, 75, 153, 75, 75, -21.23, 55.71, 18, 22, 044:05:42:59, EO11530752014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 05:42:51, 05:42:59, 00:00:08, 05:42:59, Event Seperation
+,,, Eclipse, 044:06:14:54, , , , , , , , , , , , , , , , , , , , , , , , 06:14:54, , , Event UTC, Event Seperation
+,X,"PF2-70505,TR4", S-Band Pass, 044:06:38:15, , , , , , , , , , , 044:06:50:10, , , , , , , , , , , , , 06:38:15, 06:50:10, 00:11:55, Event UTC, Event Seperation
+,X,PF2-70505, X-Band Pass, 044:06:38:41, , , , , , , , , , , 044:06:49:55, , , , , , , , , , , , , 06:38:41, 06:49:55, 00:11:14, Event UTC, Event Seperation
+,,, Light, 044:06:44:23, , , , , , , , , , , , , , , , , , , , , , , , 06:44:23, , , Event UTC, Event Seperation
+750,,"Ivotuk Night [JPL/W3]", Image, 044:06:45:20, 155, 231, 232, 152, 232, 232, 68.4833, -155.75, 23, 17, 044:06:45:28, EO11522322014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 06:45:20, 06:45:28, 00:00:08, 06:45:28, Event Seperation
+,X,Clear WARP, Cmd, 044:06:51:25, , , , , , , , , , , 044:06:52:03, , , , , , , , , , , , , 06:51:25, 06:52:03, 00:00:38, Event UTC, Event Seperation
+750,,"Winter 76 [JPL/E5]", Image, 044:06:54:27, 171, 7, 7, 176, 6, 6, 76, 65, 1, 15, 044:06:54:35, EO11760062014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 06:54:27, 06:54:35, 00:00:08, 06:54:35, Event Seperation
+750,,"Tigris Samarra [JPL/W2]", Image, 044:07:06:03, 171, 36, 36, 169, 36, 37, 34.0864, 43.868, 9, 7, 044:07:06:11, EO11690362014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 07:06:03, 07:06:11, 00:00:08, 07:06:11, Event Seperation
+500,X,"Jinja [MSO/N]", Image, 044:07:15:35, 171, 60, 60, 171, 60, 60, 0.4, 33.18, 0, 15, 044:07:15:44, EO11710602014044110T7, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 07:15:35, 07:15:44, 00:00:09, 07:15:44, Event Seperation
+750,,"Siple Night [JPL/N]", Image, 044:07:44:21, 171, 132, 132, 171, 132, 132, -73.43, -126.67, 11, 5, 044:07:44:29, EO11711322014044110PF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 07:44:21, 07:44:29, 00:00:08, 07:44:29, Event Seperation
+,,, Eclipse, 044:07:53:22, , , , , , , , , , , , , , , , , , , , , , , , 07:53:22, , , Event UTC, Event Seperation
+750,,"Kanaga Night [JPL/E2]", Image, 044:08:19:25, 171, 220, 221, 173, 220, 220, 51.923, -177.168, 20, 20, 044:08:19:33, EO11732202014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 08:19:25, 08:19:33, 00:00:08, 08:19:33, Event Seperation
+,,, Light, 044:08:22:51, , , , , , , , , , , , , , , , , , , , , , , , 08:22:51, , , Event UTC, Event Seperation
+750,X,"Zara 75 [JPL/W3]", Image, 044:08:32:53, 187, 6, 7, 184, 7, 7, 75, 50, 16, 24, 044:08:33:01, EO11840072014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 08:32:53, 08:33:01, 00:00:08, 08:33:01, Event Seperation
+501,,"Beskidy mtns [MSO/E]", Image, 044:08:40:28, 187, 26, 26, 188, 25, 26, 49.6, 18.81, 1, 14, 044:08:40:37, EO11880252014044110K4, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 08:40:28, 08:40:37, 00:00:09, 08:40:37, Event Seperation
+625,,"Etna [JPL/E]", Image, 044:08:43:47, 187, 34, 34, 188, 34, 34, 37.72, 15, 9, 7, 044:08:43:55, EO11880342014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 08:43:47, 08:43:55, 00:00:08, 08:43:55, Event Seperation
+500,X,"Libya 1 [MSO/N]", Image, 044:08:47:29, 187, 43, 43, 187, 43, 43, 24.42, 13.35, 10, 5, 044:08:47:38, EO11870432014044110T2, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 08:47:29, 08:47:38, 00:00:09, 08:47:38, Event Seperation
+750,,"Cameroon [JPL/N]", Image, 044:08:52:55, 187, 57, 57, 187, 57, 57, 4.203, 9.17, 10, 6, 044:08:53:03, EO11870572014044110PF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 08:52:55, 08:53:03, 00:00:08, 08:53:03, Event Seperation
+750,,"Gould Bay [JPL/E4]", Image, 044:09:16:33, 187, 116, 117, 191, 116, 116, -78, -45, 17, 23, 044:09:16:41, EO11911162014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 09:16:33, 09:16:41, 00:00:08, 09:16:41, Event Seperation
+,,, Eclipse, 044:09:31:49, , , , , , , , , , , , , , , , , , , , , , , , 09:31:49, , , Event UTC, Event Seperation
+750,,"Raoul Island Night [JPL/N]", Image, 044:09:35:23, 187, 164, 164, 187, 164, 164, -29.27, -177.92, 2, 14, 044:09:35:31, EO11871642014044110PF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 09:35:23, 09:35:31, 00:00:08, 09:35:31, Event Seperation
+625,X,"Gorely Night [JPL/E2]", Image, 044:09:58:10, 187, 221, 221, 189, 220, 221, 52.558, 158.03, 6, 10, 044:09:58:18, EO11892202014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 09:58:10, 09:58:18, 00:00:08, 09:58:18, Event Seperation
+,,, Light, 044:10:01:18, , , , , , , , , , , , , , , , , , , , , , , , 10:01:18, , , Event UTC, Event Seperation
+750,,"Hod 76 [JPL/E2]", Image, 044:10:11:14, 203, 6, 6, 205, 6, 6, 76, 20, 15, 1, 044:10:11:22, EO12050062014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 10:11:14, 10:11:22, 00:00:08, 10:11:22, Event Seperation
+500,X,"Mitra (Evora) [MSO/N]", Image, 044:10:22:58, 203, 35, 36, 203, 35, 36, 35.09, -8, 22, 17, 044:10:23:07, EO12030352014044110T2, 0, 0, ALI, C, MS/PAN, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 10:22:58, 10:23:07, 00:00:09, 10:23:07, Event Seperation
+750,,"South Georgia Island [JPL/E3]", Image, 044:10:47:56, 203, 98, 99, 206, 98, 98, -54.5, -37, 19, 21, 044:10:48:04, EO12060982014044110KF, 0, 0, ALI, C, HYPERION, FALSE, TRUE, TRUE, Within Spec, Within Spec, EDC, 10:47:56, 10:48:04, 00:00:08, 10:4

@@ -1,0 +1,2254 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        [Keyword='TSHANE']
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                SAFARI 2000 AVHRR DAILY SITE (1.5 KM) AND 15-DAY REGIONAL (1.5- AND 6-KM) IMAGERY
+            
+        
+
+        
+        
+            Entry ID:
+            
+                S2K_RS_AVHRR_IMAGERY
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+        
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            The Global Inventory Mapping and Modeling (GIMMS) group at NASA/GSFC provided SAFARI 2000 with remotely sensed satellite data products at the site and regional level. These AVHRR data contain two main sets of data: site extracts of SAFARI core sites (Mongu, Etosha, Kasungu, Maun, Skukuza, and Tshane), and regional 15-day composites from sets of single-day images. These AVHRR data contain four main  ... sets of data:1.5 km daily site extracts of SAFARI core sites (2000)1.5 km 15-day composites of SAFARI core sites (1998-2000)1.5 km 15-day composites of the southern African region (Mar, Sept 2000)6 km 15-day composites of the southern African region (1998-2000)The primary data layers for site extracts and regional composites are fire pixel counts and maximum NDVI. The fire product is different for the daily and for the composited products (see readme file) and a fire product is not included in the 1.5 km regional data set. NDVI composite-associated data layers for the regional data sets include land surface temperature, reflectance, solar zenith angle, view zenith angle, and relative azimuth angle. NDVI composite-associated data layers for the site extracts include these same variables as well as brightness temperature, fire mask composite, latitude, and longitude. The data are stored in binary image format files. There is a metadata file for each site and date/compositing period, in ASCII format. 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                SAFARI 2000 AVHRR DAILY SITE (1.5 KM) AND 15-DAY REGIONAL (1.5- AND 6-KM) IMAGERY 
+                            
+
+                        
+			
+                        
+                    
+		    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: -7.49
+                                
+                            	 	
+                                
+                                    S: -35.26
+                                
+                            	 	
+                                
+                                    E: 43.2
+                                
+                            	 	
+                                
+                                    W: 8.73
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            KENDALL, J.MORAHAN, A.S.TUCKER, C.J.
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Title: 
+                            SAFARI 2000 AVHRR DAILY SITE (1.5 KM) AND 15-DAY REGIONAL (1.5- AND 6-KM) IMAGERY
+                        
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Release Date: 
+                            2005
+                         
+
+                    
+                    
+                    
+                        
+                            Dataset Release Place: 
+                            Oak Ridge, Tennessee, U.S.A.
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            Oak Ridge National Laboratory Distributed Active Archive Center
+                        
+
+                    
+                    
+                    
+                    
+                    
+
+
+                    
+                    
+                    
+                        
+                            Data Presentation Form: 
+                            Online Files
+                        
+
+                    
+
+                    
+
+                    
+                       
+                          
+                               Dataset DOI: 
+                                
+                                
+                                 doi:10.3334/ORNLDAAC/822
+                                  
+                           
+
+                       
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        http://mercury.ornl.gov/ornldaac/send/query?term2=822&term2attribut...
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1998-07-01
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        2000-10-31
+                    
+
+                
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > SOUTHERN AFRICA
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                BIOSPHERE
+                            
+                            
+                                >
+                                VEGETATION
+                            
+                            
+                                >
+                                VEGETATION INDEX
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                LAND SURFACE
+                            
+                            
+                                >
+                                LAND TEMPERATURE
+                            
+                            
+                                >
+                                LAND SURFACE TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+                        
+                	
+		
+                    
+                    
+                        
+                            
+                                LAND SURFACE
+                            
+                            
+                                >
+                                SURFACE RADIATIVE PROPERTIES
+                            
+                            
+                                >
+                                REFLECTANCE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                LAND SURFACE
+                            
+                            
+                                >
+                                SURFACE RADIATIVE PROPERTIES
+                            
+                            
+                                >
+                                THERMAL PROPERTIES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SPECTRAL/ENGINEERING
+                            
+                            
+                                >
+                                INFRARED WAVELENGTHS
+                            
+                            
+                                >
+                                BRIGHTNESS TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOSPHERE
+                            
+                            
+                                >
+                                ECOLOGICAL DYNAMICS
+                            
+                            
+                                >
+                                FIRE ECOLOGY
+                            
+                            
+                                >
+                                FIRE OCCURRENCE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            BIOTA
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOSCIENTIFIC INFORMATION
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            IMAGERY/BASE MAPS/EARTH COVER
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    NOAA-14
+                                    
+                                        >
+                                        National Oceanic & Atmospheric Administration-14
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+		    
+                
+
+
+    
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            AVHRR
+                            
+                                >
+                                Advanced Very High Resolution Radiometer
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+	    
+        
+
+
+    
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            EOSDIS
+                            
+                                >
+                                Earth Observing System Data Information System
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ESIP
+                            
+                                >
+                                Earth Science Information Partners Program
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SAFARI 2000
+                            
+                                >
+                                The Southern African Regional Science Initiative Project
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CWIC
+                            
+                                >
+                                CEOS WGISS Integrated Catalog
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            MAUN
+                    
+
+		    
+                
+                    
+                    
+                        
+                            FIRE
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            NDVI
+                    
+
+		    
+                
+                    
+                    
+                        
+                            MONGU
+                    
+
+		    
+                
+                    
+                    
+                        
+                            TSHANE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ETOSHA
+                    
+
+		    
+                
+                    
+                    
+                        
+                            EOSDIS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            AVHRR
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SKUKUZA
+                    
+
+		    
+                
+                    
+                    
+                        
+                            KASUNGU
+                    
+
+		    
+                
+                    
+                    
+                        
+                            VEGETATION
+                    
+
+		    
+                
+                    
+                    
+                        
+                            REFLECTANCE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SAFARI 2000
+                    
+
+		    
+                
+                    
+                    
+                        
+                            BIOMASS BURNING
+                    
+
+		    
+                
+                    
+                    
+                        
+                            BRIGHTNESS TEMPERATURE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            LAND SURFACE TEMPERATURE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            NORMALIZED DIFFERENCE VEGETATION INDEX
+                    
+
+		    
+                
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            COMPLETE
+        
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                THE OAK RIDGE NATIONAL LABORATORY (ORNL) DISTRIBUTED ACTIVE ARCHIVE CENTER (DAAC)
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://daac.ornl.gov/
+
+                        
+                    
+                    
+                    
+                        
+                            Dataset ID: 
+                            822 
+
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    
+                                                    
+                                                    ORNL DAAC USER SERVICES OFFICE
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            (865) 574-7447
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            uso at daac.ornl.gov
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        ORNL DAAC User Services Office
+
+                                                                    
+                                                                        Oak Ridge National Laboratory
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Oak Ridge
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                TN
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                37831-6407
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+ 
+          
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        JACKIE
+                        
+                        KENDALL
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                Jacqueline.D.Kendall at nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                
+                 
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        
+                        
+                        ORNL DAAC USER SERVICES OFFICE
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                (865) 574-7447
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                uso at daac.ornl.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                ORNL DAAC User Services Office
+
+                                            
+                                                Oak Ridge National Laboratory
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Oak Ridge
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    TN
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    37831-6407
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+            
+             
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Extended Metadata Properties
+
+        
+            
+            (Click to view more)
+        
+
+        
+            
+
+            
+
+            
+                Extended Metadata Properties From GCMD
+
+                metadata.extraction_date: 2014-11-23 19:09:35
+metadata.keyword_version: 8.0
+metadata.uuid: 4827ca46-5ba7-48dc-8096-520434e3e947
+
+            
+        
+
+    
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+            
+                DIF Creation Date:
+                2005-12-19
+            
+
+        
+        
+            
+                Last DIF Revision Date:
+                2012-05-23
+            
+
+        
+        
+    
+
+ 
+ 
+
+             
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                Reformat as ISO 19115 document
+            
+        
+    
+
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                              
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+        
+
+
+
+
+
+    
+
+
+
+
+                    
+                    
+                
+
+            
+
+            
+
+        
+
+    
+
+    
+    
+
+    
+
+
+
+
+
+
+
+
+    
+        	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+   
+
+
+
+
+    
+        	
+            
+        
+            + 
+                NASA Privacy Policy and Important Notices 
+
+
+    
+
+    
+    
+        
+            
+                
+        
+
+        	
+                Webmaster:
+                Monica Holland
+            
+	
+                Responsible NASA Official:
+                Dr. Stephen Wharton
+            
+	Last updated: November 2014
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+

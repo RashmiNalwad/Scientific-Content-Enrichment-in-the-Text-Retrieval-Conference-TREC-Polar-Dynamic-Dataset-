@@ -1,0 +1,963 @@
+
+
+
+
+	 
+        
+
+	
+            
+                	
+            
+                
+	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                
+
+
+
+
+
+        
+        	 
+                
+        
+                
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Agriculture
+	
+
+	
+		
+	
+		Atmosphere
+	
+
+	
+		
+	
+		Biological Classification
+	
+
+	
+		
+	
+		Biosphere
+	
+
+	
+		
+	
+		Climate Indicators
+	
+
+	
+		
+	
+		Cryosphere
+	
+
+	
+		
+	
+		Human Dimensions
+	
+
+	
+		
+	
+		Land Surface
+	
+
+	
+		
+	
+		Oceans
+	
+
+	
+		
+	
+		Paleoclimate
+	
+
+	
+		
+	
+		Solid Earth
+	
+
+	
+		
+	
+		Spectral/Engineering
+	
+
+	
+		
+	
+		Sun-Earth Interactions
+	
+
+	
+		
+	
+		Terrestrial Hydrosphere
+	
+
+	
+	
+
+	
+		
+Data Centers
+
+	
+		 
+Locations
+
+	
+		
+Instruments
+
+	
+		
+Platforms/Sources
+
+	
+		
+Projects
+
+
+
+
+
+
+
+                
+                
+                	
+                    	
+	
+	
+
+
+                    
+                    	
+                            	
+                            
+
+
+
+
+
+
+
+
+
+
+
+     
+    [ 
+    
+        
+            Return to Record
+         
+    ]
+
+
+
+
+
+	
+            
+
+
+
+
+
+
+
+
+
+Firn Air Isotope and Temperature Measurements from Siple Dome and South Pole
+
+      Federal Geographic Data Committee (FGDC) Metadata:
+
+      	Identification_Information
+	Data_Quality_Information
+	Spatial_Reference_Information
+	
+               Distribution_Information
+               
+	Metadata_Reference_Information
+
+
+         
+	Identification_Information:
+	
+            	Citation:
+	
+                  	Citation_Information:
+	
+                        	Originator: J.P. Severinghaus, A. Grachev, and M. Battle
+                           
+	Publication_Date: 20010101
+                           
+	Title: Firn Air Isotope and Temperature Measurements from Siple Dome and South Pole
+                           
+	Edition: 
+	Geospatial_Data_Presentation_Form: 
+	Series_Information: 
+	
+                              	Series_Name: 
+	Issue_Identification: 
+
+
+                           
+	Publication_Information: 
+	
+                              	Publication_Place: Boulder, Colorado USA
+                                 
+	Publisher: NSIDC: National Snow and Ice Data Center
+                                 
+
+
+                           
+	Other_Citation_Details: 
+	
+	Online_Linkage: http://nsidc.org/data/NSIDC-0098
+
+
+                     
+
+
+               
+	Description:
+	
+                  	Abstract:
+	
+                        
+                        This data set includes d15N, d18O/2, dO2/N2/4, d40Ar/4, d38/Ar/2, d84Kr/48, and d132Xe/96 values for air drawn from the top
+                        15 to 50 m of firn at the South Pole (summer and winter 1998) and a site at Siple Dome (summers 1996 and 1998). Data also
+                        include related firn temperature measurements.  The objective of this research was to better understand thermal fractionation
+                        processes affecting records of atmospheric history from firn and ice core gases.  Recent work (e.g., Severinghaus and Brook,
+                        1999) has exploited trapped air in ice and deep firn as a record of past atmospheric composition and climate change. Interpretation
+                        of these paleoclimate archives is complicated by artifacts of thermal diffusion, a process in which heavier gases migrate
+                        down temperature gradients toward colder regions in the firn. Seasonal temperature change at the snow surface creates strong
+                        temperature gradients in the top few meters of the firn, which cause isotopic fractionation of firn gases.  A specific goal
+                        of this research is to identify any long-term effects of seasonal temperature fluctuations on firn air isotopic anomalies.
+                        
+                        
+                     
+	Purpose:
+	Not Available
+	Supplemental_Information:
+	 REFERENCE: 
+                        Severinghaus, J.P., A. Grachev, and M. Battle. 2001. Thermal fractionation of air in polar firn by seasonal temperature gradients.
+                        Geochemistry, Geophysics, Geosystems [online journal] 2: Paper no. 2000GC000146.  Severinghaus, J.P. and E.J. Brook, 1999.
+                        Abrupt climate change at the end of the last glacial period inferred from trapped air in polar ice. Science 286: 930-934.
+                        
+                     
+
+
+               
+	Status:
+	
+                  	Progress: Complete
+                     
+	Maintenance_and_Update_Frequency: As needed
+                     
+
+
+               
+	Spatial_Domain:
+	
+                  	Description_of_Geographic_Extent:
+	
+	Bounding_Coordinates:
+	
+                        	West_Bounding_Coordinate: -102.0
+                           
+	East_Bounding_Coordinate: -102.0
+                           
+	North_Bounding_Coordinate: -89.997
+                           
+	South_Bounding_Coordinate: -89.997
+                           
+
+
+                     
+
+
+               
+	Spatial_Domain:
+	
+                  	Description_of_Geographic_Extent:
+	
+	Bounding_Coordinates:
+	
+                        	West_Bounding_Coordinate: -148.767
+                           
+	East_Bounding_Coordinate: -148.767
+                           
+	North_Bounding_Coordinate: -81.667
+                           
+	South_Bounding_Coordinate: -81.667
+                           
+
+
+                     
+
+
+               
+	Keywords:
+	
+                  	Theme:
+	
+                        	Theme_Keyword_Thesaurus: GCMD SCIENCE PARAMETERS
+                           
+	Theme_Keyword_Thesaurus: GCMD PLATFORM
+                           
+	Theme_Keyword_Thesaurus: GCMD INSTRUMENT
+                           
+	Theme_Keyword_Thesaurus: ANCILLARY KEYWORDS
+                           
+	Theme_Keyword_Thesaurus: ISO TOPIC CATEGORY
+                           
+	Theme_Keyword_Thesaurus: DATA SET LANGUAGE
+                           
+	Theme_Keyword: EARTH SCIENCE > PALEOCLIMATE > ICE CORE RECORDS > ICE CORE AIR BUBBLES > FIRN AIR
+                           
+	Theme_Keyword: EARTH SCIENCE > PALEOCLIMATE > ICE CORE RECORDS > ISOTOPES > FIRN AIR ISOTOPES
+                           
+	Theme_Keyword: EARTH SCIENCE > CRYOSPHERE > GLACIERS/ICE SHEETS > ICE SHEETS > FIRN AIR ISOTOPES
+                           
+	Theme_Keyword: EARTH SCIENCE > TERRESTRIAL HYDROSPHERE > GLACIERS/ICE SHEETS > ICE SHEETS > FIRN AIR ISOTOPES
+                           
+	Theme_Keyword: EARTH SCIENCE > CRYOSPHERE > SNOW/ICE > SNOW/ICE TEMPERATURE > FIRN TEMPERATURE
+                           
+	Theme_Keyword: EARTH SCIENCE > TERRESTRIAL HYDROSPHERE > SNOW/ICE > SNOW/ICE TEMPERATURE > FIRN TEMPERATURE
+                           
+	Theme_Keyword: GROUND STATIONS
+                           
+	Theme_Keyword: GROUND-BASED OBSERVATIONS
+                           
+	Theme_Keyword: FLASKS
+                           
+	Theme_Keyword: MASS SPECTROMETERS
+                           
+	Theme_Keyword: THERMISTORS
+                           
+	Theme_Keyword: Antarctica
+                           
+	Theme_Keyword: Argon Isotopes
+                           
+	Theme_Keyword: Atmospheric Gases
+                           
+	Theme_Keyword: Boreholes
+                           
+	Theme_Keyword: Firn Air Isotope Measurements
+                           
+	Theme_Keyword: Firn Air Isotopes
+                           
+	Theme_Keyword: Firn Isotopes
+                           
+	Theme_Keyword: Firn Temperature Measurements
+                           
+	Theme_Keyword: Gas Isotopes
+                           
+	Theme_Keyword: Ice Core Gas Records
+                           
+	Theme_Keyword: Isotopic Anomalies
+                           
+	Theme_Keyword: Isotopic History
+                           
+	Theme_Keyword: Krypton
+                           
+	Theme_Keyword: Mass Spectrometers
+                           
+	Theme_Keyword: Mass Spectrometry
+                           
+	Theme_Keyword: Nitrogen Isotopes
+                           
+	Theme_Keyword: Nsidc
+                           
+	Theme_Keyword: Nsidc-0098
+                           
+	Theme_Keyword: Oxygen Isotopes
+                           
+	Theme_Keyword: Polar Firn Air
+                           
+	Theme_Keyword: Seasonal Temperature Changes
+                           
+	Theme_Keyword: Seasonal Temperature Gradients
+                           
+	Theme_Keyword: Shallow Firn Air
+                           
+	Theme_Keyword: Siple Dome
+                           
+	Theme_Keyword: South Pole
+                           
+	Theme_Keyword: Thermal Diffusion
+                           
+	Theme_Keyword: Thermal Fractionation
+                           
+	Theme_Keyword: Trapped Air Bubbles
+                           
+	Theme_Keyword: Xenon
+                           
+	Theme_Keyword: GEOSCIENTIFIC INFORMATION
+                           
+	Theme_Keyword: CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                           
+	Theme_Keyword: INLAND WATERS
+                           
+	Theme_Keyword: ENGLISH
+                           
+
+
+                     
+	Place:
+	
+                        	Place_Keyword_Thesaurus: GCMD
+                           
+	Place_Keyword: CONTINENT > ANTARCTICA
+                           
+	Place_Keyword: GEOGRAPHIC REGION > POLAR
+                           
+
+
+                     
+
+
+               
+	Access_Constraints: Not Available
+               
+	Use_Constraints:
+	Not Available
+	Point_of_Contact:
+	
+                  	Contact_Information:
+	
+                        	Contact_Person_Primary:
+	
+                              	Contact_Person: NSIDC USER SERVICES 
+                                 
+
+
+                           
+	Contact_Position: TECHNICAL CONTACT
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: National Snow and Ice Data Center 
+                                 
+	Address: CIRES, 449 UCB 
+                                 
+	Address: University of Colorado 
+                                 
+	City: Boulder
+                                 
+	State_or_Province: CO
+                                 
+	Postal_Code: 80309-0449
+                                 
+	Country: USA
+                                 
+
+
+                           
+	Contact_Voice_Telephone: +1 (303) 492-6199
+                           
+	Contact_Facsimile_Telephone: +1 (303) 492-2468
+                           
+	Contact_Electronic_Mail_Address: nsidc@nsidc.org
+                           
+
+
+                     
+
+
+               
+	Browse_Graphic:
+	
+                  	Browse_Graphic_File_Name: http://nsidc.org/data/docs/agdc/nsidc0098_severinghaus/images/nsi0098_locator.jpg
+	Browse_Graphic_File_Description:
+	Sample Location Map
+	Browse_Graphic_File_Type: 
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Data_Quality_Information:
+	
+            	Attribute_Accuracy:
+	
+                  	Attribute_Accuracy_Report:
+	Not Available
+
+
+               
+	Logical_Consistency_Report:
+	Not Available
+	Completeness_Report:
+	Not Available
+	Lineage:
+
+	Process_Step:
+	
+                     	Process_Description:
+	Not Available
+	Process_Date: Unknown
+                        
+
+
+                  
+
+
+            
+
+
+         
+      Back to Top
+         
+	Spatial_Reference_Information:
+	
+            	Vertical_Coordinate_System_Definition:
+	
+                  	Altitude_System_Definition:
+	
+                        	Altitude_Datum_Name: Not Available
+                           
+	Altitude_Resolution: 1 m to 9 m
+                           
+	Altitude_Distance_Units: Not Available
+                           
+	Altitude_Encoding_Method: Implicit coordinate
+                           
+
+
+                     
+	Depth_System_Definition:
+	
+                        	Depth_Datum_Name: Not Available
+                           
+	Depth_Resolution: 1 m to 9 m
+                           
+	Depth_Distance_Units: Not Available
+                           
+	Depth_Encoding_Method: Implicit coordinate
+                           
+
+
+                     
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Distribution_Information:
+	
+            	Distributor:
+	
+                  	Contact_Information:
+	
+                        	Contact_Organization_Primary:
+	
+                              	Contact_Organization: NSIDC_USADCC > NSIDC U.S. Antarctic Data Coordination Center
+                                 
+	Contact_Person: NSIDC USADCC USER SERVICES 
+                                 
+
+
+                           
+	Contact_Position: DATA CENTER CONTACT
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: National Snow and Ice Data Center 
+                                 
+	Address: CIRES, 449 UCB 
+                                 
+	Address: University of Colorado 
+                                 
+	City: Boulder
+                                 
+	State_or_Province: CO
+                                 
+	Postal_Code: 80309-0449
+                                 
+	Country: USA
+                                 
+
+
+                           
+	Contact_Voice_Telephone: +1 (303) 492-6199
+                           
+	Contact_Facsimile_Telephone: +1 (303) 492-2468
+                           
+	Contact_Electronic_Mail_Address: nsidc@nsidc.org
+                           
+
+
+                     
+
+
+               
+	Distributor:
+	
+                  	Contact_Information:
+	
+                        	Contact_Organization_Primary:
+	
+                              	Contact_Organization: NSIDC > National Snow and Ice Data Center
+                                 
+	Contact_Person: NSIDC USER SERVICES 
+                                 
+
+
+                           
+	Contact_Position: DATA CENTER CONTACT
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: National Snow and Ice Data Center 
+                                 
+	Address: CIRES, 449 UCB 
+                                 
+	Address: University of Colorado 
+                                 
+	City: Boulder
+                                 
+	State_or_Province: CO
+                                 
+	Postal_Code: 80309-0449
+                                 
+	Country: USA
+                                 
+
+
+                           
+	Contact_Voice_Telephone: +1 (303) 492-6199
+                           
+	Contact_Facsimile_Telephone: +1 (303) 492-2468
+                           
+	Contact_Electronic_Mail_Address: nsidc@nsidc.org
+                           
+
+
+                     
+
+
+               
+	Distributor:
+	
+                  	Contact_Information:
+	
+                        	Contact_Organization_Primary:
+	
+                              	Contact_Organization: NSIDC_AGDC > NSIDC Antarctic Glaciological Data Center
+                                 
+	Contact_Person: NSIDC AGDC USER SERVICES 
+                                 
+
+
+                           
+	Contact_Position: DATA CENTER CONTACT
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: National Snow and Ice Data Center 
+                                 
+	Address: CIRES, 449 UCB 
+                                 
+	Address: University of Colorado 
+                                 
+	City: Boulder
+                                 
+	State_or_Province: CO
+                                 
+	Postal_Code: 80309-0449
+                                 
+	Country: USA
+                                 
+
+
+                           
+	Contact_Voice_Telephone: +1 (303) 492-6199
+                           
+	Contact_Facsimile_Telephone: +1 (303) 492-2468
+                           
+	Contact_Electronic_Mail_Address: nsidc@nsidc.org
+                           
+
+
+                     
+
+
+               
+	Resource_Description: NSIDC-0098
+               
+	Distribution_Liability:
+	Not Available
+	Standard_Order_Process:
+	
+                  	Digital_Form:
+	
+                        	Digital_Transfer_Information:
+	
+                              	Format_Name: Microsoft Excel
+                                 
+	Format_Name: ASCII Text (.txt)
+                                 
+	Transfer_Size: 1 - 5 KB
+                                 
+	Transfer_Size: 1 - 5 KB
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://nsidc.org/usadcc/
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	DATA CENTER URL
+
+
+                                 
+	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://nsidc.org
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	DATA CENTER URL
+
+
+                                 
+	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://nsidc.org/agdc/
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	DATA CENTER URL
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              
+
+                           
+
+
+                     
+	Fees: Not Available
+                     
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Metadata_Reference_Information:
+	
+            	Metadata_Date: 20010101
+               
+	Metadata_Review_Date: 20140716
+               
+	Metadata_Contact:
+	
+                  	Contact_Information:
+	
+                        	Contact_Person_Primary:
+	
+                              	Contact_Person: GCMD User Support Office
+                                 
+	Contact_Organization: NASA Global Change Master Directory
+                                 
+
+
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: Not Available
+                                 
+	City: Lanham
+                                 
+	State_or_Province: MD
+                                 
+	Postal_Code: 20706
+                                 
+	Country: USA
+                                 
+
+
+                           
+	Contact_Voice_Telephone: Not Available
+                           
+	Contact_Electronic_Mail_Address: gcmduso@gcmd.gsfc.nasa.gov
+                           
+
+
+                     
+
+
+               
+	Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+               
+	Metadata_Standard_Version: FGDC-STD-001-1998
+               
+	Metadata_Time_Convention: local time
+               
+
+
+         
+
+Back to Top
+
+
+
+     
+    [ 
+    
+        
+            Return to Record
+         
+    ]
+
+
+
+
+                            
+                        
+                                        
+                    
+                               
+            
+                
+        
+
+
+	
+            
+                
+        	
+            
+                
+                    NASA Privacy Policy and Important Notices
+            
+
+            
+                Responsible NASA Official:  
+                
+                    Dr. Stephen Wharton
+
+                Webmaster:  
+                
+                    Monica Lyles
+                  ·  Contact 
+                
+                    GCMD User Support for assistance
+            
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+    
+

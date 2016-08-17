@@ -1,0 +1,3867 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        [Parent_DIF='CEDAR_NCAR_HAO']
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+    
+        
+        
+            
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                Middle Atmosphere Radars (MST, MF, LF, Meteor Wind, and ST Radars) in the CEDAR Data Base from NCAR/HAO
+            
+        
+
+        
+        
+            Entry ID:
+            
+                CEDAR_MIDDLE_ATM_RADARS
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+        
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            The Coupling, Energetics, and Dynamics of Atmospheric Regions (CEDAR) 
+ Data Base at NCAR/HAO holds data collected from middle atmosphere 
+ radars including MST radars, MF radars (partial reflection), LF 
+ radars, meteor wind radars, and ST radars with Meteor Echo Detection 
+ and Collection (MEDAC) systems. Data in the CEDAR Data Base consist 
+ of the following: 
+ 
+ MST Radars measure line-of-sight neutral  ... winds and turbulence. These 
+ are: 
+ 1. MST data from Arecibo, Puerto Rico (18.35N, 66.75W). Data from 1989 
+ are in the CEDAR Data Base. The radar has been in operation since 
+ 1979. The contact person is Qihou Zhou. The Arecibo Observatory is 
+ operated by Cornell University under an agreement with the NSF. 
+ 
+ 2. MST data from Poker Flat, Alaska (65.13N, 147.46W). Data from 
+ 1979-1985 are in the CEDAR Data Base. The radar operated between 1979 
+ and 1985 and form 1985-1987. The contact person is Anthony Riddle. The 
+ Poker Flat MST radar was operated by NOAA Aeronomy Laboratory with 
+ support from NSF. 
+ 
+ MF Radars measure neutral winds and are averaged over several days and 
+ analyzed in terms of harmonics. Derived parameters are the harmonic 
+ analyses of the neutral winds. The following MF radar data sets are 
+ available: 
+ 
+ 1. MF radar data from Scott Base, Antarctica (77.85S, 16675E). The 
+ radar has been in operation since 1982. The contact person is Grahame 
+ Fraser. The Scott Base MF radar is operated by the University of 
+ Canterbury Physics Group with support from the New Zealand Grants 
+ Committee and the New Zealand Antarctic Research Programme. 
+ 
+ 2. MF radar data from Mawson, Antarctica (67.62S, 62.89E). Data from 
+ June 1984 to November 1990 are in the CEDAR Data Base. The radar has 
+ been in operation since 1984. The contact person is Robert 
+ Vincent. The Mawson MF radar is operated by the Atmospheric Physics 
+ Group, University of Adelaide with support from the Australian 
+ Research Council. 
+ 
+ 3. MF radar data from Christchurch, New Zealand (43.83S, 
+ 172.68E). Data in the CEDAR Data Base are from September 21-25, 
+ 1987. The radar has been in operation since 1962. The contact person 
+ is Grahame Fraser. The Christchurch MF radar is operated by the 
+ University of Canterbury Physics Group with support from the New 
+ Zealand Grants Committee. 
+ 
+ 4. MF radar data from Adelaide, Australia (34.56S, 138.48E). Data from 
+ Sep. 21-25, 1987; Dec 4-10, 1988; and, May 30-June 4, 1989 are in the 
+ CEDAR Data Base. The radar has been in operation since 1983. The 
+ contact person is Robert Vincent. The Adelaide MF radar is operated by 
+ the Atmospheric Physics Group, University of Adelaide with support 
+ from the Australian Research Council. 
+ 
+ 5. MF radar data from Saskatoon, Canada (52.21N, 107.11W). Data from 
+ Sep. 21-25, 1987; Dec 4-10, 1988; May 30-June 4, 1989; and Feb 12-17, 
+ 1990 are in the CEDAR Data Base. The radar has been in operation since 
+ 1978. The contact person is Alan Manson. The Saskatoon MF radar is 
+ operated by the University of Saskatchewan with support from the 
+ Natural Sciences and Engineering Council of Canada. 
+ 
+ 6. MF radar data from Tromso, Norway (69.60N, 19.2E). Data from 
+ Sep. 21-25, 1987; Dec 4-10, 1988; May 30-June 4, 1989; and Feb 12-17, 
+ 1990 are in the CEDAR Data Base. The radar has been in operation since 
+ 1987. The contact people are Chris Hall (for radar) and Alan Manson 
+ (for winds). The Tromso MF radar is operated by the University of 
+ Tromso and the University of Saskatchewan with support from the 
+ Natural Sciences and Engineering Research Council of Canada. 
+ 
+ LF Radar data in the CEDAR Data Base are: 
+ 1. LF radar data from Collm, Germany (52N, 15E). Data since 1993 are 
+ available in the CEDAR Data Base. The radar has been in operation 
+ since 1956. The contact person is Rudolph Schminder. The Collm LF 
+ winprofiler is operated by the University of Leipzig. 
+ 
+ Meteor Wind Radar data in the CEDAR Data Base are: 
+ 1. ST with MEDAC radar data from Chistmas Island (1,95N, 157.3W). Data 
+ between September 1988 and August 1989, and between January and 
+ November 1990 are in the CEDAR Data Base. The radar has been in 
+ operation since 1988. The contact person is Susan Avery. The Christmas 
+ island ST radar is operated by NOAA Aeronomy Laboratory. The MEDAC 
+ system is operated by the University of Colorado with support from the 
+ NSF. 
+ 
+ 2. meteor wind radar data from Atlanta, Georgia, USA (34N, 84W). Data 
+ from 1974-1987 are in the CEDAR Data Base. The radar has been in 
+ operation since 1987. The contact person is Roger G. Roper. The 
+ Georgia Tech Radio Meteor Wind Facility was initially funded by the 
+ Georgia Institute of Technology. From 1971 to 1990 it was supported by 
+ the NSF. 
+ 
+ 3. meteor wind radar data from Durham, New Hampshire, USA (43.12N, 
+ 70.94W). Monthly averages from 1978-1982 are in the CEDAR Data 
+ Base. The radar hs been in operation since 1974. The contact person is 
+ Ronald Clark. The University of New Hampshire Meteor Radar system is 
+ operated by the Electrical and Computer Engineering Department, 
+ University of New Hampshire with support from the NSF. 
+ 
+ 4. ST with MEDAC radar data from Platteville, CO (40.13N, 
+ 104.5W). Data from dec 4-10, 1988) are in the CEDAR Data Base. The 
+ radar has been in operation since 1988. The contact person is Susan 
+ Avery. The Platteville ST radar is operated by NOAA's Wave Propagation 
+ Laboratory. The MEDAC is operated by the University of Colorado with 
+ support from the NSF. 
+ 
+ The CEDAR Data Base is accessible through the WWW and ftp, but users 
+ must have a valid access form, available from the WWW or ftp (see 
+ Access and Use constraints) or contact Barbara Emery 
+ (emery@hao.ucar.edu). See the WWW site for additonal information on 
+ accessing the data and Rules of the Road procedures. 
+ 
+ http://cedarweb.hao.ucar.edu/catalog/Rules.html 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                CEDAR Data Base Catalogue 
+                            
+
+                        
+			
+                        
+                    
+		    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+            
+            
+            
+            
+        
+            
+            
+            
+            
+        
+            
+            
+            
+            
+        
+            
+            
+            
+            
+        
+            
+            
+            
+            
+        
+            
+            
+            
+            
+        
+            
+            
+            
+            
+        
+            
+            
+            
+            
+        
+            
+            
+            
+            
+        
+            
+            
+            
+            
+        
+            
+            
+            
+            
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 19.0
+                                
+                            	 	
+                                
+                                    S: 18.0
+                                
+                            	 	
+                                
+                                    E: -66.0
+                                
+                            	 	
+                                
+                                    W: -67.0
+                                
+                            
+
+
+        
+            	 	
+                                
+                                    N: 66.0
+                                
+                            	 	
+                                
+                                    S: 65.0
+                                
+                            	 	
+                                
+                                    E: -147.0
+                                
+                            	 	
+                                
+                                    W: -148.0
+                                
+                            
+
+
+        
+            	 	
+                                
+                                    N: -76.0
+                                
+                            	 	
+                                
+                                    S: -77.0
+                                
+                            	 	
+                                
+                                    E: 167.0
+                                
+                            	 	
+                                
+                                    W: 166.0
+                                
+                            
+
+
+        
+            	 	
+                                
+                                    N: -67.0
+                                
+                            	 	
+                                
+                                    S: -68.0
+                                
+                            	 	
+                                
+                                    E: 63.0
+                                
+                            	 	
+                                
+                                    W: 62.0
+                                
+                            
+
+
+        
+            	 	
+                                
+                                    N: -43.0
+                                
+                            	 	
+                                
+                                    S: -44.0
+                                
+                            	 	
+                                
+                                    E: 173.0
+                                
+                            	 	
+                                
+                                    W: 172.0
+                                
+                            
+
+
+        
+            	 	
+                                
+                                    N: -34.0
+                                
+                            	 	
+                                
+                                    S: -35.0
+                                
+                            	 	
+                                
+                                    E: 139.0
+                                
+                            	 	
+                                
+                                    W: 138.0
+                                
+                            
+
+
+        
+            	 	
+                                
+                                    N: 53.0
+                                
+                            	 	
+                                
+                                    S: 52.0
+                                
+                            	 	
+                                
+                                    E: -107.0
+                                
+                            	 	
+                                
+                                    W: -108.0
+                                
+                            
+
+
+        
+            	 	
+                                
+                                    N: 70.0
+                                
+                            	 	
+                                
+                                    S: 69.0
+                                
+                            	 	
+                                
+                                    E: 20.0
+                                
+                            	 	
+                                
+                                    W: 19.0
+                                
+                            
+
+
+        
+            	 	
+                                
+                                    N: 52.0
+                                
+                            	 	
+                                
+                                    S: 52.0
+                                
+                            	 	
+                                
+                                    E: 15.0
+                                
+                            	 	
+                                
+                                    W: 15.0
+                                
+                            
+
+
+        
+            	 	
+                                
+                                    N: 2.0
+                                
+                            	 	
+                                
+                                    S: 1.0
+                                
+                            	 	
+                                
+                                    E: -157.0
+                                
+                            	 	
+                                
+                                    W: -158.0
+                                
+                            
+
+
+        
+            	 	
+                                
+                                    N: 34.0
+                                
+                            	 	
+                                
+                                    S: 34.0
+                                
+                            	 	
+                                
+                                    E: -84.0
+                                
+                            	 	
+                                
+                                    W: -84.0
+                                
+                            
+
+
+        
+            	 	
+                                
+                                    N: 44.0
+                                
+                            	 	
+                                
+                                    S: 43.0
+                                
+                            	 	
+                                
+                                    E: -70.0
+                                
+                            	 	
+                                
+                                    W: -71.0
+                                
+                            
+
+
+        
+            	 	
+                                
+                                    N: 41.0
+                                
+                            	 	
+                                
+                                    S: 40.0
+                                
+                            	 	
+                                
+                                    E: -104.0
+                                
+                            	 	
+                                
+                                    W: -105.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            CEDAR
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Title: 
+                            Middle Atmosphere Radars
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Series Name: 
+                            CEDAR Data Base
+                        
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Release Place: 
+                            Boulder, CO
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            NCAR/HAO
+                        
+
+                    
+                    
+                    
+                    
+                    
+
+
+                    
+                    
+                    
+
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        http://cedarweb.hao.ucar.edu/catalog/cat.toctext.html
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Parent DIF 
+
+        
+        
+            This data set description is a member of a collection. The
+            collection is described in
+
+            
+                
+                    
+                        CEDAR_NCAR_HAO
+
+                    
+                
+                
+
+            
+        
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1979-01-01
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        1990-12-31
+                    
+
+                
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > ATLANTIC OCEAN
+                            
+                            
+                                > NORTH ATLANTIC OCEAN
+                            
+                            
+                                > CARIBBEAN SEA
+                            
+                            
+                                > PUERTO RICO
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AUSTRALIA/NEW ZEALAND
+                            
+                            
+                                > AUSTRALIA
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > EUROPE
+                            
+                            
+                                > WESTERN EUROPE
+                            
+                            
+                                > GERMANY
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > EUROPE
+                            
+                            
+                                > NORTHERN EUROPE
+                            
+                            
+                                > SCANDINAVIA
+                            
+                            
+                                > NORWAY
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > NORTH AMERICA
+                            
+                            
+                                > CANADA
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > NORTH AMERICA
+                            
+                            
+                                > UNITED STATES OF AMERICA
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > INDIAN OCEAN
+                            
+                            
+                                > CHRISTMAS ISLAND
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AUSTRALIA/NEW ZEALAND
+                            
+                            
+                                > NEW ZEALAND
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ANTARCTICA
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > POLAR
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            VERTICAL LOCATION
+                            
+                                > IONOSPHERE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            VERTICAL LOCATION
+                            
+                                > MESOSPHERE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            VERTICAL LOCATION
+                            
+                                > THERMOSPHERE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+		
+                    
+
+                    
+                        
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC WINDS
+                            
+                            
+                                >
+                                TURBULENCE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC WINDS
+                            
+                            
+                                >
+                                UPPER LEVEL WINDS
+                            
+                            
+                            
+                            
+                                >
+                                NEUTRAL WINDS
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+		
+            
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    GROUND STATIONS
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+		    
+                
+
+
+    
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            RADAR
+                            
+                                >
+                                Radio Detection and Ranging
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            WIND PROFILERS
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+	    
+        
+
+
+    
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CEDAR
+                            
+                                >
+                                Coupling, Energetics, and Dynamics of Atmospheric Regions
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ESIP
+                            
+                                >
+                                Earth Science Information Partners Program
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Quality
+        
+            Refer to individual contacts for information. 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Access Constraints
+        
+            Data are accessible via CEDAR WWW site, ftp and/or from individual 
+ CEDAR investigators. 
+ 
+ Access to the CEDAR Data Base requires submission of an access form 
+ available from: 
+ http://cedarweb.hao.ucar.edu/catalog/accreq.html 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Use Constraints
+        
+            Use of CEDAR data must follow established Rules of the Road: 
+ http://cedarweb.hao.ucar.edu/catalog/Rules.html 
+ 
+ Acknowledgement of the instruments and of the CEDAR Data Base is required. 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CEDAR
+                    
+
+		    
+                
+                    
+                    
+                        
+                            LF RADARS
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            MEDAC
+                    
+
+		    
+                
+                    
+                    
+                        
+                            METEOR WIND RADARS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            MF RADARS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            MLT
+                    
+
+		    
+                
+                    
+                    
+                        
+                            MST RADARS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            NCRA
+                    
+
+		    
+                
+                    
+                    
+                        
+                            NEUTRAL WINDS
+                    
+
+		    
+                
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            COMPLETE
+        
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        NCAR/HAO
+                    
+                
+
+                
+            
+	    
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Coupling, Energetics and Dynamics of Atmospheric Regions, High Altitude Observatory, National Center for Atmospheric Research, UCAR
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://cedarweb.hao.ucar.edu/
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    BARBARA
+                                                    
+                                                    EMERY
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            (303) 497-1596
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            (303) 497-1589
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            emery at ucar.edu
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        National Center for Atmospheric Research
+
+                                                                    
+                                                                        High Altitude Observatory
+
+                                                                    
+                                                                        P.O. Box 3000
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Boulder
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                CO
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                80307
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    ftp, WWW
+                
+
+            
+            
+            
+                
+                    Distribution Size: 
+                    varies
+                
+
+            
+            
+            
+                
+                    Distribution Format: 
+                    varies
+                
+
+            
+            
+            
+                
+                    Fees: 
+                    None, may depend on cost of reproduction
+                
+
+            
+
+            
+                
+                
+                
+		
+            
+        
+
+    
+
+
+ 
+          
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        SUSAN
+                        
+                        AVERY
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                303-492-7427
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                303-492-2199
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                susan.avery at colorado.edu
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                University of Colorado
+
+                                            
+                                                Campus Box 425
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Boulder
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    CO
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    80309
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                 
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        RONALD
+                        
+                        CLARK
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                603-862-1033
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                603-862-2030
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                ron.clark at unh.edu
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                University of New Hampshire
+
+                                            
+                                                Kingsbury-ECE
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Durham
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    NH
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    03824
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        GRAHAME
+                        
+                        FRASER
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +64 3 364 2987
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                g.fraser at phys.canterbury.ac.nz
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Department of Physics and Astronomy
+
+                                            
+                                                University of Canterbury,
+
+                                            
+                                                Private Bag 4800
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Christchurch
+                                
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    New Zealand
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        CHRIS
+                        
+                        HALL
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                (47) 83-44000
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                (47) 83-89852
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Institute of Mathematics and Physical Science
+
+                                            
+                                                University of Tromso
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Norway
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        GENE
+                        R.
+                        MAJOR
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                gsfc-gcmduso at mail.nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        ALLAN
+                        
+                        MANSON
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                306-966-6444
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                306-966-6400
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                manson at skisas.usask.ca
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Institute of Space and Atmospheric Studies
+
+                                            
+                                                University of Saskatchewan
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Saskatoon
+                                
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Canada
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        ANTHONY
+                        
+                        RIDDLE
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                303-497-3752
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                303-497-5373
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                ariddle at al.noaa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                NOAA/Aeronomy Laboratory
+
+                                            
+                                                325 Broadway
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Boulder
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    CO
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    80302
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        ROGER
+                        R.
+                        ROPER
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                404-894-3892
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                404-853-0232
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                roper at eas.gatech.edu
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Earth and Atmospheric Sciences
+
+                                            
+                                                Georgia Institute of Technology
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Atlanta
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    GA
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    30332-0340
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        RALPH
+                        
+                        SCHMINDER
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                (49) 3435-920320
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                (49) 3435-930222
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                schminde at rz.uni-leipzig.de
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Collm Geophysical Observatory
+
+                                            
+                                                University of Leipzig
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Collm
+                                
+
+                            
+                            
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    D-04758
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    GERMANY
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        ROBERT
+                        A.
+                        VINCENT
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 8 8303 6125
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                rvincent at physics.adelaide.edu.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                University of Adelaide
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        QIHOU
+                        
+                        ZHOU
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                809-878-2612
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                809-878-1861
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                zhou at naic.edu
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Arecibo Observatory
+
+                                            
+                                                P.O. Box 995
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    ARECIBO
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    00612
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    PUERTO RICO
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+            
+             
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            Emery, B.A. and Barnes, R. M. 1998. CEDAR Data Base 
+ Catalogue. National Center for Atmospheric Research (NCAR), Boulder, 
+ CO. http://cedarweb.hao.ucar.edu/catalog/cat.toctext.html 
+
+MST RADARS 
+ Balsley, B.B., W.L. Ecklund, D.A. Carter, and P.E. Johnson, The MST 
+ radar at Poker Flat, Alaska, Radio Sci., 15, 213-223, 1980. 
+
+Hardy, K.R. and K.S. Gage, The history of radar studies of the clear 
+ atmosphere, chapter 17 of Radar in Meteorology, editor D. Atlas, 
+ Am. Meteorological Soc., Boston, 130-142, 1990. 
+
+Rottger, J., The MST radar technique, Handbook for MAP, Vol. 13, 
+ 187-232, 1984. 
+
+MF RADARS 
+ Briggs, B. H., The analysis of spaced sensor records by correlation 
+ techniques, Handbook for Middle Atmosphere Program, Vol. 13, 166-186, 
+ 1984. 
+
+Fraser, G. J., Partial-reflection spaced antenna wind measurements, 
+ Chapter 15 of Ground-based techniques, Handbook for Middle Atmosphere 
+ Program, Vol. 13, 233-247, 1984. 
+
+Gregory, J. B., C. E. Meek, A. H. Manson and D. G. Stephenson, 
+ Developments in the radiowave drifts technique for measurement of 
+ high-altitude winds, J. Applied Met., 18, 682-691, 1979. 
+
+Meek, C. E., An efficient method for analysing ionospheric drifts 
+ data, J. Atmos. Terr. Phys., 42, 835-839, 1980. 
+
+LF RADARS 
+ Schminder, R. and D. Kurschner, D1 LF wind measurements in the 90 to 
+ 100 km height range, Handbook for Middle Atmosphere Program, Vol. 13, 
+ 248-261, 1984. 
+
+METEOR WIND RADARS 
+ Avery, S. K., J. P. Avery, and T. A. Valentic, A new meteor echo 
+ detection and collection system: Christmas Island mesospheric winds 
+ measurements, Radio Sci., 25, 657-670, 1990. 
+
+Groves, G. V., A theory for determining upper atmosphere winds from 
+ radar observations on meteor trails, J. Atmos. Terr. Phys., 16, 
+ 344-356, 1959. 
+
+McKinley, D. W. R., Meteor Science and Engineering, McGraw-Hill, 1961. 
+
+Roper, R. G., MWR - Meteor Wind Radars, Handbook for Middle Atmosphere 
+ Program, Vol. 13, 124-134, 1984. 
+
+
+
+        
+    
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Extended Metadata Properties
+
+        
+            
+            (Click to view more)
+        
+
+        
+            
+
+            
+
+            
+                Extended Metadata Properties From GCMD
+
+                metadata.extraction_date: 2015-02-21 04:51:05
+metadata.keyword_version: 8.0
+
+            
+        
+
+    
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+        
+            
+                Last DIF Revision Date:
+                2006-10-13
+            
+
+        
+        
+    
+
+ 
+ 
+
+             
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                Reformat as ISO 19115 document
+            
+        
+    
+
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                              
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+        
+
+
+
+
+
+    
+
+
+
+
+                    
+                    
+                
+
+            
+
+            
+
+        
+
+    
+
+    
+    
+
+    
+
+
+
+
+
+
+
+
+    
+        	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+   
+
+
+
+
+    
+        	
+            
+        
+            + 
+                NASA Privacy Policy and Important Notices 
+
+
+    
+
+    
+    
+        
+            
+                
+        
+
+        	
+                Webmaster:
+                Monica Lyles
+            
+	
+                Responsible NASA Official:
+                Dr. Stephen Wharton
+            
+	Last updated: February 2015
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2788 @@
+
+
+
+
+	 
+        
+
+	
+            
+                	
+            
+                
+	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                
+
+
+
+
+
+        
+        	 
+                
+        
+                
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Agriculture
+	
+
+	
+		
+	
+		Atmosphere
+	
+
+	
+		
+	
+		Biological Classification
+	
+
+	
+		
+	
+		Biosphere
+	
+
+	
+		
+	
+		Climate Indicators
+	
+
+	
+		
+	
+		Cryosphere
+	
+
+	
+		
+	
+		Human Dimensions
+	
+
+	
+		
+	
+		Land Surface
+	
+
+	
+		
+	
+		Oceans
+	
+
+	
+		
+	
+		Paleoclimate
+	
+
+	
+		
+	
+		Solid Earth
+	
+
+	
+		
+	
+		Spectral/Engineering
+	
+
+	
+		
+	
+		Sun-Earth Interactions
+	
+
+	
+		
+	
+		Terrestrial Hydrosphere
+	
+
+	
+	
+
+	
+		
+Data Centers
+
+	
+		 
+Locations
+
+	
+		
+Instruments
+
+	
+		
+Platforms/Sources
+
+	
+		
+Projects
+
+
+
+
+
+
+
+                
+                
+                	
+                    	
+	
+	
+
+
+                    
+                    	
+                            	
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+Record Search Query:
+Science Keywords>LAND SURFACE>SOILS
+
+
+	
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        
+            
+                Investigation of evaporation and biodegradation of fuel spills in Antarctica - a chemical approach using GC-FID
+            
+        
+
+        
+        
+            Entry ID:
+            
+                fuel_evaporation
+            
+            
+
+            
+
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+        
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                
+                    
+                    
+                        Update this Record
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+        
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            Evaporation Model for hydrocarbon spills. 
+ 
+ Developed by the Australian Antarctic Division to simulate fractionation of Special Antarctic Blend (SAB) and other diesel range fuels during evaporation. 
+ 
+ Text version of notes for excel model, please read me. 
+ 
+ This Package of files includes a &pdf& of the scientific paper, a readme word document and 3 excel files.  ... The purpose of the 3 excel files are as follows: 
+ 
+ Excel File 1. Evap Model_V1_single temperature.xls. Evaporation predictions with a single sample at one temperature. This file requires input of initial composition, composition after weathering and a single temperature. 
+ 
+ Excel File 2. Evap Model_V1_five temperatures.xls. As above but with the input of 5 different temperatures. 
+ 
+ Excel File 3. Evap Model_development version, derivation of data and AAD examples.xls This is an earlier development version of the numerical model. This file is intended to allow others to see how available Antoines equation parameters were originally fitted for use with other &R+UCM& regions. This file includes a worksheet where the fitting parameters for Antoines eqn were calculated, a necessary task to be able to extrapolate to compounds for which explicit vapour pressure data are not available. The data input sheet has some differences to the singe temperature and five temperature model as the &R+UCM& regions are split up differently. Also the assumptions about how the different classes of compound (i.e. the Aliphatic and aromatic classes) behave can be altered. Some raw data from the AAD evaporation experiment is included and plotted. The &Temperature comparisons& worksheet summarises how ratios of interest change and allows plotting of one ratio at different temperatures (see worksheet &Figs 2 and 3&). 
+ 
+ Read me about background to this excel file 
+ Background Notes 
+ 
+ This excel file estimates the relative evaporation rates of different hydrocarbons from a hydrocarbon mixture (i.e. a fuel). 
+ 
+ In this excel file, a single temperature is considered for an evaporating hydrocarbon mixture. The desired temperature and details about the hydrocarbon mixture are entered in the &Main Input page&. 
+ 
+ The model was developed for use with the bulk fuels used by the Australian Antarctic Division at Casey, Davis, Mawson and Macquarie Island. This fuel, Special Antarctic Blend (SAB) starts at C9. As some of the spill sites undergoing remediation are mixed with heavier lube range hydrocarbons the options for inputs go to C36 - a typical maximum when Total Petroleum Hydrocarbon analysis is undertaken. 
+ 
+ The model uses thermodynamic data where such data are available. Estimated thermodynamic data are used for components when specific data are unavailable. 
+ 
+ Other important information can be found in the sections listed below. 
+ References 
+ GC-FID data used in the model 
+ Temperature and Vapour pressure estimation 
+ Other corrections 
+ How the calculations are done 
+ Experimental data (that supports the approach taken in this excel file) 
+ 
+ Read me about References 
+ Notes about the scientific publication that this model is reported in. 
+ 
+ Paper can be obtained as a &.pdf& file from the Australian Antarctic Data Centre. The paper contains details on the evaporation experiments at +20 degrees C and -20 degrees C. The results from the experiments agree well with the calculated fractionation rates that this Excel file produces. 
+ 
+ Read me about GC-FID data for this model 
+ Notes about GC-FID data used in this excel model. 
+ 
+ This model was set up to directly use GC-FID data outputs for each of the compounds of GC regions listed. Consistent units are required for the areas of each measured region (and GC bias needs to be low across the range of fuel components). Note that the summation of all the regions and compounds = total area identified in the chromatogram from C9 up to C36. This range covers the observed range of components in SAB, Arctic Blend Diesel and lubes that may have been spilled in the same area. 
+ 
+ Read me about temperature / vapour pressure estimation 
+ Notes about Temperature correction method 
+ 
+ Raoults law and the Antoine equation are used to calculate the composition of the evaporating portion of the fuel mixture. Many notes on these equations exist on the web, 2 examples found in are given below but many more exist. 
+ 
+ http://members.aol.com/profchm/raoult.html 
+ http://antoine.frostburg.edu/chem/senese/101/liquids/faq/antoine-va... 
+ 
+ Vapour pressure data were obtained for a range of available hydrocarbons C9 and larger in the temperature ranges that covered the site temperature ranges, approx -20 degrees C to +20 degrees C. The available data were mostly limited to n-alkanes. This situation was exacerbated because other compounds of interest are solids at these temperatures when pure. Consequently vapour pressure data are not available for these components in the liquid form at these temperatures. 
+ 
+ The available n-alkane vapour pressure data were combined and a best fit of these data were determined as a function of effective Carbon Number (ECN). This allowed the estimation of the vapour pressure of fuel components with ECN's between the n-alkane ECN's. 
+ 
+ As a refinement each region of the chromatogram was split into 5 classes - 3 x aliphatic fractions and 2 x aromatic fractions. The ECN used to estimate Vapour pressure of each class was slightly modified from the average retention time relative to an n-alkane. This modification was carried out to correct for specific GC-column / compound interactions - interactions that increase from acyclic to cyclic to polycyclic to hindered aromatics [i.e. multiply alkylated] to unhindered aromatics. Examination of the evaporation behaviour of n-alkanes vs. the nearest ECN regions confirms the need for the correction with the calculated evaporation profiles better matching the observed profiles. 
+ 
+ When an n-alkane's evaporation rate is compared to a GC region with distinctly different vapour pressures these corrections to ECN make little or no difference to the predicted selectivity during evaporation. 
+ 
+ Read me about other corrections 
+ Notes about other corrections used in this model. 
+ 
+ This model does not include systems that are under diffusional control (i.e. limited by diffusion of hydrocarbons within the soil / fuel mixture). The assumptions in the model are for an evenly mixed liquid that is evaporating. The experiment was set up to avoid this problem (by rotating the flasks). 
+ 
+ Soil with evaporating fuels may well be affected by this and other problems. 
+ 
+ Read me about how calculations are done 
+ Notes about how the calculation is done 
+ 
+ The fuel is divided into a number of fuel classes and specific compounds are identified. These classes are listed in the &Main Input Page& ready for use with the example data or other fuel data in the appropriate fuel range. 
+ 
+ &R+UCM& stands for& Resolved + Unresolved Complex Mix& but needs to be calculated excluding the specifically identified compounds like n-alkanes. Specifically identified compounds are excluded from the R+UCM so they are not double counted. 
+ 
+ Mol fraction of each component is estimated. For specific compounds an exact molecular mass is known. For other R+UCM classes molecular mass is estimated from known compounds in that region. 
+ 
+ Vapour pressure of the pure component or region is estimated with Antoines equation for the temperature required. This pure vapour pressure estimate is combined with liquid phase mol fraction to calculate the gas phase composition at each evaporation step. 
+ 
+ The evaporating portion (i.e. the gas phase portion) is removed from the liquid phase portion. The Excel sheet is setup such that this subtraction accounts for approximately 1% of the initial fuel amount. The need to calculated mol fractions then back-calculated mass remaining is the reason it is not exactly 1% by mass at each step. 
+ 
+ To avoid numerical errors, division by zero errors and rounding errors many of the calculations contain and the &IF& formula. When a fuel component is greater than 0 the mol fractions are calculated, otherwise a value of 0 is returned. 
+ 
+ Read me about AAD experimental data 
+ Notes about AAD experiments that back up the model (a full description is in the scientific publication) 
+ 
+ Small portions of Special Antarctic Blend (SAB) fuel were placed into vials. Each vial was placed into a +20 degrees C or -20 degrees C chamber. A slow stream of nitrogen passed into the top of each vial to remove the evaporating portion of the fuel. The vials were slowly rotated to ensure even mixing of the residual fuel during rotation. 
+ 
+ Periodically a vial was removed, weighed to calculate mass fuel evaporated, and analysed with GC-FID apparatus. After a range of vials were analysed at different levels of evaporation at the 2 temperatures a data set was obtained to validate the numerical model. 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+    
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Download point for the data - excel files, word document 
+                            
+
+                        
+                        
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Public information for ASAC project 1163 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Download point for the data - pdf copy of referenced paper 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Citation reference for this metadata record and dataset 
+                            
+
+                        
+                        
+                        
+                    
+                    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: -53.0
+                                
+                            	 	
+                                
+                                    S: -70.0
+                                
+                            	 	
+                                
+                                    E: 160.0
+                                
+                            	 	
+                                
+                                    W: 60.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        2003-11-01
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        2003-11-30
+                    
+
+                
+                
+                
+            
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > ARCTIC OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > SOUTHERN OCEAN
+                            
+                            
+                                > MACQUARIE ISLAND
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ANTARCTICA
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > POLAR
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > SOUTHERN OCEAN
+                            
+                            
+                                > HEARD AND MCDONALD ISLANDS
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                
+                    
+
+                    
+                        
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                HUMAN DIMENSIONS
+                            
+                            
+                                >
+                                ENVIRONMENTAL IMPACTS
+                            
+                            
+                                >
+                                CONTAMINANT LEVELS/SPILLS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                HUMAN DIMENSIONS
+                            
+                            
+                                >
+                                ENVIRONMENTAL IMPACTS
+                            
+                            
+                                >
+                                OIL SPILLS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                                LAND SURFACE
+                            
+                            
+                                >
+                                SOILS
+                            
+                            
+                                >
+                                RECLAMATION/REVEGETATION/RESTORATION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                LAND SURFACE
+                            
+                            
+                                >
+                                SOILS
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                SOLID EARTH
+                            
+                            
+                                >
+                                EARTH GASES/LIQUIDS
+                            
+                            
+                                >
+                                PETROLEUM
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                HUMAN DIMENSIONS
+                            
+                            
+                                >
+                                ENVIRONMENTAL GOVERNANCE/MANAGEMENT
+                            
+                            
+                                >
+                                ENVIRONMENTAL ASSESSMENTS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                LAND SURFACE
+                            
+                            
+                                >
+                                FROZEN GROUND
+                            
+                            
+                                >
+                                PERMAFROST
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                LAND SURFACE
+                            
+                            
+                                >
+                                FROZEN GROUND
+                            
+                            
+                                >
+                                SOIL TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                LAND SURFACE
+                            
+                            
+                                >
+                                FROZEN GROUND
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            ENVIRONMENT
+                        
+                    
+
+                    
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    LABORATORY
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+                        
+                    
+                        
+                            
+                                
+                                    FIELD INVESTIGATION
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+                        
+                    
+                    
+                
+
+
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Quality
+        
+            See the word document in the download file for more information. 
+ This document has also been copied to the summary of this metadata record. 
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Access Constraints
+        
+            These data are publicly available for download from the URLs given below. 
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+    
+    Use Constraints
+    
+        This data set conforms to the PICCCBY Attribution License 
+ (http://creativecommons.org/licenses/by/3.0/). 
+ 
+ The investigators must be credited when using these data. 
+    
+    
+    
+        
+        
+
+            
+                
+            
+                
+                    
+                
+
+               
+                This 
+                "Investigation of evaporation and biodegradation of fuel spills in Antarctica - a chemical approach using GC-FID" is licensed under a Creative Commons Attribution 3.0 Unported License.
+            
+        
+         
+        
+    
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            SAB
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Special Antarctic Blend
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            Fuel
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Fuel evaporation
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Fuel Spill
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Contamination
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Hydrocarbons
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Biodegradation
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Soil
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Bioremediation
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GC-FID
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Model
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            COMPLETE
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Australian Antarctic Data Centre, Australia
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://data.aad.gov.au
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    DATA OFFICER
+                                                    
+                                                    AADC
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            +61 3 6232 3244
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            +61 3 6232 3351
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            metadata at aad.gov.au
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        Australian Antarctic Division
+
+                                                                    
+                                                                        203 Channel Highway
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Kingston
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                Tasmania
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                7050
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                Australia
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    HTTP
+                
+
+            
+            
+            
+                
+                    Distribution Size: 
+                    5,387 kb
+                
+
+            
+            
+            
+                
+                    Distribution Format: 
+                    excel, word
+                
+
+            
+            
+            
+                
+                    Fees: 
+                    free
+                
+
+            
+            
+            
+                
+                
+                    
+
+                
+                
+            
+            
+                
+                    Distribution Media: 
+                    HTTP
+                
+
+            
+            
+            
+                
+                    Distribution Size: 
+                    189 kb
+                
+
+            
+            
+            
+                
+                    Distribution Format: 
+                    pdf
+                
+
+            
+            
+            
+                
+                    Fees: 
+                    free
+                
+
+            
+            
+            
+                
+                
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        IAN
+                        
+                        SNAPE
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6232 3591
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +61 3 6232 3158
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                ian.snape at aad.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Australian Antarctic Division
+
+                                            
+                                                203 Channel Highway
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Kingston
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7050
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        PAUL
+                        
+                        HARVEY
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6232 3171
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +61 3 6232 3351
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                paul.harvey at aad.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                203 Channel Highway
+
+                                            
+                                                Australian Antarctic Division
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Kingston
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7050
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        SUSAN
+                        
+                        FERGUSON
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6232 3538
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +61 3 6232 3351
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                susan.ferguson at aad.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Australian Antarctic Division
+
+                                            
+                                                203 Channel Highway
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Kingston
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7050
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        JOHN
+                        LENDON
+                        RAYNER
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6232 3170
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +61 3 6232 3158
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                john.rayner at aad.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                203 Channel Highway
+
+                                            
+                                                Australian Antarctic Division
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Kingston
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7050
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        ANDREW
+                        
+                        REVILL
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                andrew.revill at csiro.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                GPO BOX 1538
+
+                                            
+                                                CSIRO Marine and Atmospheric Research
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Hobart
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7001
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        DAVE
+                        J.
+                        CONNELL
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6232 3244
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +61 3 6232 3351
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                dave.connell at aad.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Australian Antarctic Division
+
+                                            
+                                                203 Channel Highway
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Kingston
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7050
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+            
+            
+            
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            Snape, I., Harvey, P.M., Ferguson, S.H., Rayner, J.L., Revill, A.T. (2005) Investigation of evaporation and biodegradation of fuel spills in Antarctica I. A chemical approach using GC-FID. Chemosphere 61 1485-1494 
+
+        
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+            
+                DIF Creation Date:
+                2006-08-01
+            
+
+        
+        
+            
+                Last DIF Revision Date:
+                2014-09-11
+            
+
+        
+        
+    
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                 Reformat as ISO 19115 document
+            
+        
+    
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+
+        
+
+
+
+
+
+
+                            
+
+                    
+                    
+                
+
+        
+        
+
+
+	
+            
+                
+        	
+            
+                
+                    NASA Privacy Policy and Important Notices
+            
+
+            
+                Responsible NASA Official:  
+                
+                    Dr. Stephen Wharton
+
+                Webmaster:  
+                
+                    Monica Lyles
+                  ·  Contact 
+                
+                    GCMD User Support for assistance
+            
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+
+

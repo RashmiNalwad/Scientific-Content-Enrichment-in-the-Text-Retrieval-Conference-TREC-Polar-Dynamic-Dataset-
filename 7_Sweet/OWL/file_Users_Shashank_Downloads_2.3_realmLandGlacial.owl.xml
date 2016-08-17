@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>file:///Users/Shashank/Downloads/2.3/realmLandGlacial.owl</title><link href="file_Users_Shashank_Downloads_2.3_realmLandGlacial.owl_files/viewsource.css" type="text/css" rel="stylesheet"/></head><body style="-moz-tab-size: 4" class="highlight" id="viewsource" contextmenu="actions"><pre id="line1"><span/><span class="pi">&lt;?xml version="1.0" encoding="UTF-8"?&gt;</span><span>
+<span id="line2"/>
+<span id="line3"/></span><span class="error error doctype" title="Bogus doctype.
+Stray doctype.">&lt;!DOCTYPE rdf:RDF [
+<span id="line4"/>  &lt;!ENTITY land "http://sweet.jpl.nasa.gov/2.3/realmLandform.owl"&gt;</span><span>
+<span id="line5"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY glac "http://sweet.jpl.nasa.gov/2.3/realmLandGlacial.owl"&gt;</span><span>
+<span id="line6"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY owl "http://www.w3.org/2002/07/owl#"&gt;</span><span>
+<span id="line7"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;</span><span>
+<span id="line8"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#"&gt;</span><span>
+<span id="line9"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY xsd "http://www.w3.org/2001/XMLSchema#"&gt;</span><span>
+<span id="line10"/>]&gt;
+<span id="line11"/>
+<span id="line12"/></span><span>&lt;<span class="start-tag">rdf:RDF</span> <span class="attribute-name">xml:base</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>gla</span>c;</a>"
+<span id="line13"/>         <span class="attribute-name">xmlns:owl</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>o</span>wl;</a>"
+<span id="line14"/>         <span class="attribute-name">xmlns:rdf</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>rd</span>f;</a>"
+<span id="line15"/>         <span class="attribute-name">xmlns:rdfs</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>rd</span>fs;</a>"
+<span id="line16"/>         <span class="attribute-name">xmlns:xsd</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;</a>"
+<span id="line17"/>         <span class="attribute-name">xmlns:land</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>lan</span>d;</a>"
+<span id="line18"/>         <span class="attribute-name">xmlns:glac</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>gla</span>c;</a>"
+<span id="line19"/>&gt;</span><span>
+<span id="line20"/></span><span class="comment">&lt;!-- Ontology Information --&gt;</span><span>
+<span id="line21"/>  </span><span>&lt;<span class="start-tag">owl:Ontology</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value"/>"
+<span id="line22"/>                <span class="attribute-name">owl:versionInfo</span>="<a class="attribute-value">2.3</a>"&gt;</span><span>
+<span id="line23"/>     </span><span>&lt;<span class="start-tag">rdfs:label</span>&gt;</span><span>SWEET Ontology</span><span>&lt;/<span class="end-tag">rdfs:label</span>&gt;</span><span>
+<span id="line24"/>     </span><span>&lt;<span class="start-tag">owl:imports</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>lan</span>d;</a>"<span>/</span>&gt;</span><span>
+<span id="line25"/>  </span><span>&lt;/<span class="end-tag">owl:Ontology</span>&gt;</span><span>
+<span id="line26"/>
+<span id="line27"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#GlacialLandform</a>"&gt;</span><span>
+<span id="line28"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>lan</span>d;#Landform</a>"<span>/</span>&gt;</span><span>
+<span id="line29"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line30"/>
+<span id="line31"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Arete</a>"&gt;</span><span>
+<span id="line32"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#GlacialPlain</a>"<span>/</span>&gt;</span><span>
+<span id="line33"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>A thin, almost knife-like, ridge of rock which is typically formed when two glaciers erode parallel U-shaped valleys.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span> 
+<span id="line34"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line35"/>
+<span id="line36"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Cirque</a>"&gt;</span><span>
+<span id="line37"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#GlacialPlain</a>"<span>/</span>&gt;</span><span>
+<span id="line38"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>An amphitheatre-like valley head, formed at the head of a valley glacier by erosion.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span> 
+<span id="line39"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line40"/>
+<span id="line41"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Esker</a>"&gt;</span><span>
+<span id="line42"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#GlacialLandform</a>"<span>/</span>&gt;</span><span>
+<span id="line43"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>A long winding ridge of stratified sand and gravel, examples of which occur in glaciated and formerly glaciated regions.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span> 
+<span id="line44"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line45"/>
+<span id="line46"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#GlacialPlain</a>"&gt;</span><span>
+<span id="line47"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>lan</span>d;#Plain</a>"<span>/</span>&gt;</span><span>
+<span id="line48"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#GlacialLandform</a>"<span>/</span>&gt;</span><span>
+<span id="line49"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line50"/>
+<span id="line51"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#GlacialOutwashPlain</a>"&gt;</span><span>
+<span id="line52"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#GlacialPlain</a>"<span>/</span>&gt;</span><span>
+<span id="line53"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line54"/>
+<span id="line55"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Kame</a>"&gt;</span><span>
+<span id="line56"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#GlacialLandform</a>"<span>/</span>&gt;</span><span>
+<span id="line57"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>An irregularly shaped hill or mound composed of sand, gravel and till that accumulates in a depresson on a retreating glacier, and is then deposited with further melting.[Wikipedia]</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span> 
+<span id="line58"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line59"/>
+<span id="line60"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Moraine</a>"&gt;</span><span>
+<span id="line61"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#GlacialPlain</a>"<span>/</span>&gt;</span><span>
+<span id="line62"/>    </span><span>&lt;<span class="start-tag">owl:equivalentClass</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#GlacialMoraine</a>"<span>/</span>&gt;</span><span>
+<span id="line63"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>Any glacially formed accumulation of unconsolidated glacial debris (soil and rock) which can occur in currently glaciated and formerly glaciated regions.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span> 
+<span id="line64"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line65"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#GlacialMoraine</a>"<span>/</span>&gt;</span><span>
+<span id="line66"/>
+<span id="line67"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#OutwashFan</a>"&gt;</span><span>
+<span id="line68"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#GlacialLandform</a>"<span>/</span>&gt;</span><span>
+<span id="line69"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>A fan-shaped body of sediments deposited by braided streams from a melting glacier. Sediment locked within the ice of the glacier gets transported by the streams of meltwater and deposits on the outwash plain at the terminus of the glacier.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span> 
+<span id="line70"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line71"/>
+<span id="line72"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:ID</span>="<a class="attribute-value">RockGlacier</a>"&gt;</span><span>
+<span id="line73"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#GlacialLandform</a>"<span>/</span>&gt;</span><span>
+<span id="line74"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>Rock glaciers are distinctive geomorphological landforms of blocky detritus which may extend outward and downslope from talus cones or from glaciers or the terminal moraines of glaciers. [Wikipedia]</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line75"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line76"/>  
+<span id="line77"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Sandur</a>"&gt;</span><span>
+<span id="line78"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#GlacialOutwashPlain</a>"<span>/</span>&gt;</span><span>
+<span id="line79"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>A glacial outwash plain formed of sediments deposited by meltwater at the terminus of a glacier.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line80"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line81"/>
+<span id="line82"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#TillPlain</a>"&gt;</span><span>
+<span id="line83"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#GlacialPlain</a>"<span>/</span>&gt;</span><span>
+<span id="line84"/>    </span><span>&lt;<span class="start-tag">owl:equivalentClass</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Till</a>"<span>/</span>&gt;</span><span>
+<span id="line85"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>An extensive flat plain of glacial till that forms when a sheet of ice becomes detached from the main body of a glacier and melts in place depositing the sediments it carried.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line86"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line87"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Till</a>"<span>/</span>&gt;</span><span>
+<span id="line88"/>
+<span id="line89"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Thermokarst</a>"&gt;</span><span>
+<span id="line90"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#GlacialLandform</a>"<span>/</span>&gt;</span><span>
+<span id="line91"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>A land surface characterised by very irregular surfaces of marshy hollows and small hummocks formed as ice-rich permafrost thaws.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line92"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line93"/>
+<span id="line94"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#UShapedValley</a>"&gt;</span><span>
+<span id="line95"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#GlacialLandform</a>"<span>/</span>&gt;</span><span>
+<span id="line96"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line97"/>
+<span id="line98"/></span><span>&lt;/<span class="end-tag">rdf:RDF</span>&gt;</span><span>
+<span id="line99"/></span></pre><menu type="context" id="actions"><menuitem id="goToLine" label="Go to Line…" accesskey="L"/><menuitem id="wrapLongLines" label="Wrap Long Lines" type="checkbox"/><menuitem id="highlightSyntax" label="Syntax Highlighting" type="checkbox" checked="true"/></menu></body></html>

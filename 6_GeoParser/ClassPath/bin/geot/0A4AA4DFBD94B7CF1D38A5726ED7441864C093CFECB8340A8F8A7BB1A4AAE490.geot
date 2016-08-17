@@ -1,0 +1,2848 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        [Science_Parameters: Science_Category='EARTH SCIENCE', Science_Topic='LAND SURFACE', Science_Term='TOPOGRAPHY', Science_Variable_Level_1='CONTOURS']
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    
+
+
+
+
+    
+        
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                Integrated CEOS European Data Server
+            
+        
+
+        
+        
+            Entry ID:
+            
+                ICEDS
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+
+
+		  
+                        
+                    
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+                        
+                    
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+                        
+                    
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+        
+        
+
+        
+        
+        
+            [
+            
+                
+                    Get Service
+            
+            ]
+            
+        
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+               
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+         
+         
+                
+                    
+                    
+                        Update this Record.
+                
+
+
+
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+	
+        
+            This data set description is a member of a collection.
+
+            
+                Click to see members of this collection.
+            
+        
+	
+    
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            ESYS plc and the Department of Geomatic Engineering at University College 
+ London (UCL) have been funded by the British National Space Centre (BNSC) to 
+ develop a web GIS service to serve geographic data derived from remote sensing 
+ datasets. Funding was provided as part of the BNSC International Co-operation 
+ Programme 2 (ICP-2). 
+ 
+  ... Particular aims of the project were to: 
+ 
+ 1. use Open Geospatial Consortium (OGC, recently renamed from the OpenGIS 
+ Consortium) technologies for map and data serving; 
+ 
+ 2. serve datasets for Europe and Africa, particularly Landsat TM and Shuttle 
+ Radar Topography Mission (SRTM) digital elevation model (DEM) data; 
+ 
+ 3. provide a website giving access to the served data; 
+ 
+ 4. provide software scripts, etc., and a document reporting the data processing 
+ and software set-up methods developed during the project. 
+ 
+ ICEDS was inspired in particular by the Committee on Earth Observing Satellites 
+ (CEOS) CEOS Landsat and SRTM Project (CLASP) proposal. An express intention of 
+ ICEDS (aim 4 in the list above) was therefore that the solution developed by 
+ ESYS and UCL should be redistributable, for example, to other CEOS members. 
+ This was taken to mean not only software scripts but also the methods developed 
+ by the project team to prepare the data and set up the server. In order to be 
+ compatible with aim 4, it was also felt that the use of Open Source, or at 
+ least 'free-of-cost' software for the Web GIS serving was an essential 
+ component. After an initial survey of the Web GIS packages available at the 
+ time , the ICEDS team decided to use the Deegree package, a free software 
+ initiative founded by the GIS and Remote Sensing unit of the Department of 
+ Geography, University of Bonn , and lat/lon . However the Red Spider web 
+ mapping software suite was also provided by IONIC Software - this is a 
+ commercial web mapping package but was provided pro bono by IONIC for this 
+ project and has been used in parallel to investigate the possibilities and 
+ limitations opened up by using a commercial package. 
+ 
+ http://iceds.ge.ucl.ac.uk/ 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET SERVICE
+                                                 > 
+                                                    GET SOFTWARE PACKAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                a ZIP file containing the scripts developed to prepare data and configuration
+ files to set up the ICEDS service (documented in the Guidelines document) 
+                            
+
+                        
+			
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET SERVICE
+                                                 > 
+                                                    GET WEB MAP SERVICE (WMS)
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                WMS GetCapabilities. 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET SERVICE
+                                                 > 
+                                                    GET WEB COVERAGE SERVICE (WCS)
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                WCS GetCapabilities. 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                the Guidelines document, providing a review of the processes to set up a
+ service such as ICEDS (in the form of a 'cookbook') 
+                            
+
+                        
+			
+                        
+                    
+		    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Service Citation
+        
+        
+            	
+                
+                    
+                    
+                    
+                        
+                            Title: 
+                            Integrated CEOS European Data Server
+                        
+
+                    
+                    
+                    
+                        
+                            Provider: 
+                            University College London
+                        
+
+                    
+                    
+                    
+                        
+                            URL: 
+                            
+                                
+                                    http://iceds.ge.ucl.ac.uk/
+                            
+                        
+
+                    
+                    
+                    
+                
+                
+            
+        
+
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Service Keywords
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                                DATA ANALYSIS AND VISUALIZATION
+                            
+                            
+                                >VISUALIZATION/IMAGE PROCESSING
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                DATA MANAGEMENT/DATA HANDLING
+                            
+                            
+                                >DATA SEARCH AND RETRIEVAL
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                                DATA ANALYSIS AND VISUALIZATION
+                            
+                            
+                                >GEOGRAPHIC INFORMATION SYSTEMS
+                            
+                            
+                                >WEB-BASED GEOGRAPHIC INFORMATION SYSTEMS
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                WEB SERVICES
+                            
+                            
+                                >INFORMATION MANAGEMENT SERVICES
+                            
+                            
+                                >WEB MAP SERVICE
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                WEB SERVICES
+                            
+                            
+                                >INFORMATION MANAGEMENT SERVICES
+                            
+                            
+                                >WEB COVERAGE SERVICE
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+            
+            
+                
+
+                
+                     
+            
+
+
+
+        
+    
+
+
+
+
+    
+        Science Keywords 
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >CLOUDS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            BIOSPHERE
+                            
+                            
+                            >VEGETATION
+                            
+                            
+                            >VEGETATION COVER
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                            CRYOSPHERE
+                            
+                            
+                            >SEA ICE
+                            
+                            
+                            >ICEBERGS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            CRYOSPHERE
+                            
+                            
+                            >SEA ICE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            CRYOSPHERE
+                            
+                            
+                            >GLACIERS/ICE SHEETS
+                            
+                            
+                            >ICE SHEETS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            CRYOSPHERE
+                            
+                            
+                            >SNOW/ICE
+                            
+                            
+                            >SNOW COVER
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            HUMAN DIMENSIONS
+                            
+                            
+                            >BOUNDARIES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            HUMAN DIMENSIONS
+                            
+                            
+                            >INFRASTRUCTURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            HUMAN DIMENSIONS
+                            
+                            
+                            >ENVIRONMENTAL GOVERNANCE/MANAGEMENT
+                            
+                            
+                            >LAND MANAGEMENT
+                            
+                            
+                            >LAND USE CLASSES
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            HUMAN DIMENSIONS
+                            
+                            
+                            >POPULATION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >GLACIERS/ICE SHEETS
+                            
+                            
+                            >GLACIERS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >GLACIERS/ICE SHEETS
+                            
+                            
+                            >ICE SHEETS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >SNOW/ICE
+                            
+                            
+                            >SNOW COVER
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >SURFACE WATER
+                            
+                            
+                            >LAKES
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >SURFACE WATER
+                            
+                            
+                            >RIVERS/STREAMS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >SURFACE WATER
+                            
+                            
+                            >WETLANDS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >LAND USE/LAND COVER
+                            
+                            
+                            >LAND COVER
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >LAND USE/LAND COVER
+                            
+                            
+                            >LAND RESOURCES
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >LANDSCAPE
+                            
+                            
+                            >LANDSCAPE PATTERNS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >TOPOGRAPHY
+                            
+                            
+                            >CONTOURS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >TOPOGRAPHY
+                            
+                            
+                            >LANDFORMS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >TOPOGRAPHY
+                            
+                            
+                            >TOPOGRAPHICAL RELIEF
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >TOPOGRAPHY
+                            
+                            
+                            >SURFACE ROUGHNESS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >TOPOGRAPHY
+                            
+                            
+                            >TERRAIN ELEVATION
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >TOPOGRAPHY
+                            
+                            
+                            >TOPOGRAPHIC EFFECTS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >SEA ICE
+                            
+                            
+                            >ICEBERGS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SOLID EARTH
+                            
+                            
+                            >TECTONICS
+                            
+                            
+                            >PLATE TECTONICS
+                            
+                            
+                            >FAULT MOVEMENT
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            CRYOSPHERE
+                            
+                            
+                            >GLACIERS/ICE SHEETS
+                            
+                            
+                            >ICEBERGS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >GLACIERS/ICE SHEETS
+                            
+                            
+                            >ICEBERGS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SOLID EARTH
+                            
+                            
+                            >TECTONICS
+                            
+                            
+                            >PLATE TECTONICS
+                            
+                            
+                            >PLATE BOUNDARIES
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                    
+            
+
+
+        
+    
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            BIOTA
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            BOUNDARIES
+                        
+                    
+
+		    
+                    
+                    
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ELEVATION
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ENVIRONMENT
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOSCIENTIFIC INFORMATION
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            IMAGERY/BASE MAPS/EARTH COVER
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            INLAND WATERS
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEANS
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            PLANNING CADASTRE
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SOCIETY
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            STRUCTURE
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            TRANSPORTATION
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            UTILITIES/COMMUNICATIONS
+                        
+                    
+
+		    
+                
+		
+                    
+
+                    
+                        
+                
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    ERS-1
+                                    
+                                        >
+                                        European Remote Sensing Satellite-1
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    ERS-2
+                                    
+                                        >
+                                        European Remote Sensing Satellite-2
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                            
+                        
+                    
+                        
+                            
+                                
+                                    LANDSAT-5
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    TERRA
+                                    
+                                        >
+                                        Earth Observing System, TERRA (AM-1)
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    OV-105
+                                    
+                                        >
+                                        Endeavour Space Shuttle
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    SPACE SHUTTLES
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    AQUA
+                                    
+                                        >
+                                        Earth Observing System, AQUA
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+		    
+                        
+
+                        
+                             
+                    
+                
+
+
+    
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            ASAR
+                            
+                                >
+                                Advanced Synthetic Aperature Radar
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            SAR
+                            
+                                >
+                                Synthetic Aperture Radar
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+                    
+                
+            
+                
+                    
+                        
+                            SRTM
+                            
+                                >
+                                Shuttle Radar Topography Mission
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            ASTER
+                            
+                                >
+                                Advanced Spaceborne Thermal Emission and Reflection Radiometer
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            MODIS
+                            
+                                >
+                                Moderate-Resolution Imaging Spectroradiometer
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+	    
+                
+
+                
+                    
+            
+        
+
+
+    
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            OGC/WMS
+                            
+                                >
+                                Open Geospatial Consortium/Web Map Service
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OGC/WCS
+                            
+                                >
+                                Open Geospatial Consortium/Web Coverage Service
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Service Provider
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                                
+                                    UCL/GEOENG/ICEDS
+                                    
+                                         >  
+                                        Integrated CEOS European Data Server,  Department of Geomatic Engineering, University College London
+                                    
+                                
+                           
+                            
+                                
+                                    
+                            
+                            
+
+                        
+                    
+                    
+                        
+                            Service Organization URL: 
+                        
+                        
+                            
+                                
+                                            http://iceds.ge.ucl.ac.uk/ 
+                            
+                        
+                        
+
+                    
+                    
+                        
+                    
+                    
+                    
+                        
+                            
+
+                            	Service Provider Personnel
+	
+                                        Name: 
+                                        
+                                            
+                                                JAN-PETER
+                                                
+                                                MULLER
+                                            
+                                        
+                                        
+
+                                        
+                                            
+                                                Phone: 
+                                                
+                                                    +44 (0)20 7679 7227
+                                                
+                                                
+
+                                            
+                                        
+                                        
+                                            
+                                                Fax: 
+                                                
+                                                    +44 (0)20 7380 0453
+                                                
+                                                
+
+                                            
+                                        
+                                        
+                                            
+                                                
+                                                    Email: 
+                                                    
+                                                        jpmuller at ge.ucl.ac.uk
+                                                    
+                                                    
+
+                                                
+                                            
+                                        
+                                        
+                                            
+                                                
+                                                    
+                                                        Contact Address: 
+
+                                                        
+                                                            
+                                                                
+                                                                    Department of Geomatic Engineering 
+
+                                                                
+                                                                    University College London 
+
+                                                                
+                                                                    Gower Street 
+
+                                                                
+                                                            
+                                                        
+                                                    
+                                                    
+                                                        City: 
+                                                        
+                                                            London
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                    
+                                                        Postal Code: 
+                                                        
+                                                            WC1E 6BT
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Country: 
+                                                        
+                                                            Great Britain
+                                                        
+                                                        
+
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+  
+                            
+                        
+                    
+                    
+                    
+                
+                
+            
+
+  
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+ 
+          
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        TYLER
+                        B.
+                        STEVENS
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                SERF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                (301) 614-6898
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                301-614-5268
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                Tyler.B.Stevens at nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                NASA Goddard Space Flight Center
+
+                                            
+                                                Global Change Master Directory
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Greenbelt
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    MD
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    20771
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+            
+            
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Extended Metadata Properties
+
+        
+            
+            (Click to view more)
+        
+
+        
+            
+
+            
+
+            
+                Extended Metadata Properties From GCMD
+
+                metadata.extraction_date: 2014-11-21 11:36:27
+metadata.keyword_version: 8.0
+
+            
+        
+
+    
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+        
+        
+    
+
+ 
+
+        	
+            
+                SERF Creation Date:
+                2005-03-10
+            
+            
+
+            
+                SERF Last Revision Date:
+                2009-09-18
+            
+            
+
+            
+        
+
+
+
+ 
+
+             
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+        
+
+
+
+
+
+
+    
+
+
+
+
+                    
+                    
+                
+
+            
+
+            
+
+        
+
+    
+
+    
+    
+
+    
+
+
+
+
+
+
+
+
+    
+        	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+   
+
+
+
+
+    
+        	
+            
+        
+            + 
+                NASA Privacy Policy and Important Notices 
+
+
+    
+
+    
+    
+        
+            
+                
+        
+
+        	
+                Webmaster:
+                Monica Holland
+            
+	
+                Responsible NASA Official:
+                Dr. Stephen Wharton
+            
+	Last updated: November 2014
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+

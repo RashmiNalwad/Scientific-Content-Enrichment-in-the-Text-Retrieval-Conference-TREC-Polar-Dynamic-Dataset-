@@ -1,0 +1,197 @@
+
+
+
+	Skip to Left Navigation (press 2)
+
+	Skip to Main Content Navigation (press 3)
+
+
+	
+			FAQ
+	Site Map
+	Contact Us
+
+
+	
+	
+
+	
+		
+
+		
+			
+
+		
+
+	
+
+	
+		
+			
+          Home
+				Search GCMD
+				Learn about GCMD
+                Portals
+				Collaborate
+			
+
+		
+
+	
+
+	
+		
+		
+				docBUILDER
+	Portals
+	CEOS IDN
+	INTEROP Forum
+	Other Collaborations
+	Collaborate Through Web Services
+	Metadata Standards
+	How to Collaborate
+
+
+
+		
+
+
+		
+		
+		
+		Last DIF Revision Date
+
+
+		
+    
+
+		Definition
+	The <Last_DIF_Revision_Date> specifies the date the metadata record was created.  The <Last_DIF_Revision_Date> is automatically populated by the authoring tools with the date the metadata  entry was created or modified, however, the author may change the date.
+
+	 
+	Syntax
+	<Last_DIF_Revision_Date>yyyy-mm-dd</Last_DIF_Revision_Date > 
+
+              
+
+              Year, month and day must follow the International  Standard ISO 8601 in the form: yyyy-mm-dd, where:
+
+          
+            
+
+              yyyy= the 4 digit year
+
+              mm= the 2-digit month (01 – 12)
+
+              dd = the 2-digit day (01-31)
+
+          
+
+	 
+	Usage
+		The <Last_DIF_Revision_Date> is recommended  and may not be repeated.
+
+
+	 
+	Example
+	<Last_DIF_Revision_Date>2006-11-01</Last_DIF_Revision_Date>
+
+
+     
+             
+  	
+
+          Visit GCMD website 
+	This document should be cited as: 
+
+          Directory Interchange Format (DIF) Writer's Guide, 2015.
+
+          Global Change Master Directory.
+
+          National Aeronautics and Space Administration.
+  
+		  [http://gcmd.nasa.gov/add/difguide/].
+	    
+
+
+ 
+
+ 
+        
+		
+		
+
+
+	
+
+	
+
+	
+   
+
+  	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+
+
+        
+
+	
+            
+                	
+                         
+
+                        +  NASA Privacy Policy and Important Notices 
+
+
+           
+
+		
+			    
+				Webmaster: Monica Lyles
+	Responsible NASA Official: Dr. Stephen Wharton
+	Last updated: February  2015 
+
+	
+   	    
+
+
+
+
+
+ 
+
+
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Javascript is not enabled to display NASA's Earthdata Network navigation bar. You may alternatively view this here
+
+
+
+
+
+
+

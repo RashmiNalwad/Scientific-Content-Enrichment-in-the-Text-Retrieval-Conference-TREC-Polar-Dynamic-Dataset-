@@ -1,0 +1,211 @@
+
+
+
+
+
+
+Not logged inOcean Color Forum
+
+
+ Forum
+ Ocean Color Home
+ Help
+ Search
+ Login
+
+
+
+
+
+
+
+
+
+
+Topic Products and Algorithms / Satellite Data Products & Algorithms / How to derive Rayleigh reflectance from MODIS Terra by Seadas?
+
+
+
+
+
+
+
+
+
+
+By zhigang_niglas
+Date 2014-10-31 02:11
+
+
+
+I want to get Rrc which Hu et.al used to process data, but I don't know how to get them by seadas.
+I only finded an IDL code file about that, and may I ask whether there is command to do in Seadas?
+cheers,
+Zhigang
+
+
+
+
+
+
+
+
+
+
+By sean
+Date 2014-10-31 09:27
+
+
+
+The l2gen program is capable of producing a product called rhos (for surface reflectance).  This is simply a Rayleigh corrected reflectance (including corrections for gaseous absorption), equivalent to the Rrc of Hu et al.
+
+Regards,
+Sean
+
+
+
+
+
+
+
+
+
+
+By zhigang_niglas
+Date 2014-11-01 10:12
+
+
+
+Yes, I have got them according to your instruction.And, Sean, I have a confusion about subset image. I tried to subset(in Raster Export) L2_LAC_OC files which were reprojected,  it always appears the error with " can't write file. " However, I can directly subset L2_LAC_OC files without reprojection. I don't know that is why.
+
+Sincerely,
+zhigang
+
+
+
+
+
+
+
+
+
+
+By sean
+Date 2014-11-03 08:37
+
+
+
+Make sure you have permission to write to the output location and that there is sufficient disk space for the operation.
+
+
+
+
+
+
+
+
+
+
+By zhigang_niglas
+Date 2014-11-05 22:54
+
+
+
+Thank you, Sean. I have reprojected products and then made subset. I will try that under confirming permission.
+cheers,
+Zhigang
+
+
+
+
+
+
+
+
+
+
+By zhigang_niglas
+Date 2014-11-10 04:26
+
+
+
+Dear Sean,
+I will trouble you again.I have a confusion about input file for l2gen when to process VIIRS, though I can process MODIS under you guidence. I tried the NOAA data and L1A_NPP file (I can't download L1B_NPP data,and tried to generate L1B by command in Seadas based on L1A, but failed, the input file can't be identified.), but they aren't as input files to get L2s(the tabs of l2gen GUI are disabled). So could you tell me I should use which data source as input file in l2gen?
+Thanks,
+zhigang
+
+
+
+
+
+
+
+
+
+
+By sean
+Date 2014-11-10 08:29
+
+
+
+l2gen accepts VIIRS SDR (L1B) and geolocation as input.  The 'L1A' we currently distribute IS an SDR (thus it IS an L1B).  We refer to it as a psuedo-L1A file as 
+we apply the temporal calibration within l2gen.  The SeaDAS l2gen GUI was not recognizing the VIIRS files due to an extraneous print statement that was
+inadvertently left in one of the python scripts.  This has been rectified.  Update the OCSSW processor code to get the corrected python script. 
+
+Sean
+
+
+
+
+
+
+
+
+
+
+By zhigang_niglas
+Date 2014-11-10 09:52
+
+
+
+Yes, it worked after updating. The program obtained L2 products based on implicit convertion from L1A to L1B.
+Thank you,Sean.
+cheers,
+Zhigang
+
+
+
+
+
+
+
+
+
+
+Topic Products and Algorithms / Satellite Data Products & Algorithms / How to derive Rayleigh reflectance from MODIS Terra by Seadas?
+
+
+
+
+
+
+
+
+
+
+
+	
+            Responsible NASA Official:  Gene C. Feldman
+        
+Curator:  OceanColor Webmaster
+        
+Authorized by:  Gene C. Feldman
+
+Updated: 03 July 2013
+    	Privacy Policy and Important Notices
+    	 
+        
+    
+
+
+

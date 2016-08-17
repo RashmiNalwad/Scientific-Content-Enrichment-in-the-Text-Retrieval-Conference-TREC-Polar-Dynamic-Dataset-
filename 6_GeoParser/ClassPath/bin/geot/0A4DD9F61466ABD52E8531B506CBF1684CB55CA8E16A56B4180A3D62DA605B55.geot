@@ -1,0 +1,876 @@
+
+
+
+	
+
+
+
+
+
+
+
+
+IGS Station: cedu
+
+	Station Information
+		
+An IGS Reference Frame site
+
+current site log 
+
+   
+cedu_20120802.log
+
+   older site logs below
+
+
+
+
+
+site photos
+
+
+
+(none found)
+
+
+	
+
+
+Most Recent Mail
+   005169  16Dec2014 Ryan.Ruddick at g Subject:  CEDU: Power Failure [SEC=UNCLASSIFIED]
+    
+
+Older Mail (below)
+
+
+	
+Recent data quality plots (documented here)
+	
+45 day averages and standard deviations
+
+cedu in blue 
+
+
+all other IGS sites in red 
+
+	
+  	
+  Recent daily number of observations
+  
+
+
+  
+
+  
+    
+
+  
+  
+
+  
+
+  
+	
+  	
+  Daily number of observations
+  
+
+
+  
+
+  
+    
+
+  
+  
+
+  
+
+  
+
+	
+  	
+  Recent cycle slips X1000/observations
+  
+
+
+  
+
+  
+    
+
+  
+  
+
+  
+
+  
+	
+  	
+  Cycle slips X1000/observations
+  
+
+
+  
+
+  
+    
+
+  
+  
+
+  
+
+  
+
+	
+  	
+  Recent RMS MP1 (L1 Multipath)
+  
+
+
+  
+
+  
+    
+
+  
+  
+
+  
+
+  
+	
+  	
+  RMS MP1 (L1 Multipath)
+  
+
+
+  
+
+  
+    
+
+  
+  
+
+  
+
+  
+
+	
+  	
+  Recent RMS MP2 (L2 Multipath)
+  
+
+
+  
+
+  
+    
+
+  
+  
+
+  
+
+  
+	
+  	
+  RMS MP2 (L2 Multipath)
+  
+
+
+  
+
+  
+    
+
+  
+  
+
+  
+
+  
+
+
+	
+Position residuals (cumulative minus weekly)
+for the past 2 years 
+(details)
+
+	
+Most recent week
+
+cedu in blue 
+
+all other IGS sites in red 
+
+	
+  	
+  North Residuals
+  
+
+
+  
+
+  
+    
+
+  
+  
+
+  
+
+  
+	
+  	
+  North Residuals
+  
+
+
+  
+
+  
+    
+
+  
+  
+
+  
+
+  
+
+	
+  	
+  East Residuals
+  
+
+
+  
+
+  
+    
+
+  
+  
+
+  
+
+  
+	
+  	
+  East Residuals
+  
+
+
+  
+
+  
+    
+
+  
+  
+
+  
+
+  
+
+	
+  	
+  Height Residuals
+  
+
+
+  
+
+  
+    
+
+  
+  
+
+  
+
+  
+	
+  	
+  Height Residuals
+  
+
+
+  
+
+  
+    
+
+  
+  
+
+  
+
+  
+
+
+	
+Day Boundary Clock Discontinuities (details) 
+
+	
+  	
+  Final
+  
+
+
+  
+
+  
+    
+
+  
+  
+
+  
+
+  
+	
+  	
+  Rapid
+  
+
+
+  
+
+  
+    
+
+  
+  
+
+  
+
+  
+
+
+	
+Recent daily data file latency performance 
+(details)
+
+Data seen at: CDDIS,SIO
+	 
+90-day averages and standard deviations
+
+cedu in blue 
+
+all other IGS daily sites in red
+
+	
+	
+Latency of each daily file
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+	
+
+	
+Average latency of recent daily files
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+	
+Recent hourly data file latency performance 
+(details)
+
+Data seen at: CDDIS,SIO
+	 
+3-day averages and standard deviations
+
+cedu in blue 
+
+all other IGS hourly sites in red
+
+	
+	
+Latency of each hourly file
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+	
+
+	
+Average latency of recent hourly files
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+	
+  Usage in IGS products 
+  during the past 90 days
+  (details)
+  
+	
+
+  
+  	 	CODE	NRCan	ESOC	GFZ	GOP	JPL	MIT	NOAA/NGS	SIO	USNO	WHU
+	Final Orbit:	
+       X 
+      
+      	
+       X 
+      
+      	
+       X 
+      
+      	
+       X 
+      
+      	
+      
+       
+      	
+       X 
+      
+      	
+       X 
+      
+      	
+       X 
+      
+      	
+       X 
+      
+      	
+      
+       
+      	
+      
+       
+      
+	Rapid Orbit:	
+       X 
+      
+      	
+       X 
+      
+      	
+       X 
+      
+      	
+       X 
+      
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+       X 
+      
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      
+	Ultra Orbit:	
+       X 
+      
+      	
+       X 
+      
+      	
+       X 
+      
+      	
+       X 
+      
+      	
+       X 
+      
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      
+	Final Clock:	
+       X 
+      
+      	
+      
+       
+      	
+       X 
+      
+      	
+       X 
+      
+      	
+      
+       
+      	
+       X 
+      
+      	
+       X 
+      
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      
+	Rapid Clock:	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      
+	Final Trop:	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      
+	NRT Trop:	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      
+
+
+  
+
+
+  
+  	 	CODE	ESOC	JPL	UPC
+	Final Iono:	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      
+	Rapid Iono:	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      	
+      
+       
+      
+
+
+  
+
+
+
+
+
+	 	BKG	CODE	ESOC
+	Final GLONASS Orbit:	
+    
+     
+    	
+     X 
+    
+    	
+    
+     
+    
+
+
+
+
+
+	
+  Older Mail
+  
+	
+  004593  21Jul2013 Nicholas.Dando at Subject: Re: CEDU, PERT, STR1, STR2; Real time outage, Tuesday 23rd July. [SEC=UNOFFICIAL]
+004028  15May2012 Nicholas.Dando at Subject: Re: CEDU Frequency standard stability [SEC=UNCLASSIFIED]
+003992  18Apr2012 Nicholas.Dando at Subject: CEDU Frequency standard stability [SEC=UNCLASSIFIED]
+003551  19Jun2011 ryan.ruddick at g Subject:  CEDU: Resubmission
+003509  23May2011 ryan.ruddick at g Subject:  CEDU: Receiver Change
+003249  01Dec2010 Michael.Moore at  Subject:  CEDU update
+003219  08Nov2010 Michael.Moore at  Subject:  CEDU data flow problems
+002506  01Sep2009 Michael.Moore at  Subject: CEDU Potential External Frequency Outage  [SEC=UNCLASSIFIED]
+000782  06Mar2006 Michael.Moore at  Subject: CEDU tracking problems
+000632  30Oct2005 Michael.Moore at  Subject: CEDU Frequency standard change
+000546  05Aug2005 Michael.Moore at  Subject: CEDU outage
+000279  16Nov2004 Bob.Twilley at ga Subject: CEDU Data Outage
+000218  17Sep2004 Michael.Moore at  Subject: CEDU data interruption
+000186  17Aug2004 Michael.Moore at  Subject: CEDU data interruption
+000164  25Jul2004 Michael.Moore at  Subject: CEDU Data Outage DOY 207
+000083  25Jul2004 Michael.Moore at  Subject: CEDU Data Outage DOY 207
+5375    27Jun2006 Bob Twilley       Subject: Antenna change at CEDU
+4804    23Jan2004 Bob Twilley       Subject: CEDU NRT data available
+3626    03Dec2001 Paul Digney       Subject: CEDU Power Outage
+2832    11May2000 Bob Twilley       Subject: CEDU Receiver upgrade, data re-submi
+2821    05May2000 Paul Digney       Subject: CEDU Data not available
+
+
+  
+	
+  Older Site Logs
+  
+	
+
+  
+    cedu_20120516.log
+
+  
+    cedu_20110922.log
+
+  
+    cedu_20110523.log
+
+  
+    cedu_20070427.log
+
+  
+    cedu_20060717.log
+
+  
+    cedu_20060627.log
+
+  
+    cedu_20060307.log
+
+  
+    cedu_20051030.log
+
+  
+    cedu_20050902.log
+
+  
+    cedu_20050601.log
+
+  
+    cedu_20031126.log
+
+  
+    cedu_20020613.log
+
+  
+    cedu9909.log
+
+  
+    cedu9908.log
+
+  
+    cedu0005.log
+
+  
+    cedu0002.log
+
+  
+
+  
+
+
+
+
+
+ 
+
+|
+HOME ||
+ABOUT IGS ||
+
+ORGANIZATION ||
+FAQs ||
+FTP ARCHIVES || 
+WEBSITE INDEX |
+
+
+
+
+
+
+
+This page last updated: 18 Feb 2015 07:02:58
+
+
+Please send comments about this website to:
+IGS Central Bureau.
+
+
+
+
+
+
+
+
+
+
+

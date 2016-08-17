@@ -1,0 +1,38 @@
+NAMMA HAMSR
+HAMSR Field Reporting
+	HAMSR 09-11-2006 Quicklooks
+2006-09-09: Usual 55GHz jumps. 118 no longer seriously compressed, but one of the channels saturates when the instrument gets cold at higher altitudes.
+
+namma_hamsr_20060909_Eng-quicklook.pdf
+	HAMSR 09-10-2006 Quicklooks
+2006-09-03: Good flight.  Usual jumps in 55 GHz gain.   118 GHz is compressed.
+2006-09-04: Usual 55 GHz Jumps.  Compressed 118.
+2006-09-05: Usual jumps in 55GHz.   118 GHz data is compressed, and probably not usable.
+2006-09-08: Usual 55GHz jumps.  118 no longer seriously compressed, but two of ...
+	HAMSR 2006-09-01
+Data is in two files, before the MMS maneuvers and during and after.  You can see the maneuvers clearly in the data.  Jump in the 55 GHz apparent in the raw counts.  A few bad samples or noise in the 183 GHz.  Calibrated Cross track on ...
+	HAMSR 2006-08-30
+First flight with the 118 radiometer functional.  3-mil radome installed over 118/183 side after radome broke on last flight.  There is some noise apparent noise in the load physical temperature readings, but no explanation for it presently.
+
+namma_hamsr_20060830_Eng-quicklook.pdf
+	HAMSR 2006-08-26
+Good flight, but 2-mil radome on 118/183 side broke again.
+
+namma_hamsr_20060826_Eng-quicklook.pdf
+	HAMSR 2006-08-25
+8/24/06 Repairs:  Radome on 118/183 side was replaced with a 2-mil thick sheet of mylar (previously was 1-mil thick on this side).  Also, a loose SMA connector was found on the output of the 183 GHz first IF LNA; it was tightened.
+
+Very good flight.  Radome survived without ...
+	HAMSR 2006-08-23
+3rd Science flight from Sal.  Radome on 118/183 side broke at approx. UT1406 and instrument and cal load temperatures were unstable thereafter. 
+
+HAMSR Quicklook 2006-08-23
+	HAMSR 2006-08-20
+2nd science flight from Sal;  approx. 8 hour sortie.  Sortie number 06-035.  Included cloud penetration and satellite under-pass.  Noise on 183 GHz channels continued during flight.
+
+HAMSR Quicklook 2006-08-20
+	HAMSR 2006-08-19
+First Science flight from Sal.  HAMSR worked OK, but noise on 183 channels started at take off and persisted until landing.
+	HAMSR 2006-08-15
+Transit flight from Grand Forks to Cape Verde.  About 20 minutes into flight 183 channels started to exhibit excessive noise (this will later be determined to be caused by a loose connector on the output of the 183 GHz first IF LNA).  An attempt to stabilize the receiver ...
+

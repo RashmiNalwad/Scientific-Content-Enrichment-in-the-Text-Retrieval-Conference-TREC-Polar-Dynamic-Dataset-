@@ -1,0 +1,1242 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="alternate" type="application/atom+xml"
+      title="ATOM Feed for Platforms|Aircraft"
+      href="Titles.do?KeywordPath=Platforms|Aircraft&Portal=GCMD&clientId=null&Output=atom" />
+
+
+<div style="display:none">
+<!--
+The following content is here for Google to index and is replaced by the
+Refinment tool which displays the same content in a more User Interactive fasion
+-->
+<table width="90%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td width="46" valign="top">
+            <image src="default/images/supplementals.gif" width="46" height="47" alt="Thumbnail Icon" border="0"/>
+        </td>
+        <td width="4"><img src="default/images/spacer.gif" width="4" height="10" alt=""></td>
+        <td width="539" valign="top">
+            <span class="breadCrumb">
+                <a href="Keywords.do?Portal=GCMD&KeywordPath=Platforms&MetadataType=0&&lbnode=mdlb3" target=""  >Platforms</a> > Aircraft
+            </span>
+        </td>
+    </tr>
+</table>
+<table width="589" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+        <td valign="center">
+            
+
+
+
+
+<!-- BEGIN refinementCallout.jsp____________________________________________________________ -->
+
+<br>
+<br>
+
+<table border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr valign="right">
+    <td width="256">
+      <table width="256" border="0" cellpadding="0" cellspacing="0" bgcolor="#999999">
+
+        <tr> <!-- top border -->
+          <td width="1"><img src="default/images/callOut_topLeft_2.gif" width="1" height="20" alt=""></td>
+          <td width="12"><img src="default/images/callOut_topLeft_1.gif" width="12" height="20" alt=""></td>
+          <td width="230" background="default/images/callOut_topTile.gif" class="calloutTitle" align="center">
+            <font color="#FFFFFF"><strong>Refine by Category</strong></font>
+          </td>
+          <td width="12"><img src="default/images/callOut_topRght_1.gif" width="12" height="20" alt=""></td>
+          <td width="1"><img src="default/images/callOut_topRght_2.gif" width="1" height="20" alt=""></td>
+        </tr>
+
+        <tr> <!-- spacing -->
+          <td><img src="default/images/spacer.gif" width="1" height="2" alt=""></td>
+          <td bgcolor="E8EFF5"><img src="default/images/spacer.gif" width="1" height="2" alt=""></td>
+          <td bgcolor="E8EFF5"><img src="default/images/spacer.gif" width="126" height="2" alt=""></td>
+          <td bgcolor="E8EFF5"><img src="default/images/spacer.gif" width="8" height="2" alt=""></td>
+        </tr>
+
+        <tr> <!-- box contents -->
+          <td width="1" bgcolor="#9C9C9C" background="default/images/gray_1x1.gif">
+            <img src="default/images/spacer.gif" width="1" height="1" alt="">
+          </td>
+          <td colspan="3" bgcolor="E8EFF5" valign="top">
+
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+              <tr> <!-- spacing -->
+                <td><img src="default/images/spacer.gif" width="3" height="3" alt=""></td>
+                <td><img src="default/images/spacer.gif" width="3" height="3" alt=""></td>
+                <td><img src="default/images/spacer.gif" width="110" height="3" alt=""></td>
+                <td><img src="default/images/spacer.gif" width="3" height="3" alt=""></td>
+              </tr>
+
+              <tr> <!-- select a field row -->
+                <td><img src="default/images/spacer.gif" width="3" alt=""></td>
+                <td><img src="default/images/spacer.gif" width="3" alt=""></td>
+               
+<script language="JavaScript" type="text/javascript">
+function getSelectedValue(select) {
+    var index = select.selectedIndex;
+    if ((index >= 0) && (index < select.length)) {
+        return select.options[index].value;
+    }
+    return '';
+}
+function submit(select) {
+    if (getSelectedValue(select) != '') {
+        select.form.submit();
+    }
+}
+</script>
+	  <form method=GET name="parameters" action="Refinement.do">
+        <td bgcolor="E8EFF5" align="center">
+          <div align="center">
+ <select name="Refinement" onchange="submit(this)" size="1" class="footerText">
+              <option value=""> Please select a field </option>
+              <option value="Projects">Projects</option>
+              <option value="DataCenters">Data Centers</option>
+              <option value="Locations">Locations</option>
+              <option value="Instruments">Instruments/Sensors</option>
+              <option value="Platforms">Platforms/Sources</option>
+	      <option value="Parameters">Science Keywords</option>
+	      <option value="Spatial Coverage">Spatial Coverage</option>
+              <option value="Temporal Coverage">Temporal Coverage</option>
+              
+              <option value="-------------------">-------------------</option>
+	      <option value="Parent Only">Parent Records Only</option>
+	      <option value="Child Only">Children Records Only</option>
+	      <option value="Include Global Land">Include Global Land</option>
+      <option value="Include Global Ocean">Include Global Ocean</option>
+              
+            </select>
+            <input name="action" type="image" tabindex="2" value="search" src="default/images/btn_go.gif" align="absmiddle" width="26" height="21" border="0" alt="Go Button">
+          </div>
+        </td>
+	 <input type="hidden" name="KeywordPath" value="Platforms%7CAircraft">
+	 <input type="hidden" name="Portal" value="GCMD">
+	 <input type="hidden" name="MetadataType" value="0">
+        </form>
+
+                <td width="1" bgcolor="E8EFF5"><img src="default/images/spacer.gif" alt="" width="1" height="1"></td>
+              </tr>
+
+              <tr> <!-- spacing -->
+                <td colspan="4"><img src="default/images/spacer.gif" width="142" height="9" alt=""></td>
+              </tr>
+
+            </table>
+          </td>
+        </tr>
+
+        <tr> <!-- spacing -->
+          <td><img src="default/images/callOut_btmLeft_2.gif" width="1" height="7" alt=""></td>
+          <td><img src="default/images/callOut_btmLeft_1.gif" width="12" height="7" alt=""></td>
+          <td bgcolor="E8EFF5" background="default/images/callOut_btmTile.gif"><img src="default/images/spacer.gif" alt=""></td>
+          <td><img src="default/images/callOut_btmRght_1.gif" width="12" height="7" alt=""></td>
+          <td><img src="default/images/callOut_btmRght_2.gif" width="1" height="7" alt=""></td>
+        </tr>
+
+      </table>
+
+    </td>
+
+    <td width="6">&nbsp;</td> <!-- spacing cell -->
+
+    <td width="256" align="top"> <!-- right cell -->
+
+      <!-- table with Refine by Full text -->
+      <table width="256" border="0" cellpadding="0" cellspacing="0" bgcolor="#999999">
+
+        <tr> <!-- row with label -->
+          <td width="1"><img src="default/images/callOut_topLeft_2.gif" width="1" height="20" alt=""></td>
+          <td width="12"><img src="default/images/callOut_topLeft_1.gif" width="12" height="20" alt=""></td>
+          <td width="230" background="default/images/callOut_topTile.gif" class="calloutTitle" align="center">
+            <font color="#FFFFFF"><strong>Refine by Full text </strong></font>
+          </td>
+          <td width="12"><img src="default/images/callOut_topRght_1.gif" width="12" height="20" alt=""></td>
+          <td width="1"><img src="default/images/callOut_topRght_2.gif" width="1" height="20" alt=""></td>
+        </tr>
+
+        <tr> <!-- spacing -->
+          <td><img src="default/images/spacer.gif" width="1" height="2" alt=""></td>
+          <td bgcolor="E8EFF5"><img src="default/images/spacer.gif" width="1" height="2" alt=""></td>
+          <td bgcolor="E8EFF5"><img src="default/images/spacer.gif" width="126" height="2" alt=""></td>
+          <td bgcolor="E8EFF5"><img src="default/images/spacer.gif" width="8" height="2" alt=""></td>
+        </tr>        
+
+        <tr>
+          <!-- cell with spacing -->
+          <td width="1" bgcolor="#9C9C9C" background="default/images/gray_1x1.gif">
+            <img src="default/images/spacer.gif" width="1" height="1" alt="">
+          </td>
+
+          <!-- cell with free-text seach field -->
+          <td colspan="3" bgcolor="E8EFF5" valign="top">
+            <table  width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> <!-- spacing -->
+                 <td><img src="default/images/spacer.gif" width="3" height="3" alt=""></td> 
+                 <td><img src="default/images/spacer.gif" width="3" height="3" alt=""></td>
+               <td><img src="default/images/spacer.gif" width="126" height="3" alt=""></td>
+                 <td><img src="default/images/spacer.gif" width="3" height="3" alt=""></td>
+              </tr>
+              <tr> <!-- free-text search field -->
+                <td><img src="default/images/spacer.gif" width="3" alt=""></td>
+                <td><img src="default/images/spacer.gif" width="3" alt=""></td>
+
+<!-- NOTE:  Forms based version of free-text search -->
+                <form method=GET name="freeText" action="Freetext.do">
+                  <td bgcolor="E8EFF5" align="center">
+                    <input type="text" name="Freetext" size=17 id="Freetext" class="footerText" value="" 
+                           onFocus="this.value=' '" tabindex="1">
+                    <input name="action2" type="image" tabindex="2" value="search" src="default/images/btn_go.gif" 
+                           align="absmiddle" width="26" height="21" border="0" alt="Go Button">
+                    <input type="hidden" name="KeywordPath" value="Platforms%7CAircraft">
+                    <input type="hidden" name="Portal" value="GCMD">
+                    <input type="hidden" name="MetadataType" value="0">
+                  </td>
+                </form>
+
+
+                <td width="1" bgcolor="E8EFF5"><img src="default/images/spacer.gif" alt="" width="1" height="1"></td> 
+              </tr>
+              <tr> <!-- spacing -->
+                <td colspan="4"><img src="default/images/spacer.gif" width="142" height="9" alt=""></td>
+              </tr>
+            </table>
+          </td>
+
+        </tr>
+
+        <tr> <!-- bottom border -->
+          <td><img src="default/images/callOut_btmLeft_2.gif" width="1" height="7" alt=""></td>
+          <td><img src="default/images/callOut_btmLeft_1.gif" width="12" height="7" alt=""></td>
+          <td bgcolor="E8EFF5" background="default/images/callOut_btmTile.gif"></td>
+          <td><img src="default/images/callOut_btmRght_1.gif" width="12" height="7" alt=""></td>
+          <td><img src="default/images/callOut_btmRght_2.gif" width="1" height="7" alt=""></td>
+        </tr>
+
+      </table>
+    </td>
+  </tr>
+</table>
+
+<p>&nbsp;</p> 
+
+<!-- END refinementCallout.jsp______________________________ -->
+
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <b></b>
+        </td>
+    </tr>
+</table>
+
+<table style="margin-top: 15px" width="90%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td valign="top">
+            <table width="100%" border="1">
+                <tr>
+                    <td class="calloutTitle" align="center">961 Titles Match Your Query</td>
+                </tr>
+                
+                
+                <tr>
+                    <td align="center">
+                        <img src="default/images/spacer.gif" width="1" height="30" alt="" align="absmiddle">
+                        
+                        Showing 1 through 50 of 961
+                        
+                            <a href="Titles.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&MetadataType=0&Offset=50&lbnode=mdlb3"  >
+                                <img src="default/images/nextArrow.gif" hspace="3" align="absmiddle" alt="Next" border="0">
+                            </a>
+                        
+                    </td>
+                </tr>
+                
+                
+                
+                    <tr>
+                        <td>
+                            1.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NSIDC-0625&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Greenland Radar Ice Sheet Thickness Measurements  [NSIDC-0625]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">Two 150-MHz coherent radar depth sounders were developed and flown over the Greenland ice sheet to obtain ice thickness measurements in support of PARCA investigations and the North Greenland Ice ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            2.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=IDBMG4&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                IceBridge BedMachine Greenland  [IDBMG4]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">This data set contains bed topography beneath the Greenland Ice Sheet based on mass conservation derived from airborne radar tracks and satellite radar. The data set also includes surface and ice ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            3.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=IRMCR1B&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                IceBridge MCoRDS L1B Geolocated Radar Echo Strength Profiles  [IRMCR1B]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">The IceBridge MCoRDS L1B Geolocated Radar Echo Strength Profiles (IRMCR1B) data set contains radio echo-sounding measurements over Antarctica taken from the Multichannel Coherent Radar Depth Sounder ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            4.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=IRTTE3&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                IceBridge Radar L3 Tomographic Thickness Error  [IRTTE3]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">This data set contains Level-3 tomographic thickness error measurements derived from data captured by the Center for Remote Sensing of Ice Sheets (CReSIS) Multichannel Coherent Radar Depth Sounder ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            5.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=AADC&EntryId=ASAC_1148_video_audio&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Video and audio tapes showing raw data from approach and overflight experiments to birds as part of ASAC 1148.  [ASAC_1148_video_audio]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">This dataset comprises the actual video footage and audio recordings made during a number of experiments made as part of ASAC project 1148 (ASAC_1148). The primary objective was to measure the responses ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            6.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=AGAP_GAMBIT&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Collaborative Research: IPY: GAMBIT: Gamburtsev Aerogeophysical Mapping of Bedrock and Ice Targets  [AGAP_GAMBIT]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">This award supported an aerogeophysical study of the Gamburtsev Subglacial Mountains (GSM), a Texas-sized mountain range buried beneath the ice sheets of East Antarctica. The project would perform ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            7.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS361.0&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Australian Aircraft Observations, daily 1971Dec-1989  [NCAR_DS361.0]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">Aircraft reports from Australia's real-time archive</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            8.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS366.0&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                ERA-40 Global Upper Air Radiosonde Observation Feedback Record Reports  [NCAR_DS366.0]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">ERA-40 Global Upper Air Radiosonde Observation Feedback Record Reports include 6 hourly upper air radiosonde observation (RAOB)             feedback record reports from RAOBs used in the ECMWF 45-year ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            9.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS600.0&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                GARP Global Upper Air and Surface Observations for June 1970  [NCAR_DS600.0]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">This Global Atmospheric Research Programme (GARP) dataset was compiled from observations received operationally at the National          Meteorological Center (NMC) and the Environmental Technical ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            10.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS875.0&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                GATE Aircraft Observations, 1974Jun-Sep  [NCAR_DS875.0]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">This dataset contains observations from U.S. and some foreign aircraft during the GARP Atlantic Tropical Experiment (GATE). The GATE period was from June to September 1974.</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            11.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS880.0&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                GATE Commercial and Research Aircraft Observations  [NCAR_DS880.0]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">This dataset contains flight-level aircraft data collected during the GARP Atlantic Tropical Experiment (GATE) from commercial and research aircraft. The GATE period was from June to September 1974.</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            12.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS354.0&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Global Level IIb Upper Air and Surface Observations for FGGE, 1978Nov-1979  [NCAR_DS354.0]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">DSS obtained this data, after errors were corrected in the original data.</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            13.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS824.1&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Global Tropical Cyclone "Best Track" Position and Intensity Data  [NCAR_DS824.1]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">Time series of tropical cyclone "best track" position and intensity data are provided for all ocean basins where tropical cyclones occur. Position and intensity data are available at 6-hourly intervals ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            14.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS617.0&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Hildebrand's HAPEX King Air Flux and Soundings, 1986May-Jul  [NCAR_DS617.0]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">The Hydrologic Atmospheric Pilot Experiment (HAPEX) was a project  designed to measure the hydrological budget and evaporation flux at      the scale of a general circulation model grid square (104 ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            15.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS801.0&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Japan AMTEX Observations, daily 1974-1975 Feb-Mar  [NCAR_DS801.0]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">Observational data from the Air Mass Transformation Experiment</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            16.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS381.0&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Kennedy's ALPEX Aircraft Observations, spring 1982  [NCAR_DS381.0]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">Aircraft observations from the ALPine EXperiment.</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            17.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS620.0&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Kuwait Oil Fires Archive, 1991  [NCAR_DS620.0]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">This is data extracted from various NCEP observed and analyzed datasets and then put in our RPTOUT format to support the Kuwait Oil             Fires studies.</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            18.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS602.1&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Line Island Experiment Aircraft Observations, 1967Mar-Apr  [NCAR_DS602.1]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">The Line Islands Experiment of 1967 produced extensive data on disturbances in the equatorial trough zone. DSS has flight-level             aircraft data from flights in February, March, and April ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            19.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS368.0&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                NASA GASP (Global Atmospheric Sampling Program) Aircraft Observations, 1975Mar-1979Jul  [NCAR_DS368.0]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">This dataset contains flight-level aircraft measurements from five GASP aircraft during the period of March 1975 to July 1979.             Parameters measured by the aircraft include various meteorological ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            20.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS351.1&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                NCEP ADP ETA / NAM Upper Air Observation Subsets, October 2000 - continuing  [NCAR_DS351.1]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">NCEP ADP ETA / NAM Upper Air Observation Subsets are composed of a regional synoptic set of upper air reports centered over North America, operationally collected by the National Centers for Environmental ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            21.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS351.0&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                NCEP ADP Global Upper Air Observational Weather Data, October 1999 - continuing  [NCAR_DS351.0]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">NCEP ADP Global Upper Air Observational Weather Data are composed of global upper air weather reports operationally collected by the             National Centers for Environmental Prediction (NCEP). ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            22.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS337.0&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                NCEP ADP Global Upper Air and Surface Weather Observations (PREPBUFR format), May 1997 - Continuing  [NCAR_DS337.0]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">NCEP ADP Global Upper Air and Surface Weather Observations (PREPBUFR format) are composed of a global set of surface and upper             air reports operationally collected by the National Centers ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            23.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS353.4&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                NCEP ADP Operational Global Upper Air Observations, December 1972 - February 2007  [NCAR_DS353.4]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">These NCEP ADP operational global synoptic upper air data reports  were collected from the GTS during time slots centered on the             6-hourly analysis times of their global and regional models. ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            24.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS353.0&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                NMC B-3 ADP Global Upper Air Observations, daily 1962Mar-1972  [NCAR_DS353.0]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">DSS presents a global synoptic set of 12 hourly upper air data reports. These were operationally collected by NMC. They include             radiosondes, pibals and aircraft reports received via the ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            25.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS353.3&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                NMC DST II Data for GARP, 1974May-1976May  [NCAR_DS353.3]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">DSS obtained this data and/or extracted it from other datasets for the Global Atmospheric Research Project.</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            26.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS362.0&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                New Zealand Aircraft Data, 1978Dec22-1988Jun30  [NCAR_DS362.0]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">This dataset contains aircraft reports from New Zealand. Each report contains date, aircraft ID, location, temperature, and wind             information.</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            27.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS365.0&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Sadler's Global Aircraft Observations, daily 1960-1973  [NCAR_DS365.0]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">Global aircraft observations containing temperature and wind measurements for the period from January 1960 to December 1973.             Obtained from James Sadler at the University of Hawaii.</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            28.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS208.0&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Sadler's Tropical Wind Climatology, 1960-1973  [NCAR_DS208.0]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">Long term monthly mean winds which Sadler derived from his collection of aircraft data (which we have in DS365.0.             [http://rda.ucar.edu/datasets/ds365.0]) and average rawindsonde data. ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            29.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS605.5&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Summer Monsoon Experiment (SMONEX), 1979May-Jul  [NCAR_DS605.5]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">Data from the Summer Monsoon Experiment, collected by NCAR, NASA, NOAA and France. The project area was over Saudi Arabia, the Arabian Sea, and the Bay of Bengal.</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            30.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS606.1&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                TOGA COARE Air-Sea Fluxes and Sea-Surface Data  [NCAR_DS606.1]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">This dataset contains air-sea fluxes and sea-surface data obtained during TOGA COARE by aircraft, ship, buoy, and satellite. For more             information about TOGA COARE, see the TOGA COARE Data ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            31.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS360.0&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                U.S.A.F. ETAC DATSAV TD57 Global Aircraft Observations, 1947-1985  [NCAR_DS360.0]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">Two periods (1947Jan-1959Jan and 1976Jan-1985Dec) of global aircraft observations from U.S.A.F. ETAC decode and obtained by DSS.</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            32.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS355.0&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                U.S.A.F. Global Upper Air Observations, daily 1966Jul-1969Aug  [NCAR_DS355.0]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">Global upper air observations from the U.S.A.F. for the period from July 1966 to August 1969.</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            33.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=NCAR_DS605.2&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Winter Monsoon Experiment (WMONEX), 1978Dec  [NCAR_DS605.2]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">This dataset contains flight-level aircraft data for December 1978 from the Winter Monsoon Experiment (WMONEX).</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            34.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=AADC&EntryId=ASAC_1144&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Leopard and Weddell seal program  [ASAC_1144]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">2000/2001 season
+31 quad based surveys were conducted along the pack-ice edge to identify where leopard seals could be accessed. 31 one hour aerial surveys were also conducted to identify the position ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            35.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=DISCOVER-AQ_Aircraft_Navigational_P3B&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                DISCOVER-AQ P-3B Aircraft Navigational and Meteorological Data  [DISCOVER-AQ_Aircraft_Navigational_P3B]
+                            </a>
+                            
+                            
+                                &nbsp;
+                                <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&EntryId=DISCOVER-AQ&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  class="searchTermCount" target="_blank"  >
+                                    PARENT DIF
+                                </a>
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">DISCOVER-AQ_Aircraft_Navigational_Data_P3B are NASA P-3B aircraft navigational and meteorological data collected during the first deployment of the Deriving Information on Surface Conditions from ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            36.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=DISCOVER-AQ_Aircraft_insitu_Aerosol&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                DISCOVER-AQ P-3B Aircraft in-situ Aerosol Measurements  [DISCOVER-AQ_Aircraft_insitu_Aerosol]
+                            </a>
+                            
+                            
+                                &nbsp;
+                                <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&EntryId=DISCOVER-AQ&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  class="searchTermCount" target="_blank"  >
+                                    PARENT DIF
+                                </a>
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">DISCOVER-AQ_Aircraft_insitu_Aerosol_Data are NASA P-3B aircraft in-situ measurements of aerosol properties made during the first deployment of the Deriving Information on Surface Conditions from Column ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            37.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=DISCOVER-AQ_Aircraft_insitu_TraceGas&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                DISCOVER-AQ P-3B Aircraft in-situ Trace Gas Measurements  [DISCOVER-AQ_Aircraft_insitu_TraceGas]
+                            </a>
+                            
+                            
+                                &nbsp;
+                                <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&EntryId=DISCOVER-AQ&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  class="searchTermCount" target="_blank"  >
+                                    PARENT DIF
+                                </a>
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">DISCOVER-AQ_Aircraft_insitu_TraceGas_Data are NASA P-3B in-situ trace gas measurement data collected during the first deployment of the Deriving Information on Surface Conditions from Column and Vertically ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            38.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=DISCOVER-AQ_Aircraft_Remote_Sensing_TraceGas&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                DISCOVER-AQ UC-12 Aircraft ACAM Trace Gas Measurements  [DISCOVER-AQ_Aircraft_Remote_Sensing_TraceGas]
+                            </a>
+                            
+                            
+                                &nbsp;
+                                <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&EntryId=DISCOVER-AQ&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  class="searchTermCount" target="_blank"  >
+                                    PARENT DIF
+                                </a>
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">DISCOVER-AQ_Aircraft_Remote_Sensing_TraceGas_Data are NASA UC-12 aircraft column measurements of NO2, CH2O, and O3 made during the first deployment of the Deriving Information on Surface Conditions ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            39.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=DISCOVER-AQ_Aircraft_Remote_Sensing_Aerosol&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                DISCOVER-AQ UC-12 Aircraft HSRL Aerosol Measurements  [DISCOVER-AQ_Aircraft_Remote_Sensing_Aerosol]
+                            </a>
+                            
+                            
+                                &nbsp;
+                                <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&EntryId=DISCOVER-AQ&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  class="searchTermCount" target="_blank"  >
+                                    PARENT DIF
+                                </a>
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">DISCOVER-AQ_Aircraft_Remote_Sensing_Aerosol_Data are NASA UC-12 aircraft HSRL measurements of extinction, backscattering, and depolarization profiles at 1064 and 532 nm made during the first deployment ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            40.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=DISCOVER-AQ_Aircraft_Navigational_UC12&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                DISCOVER-AQ UC-12 Aircraft Navigational Data  [DISCOVER-AQ_Aircraft_Navigational_UC12]
+                            </a>
+                            
+                            
+                                &nbsp;
+                                <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&EntryId=DISCOVER-AQ&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  class="searchTermCount" target="_blank"  >
+                                    PARENT DIF
+                                </a>
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">DISCOVER-AQ_Aircraft_Navigational_Data_UC12 are NASA UC-12 aircraft navigational data collected during the first deployment of the Deriving Information on Surface Conditions from Column and Vertically ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            41.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=BOREAS_RS20C130&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                BOREAS RSS-20 POLDER C-130 Measurements of Surface BRDF  [BOREAS_RS20C130]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">This data set contains measurements of surface BRDF made by the POLDER instrument over several surface types (pine, spruce, fen) of the BOREAS SSA during the 1994 IFCs. Single-point BRDF values were ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            42.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=BOREAS_RS20HELO&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                BOREAS RSS-20 POLDER Helicopter-Mounted Measurements of Surface BRDF  [BOREAS_RS20HELO]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">This data set contains measurements of surface BRDF made by the POLDER instrument over several sites (pine, spruce, fen) of the BOREAS study areas during 1994. Single-point BRDF values were acquired ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            43.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=Bindschadler_0732906&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                COLLABORATIVE RESEARCH; IPY: Ocean-Ice Interaction in the Amundsen Sea sector of West Antarctica  [Bindschadler_0732906]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">Collaborative With: McPhee 0732804, Holland 0732869, Truffer 0732730, Stanton 0732926, Anandakrishnan 0732844
+
+Title: Collaborative Research: IPY: Ocean-Ice Interaction in the Amundsen Sea Sector ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            44.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=NOAA-NGDC&EntryId=gov.noaa.ngdc.mgg.geophysics.G01149&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Aeromagnetic Regional Grid Data  [gov.noaa.ngdc.mgg.geophysics.G01149]
+                            </a>
+                            
+                            
+                                &nbsp;
+                                <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&EntryId=gov.noaa.ngdc:G001&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  class="searchTermCount" target="_blank"  >
+                                    PARENT DIF
+                                </a>
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">Several regions are represented in this unique collection of earth surface measurements of magnetic field parameters and their related anomalies. The DNAG Magnetics "Super grid" of Magnetic Anomaly ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            45.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=LAADS_MAS_ALASKA95&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                ALASKA-April95 MODIS Airborne Simulator (MAS) Level-1B Data Products  [LAADS_MAS_ALASKA95]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">The objective of the ALASKA-April95 campaign was to use remotely sensed data to map snow and ice and make measurements of first-year and multi-year sea ice over Central and Northern Alaska and the ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            46.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=LAADS_MAS_ARMCAS&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Arctic Radiation Measurement in Column: Atmosphere-Surface (ARMCAS) MODIS Airborne Simulator (MAS) Level-1B Data Products  [LAADS_MAS_ARMCAS]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">The objective of the Arctic Radiation Measurement in Column: Atmosphere-Surface (ARMCAS) experiment was to detect and differentiate between clouds, ice, and snow over Northern Alaska. This experiment ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            47.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=LAADS_MAS_BOREAS&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Boreal Ecosystem-Atmosphere Study/FFC-Winter (BOREAS) Campaign MODIS Airborne Simulator (MAS) Level-1B Data Products  [LAADS_MAS_BOREAS]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">The objective of the Boreal Ecosystem-Atmosphere Study/FFC-Winter (BOREAS) campaign was to study Snow and Ice Detection over Glacier National Park in Montana and Prince Albert National Park in Canada. ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            48.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=LAADS_MAS_CEPEX&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Central Equatorial Pacific Experiment (CEPEX) MODIS Airborne Simulator (MAS) Level-1B Data Products  [LAADS_MAS_CEPEX]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">The objective of the Central Equatorial Pacific Experiment (CEPEX) campaign was to study the effects that Cirrus cloud radiative and surface evaporation properties have on limiting maximum surface ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            49.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=LAADS_MAS_MAST&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Monterey Area Ship Tracks (MAST) MODIS Airborne Simulator (MAS) Level-1B Data Products  [LAADS_MAS_MAST]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">The objective of the Monterey Area Ship Tracks (MAST) campaign was to study cloud formation from ocean vessels off of the central California coast. The data was collected for the MODIS Airborne Simulator ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            50.
+                            <a href="Metadata.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&OrigMetadataNode=GCMD&EntryId=LAADS_MAS_SUCCESS&MetadataView=Full&MetadataType=0&lbnode=mdlb3"  >
+                                Subsonic Aircraft Contrail and Cloud Effects Special Study (SUCCESS) MODIS Airborne Simulator (MAS) Level-1B Data Products  [LAADS_MAS_SUCCESS]
+                            </a>
+                            
+                            
+                            
+                            <br>
+                            <div class="fieldSummary">
+                            <font size="-1">The objective of the Subsonic Aircraft Contrail and Cloud Effects Special Study (SUCCESS) was to use scientifically instrumented aircraft and ground based measurements to investigate the effects of ...</font>
+                            </div>
+                            <br>
+                            <br>
+                        </td>
+                    </tr>
+                
+                
+                
+                <tr>
+                    <td align="center">
+                        
+                        Showing 1 through 50 of 961
+                        
+                            <a href="Titles.do?Portal=GCMD&KeywordPath=Platforms%7CAircraft&MetadataType=0&Offset=50&lbnode=mdlb3"  >
+                                <img src="default/images/nextArrow.gif" hspace="3" align="absmiddle" alt="Next" border="0">
+                            </a>
+                        
+                    </td>
+                </tr>
+                
+            </table>
+        </td>
+    </tr>
+</table>
+
+</div>

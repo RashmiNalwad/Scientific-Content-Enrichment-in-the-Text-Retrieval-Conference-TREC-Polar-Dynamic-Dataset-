@@ -1,0 +1,1851 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Instruments>Solar/Space Observing Instruments
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                SORCE SIM Level 3 Solar Spectral Irradiance Daily Means V021 (SOR3SIMD) at GES DISC
+            
+        
+
+        
+        
+            Entry ID:
+            
+                GES_DISC_SOR3SIMD_V021
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+                        
+                    
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+        
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            The SORCE SIM Solar Spectral Irradiance (SSI) data product SOR3SIMD is constructed using measurements from the SIM instruments, which are combined into merged daily solar spectra over the spectral range from 310 to 2413 nm at a spectral resolution ranging from 1 to 27 nm. Irradiances are reported at a mean solar distance of 1 AU and zero relative line-of-sight velocity with respect to the Sun. The  ... SIM absolute uncertainty is about 2%. 
+ 
+ All of the SOR3SIMD data are arranged in a single file in a tabular ASCII text file which can be easily read into a spreadsheet application. The columns contain the date, Julian day, minimum wavelength, maximum wavelength, instrument mode, data version number, irradiance value, irradiance uncertainty, and data quality. The rows are arranged with data at each wavelength over the full SIM wavelength range, repeating for each day for the length of the measurement period. 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    ON-LINE ARCHIVE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Access the data via anonymous FTP. 
+                            
+
+                        
+			
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    MIRADOR
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Mirador is a search and download interface of data archived at the NASA GES DISC. 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    REVERB
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Reverb, the ECHO client, allows one to search and retrieve data across multiple data archive centers. 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET SERVICE
+                                                 > 
+                                                    GET SOFTWARE PACKAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                IDL-based read software. 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                SORCE project home page at LASP. 
+                            
+
+                        
+			
+                        
+                    
+		    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 90.0
+                                
+                            	 	
+                                
+                                    S: -90.0
+                                
+                            	 	
+                                
+                                    E: 180.0
+                                
+                            	 	
+                                
+                                    W: -180.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            G. J. Harder
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Title: 
+                            SORCE SIM Level 3 Solar Spectral Irradiance Daily Means
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Series Name: 
+                            SOR3SIMD
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Release Date: 
+                            2014-12-04
+                         
+
+                    
+                    
+                    
+                        
+                            Dataset Release Place: 
+                            Greenbelt, MD, USA
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            NASA Goddard Earth Science Data and Information Services Center (GES DISC)
+                        
+
+                    
+                    
+                    
+                        
+                            Version: 
+                            021
+                        
+
+                    
+                    
+                    
+
+
+                    
+                    
+                    
+                        
+                            Data Presentation Form: 
+                            Digital Science Data
+                        
+
+                    
+
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        http://disc.gsfc.nasa.gov/datacollection/SOR3SIMD_V021.html
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        2003-04-14
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        2013-03-15
+                    
+
+                
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            SPACE
+                            
+                                > SOLAR REGION
+                            
+                            
+                                > PHOTOSPHERE
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Data Resolution
+
+        
+        
+        
+            
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+                Temporal Resolution:
+                Daily
+                
+
+            
+
+            
+                Temporal Resolution Range:
+                Daily - < Weekly
+                
+
+            
+
+	    
+
+                
+
+                
+		
+
+            
+        
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                SOLAR ACTIVITY
+                            
+                            
+                                >
+                                SOLAR IRRADIANCE
+                            
+                            
+                            
+                            
+                                >
+                                SOLAR SPECTRAL IRRADIANCE
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                SOLAR ACTIVITY
+                            
+                            
+                                >
+                                SOLAR ULTRAVIOLET EMISSIONS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+		
+            
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    SORCE
+                                    
+                                        >
+                                        Solar Radiation and Climate Experiment
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+		    
+                
+
+
+    
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            SIM
+                            
+                                >
+                                Spectral Irradiance Monitor
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+	    
+        
+
+
+    
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            EOSDIS
+                            
+                                >
+                                Earth Observing System Data Information System
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ESIP
+                            
+                                >
+                                Earth Science Information Partners Program
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SORCE
+                            
+                                >
+                                Solar Radiation and Climate Experiment
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CWIC
+                            
+                                >
+                                CEOS WGISS Integrated Catalog
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Quality
+        
+            See: http://lasp.colorado.edu/sorce/ssi_data.html 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            SSI
+                    
+
+		    
+                
+                    
+                    
+                        
+                            solar spectral irradiance
+                    
+
+		    
+                
+                    
+                    
+                        
+                            EOSDIS
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            IN WORK
+        
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        LASP
+                    
+                
+
+                
+            
+	    
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Goddard Earth Sciences Data and Information Services Center (formerly Goddard DAAC), Global Change Data Center, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center, NASA
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://disc.gsfc.nasa.gov/
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    
+                                                    
+                                                    GES DISC HELP DESK SUPPORT GROUP
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            301-614-5224
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            301-614-5268
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            gsfc-help-disc at lists.nasa.gov
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        Goddard Earth Sciences Data and Information Services Center
+
+                                                                    
+                                                                        Code 610.2
+
+                                                                    
+                                                                        NASA Goddard Space Flight Center
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Greenbelt
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                MD
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                20771
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+                        
+
+                    
+                    
+                
+                    
+                    
+                        
+                            
+                            
+                                SORCE Science Team, Laboratory for Atmospheric and Space Physics, University of Colorado
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://lasp.colorado.edu/sorce/
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    TOM
+                                                    
+                                                    WOODS
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            303-492-4224
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            tom.woods at lasp.colorado.edu
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        University of Colorado
+
+                                                                    
+                                                                        Laboratory for Atmospheric and Space Physics
+
+                                                                    
+                                                                        1234 Innovation Drive
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Boulder
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                Colorado
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                80303-7814
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+                
+
+                
+                     
+                
+            
+
+  
+        
+    
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    FTP/HTTP
+                
+
+  
+
+
+
+
+
+
+
+
+

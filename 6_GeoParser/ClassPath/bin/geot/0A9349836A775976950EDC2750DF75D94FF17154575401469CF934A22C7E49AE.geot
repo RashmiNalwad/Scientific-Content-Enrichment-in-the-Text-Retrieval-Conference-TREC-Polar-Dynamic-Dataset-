@@ -1,0 +1,1843 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        ServiceParameters>DATA MANAGEMENT/DATA HANDLING>DATA INTEROPERABILITY
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                Hyperslab OPerator Suite (HOPS)
+            
+        
+
+        
+        
+            Entry ID:
+            
+                UCAR_HOPS
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+
+
+		  
+                        
+                    
+
+                 
+            
+        
+        
+
+        
+        
+        
+            [
+            
+                
+                    Get Service
+            
+            ]
+            
+        
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+               
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+         
+         
+                
+                    
+                    
+                        Update this Record.
+                
+
+
+
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            Hyperslab OPerator Suite (HOPS), developed by R. Saravanan at NCAR, is a bilingual, multi-platform software package for processing data in netCDF files conforming to the NCAR-CCM format or the NCAR Ocean Model format. HOPS is implemented in IDL, the widely-used commercial interpreted language, and also in Yorick, a public-domain interpreted language that is freely available from the Lawrence  ... Livermore National Laboratory. The IDL version of HOPS should run on any platform supported by IDL. The Yorick version too runs on most common UNIX platforms, such as Sun, SGI, Cray, and LINUX computers. 
+ 
+ HOPS is not a monolithic program, but a suite of operators that act on data units called "hyperslabs". The design of HOPS is object-oriented, rather than procedure-oriented; the operators treat the numeric data and the associated meta-data (like coordinate information) as a single object. 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET SERVICE
+                                                 > 
+                                                    GET SOFTWARE PACKAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Get the Hyperslab OPerator Suite (HOPS). 
+                            
+
+                        
+			
+                        
+                    
+		    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Service Citation
+        
+        
+            	
+                
+                    
+                    
+                        
+                            Originators: 
+                            R. Saravanan
+                        
+
+                    
+                    
+                        
+                            Title: 
+                            Hyperslab OPerator Suite (HOPS)
+                        
+
+                    
+                    
+                    
+                        
+                            Provider: 
+                            University Corporation for Atmospheric Research
+                        
+
+                    
+                    
+                    
+                        
+                            URL: 
+                            
+                                
+                                    http://www.cgd.ucar.edu/gds/svn/hyperslab.html
+                            
+                        
+
+                    
+                    
+                    
+                
+                
+            
+        
+
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Service Keywords
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                                DATA MANAGEMENT/DATA HANDLING
+                            
+                            
+                                >DATA INTEROPERABILITY
+                            
+                            
+                                >DATA REFORMATTING
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                DATA MANAGEMENT/DATA HANDLING
+                            
+                            
+                                >TRANSFORMATION/CONVERSION
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+            
+            
+
+
+
+        
+    
+
+
+
+
+    
+        Science Keywords 
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >AEROSOLS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >AIR QUALITY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ALTITUDE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC CHEMISTRY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC ELECTRICITY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC PHENOMENA
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC WATER VAPOR
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC WINDS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >CLOUDS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >PRECIPITATION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC RADIATION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC PRESSURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                    
+            
+
+
+        
+    
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ENVIRONMENT
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            ESIP
+                            
+                                >
+                                Earth Science Information Partners Program
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Use Constraints
+        
+            There is absolutely no warranties whatsoever with HOPS and is neither supported by nor endorsed by NCAR. 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            Data Processing
+                    
+
+		    
+                
+                    
+                    
+                        
+                            NetCDF
+                    
+
+		    
+                
+                    
+                    
+                        
+                            NCAR-CCM format
+                    
+
+		    
+                
+                    
+                    
+                        
+                            NCAR Ocean Model format
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Service Provider
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                                
+                                    UCAR/NCAR/CGD
+                                    
+                                         >  
+                                        Climate and Global Dynamics Division, National Center for Atmospheric Research, University Corporation for Atmospheric Research
+                                    
+                                
+                           
+                            
+                                
+                                    
+                            
+                            
+
+                        
+                    
+                    
+                        
+                            Service Organization URL: 
+                        
+                        
+                            
+                                
+                                            http://www.cgd.ucar.edu/ 
+                            
+                        
+                        
+
+                    
+                    
+                        
+                    
+                    
+                    
+                        
+                            
+
+                            	Service Provider Personnel
+	
+                                        Name: 
+                                        
+                                            
+                                                
+                                                
+                                                CLIMATE AND GLOBAL DYNAMICS DIVISION
+                                            
+                                        
+                                        
+
+                                        
+                                            
+                                                Phone: 
+                                                
+                                                    303.497.1740
+                                                
+                                                
+
+                                            
+                                        
+                                        
+                                            
+                                        
+                                        
+                                            
+                                                
+                                                    Email: 
+                                                    
+                                                        cwimert at cgd.ucar.edu
+                                                    
+                                                    
+
+                                                
+                                            
+                                        
+                                        
+                                            
+                                                
+                                                    
+                                                        Contact Address: 
+
+                                                        
+                                                            
+                                                                
+                                                                    National Center for Atmospheric Research 
+
+                                                                
+                                                                    P.O. Box 3000 
+
+                                                                
+                                                            
+                                                        
+                                                    
+                                                    
+                                                        City: 
+                                                        
+                                                            Boulder
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Province or State: 
+                                                        
+                                                            CO
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Postal Code: 
+                                                        
+                                                            80307-3000
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Country: 
+                                                        
+                                                            USA
+                                                        
+                                                        
+
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+  
+                            
+                        
+                    
+                    
+                    
+                
+                
+            
+
+  
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    Online
+                
+
+            
+            
+            
+            
+            
+            
+            
+                
+                    Fees: 
+                    No fees
+                
+
+            
+
+            
+                
+                
+                
+		
+            
+        
+
+    
+
+
+ 
+          
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        TYLER
+                        B.
+                        STEVENS
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                SERF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                (301) 614-6898
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                301-614-5268
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                Tyler.B.Stevens at nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                NASA Goddard Space Flight Center
+
+                                            
+                                                Global Change Master Directory
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Greenbelt
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    MD
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    20771
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                 
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        R.
+                        
+                        SARAVANAN
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                303-497-1329
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                303-497-1700
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                svn at ncar.ucar.edu
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                NCAR P.O. Box 3000
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Boulder
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    CO
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    80307-3000
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+            
+             
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Extended Metadata Properties
+
+        
+            
+            (Click to view more)
+        
+
+        
+            
+
+            
+
+            
+                Extended Metadata Properties From GCMD
+
+                metadata.extraction_date: 2015-02-18 06:00:30
+metadata.keyword_version: 8.0
+
+            
+        
+
+    
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+        
+        
+    
+
+ 
+
+        	
+            
+                SERF Creation Date:
+                2007-11-26
+            
+            
+
+            
+                SERF Last Revision Date:
+                2012-02-15
+            
+            
+
+            
+        
+
+
+
+ 
+
+             
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+        
+
+
+
+
+
+
+
+
+
+

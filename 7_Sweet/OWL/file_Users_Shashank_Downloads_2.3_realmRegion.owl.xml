@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>file:///Users/Shashank/Downloads/2.3/realmRegion.owl</title><link href="file_Users_Shashank_Downloads_2.3_realmRegion.owl_files/viewsource.css" type="text/css" rel="stylesheet"/></head><body style="-moz-tab-size: 4" class="highlight" id="viewsource" contextmenu="actions"><pre id="line1"><span/><span class="pi">&lt;?xml version="1.0" encoding="UTF-8"?&gt;</span><span>
+<span id="line2"/>
+<span id="line3"/></span><span class="error error doctype" title="Bogus doctype.
+Stray doctype.">&lt;!DOCTYPE rdf:RDF [
+<span id="line4"/>  &lt;!ENTITY root "http://sweet.jpl.nasa.gov/2.3/"&gt;</span><span>
+<span id="line5"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY spac "&amp;root;reprSpaceGeometry.owl#"&gt;</span><span>
+<span id="line6"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY srela "&amp;root;relaSpace.owl#"&gt;</span><span>
+<span id="line7"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY mrela "&amp;root;relaMath.owl#"&gt;</span><span>
+<span id="line8"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY screla "&amp;root;relaSci.owl#"&gt;</span><span>
+<span id="line9"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY realm "&amp;root;realm.owl#"&gt;</span><span>
+<span id="line10"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY quan "&amp;root;propQuantity.owl#"&gt;</span><span>
+<span id="line11"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY sreg "&amp;root;realmRegion.owl#"&gt;</span><span>
+<span id="line12"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY units "&amp;root;reprSciUnits.owl#"&gt;</span><span>
+<span id="line13"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY owl "http://www.w3.org/2002/07/owl#"&gt;</span><span>
+<span id="line14"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;</span><span>
+<span id="line15"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#"&gt;</span><span>
+<span id="line16"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY xsd "http://www.w3.org/2001/XMLSchema#"&gt;</span><span>
+<span id="line17"/>]&gt;
+<span id="line18"/>
+<span id="line19"/></span><span>&lt;<span class="start-tag">rdf:RDF</span> <span class="attribute-name">xml:base</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>sr</span>eg;</a>"
+<span id="line20"/>         <span class="attribute-name">xmlns:owl</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>o</span>wl;</a>"
+<span id="line21"/>         <span class="attribute-name">xmlns:rdf</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>rd</span>f;</a>"
+<span id="line22"/>         <span class="attribute-name">xmlns:rdfs</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>rd</span>fs;</a>"
+<span id="line23"/>         <span class="attribute-name">xmlns:xsd</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;</a>"
+<span id="line24"/>         <span class="attribute-name">xmlns:sreg</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>sr</span>eg;</a>"
+<span id="line25"/>         <span class="attribute-name">xmlns:srela</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>sr</span>ela;</a>"
+<span id="line26"/>         <span class="attribute-name">xmlns:mrela</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>m</span>rela;</a>"
+<span id="line27"/>         <span class="attribute-name">xmlns:screla</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>sc</span>rela;</a>"
+<span id="line28"/>         <span class="attribute-name">xmlns:units</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>u</span>nits;</a>"
+<span id="line29"/>         <span class="attribute-name">xmlns:realm</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>real</span>m;</a>"
+<span id="line30"/>         <span class="attribute-name">xmlns:quan</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>qua</span>n;</a>"
+<span id="line31"/>         <span class="attribute-name">xmlns:spac</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>spa</span>c;</a>"
+<span id="line32"/>&gt;</span><span>
+<span id="line33"/>
+<span id="line34"/></span><span class="comment">&lt;!-- Ontology Information --&gt;</span><span>
+<span id="line35"/>  </span><span>&lt;<span class="start-tag">owl:Ontology</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value"/>"
+<span id="line36"/>                <span class="attribute-name">owl:versionInfo</span>="<a class="attribute-value">2.3</a>"&gt;</span><span>
+<span id="line37"/>     </span><span>&lt;<span class="start-tag">rdfs:label</span>&gt;</span><span>SWEET Ontology</span><span>&lt;/<span class="end-tag">rdfs:label</span>&gt;</span><span>
+<span id="line38"/>     </span><span>&lt;<span class="start-tag">owl:imports</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>ro</span>ot;reprSpaceGeometry.owl</a>"<span>/</span>&gt;</span><span>
+<span id="line39"/>     </span><span>&lt;<span class="start-tag">owl:imports</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>ro</span>ot;relaSpace.owl</a>"<span>/</span>&gt;</span><span>
+<span id="line40"/>     </span><span>&lt;<span class="start-tag">owl:imports</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>ro</span>ot;relaMath.owl</a>"<span>/</span>&gt;</span><span>
+<span id="line41"/>     </span><span>&lt;<span class="start-tag">owl:imports</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>ro</span>ot;relaSci.owl</a>"<span>/</span>&gt;</span><span>
+<span id="line42"/>     </span><span>&lt;<span class="start-tag">owl:imports</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>ro</span>ot;realm.owl</a>"<span>/</span>&gt;</span><span>
+<span id="line43"/>     </span><span>&lt;<span class="start-tag">owl:imports</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>ro</span>ot;propQuantity.owl</a>"<span>/</span>&gt;</span><span>
+<span id="line44"/>     </span><span>&lt;<span class="start-tag">owl:imports</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>ro</span>ot;reprSciUnits.owl</a>"<span>/</span>&gt;</span><span>
+<span id="line45"/>  </span><span>&lt;/<span class="end-tag">owl:Ontology</span>&gt;</span><span>
+<span id="line46"/>
+<span id="line47"/></span><span class="comment">&lt;!-- Regions --&gt;</span><span>
+<span id="line48"/>  </span><span>&lt;<span class="start-tag">sreg:LatitudeLine</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Equator</a>"&gt;</span><span>
+<span id="line49"/>     </span><span>&lt;<span class="start-tag">srela:hasLatitudeLine</span>&gt;</span><span> 
+<span id="line50"/>       </span><span>&lt;<span class="start-tag">sreg:LatitudeLine</span>&gt;</span><span>
+<span id="line51"/>         </span><span>&lt;<span class="start-tag">screla:hasNumericValue</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;double</a>"&gt;</span><span>0.</span><span>&lt;/<span class="end-tag">screla:hasNumericValue</span>&gt;</span><span>
+<span id="line52"/>       </span><span>&lt;/<span class="end-tag">sreg:LatitudeLine</span>&gt;</span><span>
+<span id="line53"/>     </span><span>&lt;/<span class="end-tag">srela:hasLatitudeLine</span>&gt;</span><span>
+<span id="line54"/>  </span><span>&lt;/<span class="end-tag">sreg:LatitudeLine</span>&gt;</span><span>
+<span id="line55"/>
+<span id="line56"/>  </span><span>&lt;<span class="start-tag">sreg:LatitudeBand</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Extratropics</a>"&gt;</span><span>
+<span id="line57"/>    </span><span>&lt;<span class="start-tag">owl:differentFrom</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Tropics</a>"<span>/</span>&gt;</span><span>
+<span id="line58"/>    </span><span>&lt;<span class="start-tag">owl:differentFrom</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Subtropics</a>"<span>/</span>&gt;</span><span>
+<span id="line59"/>  </span><span>&lt;/<span class="end-tag">sreg:LatitudeBand</span>&gt;</span><span>
+<span id="line60"/>  
+<span id="line61"/>  </span><span>&lt;<span class="start-tag">sreg:LatitudeBand</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#LowLatitude</a>"&gt;</span><span>
+<span id="line62"/>    </span><span>&lt;<span class="start-tag">owl:sameAs</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Tropical</a>"<span>/</span>&gt;</span><span>
+<span id="line63"/>    </span><span>&lt;<span class="start-tag">owl:sameAs</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Tropics</a>"<span>/</span>&gt;</span><span>
+<span id="line64"/>    </span><span>&lt;<span class="start-tag">owl:sameAs</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#LowLatitude</a>"<span>/</span>&gt;</span><span>
+<span id="line65"/>     </span><span>&lt;<span class="start-tag">srela:hasLatitudeBand</span>&gt;</span><span> 
+<span id="line66"/>       </span><span>&lt;<span class="start-tag">sreg:LatitudeBand</span>&gt;</span><span>
+<span id="line67"/>         </span><span>&lt;<span class="start-tag">mrela:hasLowerBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>-25</span><span>&lt;/<span class="end-tag">mrela:hasLowerBound</span>&gt;</span><span>
+<span id="line68"/>         </span><span>&lt;<span class="start-tag">mrela:hasUpperBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>25</span><span>&lt;/<span class="end-tag">mrela:hasUpperBound</span>&gt;</span><span>
+<span id="line69"/>       </span><span>&lt;/<span class="end-tag">sreg:LatitudeBand</span>&gt;</span><span>
+<span id="line70"/>     </span><span>&lt;/<span class="end-tag">srela:hasLatitudeBand</span>&gt;</span><span>
+<span id="line71"/>  </span><span>&lt;/<span class="end-tag">sreg:LatitudeBand</span>&gt;</span><span>
+<span id="line72"/>  </span><span>&lt;<span class="start-tag">sreg:LatitudeBand</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Tropics</a>"<span>/</span>&gt;</span><span>
+<span id="line73"/>  </span><span>&lt;<span class="start-tag">sreg:LatitudeBand</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Tropical</a>"<span>/</span>&gt;</span><span>
+<span id="line74"/>  </span><span>&lt;<span class="start-tag">sreg:LatitudeBand</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#LowLatitude</a>"<span>/</span>&gt;</span><span>
+<span id="line75"/>
+<span id="line76"/>  </span><span>&lt;<span class="start-tag">sreg:LatitudeBand</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#MidLatitude</a>"&gt;</span><span>
+<span id="line77"/>    </span><span>&lt;<span class="start-tag">srela:hasLatitudeBand</span>&gt;</span><span> 
+<span id="line78"/>         </span><span>&lt;<span class="start-tag">sreg:SouthLatitudeBand</span>&gt;</span><span>
+<span id="line79"/>           </span><span>&lt;<span class="start-tag">mrela:hasLowerBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>-55</span><span>&lt;/<span class="end-tag">mrela:hasLowerBound</span>&gt;</span><span>
+<span id="line80"/>           </span><span>&lt;<span class="start-tag">mrela:hasUpperBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>-25</span><span>&lt;/<span class="end-tag">mrela:hasUpperBound</span>&gt;</span><span>
+<span id="line81"/>         </span><span>&lt;/<span class="end-tag">sreg:SouthLatitudeBand</span>&gt;</span><span>
+<span id="line82"/>    </span><span>&lt;/<span class="end-tag">srela:hasLatitudeBand</span>&gt;</span><span>
+<span id="line83"/>    </span><span>&lt;<span class="start-tag">srela:hasLatitudeBand</span>&gt;</span><span> 
+<span id="line84"/>         </span><span>&lt;<span class="start-tag">sreg:NorthLatitudeBand</span>&gt;</span><span>
+<span id="line85"/>           </span><span>&lt;<span class="start-tag">mrela:hasLowerBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>25</span><span>&lt;/<span class="end-tag">mrela:hasLowerBound</span>&gt;</span><span>
+<span id="line86"/>           </span><span>&lt;<span class="start-tag">mrela:hasUpperBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>55</span><span>&lt;/<span class="end-tag">mrela:hasUpperBound</span>&gt;</span><span>
+<span id="line87"/>         </span><span>&lt;/<span class="end-tag">sreg:NorthLatitudeBand</span>&gt;</span><span>
+<span id="line88"/>    </span><span>&lt;/<span class="end-tag">srela:hasLatitudeBand</span>&gt;</span><span>
+<span id="line89"/>  </span><span>&lt;/<span class="end-tag">sreg:LatitudeBand</span>&gt;</span><span>
+<span id="line90"/>
+<span id="line91"/>  </span><span>&lt;<span class="start-tag">sreg:LatitudeLine</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Pole</a>"&gt;</span><span>
+<span id="line92"/>    </span><span>&lt;<span class="start-tag">srela:hasLatitudeLine</span>&gt;</span><span> 
+<span id="line93"/>          </span><span>&lt;<span class="start-tag">sreg:SouthLatitudeLine</span>&gt;</span><span>
+<span id="line94"/>            </span><span>&lt;<span class="start-tag">screla:hasNumericValue</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;double</a>"&gt;</span><span>-90.</span><span>&lt;/<span class="end-tag">screla:hasNumericValue</span>&gt;</span><span>
+<span id="line95"/>          </span><span>&lt;/<span class="end-tag">sreg:SouthLatitudeLine</span>&gt;</span><span>
+<span id="line96"/>    </span><span>&lt;/<span class="end-tag">srela:hasLatitudeLine</span>&gt;</span><span>
+<span id="line97"/>    </span><span>&lt;<span class="start-tag">srela:hasLatitudeLine</span>&gt;</span><span> 
+<span id="line98"/>          </span><span>&lt;<span class="start-tag">sreg:NorthLatitudeLine</span>&gt;</span><span>
+<span id="line99"/>            </span><span>&lt;<span class="start-tag">screla:hasNumericValue</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;double</a>"&gt;</span><span>90.</span><span>&lt;/<span class="end-tag">screla:hasNumericValue</span>&gt;</span><span>
+<span id="line100"/>          </span><span>&lt;/<span class="end-tag">sreg:NorthLatitudeLine</span>&gt;</span><span>
+<span id="line101"/>    </span><span>&lt;/<span class="end-tag">srela:hasLatitudeLine</span>&gt;</span><span>
+<span id="line102"/>  </span><span>&lt;/<span class="end-tag">sreg:LatitudeLine</span>&gt;</span><span>
+<span id="line103"/>
+<span id="line104"/>  </span><span>&lt;<span class="start-tag">sreg:LatitudeBand</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Subtropics</a>"&gt;</span><span>
+<span id="line105"/>    </span><span>&lt;<span class="start-tag">srela:hasLatitudeBand</span>&gt;</span><span> 
+<span id="line106"/>         </span><span>&lt;<span class="start-tag">sreg:SouthLatitudeBand</span>&gt;</span><span>
+<span id="line107"/>           </span><span>&lt;<span class="start-tag">mrela:hasLowerBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>-40</span><span>&lt;/<span class="end-tag">mrela:hasLowerBound</span>&gt;</span><span>
+<span id="line108"/>           </span><span>&lt;<span class="start-tag">mrela:hasUpperBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>-20</span><span>&lt;/<span class="end-tag">mrela:hasUpperBound</span>&gt;</span><span>
+<span id="line109"/>         </span><span>&lt;/<span class="end-tag">sreg:SouthLatitudeBand</span>&gt;</span><span>
+<span id="line110"/>    </span><span>&lt;/<span class="end-tag">srela:hasLatitudeBand</span>&gt;</span><span>
+<span id="line111"/>    </span><span>&lt;<span class="start-tag">srela:hasLatitudeBand</span>&gt;</span><span> 
+<span id="line112"/>         </span><span>&lt;<span class="start-tag">sreg:NorthLatitudeBand</span>&gt;</span><span>
+<span id="line113"/>           </span><span>&lt;<span class="start-tag">mrela:hasLowerBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>20</span><span>&lt;/<span class="end-tag">mrela:hasLowerBound</span>&gt;</span><span>
+<span id="line114"/>           </span><span>&lt;<span class="start-tag">mrela:hasUpperBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>40</span><span>&lt;/<span class="end-tag">mrela:hasUpperBound</span>&gt;</span><span>
+<span id="line115"/>         </span><span>&lt;/<span class="end-tag">sreg:NorthLatitudeBand</span>&gt;</span><span>
+<span id="line116"/>    </span><span>&lt;/<span class="end-tag">srela:hasLatitudeBand</span>&gt;</span><span>
+<span id="line117"/>    </span><span>&lt;<span class="start-tag">owl:sameAs</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Subtropical</a>"<span>/</span>&gt;</span><span>
+<span id="line118"/>  </span><span>&lt;/<span class="end-tag">sreg:LatitudeBand</span>&gt;</span><span>
+<span id="line119"/>  </span><span>&lt;<span class="start-tag">sreg:LatitudeBand</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Subtropical</a>"<span>/</span>&gt;</span><span>
+<span id="line120"/>
+<span id="line121"/>  </span><span>&lt;<span class="start-tag">sreg:LatitudeBand</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#HighLatitude</a>"&gt;</span><span>
+<span id="line122"/>    </span><span>&lt;<span class="start-tag">srela:hasLatitudeBand</span>&gt;</span><span> 
+<span id="line123"/>         </span><span>&lt;<span class="start-tag">sreg:SouthLatitudeBand</span>&gt;</span><span>
+<span id="line124"/>           </span><span>&lt;<span class="start-tag">mrela:hasLowerBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>-90</span><span>&lt;/<span class="end-tag">mrela:hasLowerBound</span>&gt;</span><span>
+<span id="line125"/>           </span><span>&lt;<span class="start-tag">mrela:hasUpperBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>-55</span><span>&lt;/<span class="end-tag">mrela:hasUpperBound</span>&gt;</span><span>
+<span id="line126"/>         </span><span>&lt;/<span class="end-tag">sreg:SouthLatitudeBand</span>&gt;</span><span>
+<span id="line127"/>    </span><span>&lt;/<span class="end-tag">srela:hasLatitudeBand</span>&gt;</span><span>
+<span id="line128"/>    </span><span>&lt;<span class="start-tag">srela:hasLatitudeBand</span>&gt;</span><span> 
+<span id="line129"/>         </span><span>&lt;<span class="start-tag">sreg:NorthLatitudeBand</span>&gt;</span><span>
+<span id="line130"/>           </span><span>&lt;<span class="start-tag">mrela:hasLowerBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>55</span><span>&lt;/<span class="end-tag">mrela:hasLowerBound</span>&gt;</span><span>
+<span id="line131"/>           </span><span>&lt;<span class="start-tag">mrela:hasUpperBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>90</span><span>&lt;/<span class="end-tag">mrela:hasUpperBound</span>&gt;</span><span>
+<span id="line132"/>         </span><span>&lt;/<span class="end-tag">sreg:NorthLatitudeBand</span>&gt;</span><span>
+<span id="line133"/>    </span><span>&lt;/<span class="end-tag">srela:hasLatitudeBand</span>&gt;</span><span>
+<span id="line134"/>  </span><span>&lt;/<span class="end-tag">sreg:LatitudeBand</span>&gt;</span><span>
+<span id="line135"/>
+<span id="line136"/>  </span><span>&lt;<span class="start-tag">sreg:LatitudeBand</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Equatorial</a>"&gt;</span><span>
+<span id="line137"/>    </span><span>&lt;<span class="start-tag">srela:hasLatitudeBand</span>&gt;</span><span> 
+<span id="line138"/>         </span><span>&lt;<span class="start-tag">sreg:SouthLatitudeBand</span>&gt;</span><span>
+<span id="line139"/>           </span><span>&lt;<span class="start-tag">mrela:hasLowerBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>-20</span><span>&lt;/<span class="end-tag">mrela:hasLowerBound</span>&gt;</span><span>
+<span id="line140"/>           </span><span>&lt;<span class="start-tag">mrela:hasUpperBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>20</span><span>&lt;/<span class="end-tag">mrela:hasUpperBound</span>&gt;</span><span>
+<span id="line141"/>         </span><span>&lt;/<span class="end-tag">sreg:SouthLatitudeBand</span>&gt;</span><span>
+<span id="line142"/>    </span><span>&lt;/<span class="end-tag">srela:hasLatitudeBand</span>&gt;</span><span>
+<span id="line143"/>  </span><span>&lt;/<span class="end-tag">sreg:LatitudeBand</span>&gt;</span><span>
+<span id="line144"/>
+<span id="line145"/>  </span><span>&lt;<span class="start-tag">sreg:LatitudeBand</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Global</a>"&gt;</span><span>
+<span id="line146"/>    </span><span>&lt;<span class="start-tag">srela:hasLatitudeBand</span>&gt;</span><span> 
+<span id="line147"/>         </span><span>&lt;<span class="start-tag">sreg:SouthLatitudeBand</span>&gt;</span><span>
+<span id="line148"/>           </span><span>&lt;<span class="start-tag">mrela:hasLowerBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>-90</span><span>&lt;/<span class="end-tag">mrela:hasLowerBound</span>&gt;</span><span>
+<span id="line149"/>           </span><span>&lt;<span class="start-tag">mrela:hasUpperBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>90</span><span>&lt;/<span class="end-tag">mrela:hasUpperBound</span>&gt;</span><span>
+<span id="line150"/>         </span><span>&lt;/<span class="end-tag">sreg:SouthLatitudeBand</span>&gt;</span><span>
+<span id="line151"/>    </span><span>&lt;/<span class="end-tag">srela:hasLatitudeBand</span>&gt;</span><span>
+<span id="line152"/>  </span><span>&lt;/<span class="end-tag">sreg:LatitudeBand</span>&gt;</span><span>
+<span id="line153"/>
+<span id="line154"/>  </span><span>&lt;<span class="start-tag">sreg:LatitudeBand</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Polar</a>"&gt;</span><span>
+<span id="line155"/>    </span><span>&lt;<span class="start-tag">srela:hasLatitudeBand</span>&gt;</span><span> 
+<span id="line156"/>         </span><span>&lt;<span class="start-tag">sreg:SouthLatitudeBand</span>&gt;</span><span>
+<span id="line157"/>           </span><span>&lt;<span class="start-tag">mrela:hasLowerBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>-90</span><span>&lt;/<span class="end-tag">mrela:hasLowerBound</span>&gt;</span><span>
+<span id="line158"/>           </span><span>&lt;<span class="start-tag">mrela:hasUpperBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>-70</span><span>&lt;/<span class="end-tag">mrela:hasUpperBound</span>&gt;</span><span>
+<span id="line159"/>         </span><span>&lt;/<span class="end-tag">sreg:SouthLatitudeBand</span>&gt;</span><span>
+<span id="line160"/>    </span><span>&lt;/<span class="end-tag">srela:hasLatitudeBand</span>&gt;</span><span>
+<span id="line161"/>    </span><span>&lt;<span class="start-tag">srela:hasLatitudeBand</span>&gt;</span><span> 
+<span id="line162"/>         </span><span>&lt;<span class="start-tag">sreg:NorthLatitudeBand</span>&gt;</span><span>
+<span id="line163"/>           </span><span>&lt;<span class="start-tag">mrela:hasLowerBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>70</span><span>&lt;/<span class="end-tag">mrela:hasLowerBound</span>&gt;</span><span>
+<span id="line164"/>           </span><span>&lt;<span class="start-tag">mrela:hasUpperBound</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>90</span><span>&lt;/<span class="end-tag">mrela:hasUpperBound</span>&gt;</span><span>
+<span id="line165"/>         </span><span>&lt;/<span class="end-tag">sreg:NorthLatitudeBand</span>&gt;</span><span>
+<span id="line166"/>    </span><span>&lt;/<span class="end-tag">srela:hasLatitudeBand</span>&gt;</span><span>
+<span id="line167"/>  </span><span>&lt;/<span class="end-tag">sreg:LatitudeBand</span>&gt;</span><span>
+<span id="line168"/>
+<span id="line169"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#LatitudeBand</a>"&gt;</span><span>
+<span id="line170"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>spa</span>c;Region</a>" <span>/</span>&gt;</span><span>
+<span id="line171"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>qua</span>n;PhysicalQuantity</a>" <span>/</span>&gt;</span><span>
+<span id="line172"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span>&gt;</span><span>
+<span id="line173"/>      </span><span>&lt;<span class="start-tag">owl:Restriction</span>&gt;</span><span>
+<span id="line174"/>        </span><span>&lt;<span class="start-tag">owl:hasValue</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>u</span>nits;degrees</a>"<span>/</span>&gt;</span><span>
+<span id="line175"/>        </span><span>&lt;<span class="start-tag">owl:onProperty</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>sc</span>rela;hasUnit</a>"<span>/</span>&gt;</span><span>
+<span id="line176"/>      </span><span>&lt;/<span class="end-tag">owl:Restriction</span>&gt;</span><span>
+<span id="line177"/>    </span><span>&lt;/<span class="end-tag">rdfs:subClassOf</span>&gt;</span><span>
+<span id="line178"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line179"/>
+<span id="line180"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#SouthLatitudeBand</a>"&gt;</span><span>
+<span id="line181"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#LatitudeBand</a>" <span>/</span>&gt;</span><span>
+<span id="line182"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span>&gt;</span><span>
+<span id="line183"/>      </span><span>&lt;<span class="start-tag">owl:Restriction</span>&gt;</span><span>
+<span id="line184"/>        </span><span>&lt;<span class="start-tag">owl:hasValue</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>0</span><span>&lt;/<span class="end-tag">owl:hasValue</span>&gt;</span><span>
+<span id="line185"/>        </span><span>&lt;<span class="start-tag">owl:onProperty</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>m</span>rela;hasUpperBound</a>"<span>/</span>&gt;</span><span>
+<span id="line186"/>      </span><span>&lt;/<span class="end-tag">owl:Restriction</span>&gt;</span><span>
+<span id="line187"/>    </span><span>&lt;/<span class="end-tag">rdfs:subClassOf</span>&gt;</span><span>
+<span id="line188"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line189"/>
+<span id="line190"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#NorthLatitudeBand</a>"&gt;</span><span>
+<span id="line191"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#LatitudeBand</a>" <span>/</span>&gt;</span><span>
+<span id="line192"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span>&gt;</span><span>
+<span id="line193"/>      </span><span>&lt;<span class="start-tag">owl:Restriction</span>&gt;</span><span>
+<span id="line194"/>        </span><span>&lt;<span class="start-tag">owl:hasValue</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>0</span><span>&lt;/<span class="end-tag">owl:hasValue</span>&gt;</span><span>
+<span id="line195"/>        </span><span>&lt;<span class="start-tag">owl:onProperty</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>m</span>rela;hasLowerBound</a>"<span>/</span>&gt;</span><span>
+<span id="line196"/>      </span><span>&lt;/<span class="end-tag">owl:Restriction</span>&gt;</span><span>
+<span id="line197"/>    </span><span>&lt;/<span class="end-tag">rdfs:subClassOf</span>&gt;</span><span>
+<span id="line198"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line199"/>
+<span id="line200"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#LatitudeLine</a>"&gt;</span><span>
+<span id="line201"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>spa</span>c;Region</a>" <span>/</span>&gt;</span><span>
+<span id="line202"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>qua</span>n;PhysicalQuantity</a>" <span>/</span>&gt;</span><span>
+<span id="line203"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span>&gt;</span><span>
+<span id="line204"/>      </span><span>&lt;<span class="start-tag">owl:Restriction</span>&gt;</span><span>
+<span id="line205"/>        </span><span>&lt;<span class="start-tag">owl:hasValue</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>u</span>nits;degrees</a>"<span>/</span>&gt;</span><span>
+<span id="line206"/>        </span><span>&lt;<span class="start-tag">owl:onProperty</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>sc</span>rela;hasUnit</a>"<span>/</span>&gt;</span><span>
+<span id="line207"/>      </span><span>&lt;/<span class="end-tag">owl:Restriction</span>&gt;</span><span>
+<span id="line208"/>    </span><span>&lt;/<span class="end-tag">rdfs:subClassOf</span>&gt;</span><span>
+<span id="line209"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line210"/>
+<span id="line211"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#NorthLatitudeLine</a>"&gt;</span><span>
+<span id="line212"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#LatitudeLine</a>" <span>/</span>&gt;</span><span>
+<span id="line213"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line214"/>
+<span id="line215"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#SouthLatitudeLine</a>"&gt;</span><span>
+<span id="line216"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#LatitudeLine</a>" <span>/</span>&gt;</span><span>
+<span id="line217"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line218"/>
+<span id="line219"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#NorthernHemisphere</a>"&gt;</span><span>
+<span id="line220"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#NorthLatitudeBand</a>" <span>/</span>&gt;</span><span>
+<span id="line221"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span>&gt;</span><span>
+<span id="line222"/>      </span><span>&lt;<span class="start-tag">owl:Restriction</span>&gt;</span><span>
+<span id="line223"/>        </span><span>&lt;<span class="start-tag">owl:hasValue</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>90</span><span>&lt;/<span class="end-tag">owl:hasValue</span>&gt;</span><span>
+<span id="line224"/>        </span><span>&lt;<span class="start-tag">owl:onProperty</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>m</span>rela;hasUpperBound</a>"<span>/</span>&gt;</span><span>
+<span id="line225"/>      </span><span>&lt;/<span class="end-tag">owl:Restriction</span>&gt;</span><span>
+<span id="line226"/>    </span><span>&lt;/<span class="end-tag">rdfs:subClassOf</span>&gt;</span><span>
+<span id="line227"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line228"/>
+<span id="line229"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#SouthernHemisphere</a>"&gt;</span><span>
+<span id="line230"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#SouthLatitudeBand</a>" <span>/</span>&gt;</span><span>
+<span id="line231"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span>&gt;</span><span>
+<span id="line232"/>      </span><span>&lt;<span class="start-tag">owl:Restriction</span>&gt;</span><span>
+<span id="line233"/>        </span><span>&lt;<span class="start-tag">owl:hasValue</span> <span class="attribute-name">rdf:datatype</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;integer</a>"&gt;</span><span>-90</span><span>&lt;/<span class="end-tag">owl:hasValue</span>&gt;</span><span>
+<span id="line234"/>        </span><span>&lt;<span class="start-tag">owl:onProperty</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>m</span>rela;hasLowerBound</a>"<span>/</span>&gt;</span><span>
+<span id="line235"/>      </span><span>&lt;/<span class="end-tag">owl:Restriction</span>&gt;</span><span>
+<span id="line236"/>    </span><span>&lt;/<span class="end-tag">rdfs:subClassOf</span>&gt;</span><span>
+<span id="line237"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line238"/>
+<span id="line239"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Borealis</a>"&gt;</span><span>
+<span id="line240"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#NorthLatitudeBand</a>" <span>/</span>&gt;</span><span>
+<span id="line241"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line242"/>
+<span id="line243"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Austral</a>"&gt;</span><span>
+<span id="line244"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#SouthLatitudeBand</a>" <span>/</span>&gt;</span><span>
+<span id="line245"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line246"/>
+<span id="line247"/></span><span>&lt;/<span class="end-tag">rdf:RDF</span>&gt;</span><span>
+<span id="line248"/></span></pre><menu type="context" id="actions"><menuitem id="goToLine" label="Go to Line…" accesskey="L"/><menuitem id="wrapLongLines" label="Wrap Long Lines" type="checkbox"/><menuitem id="highlightSyntax" label="Syntax Highlighting" type="checkbox" checked="true"/></menu></body></html>

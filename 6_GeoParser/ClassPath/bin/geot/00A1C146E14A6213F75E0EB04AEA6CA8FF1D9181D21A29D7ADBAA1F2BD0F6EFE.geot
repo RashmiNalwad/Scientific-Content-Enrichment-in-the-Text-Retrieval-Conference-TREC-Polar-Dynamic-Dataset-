@@ -1,0 +1,2071 @@
+
+
+
+
+	 
+        
+
+	
+            
+                	
+            
+                
+	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                
+
+
+
+
+
+        
+        	 
+                
+        
+                
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Agriculture
+	
+
+	
+		
+	
+		Atmosphere
+	
+
+	
+		
+	
+		Biological Classification
+	
+
+	
+		
+	
+		Biosphere
+	
+
+	
+		
+	
+		Climate Indicators
+	
+
+	
+		
+	
+		Cryosphere
+	
+
+	
+		
+	
+		Human Dimensions
+	
+
+	
+		
+	
+		Land Surface
+	
+
+	
+		
+	
+		Oceans
+	
+
+	
+		
+	
+		Paleoclimate
+	
+
+	
+		
+	
+		Solid Earth
+	
+
+	
+		
+	
+		Spectral/Engineering
+	
+
+	
+		
+	
+		Sun-Earth Interactions
+	
+
+	
+		
+	
+		Terrestrial Hydrosphere
+	
+
+	
+	
+
+	
+		
+Data Centers
+
+	
+		 
+Locations
+
+	
+		
+Instruments
+
+	
+		
+Platforms/Sources
+
+	
+		
+Projects
+
+
+
+
+
+
+
+                
+                
+                	
+                    	
+	
+	
+
+
+                    
+                    	
+                            	
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+Record Search Query:
+Platforms>Aircraft>HELICOPTER
+
+
+	
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        
+            
+                Occupancy surveys of Adelie penguin breeding distribution in the area west of the Rauer Group as far as the Amery Ice Shelf, November 2009
+            
+        
+
+        
+        
+            Entry ID:
+            
+                ASAC_2722_Occupancy_Surveys_Rauer_West
+            
+            
+
+            
+
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+        
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                
+                    
+                    
+                        Update this Record
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+        
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            An occupancy survey of Adelie penguin breeding distribution along the coast between the Rauer Group and the Amery Ice Shelf was carried out in 2009/10. General details of the occupancy surveys are given in the overall metadata record. Details specific to this occupancy survey campaign are given below. 
+ 
+ The survey covered 598 sites of potential breeding habitat in the following subgroups from the  ... site GIS for Adelie penguin potential breeding habitat: 
+ 
+ BOL_SG_01, 02, 03, 04, 05, 06, 07, 08 
+ LAR_SG_01, 02, 03, 04, 05, 06, 07, 08, 09, 10 
+ SAN_SG_01 
+ SVE_SG_01, 02, 03, 04 
+ 
+ The survey was undertaken from a Squirrel helicopter on 29 November 2009 at an altitude of 750 m. 
+ 
+ The data file has the following fields: 
+ 
+ SubgroupID: identifying code for the map on which the site occurs, obtained from the site GIS 
+ SiteID: identifying code for the site from the site GIS 
+ SiteName: site name, if one exists 
+ Day: day of search 
+ Month: month of search 
+ Year: year of search 
+ Occupancy: P for present, A for absent 
+ Feature observed: P for penguins, G for guano 
+ 
+ The latitude and longitude of each site can be obtained from the 'Sites' file in the parent metadata record for occupancy surveys. 
+ 
+ Furthermore the dataset also contains a shapefile with islands west of the Rauer Group with penguin colonies based on the 2009/10 aerial presence-absence survey. The coastline in the polygons is from the dataset described by the metadata record 'Australian Antarctic Territory Coastline 2003', Entry ID: AAT_Coastline_2003. 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+    
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Download point for the data 
+                            
+
+                        
+                        
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET RELATED DATA SET METADATA (DIF)
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                See the Australian Antarctic Territory Coastline 2003 record 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Public information for ASAC project 2722 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Public information for ASAC project 4088 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Citation reference for this metadata record and dataset 
+                            
+
+                        
+                        
+                        
+                    
+                    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: -68.0
+                                
+                            	 	
+                                
+                                    S: -70.0
+                                
+                            	 	
+                                
+                                    E: 77.0
+                                
+                            	 	
+                                
+                                    W: 70.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            Southwell, C.
+                        
+
+                    
+
+                    
+                        
+                            Dataset Title: 
+                            Occupancy surveys of Adelie penguin breeding distribution in the area west of the Rauer Group as far as the Amery Ice Shelf, November 2009
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Series Name: 
+                            CAASM Metadata
+                        
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            Australian Antarctic Data Centre
+                        
+
+                    
+
+                    
+
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        https://data.aad.gov.au/aadc/metadata/metadata_redirect.cfm?md=/AMD...
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Parent DIF 
+
+        
+        
+            This data set description is a member of a collection. The
+            collection is described in
+
+            
+                
+                    
+                        ASAC_2722_Occupancy_Surveys
+
+                    
+                
+                
+
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        2009-11-29
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        2009-11-29
+                    
+
+                
+                
+                
+            
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ANTARCTICA
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > SOUTHERN OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > POLAR
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                ANIMALS/VERTEBRATES
+                            
+                            
+                                >
+                                BIRDS
+                            
+                            
+                                >
+                                PENGUINS
+                            
+                            
+                            
+                        
+                    
+                    
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            BIOTA
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEANS
+                        
+                    
+
+                    
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    FIELD INVESTIGATION
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+                        
+                    
+                        
+                            
+                                
+                                    FIELD SURVEYS
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+                        
+                    
+                        
+                            
+                                
+                                    HELICOPTER
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+                        
+                    
+                    
+                
+
+
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Access Constraints
+        
+            These data are not yet publicly available. 
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+    
+    Use Constraints
+    
+        This data set conforms to the PICCCBY Attribution License 
+ (http://creativecommons.org/licenses/by/3.0/). 
+ 
+ Please follow instructions listed in the citation reference provided at http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_272... when using these data. 
+    
+    
+    
+        
+        
+
+            
+                
+            
+                
+                    
+                
+
+               
+                This 
+                "Occupancy surveys of Adelie penguin breeding distribution in the area west of the Rauer Group as far as the Amery Ice Shelf, November 2009" is licensed under a Creative Commons Attribution 3.0 Unported License.
+            
+        
+         
+        
+    
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            Adelie Penguins
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Breeding
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            Occupancy
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Rauer Group
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Amery Ice Shelf
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            COMPLETE
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        Australian Antarctic Division
+                    
+                
+
+                
+                
+            
+            
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Australian Antarctic Data Centre, Australia
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://data.aad.gov.au
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    DATA OFFICER
+                                                    
+                                                    AADC
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            +61 3 6232 3244
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            +61 3 6232 3351
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            metadata at aad.gov.au
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        Australian Antarctic Division
+
+                                                                    
+                                                                        203 Channel Highway
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Kingston
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                Tasmania
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                7050
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                Australia
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    HTTP
+                
+
+            
+            
+            
+                
+                    Distribution Size: 
+                    2 kb
+                
+
+            
+            
+            
+                
+                    Distribution Format: 
+                    csv
+                
+
+            
+            
+            
+                
+                    Fees: 
+                    Free
+                
+
+            
+            
+            
+                
+                
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        COLIN
+                        
+                        SOUTHWELL
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6232 3450
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +61 3 6232 3351
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                colin.southwell at aad.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Australian Antarctic Division
+
+                                            
+                                                203 Channel Highway
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Kingston
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7050
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        DAVE
+                        J.
+                        CONNELL
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6232 3244
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +61 3 6232 3351
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                dave.connell at aad.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Australian Antarctic Division
+
+                                            
+                                                203 Channel Highway
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Kingston
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7050
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+            
+            
+            
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            Southwell, C. and Emmerson, L. (2013), Large scale occupancy surveys in east Antarctica discover new Adelie penguin breeding sites and reveal an expanding breeding distribution., Antarctic Science, 25, 531-535 
+
+        
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+            
+                DIF Creation Date:
+                2013-11-18
+            
+
+        
+        
+            
+                Last DIF Revision Date:
+                2014-08-29
+            
+
+        
+        
+    
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                 Reformat as ISO 19115 document
+            
+        
+    
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+
+        
+
+
+
+
+
+
+                            
+
+                    
+                    
+                
+
+        
+        
+
+
+	
+            
+                
+        	
+            
+                
+                    NASA Privacy Policy and Important Notices
+            
+
+            
+                Responsible NASA Official:  
+                
+                    Dr. Stephen Wharton
+
+                Webmaster:  
+                
+                    Monica Lyles
+                  ·  Contact 
+                
+                    GCMD User Support for assistance
+            
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+
+

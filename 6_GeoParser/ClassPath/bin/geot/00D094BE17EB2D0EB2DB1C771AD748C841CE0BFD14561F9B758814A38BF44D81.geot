@@ -1,0 +1,2535 @@
+
+
+
+
+	 
+        
+
+	
+            
+                	
+            
+                
+	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                
+
+
+
+
+
+        
+        	 
+                
+        
+                
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Agriculture
+	
+
+	
+		
+	
+		Atmosphere
+	
+
+	
+		
+	
+		Biological Classification
+	
+
+	
+		
+	
+		Biosphere
+	
+
+	
+		
+	
+		Climate Indicators
+	
+
+	
+		
+	
+		Cryosphere
+	
+
+	
+		
+	
+		Human Dimensions
+	
+
+	
+		
+	
+		Land Surface
+	
+
+	
+		
+	
+		Oceans
+	
+
+	
+		
+	
+		Paleoclimate
+	
+
+	
+		
+	
+		Solid Earth
+	
+
+	
+		
+	
+		Spectral/Engineering
+	
+
+	
+		
+	
+		Sun-Earth Interactions
+	
+
+	
+		
+	
+		Terrestrial Hydrosphere
+	
+
+	
+	
+
+	
+		
+Data Centers
+
+	
+		 
+Locations
+
+	
+		
+Instruments
+
+	
+		
+Platforms/Sources
+
+	
+		
+Projects
+
+
+
+
+
+
+
+                
+                
+                	
+                    	
+	
+	
+
+
+                    
+                    	
+                            	
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+Record Search Query:
+[Project: Short_Name=&#039;OPENDAP&#039;]
+
+
+	
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        
+            
+                World Ocean Atlas 1998 on CD-ROM from NOAA National Oceanographic Data Center's Ocean Climate Laboratory
+            
+        
+
+        
+        
+            Entry ID:
+            
+                WORLD_OCEAN_ATLAS_1998
+            
+            
+
+            
+
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+        
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                
+                    
+                    
+                        Update this Record
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+        
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            The Ocean Climate Laboratory of NOAA's National Oceanographic Data 
+ Center (NODC) has completed the multivolume World Ocean Atlas 1998 
+ and technical reports describing the data quality control and processing 
+ procedures. The atlas contains historical in situ temperature, 
+ salinity, oxygen, phosphate, nitrate, and silicate data, and global, 
+  ... objectively analyzed fields of these parameters on a one-degree 
+ latitude-longitude grid for selected standard depth levels from the 
+ sea surface to 5500 m depth. The atlas volumes include global 
+ distributions of these measured parameters as well as the derived 
+ quantities of oxygen saturation and Apparent Oxygen Utilization (AOU). 
+ 
+ The World Ocean Atlas 1998 (WOA98) consists of 3 CD-ROMs containing 
+ objectively analyzed fields of temperature, salinity, dissolved 
+ oxygen, derived oxygen variables (Apparent Oxygen Utilization and 
+ oxygen saturation), nutrients (phosphate, nitrate, silicate) and 
+ chlorophyll. Statistical fields of observed (vertically interpolated) 
+ data(unanalyzed) for one-degree squares and five-degree squares at 
+ standard depth levels include: 1) number of observations, 2) mean, 
+ 3) standard deviation, 4) standard error of the mean. 
+ 
+ The data on each WOA98 CD-ROM consists of statistics of observed 
+ (vertically interpolated) data (unanalyzed) for one-degree squares and 
+ five-degree squares at standard depth levels. The following statistics 
+ for each grid square are included: 1) number of observations, 2) mean, 
+ 3) standard deviation, 4) standard error of the mean. 
+ 
+ The objectively analyzed fields and associated statistics for 
+ temperature, salinity, oxygen, nutrients, and chlorophyll are on three 
+ CD-ROMs as shown below: WOA98-01 annual, seasonal, monthly fields for 
+ temperature and salinity, WOA98-02 annual, seasonal, monthly fields 
+ for oxygen and the derived variables Apparent Oxygen Utilization and % 
+ oxygen saturation WOA98-03 annual and seasonal fields for phosphate, 
+ nitrate, silicate, and chlorophyll 
+ 
+ There are four types of directories within each CD-ROM: masks, 
+ programs, utils, and variable data directories (variable data 
+ directories are identified by the variable name, e.g. temperature, 
+ salinity, etc..). README files are available on each CD-ROM in HTML, 
+ Word Perfect 8, and text formats. 
+ 
+ NOAAServer Codes: [OL 90 -80 -180 180] ; dateline obtain 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+    
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                DODS directory 
+                            
+
+                        
+                        
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                NVODS Live Access to the World Ocean Atlas 1998 (WOA98) annual, monthly and
+ seasonal data 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                US GODAE Live Access to World Ocean Atlas 1998 (WOA98) data 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                World Ocean Atlas Online data. 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                World Ocean Atlas 1998 Online Figures. 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                NOAA/NODC Ocean Climate Laboratory 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                CD-ROM information page. 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                NOAA Server (Access to distributed NOAA Data and Information) 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                World Ocean Atlas 1998 information can be found at this address (see dataset
+ documentation) 
+                            
+
+                        
+                        
+                        
+                    
+                    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 90.0
+                                
+                            	 	
+                                
+                                    S: -90.0
+                                
+                            	 	
+                                
+                                    E: 180.0
+                                
+                            	 	
+                                
+                                    W: -180.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            NOAA/National Oceanographic Data Center
+                        
+
+                    
+
+                    
+                        
+                            Dataset Title: 
+                            World Ocean Atlas 1998 on CD-ROM
+                        
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Release Date: 
+                            1998
+                         
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            NOAA National Oceanographic Data Center, Ocean Climate Laboratory
+                        
+
+                    
+
+                    
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Data Presentation Form: 
+                            Atlas
+                        
+
+                    
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        http://www.nodc.noaa.gov/General/NODC-cdrom.html
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > ARCTIC OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > ATLANTIC OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > INDIAN OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > SOUTHERN OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > PACIFIC OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > GLOBAL
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > POLAR
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            VERTICAL LOCATION
+                            
+                                > SEA SURFACE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                
+                    
+
+                    
+                        
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                NITRATE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                NUTRIENTS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                OXYGEN
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                PHOSPHATE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                SILICATE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN TEMPERATURE
+                            
+                            
+                                >
+                                WATER TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                SALINITY/DENSITY
+                            
+                            
+                                >
+                                SALINITY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                PIGMENTS
+                            
+                            
+                                >
+                                CHLOROPHYLL
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            GEOSCIENTIFIC INFORMATION
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEANS
+                        
+                    
+
+                    
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            DODS
+                            
+                                >
+                                Distributed Oceanographic Data System
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            ESIP
+                            
+                                >
+                                Earth Science Information Partners Program
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GODAE
+                            
+                                >
+                                Global Ocean Data Assimilation Experiment
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OPENDAP
+                            
+                                >
+                                Open-source Project for a Network Data Access Protocol
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+    
+    Use Constraints
+    
+        NOAA and NODC would appreciate recognition as the resource from which 
+ these data were obtained in any publications and/or other 
+ representations of these data. 
+    
+    
+    
+        
+         
+        
+    
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            IDN_NODE GSFC/NOAA/NESDIS/NODC
+                    
+
+                    
+                
+                    
+                    
+                        
+                            NOAA-CIRES/CDC
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            NODC WORLD OCEAN ATLAS 1998
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OXYGEN SATURATION
+                    
+
+                    
+                
+                    
+                    
+                        
+                            CHEMICAL OCEANOGRAPHY
+                    
+
+                    
+                
+                    
+                    
+                        
+                            MARINE CHEMISTRY
+                    
+
+                    
+                
+                    
+                    
+                        
+                            APPARENT OXYGEN UTILIZATION
+                    
+
+                    
+                
+                    
+                    
+                        
+                            WOD98
+                    
+
+                    
+                
+                    
+                    
+                        
+                            WOA98
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        NOAA/NESDIS/NODC
+                    
+                
+
+                
+                
+            
+            
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Climate Data Library, International Research Institute for Climate Prediction, Lamont-Doherty Earth Observatory, Columbia University
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://ingrid.ldeo.columbia.edu/
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    BENNO
+                                                    
+                                                    BLUMENTHAL
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            (845) 680-4450
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            (845) 680-4864
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            benno at iri.ldeo.columbia.edu
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        Data Library Manager
+
+                                                                    
+                                                                        International Research Institute for Climate Prediction
+
+                                                                    
+                                                                        Lamont-Doherty Earth Observatory
+
+                                                                    
+                                                                        Columbia University
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Palisades
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                NY
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                10964-8000
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+                        
+
+                    
+                    
+                
+                    
+                    
+                        
+                            
+                            
+                                Ocean Climate Laboratory, National Oceanographic Data Center, NESDIS, NOAA, U.S. Department of Commerce
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://www.nodc.noaa.gov/OC5/
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    NODC
+                                                    
+                                                    USER SERVICES
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            301-713-3277
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            301-713-3302
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            NODC.Services at noaa.gov
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        National Oceanographic Data Center
+
+                                                                    
+                                                                        User Services Branch
+
+                                                                    
+                                                                        NOAA/NESDIS E/OC1
+
+                                                                    
+                                                                        SSMC3, 4th Floor
+
+                                                                    
+                                                                        1315 East-West Highway
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Silver Spring
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                MD
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                20910-3282
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+                
+
+                
+                     
+                
+            
+
+  
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    CD-ROM, DODS, Live Access Server (LAS)
+                
+
+            
+            
+            
+            
+            
+            
+            
+                
+                    Fees: 
+                    Standard: $75/CD, $375/set; Online: $55/CD; $275/set
+                
+
+            
+            
+            
+                
+                
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        MELANIE
+                        F.
+                        MEAUX
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                gsfc-gcmduso at mail.nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                
+                
+                
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        SYDNEY
+                        
+                        LEVITUS
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                sydney.levitus at goaa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+            
+            
+            
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            For a list of references please see: 
+ http://www.nodc.noaa.gov/OC5/WOA98F/woaf_cd/doc/readme.html#references 
+
+        
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+            
+                DIF Creation Date:
+                2000-02-10
+            
+
+        
+        
+            
+                Last DIF Revision Date:
+                2009-06-11
+            
+
+        
+        
+    
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                 Reformat as ISO 19115 document
+            
+        
+    
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+
+        
+
+
+
+
+
+
+                            
+
+                    
+                    
+                
+
+        
+        
+
+
+	
+            
+                
+        	
+            
+                
+                    NASA Privacy Policy and Important Notices
+            
+
+            
+                Responsible NASA Official:  
+                
+                    Dr. Stephen Wharton
+
+                Webmaster:  
+                
+                    Monica Lyles
+                  ·  Contact 
+                
+                    GCMD User Support for assistance
+            
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+
+

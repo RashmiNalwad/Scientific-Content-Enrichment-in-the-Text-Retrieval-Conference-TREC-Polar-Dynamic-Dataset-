@@ -1,0 +1,3180 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        [Source_Name: Short_Name='METEOSAT-7']
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    
+
+
+
+
+    
+        
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                CERES GEO Cloud Retrievals in ISCCP-D2like Format
+            
+        
+
+        
+        
+            Entry ID:
+            
+                CERES_ISCCP-D2like-GEO
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+        
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+	
+        
+            This data set description is a member of a collection.
+
+            
+                Click to see members of this collection.
+            
+        
+	
+    
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            The Monthly Gridded Cloud Averages (ISCCP-D2like-GEO) archival data product contains monthly and monthly 3-hourly (GMT-based) 1°x1° gridded regional mean geostationary satellite (GEO) cloud properties as a function of 18 cloud types, similar to the ISCCP D2 product, where the cloud properties are stratified by pressure, optical depth, and phase. The ISCCP-D2like-GEO product is a 5-satellite,  ... daytime 3-hourly GMT, 8-km nominal resolution, geostationary-only cloud product limited to 60°N to 60°S. The ISCCP-D2like-GEO is a daytime-only product, where the cloud retrievals incorporate only the visible and IR channels common to all geostationary satellites for spatial consistency. Each ISCCP-D2like file covers a single month. 
+ 
+ Clouds and the Earth's Radiant Energy System (CERES) is a key component of the Earth Observing System (EOS) program. The CERES instruments provide radiometric measurements of the Earth's atmosphere from three broadband channels. The CERES missions are a follow-on to the successful Earth Radiation Budget Experiment (ERBE) mission. The first CERES instrument (PFM) was launched on November 27, 1997 as part of the Tropical Rainfall Measuring Mission (TRMM). Two CERES instruments (FM1 and FM2) were launched into polar orbit on board the EOS flagship Terra on December 18, 1999. Two additional CERES instruments (FM3 and FM4) were launched on board EOS Aqua on May 4, 2002. The newest CERES instrument (FM5) was launched on board the Suomi National Polar-orbiting Partnership (NPP) satellite on October 28, 2011. 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Access all CERES data products and additional product information - ISCCP-D2like products are under Level 3 
+                            
+
+                        
+			
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    REVERB
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Access CER_ISCCP-D2like-GEO data via Reverb 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                ISCCP-D2like Browse and Subset Products 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                CERES Project Home Page 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Detailed CERES ISCCP-D2like product information 
+                            
+
+                        
+			
+                        
+                    
+		    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 90.0
+                                
+                            	 	
+                                
+                                    S: -90.0
+                                
+                            	 	
+                                
+                                    E: 180.0
+                                
+                            	 	
+                                
+                                    W: -180.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                    
+                    
+                        
+                            Dataset Title: 
+                            CERES_ISCCP-D2like-GEO
+                        
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Release Date: 
+                            October 2012
+                         
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        
+                            Version: 
+                            Edition2A
+                        
+
+                    
+                    
+                    
+
+
+                    
+                    
+                    
+
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        https://eosweb.larc.nasa.gov/project/ceres/ceres_table
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        2000-03-01
+                    
+
+                
+                
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > GLOBAL
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Data Resolution
+
+        
+        
+        
+            
+            
+
+            
+                Latitude Resolution:
+                1 degree
+                
+
+            
+
+            
+                Longitude Resolution:
+                1 degree
+                
+
+            
+
+            
+                Horizontal Resolution Range:
+                100 meters - < 250 meters
+                
+
+            
+
+            
+
+            
+
+            
+                Temporal Resolution:
+                Monthly
+                
+
+            
+
+            
+                Temporal Resolution Range:
+                Monthly - < Annual
+                
+
+            
+
+	    
+
+                
+                    
+
+                
+
+                
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+                Temporal Resolution:
+                Monthly 3-Hourly
+                
+
+            
+
+            
+                Temporal Resolution Range:
+                Monthly - < Annual
+                
+
+            
+
+	    
+
+                
+
+                
+		
+
+            
+        
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                CLOUDS
+                            
+                            
+                                >
+                                CLOUD MICROPHYSICS
+                            
+                            
+                                >
+                                CLOUD LIQUID WATER/ICE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                CLOUDS
+                            
+                            
+                                >
+                                CLOUD MICROPHYSICS
+                            
+                            
+                                >
+                                CLOUD OPTICAL DEPTH/THICKNESS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+                        
+                	
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                CLOUDS
+                            
+                            
+                                >
+                                CLOUD PROPERTIES
+                            
+                            
+                                >
+                                CLOUD FRACTION
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                CLOUDS
+                            
+                            
+                                >
+                                CLOUD PROPERTIES
+                            
+                            
+                                >
+                                CLOUD FREQUENCY
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                CLOUDS
+                            
+                            
+                                >
+                                CLOUD PROPERTIES
+                            
+                            
+                                >
+                                CLOUD HEIGHT
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                CLOUDS
+                            
+                            
+                                >
+                                CLOUD PROPERTIES
+                            
+                            
+                                >
+                                CLOUD MIDLAYER TEMPERATURE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                CLOUDS
+                            
+                            
+                                >
+                                CLOUD TYPES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    GMS-5
+                                    
+                                        >
+                                        Geostationary Meteorological Satellite-5
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    GOES-10
+                                    
+                                        >
+                                        Geostationary Operational Environmental Satellite 10
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                            
+                        
+                    
+                        
+                            
+                                
+                                    GOES-11
+                                    
+                                        >
+                                        Geostationary Operational Environmental Satellite 11
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    GOES-12
+                                    
+                                        >
+                                        Geostationary Operational Environmental Satellite 12
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    GOES-13
+                                    
+                                        >
+                                        Geostationary Operational Environmental Satellite 13
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    GOES-14
+                                    
+                                        >
+                                        Geostationary Operational Environmental Satellite 14
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    GOES-15
+                                    
+                                        >
+                                        Geostationary Operational Environmental Satellite 15
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    GOES-8
+                                    
+                                        >
+                                        Geostationary Operational Environmental Satellite 8
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    GOES-9
+                                    
+                                        >
+                                        Geostationary Operational Environmental Satellite 9
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    MTSAT-2
+                                    
+                                
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    MTSAT-1R
+                                    
+                                        >
+                                        Multi-functional Transport Satellite 1 Replacement
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    MSG
+                                    
+                                        >
+                                        Meteosat Second Generation
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    METEOSAT-10
+                                    
+                                
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    METEOSAT-5
+                                    
+                                        >
+                                        Meteosat Operational Programme 2 (MOP-2)
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    METEOSAT-7
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    METEOSAT-8
+                                    
+                                
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    METEOSAT-9
+                                    
+                                
+                            
+                        
+                        
+
+			
+                    
+		    
+                        
+
+                        
+                             
+                    
+                
+
+
+    
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            IMAGING RADIOMETERS
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            GOES I-M IMAGER
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+                    
+                
+            
+                
+                    
+                        
+                            GOES N-P IMAGER
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            GOES-11 Imager
+                            
+                                >
+                                Geostationary Operational Environmental Satellite 11-Imager
+                            
+                        
+                    
+                    
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            GOES-12 Imager
+                            
+                                >
+                                Geostationary Operational Environmental Satellite 12-Imager
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            GOES-15 Imager
+                            
+                                >
+                                Geostationary Operational Environmental Satellite 15-Imager
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            GOES-8 IMAGER
+                            
+                        
+                    
+                    
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            GOES-13 Imager
+                            
+                        
+                    
+                    
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            IIR
+                            
+                                >
+                                Imaging Infrared Radiometer
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            JAMI
+                            
+                                >
+                                Japanese Advanced Meteorological Imager
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            MTSAT 2 Imager
+                            
+                        
+                    
+                    
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            VISSR-GMS
+                            
+                                >
+                                Visible and Infrared Spin Scan Radiometer (GMS Series)
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            VISSR-METEOSAT
+                            
+                                >
+                                Visible and Infrared Spin Scan Radiometer (METEOSAT Series)
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            SEVIRI
+                            
+                                >
+                                Spinning Enhanced Visible and Infrared Imager
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+	    
+                
+
+                
+                    
+            
+        
+
+
+    
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CERES
+                            
+                                >
+                                Clouds and the Earth's Radiant Energy System
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            EOSDIS
+                            
+                                >
+                                Earth Observing System Data Information System
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            EOS
+                            
+                                >
+                                Earth Observing System
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Quality
+        
+            Please review the Data Quality Summary 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            Cloud Effective Pressure
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Cloud Effective Temperature
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            IN WORK
+        
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Atmospheric Science Data Center, Science Directorate, Langley Research Center, NASA
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://eosweb.larc.nasa.gov/
+
+                        
+                    
+                    
+                    
+                        
+                            Dataset ID: 
+                            CER_ISCCP-D2like-GEO_DAY_Edition3A 
+
+                        
+                            Dataset ID: 
+                            CER_ISCCP-D2like-GEO_Composite_Edition2A 
+
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    ASDC
+                                                    
+                                                    USER SERVICES
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            757-864-8656
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            support-asdc at earthdata.nasa.gov
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        NASA Langley Atmospheric Science Data Center
+
+                                                                    
+                                                                        User and Data Services
+
+                                                                    
+                                                                        NASA Langley Research Center
+
+                                                                    
+                                                                        Mail Stop 157D
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Hampton
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                VA
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                23681-2199
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+                        
+
+                    
+                    
+                
+                    
+                    
+                        
+                            
+                            
+                                Langley Research Center Distributed Active Archive Center, Science Directorate, Langley Research Center, NASA
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://eosweb.larc.nasa.gov/
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    ASDC
+                                                    
+                                                    USER SERVICES
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            757-864-8656
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            support-asdc at earthdata.nasa.gov
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        NASA Langley Atmospheric Science Data Center
+
+                                                                    
+                                                                        User and Data Services
+
+                                                                    
+                                                                        NASA Langley Research Center
+
+                                                                    
+                                                                        Mail Stop 157D
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Hampton
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                VA
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                23681-2199
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+                
+
+                
+                     
+                
+            
+
+  
+        
+    
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+ 
+          
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        NORMAN
+                        G.
+                        LOEB
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                ceres-help at lists.nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Hampton
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    VA
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    23681-2199
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                 
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        DAVID
+                        R.
+                        DOELLING
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                David.R.Doelling at nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                NASA Langley Research Center
+
+                                            
+                                                Mail Stop 420
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Hampton
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    VA
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    23681-2199
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        ASDC
+                        
+                        USER SERVICES
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                757-864-8656
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                support-asdc at earthdata.nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                NASA Langley Atmospheric Science Data Center
+
+                                            
+                                                User and Data Services
+
+                                            
+                                                NASA Langley Research Center
+
+                                            
+                                                Mail Stop 157D
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Hampton
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    VA
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    23681-2199
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+            
+             
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            Wielicki, B. A., B. R. Barkstrom, E. F. Harrison, R. B. Lee III, G. L. Smith, and J. E. Cooper, 1996: Clouds and the Earth's Radiant Energy System (CERES): An Earth Observing System Experiment, Bull. Amer. Meteor. Soc., 77, 853-868. 
+
+        
+    
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Extended Metadata Properties
+
+        
+            
+            (Click to view more)
+        
+
+        
+            
+
+            
+
+            
+                Extended Metadata Properties From GCMD
+
+                metadata.extraction_date: 2014-11-21 01:37:29
+metadata.keyword_version: 8.0
+metadata.uuid: 4abbaf9d-8df8-4ba8-b09a-bb85dad59fd0
+
+            
+        
+
+    
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+            
+                DIF Creation Date:
+                2013-12-16
+            
+
+        
+        
+            
+                Last DIF Revision Date:
+                2013-12-20
+            
+
+        
+        
+    
+
+ 
+ 
+
+             
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                Reformat as ISO 19115 document
+            
+        
+    
+
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                              
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+        
+
+
+
+
+
+    
+
+
+
+
+                    
+                    
+                
+
+            
+
+            
+
+        
+
+    
+
+    
+    
+
+    
+
+
+
+
+
+
+
+
+    
+        	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+   
+
+
+
+
+    
+        	
+            
+        
+            + 
+                NASA Privacy Policy and Important Notices 
+
+
+    
+
+    
+    
+        
+            
+                
+        
+
+        	
+                Webmaster:
+                Monica Holland
+            
+	
+                Responsible NASA Official:
+                Dr. Stephen Wharton
+            
+	Last updated: November 2014
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+

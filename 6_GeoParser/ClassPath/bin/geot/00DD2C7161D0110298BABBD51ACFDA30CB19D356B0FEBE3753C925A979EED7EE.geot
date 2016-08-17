@@ -1,0 +1,2733 @@
+
+
+
+
+	 
+        
+
+	
+            
+                	
+            
+                
+	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                
+
+
+
+
+
+        
+        	 
+                
+        
+                
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Agriculture
+	
+
+	
+		
+	
+		Atmosphere
+	
+
+	
+		
+	
+		Biological Classification
+	
+
+	
+		
+	
+		Biosphere
+	
+
+	
+		
+	
+		Climate Indicators
+	
+
+	
+		
+	
+		Cryosphere
+	
+
+	
+		
+	
+		Human Dimensions
+	
+
+	
+		
+	
+		Land Surface
+	
+
+	
+		
+	
+		Oceans
+	
+
+	
+		
+	
+		Paleoclimate
+	
+
+	
+		
+	
+		Solid Earth
+	
+
+	
+		
+	
+		Spectral/Engineering
+	
+
+	
+		
+	
+		Sun-Earth Interactions
+	
+
+	
+		
+	
+		Terrestrial Hydrosphere
+	
+
+	
+	
+
+	
+		
+Data Centers
+
+	
+		 
+Locations
+
+	
+		
+Instruments
+
+	
+		
+Platforms/Sources
+
+	
+		
+Projects
+
+
+
+
+
+
+
+                
+                
+                	
+                    	
+	
+	
+
+
+                    
+                    	
+                            	
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+Record Search Query:
+Locations>VERTICAL LOCATION>STRATOSPHERE
+
+
+	
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        
+            
+                TOMS/Meteor-3 Total Column Ozone Daily L3 Global 1x1.25 deg Lat/Lon Grid V008 (TOMSM3L3dtoz) at GES DISC
+            
+        
+
+        
+        
+            Entry ID:
+            
+                GES_DISC_TOMSM3L3dtoz_V008
+            
+            
+
+            
+
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+        
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                
+                    
+                    
+                        Update this Record
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+        
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            This data product contains TOMS/Meteor-3 Total Column Ozone Daily L3 Global 1x1.25 deg Lat/Lon Grid Version 8 data in ASCII format. 
+ 
+ (The shortname for this Meteor-3 TOMS Product is TOMSM3L3dtoz) 
+ 
+ The Metero-3 Total Ozone Mapping Spectrometer (TOMS) Version 8 Daily Gridded Data consist of daily, global coverage of total column ozone and UV-B Lambertian effective surface reflectivity (Rayleigh  ... corrected). 
+ 
+ Four TOMS instruments have been successfully flown on the following satellites: Nimbus-7 (Nov. 1978 - May 1993), Meteor-3 (Aug. 1991 - Dec. 1994), Earth Probe (July 1996 - current), and ADEOS (Sep. 1996 - June 1997). 
+ 
+ Earth Probe, Meteor-3 and Nimbus-7 data are currently reprocessed using the Version-8 algorithm (http://toms.gsfc.nasa.gov/version8/v8toms_atbd.pdf) . These Version-8 data are archived at the Goddard Distributed Active Archive Center (DAAC). 
+ 
+ The total ozone, aerosol index, reflectivity data and UV-B Erythemal irradiances are mapped to a global grid of size 180 x 288 with a Lat/Lon resolution of 1.00 x 1.25 degrees. These data are also stored in the EOS Version of Hierarchical Data Format (HDF-EOS). HDF was developed by the National Center for Supercomputer Applications (NCSA) at the University of Illinois at Urbana-Champaign. 
+ 
+ TOMS data are produced by the Laboratory for Atmospheres at NASA Goddard Space Flight Center (Code 613). The Version-8 Algorithm Theoretical Basis Document (ATBD) is available from the TOMS site http://toms.gsfc.nasa.gov/version8/v8toms_atbd.pdf 
+ 
+ For detailed information about the TOMS instrument, data, and ozone see the TOMS official Home Page at: http://toms.gsfc.nasa.gov/ 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+    
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    ON-LINE ARCHIVE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Access the Meteor-3 TOMS Level-3 Product TOMSM3L3dtoz by FTP. 
+                            
+
+                        
+                        
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    MIRADOR
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Direct Access to Meteor-3 TOMS Level-3 Product TOMSM3L3dtoz from the GES DISC Mirador fast search and download system 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    OPENDAP DIRECTORY (DODS)
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Access the Meteor-3 TOMS Level-3 Data Product TOMSM3L3dtoz through OPeNDAP. 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    ECHO
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Search Meteor-3 TOMS Level-3 Product TOMSM3L3dtoz using ECHO's next generation Earth Science discovery tool (Reverb). 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Information and access to TOMS data from the TOMS home page 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                 > 
+                                                    PRODUCT HISTORY
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                All documentation related to legacy TOMS mission 
+                            
+
+                        
+                        
+                        
+                    
+                    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 90.0
+                                
+                            	 	
+                                
+                                    S: -90.0
+                                
+                            	 	
+                                
+                                    E: 180.0
+                                
+                            	 	
+                                
+                                    W: -180.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            TOMS Science Team
+                        
+
+                    
+
+                    
+                        
+                            Dataset Title: 
+                            TOMS/Meteor-3 Total Column Ozone Daily L3 Global 1x1.25 deg Lat/Lon Grid
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Series Name: 
+                            TOMSM3L3dtoz
+                        
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Release Place: 
+                            Greenbelt, MD
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            NASA Goddard Earth Science Data and Information Services Center
+                        
+
+                    
+
+                    
+                        
+                            Version: 
+                            008
+                        
+
+                    
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Data Presentation Form: 
+                            Digital Science Data
+                        
+
+                    
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        http://disc.sci.gsfc.nasa.gov/datacollection/TOMSM3L3dtoz_V008.html
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1991-08-22
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        1994-11-24
+                    
+
+                
+                
+                
+            
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > GLOBAL
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            VERTICAL LOCATION
+                            
+                                > STRATOSPHERE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            VERTICAL LOCATION
+                            
+                                > TROPOSPHERE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Data Resolution
+
+        
+        
+        
+            
+            
+
+            
+                Latitude Resolution:
+                1.0 Degrees
+                
+
+            
+
+            
+                Longitude Resolution:
+                1.25 Degrees
+                
+
+            
+
+            
+                Horizontal Resolution Range:
+                100 km - < 250 km or approximately 1 degree - < 2.5 degrees
+                
+
+            
+
+            
+
+            
+
+            
+                Temporal Resolution:
+                Daily
+                
+
+            
+
+            
+
+            
+
+                
+
+                
+                
+
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC CHEMISTRY
+                            
+                            
+                                >
+                                TRACE GASES/TRACE SPECIES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC RADIATION
+                            
+                            
+                                >
+                                REFLECTANCE
+                            
+                            
+                            
+                            
+                                >
+                                REFLECTIVITY
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC CHEMISTRY
+                            
+                            
+                                >
+                                OXYGEN COMPOUNDS
+                            
+                            
+                                >
+                                OZONE
+                            
+                            
+                            
+                                >
+                                TOTAL OZONE
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+                    
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    METEOR-3
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+                        
+                    
+                    
+                
+
+
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            Spectrometers
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+                
+            
+                
+                    
+                        
+                            TOMS
+                            
+                                >
+                                Total Ozone Mapping Spectrometer
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+                
+            
+            
+        
+
+
+    
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            EOSDIS
+                            
+                                >
+                                Earth Observing System Data Information System
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            ESIP
+                            
+                                >
+                                Earth Science Information Partners Program
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            TOMS-M3
+                            
+                                >
+                                Total Ozone Mapping Spectrometer-Meteor3
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            CWIC
+                            
+                                >
+                                CEOS WGISS Integrated Catalog
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Quality
+        
+            Warning: Due to the extreme viewing conditions encountered when the orbit of Meteor-3 drifts near the terminator, only level 3 data taken when the sunlit portion of the orbit is between 9 AM and 3 PM for the first data year and between 8 AM and 4 PM for the remaining two data years will be archived in HDF format at the Goddard DAAC and available in CDROM format here (the stricter time constraint for the first data year is due to problems associated with the eruption of Mt. Pinatubo). 
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CLIMATOLOGY
+                    
+
+                    
+                
+                    
+                    
+                        
+                            DAILY DATA
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            EOSDIS
+                    
+
+                    
+                
+                    
+                    
+                        
+                            FTP
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GRID DATA
+                    
+
+                    
+                
+                    
+                    
+                        
+                            STATISTICS
+                    
+
+                    
+                
+                    
+                    
+                        
+                            TOTAL COLUMN OZONE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            UV Effective Surface Reflectivity
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            COMPLETE
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        GES DISC
+                    
+                
+
+                
+                
+            
+            
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Goddard Earth Sciences Data and Information Services Center (formerly Goddard DAAC), Global Change Data Center, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center, NASA
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://disc.gsfc.nasa.gov/
+
+                        
+                    
+                    
+                    
+                        
+                            Dataset ID: 
+                            TOMS LEVEL 3 DAILY GRIDDED DATA 
+
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    
+                                                    
+                                                    GES DISC HELP DESK SUPPORT GROUP
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            301-614-5224
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            301-614-5268
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            gsfc-help-disc at lists.nasa.gov
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        Goddard Earth Sciences Data and Information Services Center
+
+                                                                    
+                                                                        Code 610.2
+
+                                                                    
+                                                                        NASA Goddard Space Flight Center
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Greenbelt
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                MD
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                20771
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+                        
+
+                    
+                    
+                
+                    
+                    
+                        
+                            
+                            
+                                Atmospheric Composition Data Center, Goddard Earth Sciences Data and Information Services Center, Global Change Data Center, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center, NASA
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://disc.sci.gsfc.nasa.gov/acdisc/
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    
+                                                    
+                                                    ACDISC USER SUPPORT OFFICE
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            301-614-5224
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            301-614-5268
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            gsfc-help-disc at lists.nasa.gov
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        Goddard Earth Sciences Data and Information Services Center
+
+                                                                    
+                                                                        Code 610.2
+
+                                                                    
+                                                                        NASA Goddard Space Flight Center
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Greenbelt
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                MD
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                20771
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+                
+
+                
+                     
+                
+            
+
+  
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    ftp
+                
+
+            
+            
+            
+                
+                    Distribution Size: 
+                    0.2 Mbytes
+                
+
+            
+            
+            
+                
+                    Distribution Format: 
+                    HDF
+                
+
+            
+            
+            
+                
+                    Fees: 
+                    none
+                
+
+            
+            
+            
+                
+                
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        PAWAN
+                        K
+                        BHARTIA, PH. D
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                301-614-5731
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                301-614-5903
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                Pawan.K.Bhartia at nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                NASA
+
+                                            
+                                                Goddard Space Flight Center
+
+                                            
+                                                Mailstop 613.3
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Greenbelt
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    MD
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    20771
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        JAY
+                        R.
+                        HERMAN, PH. D
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                Jay.R.Herman at nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                NASA
+
+                                            
+                                                Goddard Space Flight Center
+
+                                            
+                                                Mailstop 614.0
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Greenbelt
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    MD
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    20771
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        RICHARD
+                        D
+                        MCPETERS, PH. D
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                301-614-6038
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                301-614-5903
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                richard.d.mcpeters at nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                NASA
+
+                                            
+                                                Goddard Space Flight Center
+
+                                            
+                                                Mailstop 613.3
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Greenbelt
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    MD
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    20771
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        JAMES
+                        EDWARD
+                        JOHNSON
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                301-614-5121
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                James.Johnson at nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                NASA Goddard Space Flight Center
+
+                                            
+                                                Code 610.2
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Greenbelt
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    MD
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    20771
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+            
+            
+            
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            Bowman, K.P., and A.J. Krueger, August 20, 1985. 'A Global Climatology of Total Ozone from the Nimbus-7 Total Ozone Mapping Spectrophotometer,' J. Geophys. Res. 90:7967-7976. 
+ 
+ Eck, T. F., Bhartia, P. K., Kerr, J. B., Satellite estimation of spectral UVB irradiance using TOMS derived total ozone and UV reflectivity, Geophys. Res. Letters 1995, 22, 611-614 
+  ... 
+ Fleig, A.J., D.S. Silberstein, C.G. Wellemeyer, R.P. Cebula, and P.K. Bhartia, 1988. 'An Assessment of the Long-Term Drift in TOMS Total Ozone data, Based on Comparison with the Dobson Network,' Geophys. Res. Letters, 15:1133-1136. 
+ 
+ Frederick, J.E. and G.N. Serafino, September 1985. 'The Detection of Long-Term Changes in Stratospheric Ozone Scientific Requirements and Current Results from Satellite-based Measurement Systems,' J. of Clim. and Appl. Meteor. 24:904-914. 
+ 
+ Gleason, J.F., P.K. Bhartia, J.R.Herman, R.McPeters, P.Newman, R.S.Stolarski, L.Flynn, G.Labow, D.Larko, C.Seftor, C.Wellemeyer, W.D.Komhyr, A.J.Miller, and W.Planet, April 1993. 'Record Low Global Ozone in 1992', Science, 260: 523-526 (23 April 1993) 
+ 
+ Herman, J.R., et al., "Meteor-3 Total Ozone Mapping Spectrometer (TOMS) Data Products User's Guide." NASA Reference Publication 1939, 1996. ftp://toms.gsfc.nasa.gov/pub/meteor3/METEOR3_USERGUIDE.PDF 
+ 
+ Herman,J.R., R.McPeters, R.Stolarski, D.Larko, and R.Hudson, September 1991. 'Global Average Ozone Change from November 1978 to May 1990', J. Geophys.Res., 96,D9:17,297-17,305. 
+ 
+ Krueger, A., M. Schoeberl, P.Newman, and R.Stolarski, June 1992. ' The 1991 Antarctic Ozone Hole; TOMS Observations', Geophys. Res. Letters, 19: 1215-1218 
+ 
+ McPeters, R.D., et al., "Nimbus-7 Total Ozone Mapping Spectrometer (TOMS) Data Products User's Guide." NASA Reference Publication 1384, April 1996. 
+ 
+ McPeters, R.D., et al., "Earth-Probe Total Ozone Mapping Spectrometer (TOMS) Data Products User's Guide." NASA Reference Publication 206895, April 1998. 
+ 
+ Schoeberl, M.R., A.J. Krueger, and P.A. Newman, 1986. 'The Morphology of Antarctic Total Ozone As Seen by TOMS,' Geophys. Res. Letters, 13:1217-1220. 
+ 
+ Stolarski, R.S., A.J. Krueger, M.R. Schoeberl, R.D. McPeters, P.A. Newman, and J.C. Alpert, 1986. 'Nimbus-7 Satellite Measurements of the Springtime Antarctic Ozone Decrease,' Nature 322:808-811. 
+ 
+ Stolarski, R.S., P. Bloomfield, R.D.McPeters, J.R.Herman, June 1991. 'Total Ozone Trands Deduced from Nimbus-7 TOMS Data', Geophys. Res. Letters, 18: 1015-1018. 
+
+        
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+            
+                DIF Creation Date:
+                2011-02-23
+            
+
+        
+        
+            
+                Last DIF Revision Date:
+                2014-06-25
+            
+
+        
+        
+            
+                Future DIF Review Date: 
+                2015-02-30
+            
+
+        
+    
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                 Reformat as ISO 19115 document
+            
+        
+    
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+
+        
+
+
+
+
+
+
+                            
+
+                    
+                    
+                
+
+        
+        
+
+
+	
+            
+                
+        	
+            
+                
+                    NASA Privacy Policy and Important Notices
+            
+
+            
+                Responsible NASA Official:  
+                
+                    Dr. Stephen Wharton
+
+                Webmaster:  
+                
+                    Monica Lyles
+                  ·  Contact 
+                
+                    GCMD User Support for assistance
+            
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+
+

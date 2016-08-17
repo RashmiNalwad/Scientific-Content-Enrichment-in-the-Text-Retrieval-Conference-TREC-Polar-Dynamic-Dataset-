@@ -1,0 +1,1794 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords>ATMOSPHERE>ATMOSPHERIC PRESSURE>GRAVITY WAVE
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                Rotational temperature studies of the hydroxyl airglow layer above Davis, Antarctica.
+            
+        
+
+        
+        
+            Entry ID:
+            
+                Davis_OH_airglow
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+        
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            These OH rotational temperature data are derived from spectra collected with a Czerny-Turner scanning grating spectrometer operating at Davis station (69S, 78E), Antarctica (see Greet et al., 1998; French et al., 2000; Burns et al., 2002). 
+ 
+ Hydroxyl (6-2) band rotational temperatures are derived using Langhoff et al (1986) transition probabilities. See French et al. (2000) for why we prefer these  ... values. 
+ 
+ The 1990 data are collected with the optical axis aligned 30-degrees above the horizon in a direction 130E from Davis. An order separating filter was not used in 1990. Details of the operation of the instrumentation in 1990 are included in Greet et al., (1998). 
+ 
+ The 1990, 1994, 1995 and 1996 data are derived from OH(6-2) spectra collected as 5 consecutive scans accumulated in the order of 40 mins to 1 hour (see Burns et al., 2002). 
+ 
+ The times listed for the 1990, 1994, 1995 and 1996 temperatures are calculated from the start time and end time of the accumulated spectrum, interpolated to the time of the P1(2) peak. Greater accuracy than this is not justified given the scanning nature of the instrument and the long acquire times. 
+ 
+ From 1997, temperatures are determined from piece-wise scans collected in ~7.5 minutes (see Burns et al., 2002). From 1997, the time for each temperature is between two consecutive spectra. The line intensities are linearly interpolated to this time. 
+ 
+ We derive temperatures as often as possible (moon-up, minor auroral contamination, all cloud conditions). Auroral, cloud and moon-light contaminations are handled and investigated as described in Burns et al., (2002). 
+ We have provided UT date and time, weighted temperatures, weighted standard error (less than 15K), weighted counting error (less than 10K) and a cloud code. 
+ 
+ The weighted temperature, weighted counting error and weighted standard deviation are explained in Greet et al. (1998). 
+ 
+ The cloud code is: 
+ 0 clear skies 
+ 1 thin high cirrus or haze 
+ 2 patchy cloud 
+ 3 overcast 
+ 4 snow 
+ 5 unknown 
+ 
+ Some discussion of the cloud observations is contained in Burns et al. (2002) and Greet et al. (1998). 
+ 
+ This work was completed as part of ASAC project 701 (ASAC 701). From 2013 onwards, the work falls under AAS project 4157. 
+ 
+ The fields in this dataset are: 
+ 
+ Date (UT) 
+ Time (UT) 
+ Temperature (K) 
+ Cloud 
+ 
+ The download file contains the raw data collected by the SPEX instrument, as well as the calculated temperature/hydroxyl values. The download file contains data only as far as August 2013. For data beyond this point, contact the AADC for access. 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Download point for the data - excel spreadsheets and pdf file - data up until August 2013 
+                            
+
+                        
+			
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Public information for ASAC project 701 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Public information for ASAC project 4157 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Citation reference for this metadata record and dataset 
+                            
+
+                        
+			
+                        
+                    
+		    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                
+            
+            
+                
+            
+            
+            
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: -68.54
+                                
+                            	 	
+                                
+                                    S: -68.61
+                                
+                            	 	
+                                
+                                    E: 78.07
+                                
+                            	 	
+                                
+                                    W: 77.87
+                                
+                            
+	
+                            
+                                
+                                    Min Altitude:
+                                    ~87 KM
+                                
+                                
+                                
+                                    Max Altitude:
+                                    ~87 KM
+                                
+                            
+                        
+	
+                            
+                                
+                                
+                                
+                            
+                        
+
+
+        
+            	 	
+                                
+                                    N: -69.28
+                                
+                            	 	
+                                
+                                    S: -69.58
+                                
+                            	 	
+                                
+                                    E: 81.4
+                                
+                            	 	
+                                
+                                    W: 80.49
+                                
+                            
+	
+                            
+                                
+                                
+                                
+                            
+                        
+	
+                            
+                                
+                                
+                                
+                            
+                        
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            Burns, G. and French, J.
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Title: 
+                            Rotational temperature studies of the hydroxyl airglow layer above Davis, Antarctica.
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Series Name: 
+                            CAASM Metadata
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Release Date: 
+                            2013-08-19
+                         
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            Australian Antarctic Data Centre
+                        
+
+                    
+                    
+                    
+                    
+                    
+
+
+                    
+                    
+                    
+
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        https://data.aad.gov.au/aadc/metadata/metadata_redirect.cfm?md=/AMD...
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1990-03-24
+                    
+
+                
+                
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ANTARCTICA
+                            
+                            
+                            
+                            
+                            
+                                > Davis
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > POLAR
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            VERTICAL LOCATION
+                            
+                                > MESOSPHERE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Data Resolution
+
+        
+        
+        
+            
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+                Temporal Resolution:
+                40 min, 7 min
+                
+
+            
+
+            
+
+	    
+
+                
+
+                
+		
+
+            
+        
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC PRESSURE
+                            
+                            
+                                >
+                                GRAVITY WAVE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC TEMPERATURE
+                            
+                            
+                                >
+                                AIR TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+                        
+                	
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                CLOUDS
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC PRESSURE
+                            
+                            
+                                >
+                                PLANETARY/ROSSBY WAVES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC CHEMISTRY
+                            
+                            
+                                >
+                                HYDROGEN COMPOUNDS
+                            
+                            
+                                >
+                                HYDROXYL
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    GROUND STATIONS
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+		    
+                
+
+
+    
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            Spectrometers
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+	    
+        
+
+
+    
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            ESIP
+                            
+                                >
+                                Earth Science Information Partners Program
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Quality
+        
+            SOME SPECIFICS ABOUT DATA GAPS 
+ 1995. Between 27th May (DOY 147) and 2nd August (DOY 214) the instrument function was degraded. Temperatures from this interval have not been provided. 
+ 
+ 1996. Betwen 28th June (DOY 179) and 20th July (DOY 201) extensive calibrations were undertaken on the instrument and no spectra were collected. 
+ 
+ 1996. From 26th September (DOY 269) to  ... 2nd November (DOY 306) piece-wise scans but incorporating only P1(2) and P1(4) lines were undertaken. Temperatures from this interval of experimental testing are not included with these data. 
+ 
+ 1997. Between 1st July (DOY 182) to 17th August (DOY 229) the slit width was reduced from its normal 250 microns to 100 microns for a specific research program. Temperatures derived from this interval of reduced signal collection are not included. 
+ 
+ 2002. These nightly temperatures have a large uncertainty compared to the values derived for other years. The measured spectral response varied excessively during 2002, perhaps in part related to the variable performance of the PMT cooler. We presently estimate that some nightly temperatures may be in error by up to 3 K due to uncertainty in the applied spectral response correction. Typically the error associated with spectral response uncertainty (since 1998) is less than 0.5K. 
+ 
+ 2003. A mechanical failure of the grating stepper mechanism resulted in loss of data between days 180 and 189 
+ 
+ 2004. A hard disk drive failure occured on day 110. Data on the failed drive could not be recovered (heads had ground into the disk platter substrate). Data were lost between days 097 and 113.Disruption of the slit parallelism occured on day 145 and was not identified and corrected until day 217. This interval consequently has a degraded instrument function (FWHM 2.075 angstroms compared to ~1.6 angstroms normally) 
+ 
+ 2005. A shutter on the entrance system was left closed for the interval day 106 to day 117. New (Labview) control software was started on day 286. 
+ 
+ 2006. The entrance mirror was misaligned after automation between days 60 and 66 Communications interface failed between days 156 and 159 
+ 
+ 2007. Control computer software failure occurred for a short interval Day 225-226 
+ 
+ 2008. No data D061 or D162 due to power failures. 
+ 
+ 
+ Other gaps have possibly occurred since these dates. Check the data for more information. 
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Access Constraints
+        
+            Some of the dataset is available for download from the url given below (up until August 2013). 
+ 
+ The Czerny-Turner dataset is available on the AAD fileshares at \\aad.gov.au\files\ATMOS\Data\Davis_SPEX - owing to the size and constantly updating nature of the data, they will not be placed on a publicly accessible download area. 
+ 
+ The FTS dataset is available on the AAD fileshares at \\aad.gov.au\files\Atmos\Data\Davis_FTS\ - owing to the size and constantly updating nature of the data, they will not be placed on a publicly accessible download area. 
+ 
+ Contact the AADC to gain access to these data. 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Use Constraints
+        
+            This data set conforms to the PICCCBY Attribution License 
+ (http://creativecommons.org/licenses/by/3.0/). 
+ 
+ Please follow instructions listed in the citation reference provided at http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=Davis_OH... when using these data. 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            ANTARCTICA
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ATMOSPHERIC TEMPERATURE
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            ATMOSPHERIC TIDE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CLOUD
+                    
+
+		    
+                
+                    
+                    
+                        
+                            DATE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            DAVIS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GRAVITY WAVE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            HYDROXYL AIRGLOW
+                    
+
+		    
+                
+                    
+                    
+                        
+                            HYDROXYL ROTATIONAL TEMPERATURE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            MESOSPHERE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OH(6-2)
+                    
+
+		    
+                
+                    
+                    
+                        
+                            PLANETARY WAVE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            TEMPERATURE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            TIME
+                    
+
+		    
+                
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            IN WORK
+        
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        Australian Antarctic Division
+                    
+                
+
+                
+            
+	    
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Australian Antarctic Data Centre, Australia
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://data.aad.gov.au
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    DATA OFFICER
+                                                    
+                                                    AADC
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            +61 3 6232 3244
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            F
+
+
+
+
+
+
+
+
+
+
+
+
+
+

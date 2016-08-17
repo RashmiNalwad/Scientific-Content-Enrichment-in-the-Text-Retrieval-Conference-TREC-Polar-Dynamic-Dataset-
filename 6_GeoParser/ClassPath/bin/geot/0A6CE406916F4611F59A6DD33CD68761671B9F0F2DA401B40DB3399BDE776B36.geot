@@ -1,0 +1,1467 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Platforms>Balloons/Rockets
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+            
+        
+    
+
+
+
+
+    
+        
+        
+            
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                Meteorological Assimilation Data Ingest System (MADIS)
+            
+        
+
+        
+        
+            Entry ID:
+            
+                FSL_MADIS
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+        
+        
+
+        
+        
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+         
+         
+                
+                    
+                    
+                        Update this Record.
+                
+
+
+
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            More Information: http://madis.noaa.gov/ 
+ 
+ The Meteorological Assimilation Data Ingest System (MADIS) is dedicated toward making value-added data available from the National Oceanic and Atmospheric Administration's (NOAA) Forecast Systems Laboratory (FSL) for the purpose of improving weather forecasting, by providing support for data assimilation, numerical weather prediction, and other  ... hydrometeorological applications. 
+ 
+ MADIS subscribers have access to a reliable and easy-to-use database containing real-time and archived datasets. The FSL MADIS database is available via either ftp or using Unidata's Local Data Manager (LDM) software. Users can subscribe to the entire database, or ask for only particular datasets of interest. 
+ 
+ Quality Control (QC) of MADIS observations is also provided, since considerable evidence exists that the retention of erroneous data, or the rejection of too many good data, can substantially distort forecast products. Observations in the FSL database are stored with a series of flags indicating the quality of the observation from a variety of perspectives (e.g. temporal consistency and spatial consistency), or more precisely, a series of flags indicating the results of various QC checks. Users of MADIS can then inspect the flags and decide whether or not to ingest the observation. 
+ 
+ MADIS also includes an Application Program Interface (API) that provides users with easy access to the data and quality control information. The API allows each user to specify station and observation types, as well as QC choices, and domain and time boundaries. Many of the implementation details that arise in data ingest programs are automatically performed. Users of the MADIS API, for example, can choose to have their wind data automatically rotated to a specified grid projection, and/or choose to have mandatory and significant levels from radiosonde data interleaved, sorted by descending pressure, and corrected for hydrostatic consistency. 
+ 
+ The API is designed in such a way that the underlying format of the database is completely invisible to the user, a design that also allows it to be easily extended to non-FSL databases. In the initial version of the API, support is provided for the FSL database, and also for the netCDF database used in the National Weather Service (NWS) Advanced Weather Interactive Processing System (AWIPS) deployed at NWS weather forecast offices. 
+ 
+ The FSL MADIS database and API are freely available to interested parties in the meteorological community. The data files are also compatible with the analysis software provided by the Local Analysis and Prediction System (LAPS). 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                MADIS currently supports these datasets. 
+ 
+ - Meteorological Surface
+ - Radiosonde
+ - NOAA Profiler Network
+ - Hydrological Surface
+ - Automated Aircraft
+ - Multi-Agency Profiler
+ - Radiometer
+ - Satellite Wind 
+                            
+
+                        
+			
+                        
+                    
+		    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Service Citation
+        
+        
+            	
+                
+                    
+                    
+                        
+                            Originators: 
+                            NOAA Forecast Systems Laboratory
+                        
+
+                    
+                    
+                        
+                            Title: 
+                            Meteorological Assimilation Data Ingest System (MADIS)
+                        
+
+                    
+                    
+                    
+                        
+                            Provider: 
+                            NOAA/FSL
+                        
+
+                    
+                    
+                    
+                        
+                            URL: 
+                            
+                                
+                                    http://madis.noaa.gov/
+                            
+                        
+
+                    
+                    
+                    
+                
+                
+            
+        
+
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Service Keywords
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                                DATA MANAGEMENT/DATA HANDLING
+                            
+                            
+                                >ARCHIVING
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                DATA MANAGEMENT/DATA HANDLING
+                            
+                            
+                                >CATALOGING
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                DATA MANAGEMENT/DATA HANDLING
+                            
+                            
+                                >DATA SEARCH AND RETRIEVAL
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                DATA MANAGEMENT/DATA HANDLING
+                            
+                            
+                                >DATA INTEROPERABILITY
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+            
+            
+
+
+
+        
+    
+
+
+
+
+    
+        Science Keywords 
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >AIR QUALITY
+                            
+                            
+                            >VISIBILITY
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ALTITUDE
+                            
+                            
+                            >GEOPOTENTIAL HEIGHT
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC PRESSURE
+                            
+                            
+                            >PRESSURE TENDENCY
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC PRESSURE
+                            
+                            
+                            >SEA LEVEL PRESSURE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC PRESSURE
+                            
+                            
+                            >STATIC PRESSURE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC PRESSURE
+                            
+                            
+                            >ATMOSPHERIC PRESSURE MEASUREMENTS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC TEMPERATURE
+                            
+                            
+                            >AIR TEMPERATURE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC TEMPERATURE
+                            
+                            
+                            >MAXIMUM/MINIMUM TEMPERATURE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC WATER VAPOR
+                            
+                            
+                            >DEW POINT TEMPERATURE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC WATER VAPOR
+                            
+                            
+                            >HUMIDITY
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC WATER VAPOR
+                            
+                            
+                            >PRECIPITABLE WATER
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC WINDS
+                            
+                            
+                            >SURFACE WINDS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC WINDS
+                            
+                            
+                            >UPPER LEVEL WINDS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >CLOUDS
+                            
+                            
+                            >CLOUD PROPERTIES
+                            
+                            
+                            >CLOUD FREQUENCY
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >CLOUDS
+                            
+                            
+                            >CLOUD PROPERTIES
+                            
+                            
+                            >CLOUD CEILING
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >CLOUDS
+                            
+                            
+                            >CLOUD PROPERTIES
+                            
+                            
+                            >CLOUD HEIGHT
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >PRECIPITATION
+                            
+                            
+                            >ACID RAIN
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >PRECIPITATION
+                            
+                            
+                            >FREEZING RAIN
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >PRECIPITATION
+                            
+                            
+                            >HAIL
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >PRECIPITATION
+                            
+                            
+                            >HYDROMETEORS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >PRECIPITATION
+                            
+                            
+                            >PRECIPITATION AMOUNT
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >PRECIPITATION
+                            
+                            
+                            >PRECIPITATION RATE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >PRECIPITATION
+                            
+                            
+                            >RAIN
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >PRECIPITATION
+                            
+                            
+                            >SLEET
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >PRECIPITATION
+                            
+                            
+                            >SNOW
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC RADIATION
+                            
+                            
+                            >SOLAR RADIATION
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            CRYOSPHERE
+                            
+                            
+                            >SNOW/ICE
+                            
+                            
+                            >SNOW COVER
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >SURFACE WATER
+                            
+                            
+                            >RIVERS/STREAMS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >SURFACE WATER
+                            
+                            
+                            >STAGE HEIGHT
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >SOILS
+                            
+                            
+                            >SOIL MOISTURE/WATER CONTENT
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >SOILS
+                            
+                            
+                            >SOIL TEMPERATURE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >TOPOGRAPHY
+                            
+                            
+                            >TERRAIN ELEVATION
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >OCEAN WAVES
+                            
+                            
+                            >SEA STATE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                 
+
+
+
+
+
+
+
+
+
+
+
+

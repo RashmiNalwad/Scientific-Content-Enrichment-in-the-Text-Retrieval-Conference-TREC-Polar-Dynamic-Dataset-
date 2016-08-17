@@ -1,0 +1,311 @@
+ 
+
+
+     
+
+
+
+  
+
+
+
+	
+	 
+      
+	
+	
+
+
+
+  
+
+	 
+
+
+
+ 	
+
+
+
+    
+	 
+
+          
+
+          NASA 
+
+          SkyWatch>  Introduction 
+
+          | What's New? | FAQ 
+
+          | Help | QuickStart Guide 
+
+        
+
+
+        
+	 NASA SkyWatch Help 
+
+          	 	 
+	    	
+	 	 NASA SkyWatch 
+
+                is divided into 9 Tabs:
+	 	Map 
+
+                | Input | SatInfo | Orbit 
+
+                | Table | SkyLog | SkySearch 
+
+                | Variables | About
+	 	 
+
+
+
+          NASA SkyWatch 
+
+            is a web based Java application (or applet) that can be used to generate 
+
+            highly accurate acquisition information for an earth orbiting satellite. 
+
+            Each time the satellite appears above the horizon for a specified ground 
+
+            site, NASA SkyWatch will compute such information as range, azimuth, 
+
+            and elevation. Also, NASA SkyWatch 
+
+            will determine if any of the "pass" will be visible. Making a "sighting" 
+
+            of a satellite is great fun and an excellent learning experience for 
+
+            both children and adults.  
+
+          
+ NASA SkyWatch 
+
+            is primarily an application to determine acquisition information - or 
+
+            when a satellite will be above the horizon at a given place and time. 
+
+            Once the acquisition data has been determined, a sighting is also possible 
+
+            if 4 conditions have been met:
+ 
+
+          
+ 
+
+          
+	The satellite must be above 
+
+              the horizon  
+
+            
+	The observer must be in 
+
+              darkness (sun below the observer's horizon)  
+
+            
+	The satellite must be in 
+
+              sunlight (sun above the satellite's horizon)  
+
+            
+	The correct side of the 
+
+              satellite must be lit  
+
+          
+
+
+
+           NASA SkyWatch 
+
+            can be used for any Earth orbiting satellite - not just for the International Space Station. NASA SkyWatch regulary monitors 
+
+		    major NASA satellites that may be of interest. Currently, the list of 
+
+			satellites that can be selected include the following:
+
+		  
+
+
+		  
+	The International Space Station (ISS)		  
+			
+		  
+	The Active Cavity Radiometer Irradiance Monitor Spacecraft (ACRIMSAT)
+		  
+		  
+	The Advanced Earth Observing Satellite (ADEOS-II/SeaWinds)
+
+		  
+	The Aeronomy of Ice in the Mesosphere Spacecraft (AIM)
+		  
+		  
+	The Aqua Spacecraft
+		  
+		  
+	The Aquarius Spacecraft
+		  
+		  
+	The Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations Spacecraft (CALIPSO) 
+		  
+		  
+	The CloudSat Spacecraft
+		  
+		  
+	The Earth Observing-1 Spacecraft (EO-1)
+
+		  
+	The Galaxy Evolution Explorer Spacecraft (GALEX)
+		  
+		  
+	The Gravity Recovery and Climate Experiment Spacecraft (GRACE-1 and GRACE-2)
+		  
+		  
+	The Hinode Spacecraft
+		  
+		  
+	The Hubble Space Telescope (HST)
+		  
+		  
+	The Jason-1 Spacecraft
+		  
+		  
+	The Jason-2 Spacecraft
+		  
+		  
+	The LandSat-7 Spacecraft
+		  
+		  
+	The OrbView-2 Spacecraft (SeaStar)
+		  
+		  
+	The QuickSCAT Spacecraft
+		  
+		  
+	The Reuven Ramaty High Energy Solar Spectroscope Imager Spacecraft (RHESSI)
+		  
+		  
+	The Rossi X-ray Timing Explorer Spacecraft RXTE 
+		  
+		  
+	The Solar Radiation and Climate Experiment Spacecraft SORCE
+		  
+		  
+	The Suzaku Spacecraft
+		  
+		  
+	The Swift Gamma Ray Burst Explorer Spacecraft
+		  
+		  
+	The Terra Spacecraft
+		  
+		  
+	The Thermosphere, Ionosphere, Mesosphere Energetics and Dynamics Spacecraft (TIMED)
+		  
+		  
+	The Tropical Rainfall Measuring Mission TRMM
+			
+
+           Every effort has been made 
+
+            to develop NASA SkyWatch 
+
+            as a simple to use yet powerful application to provide highly accurate 
+
+            and detailed information. These help pages are being provided to guide 
+
+            your way through NASA SkyWatch 
+
+            the first few times it is used. You will find that once you learn NASA 
+
+            SkyWatch's input requirements, 
+
+            sighting information is just a few minutes away.  
+
+          
+
+        
+ The NASA SkyWatch 
+
+          input and results are divided into 7 sections - 4 for input and 3 for 
+
+          output. These sections are in the form of "tabs" in the upper left of 
+
+          the user interface. All that is required to jump from section to section 
+
+          is to click on the tab. In these help pages, clicking on the tab will 
+
+          take you to a detailed help page for that particular section. Once inside 
+
+          the detailed help page, clicking on an input or output will display 
+
+          more information about that item.  
+
+        
+ System Requirements:
+ 
+
+          
+ It is recommended that the 
+
+            user be running a Pentium class (or equivalent) computer system. Slower 
+
+            systems will run NASA SkyWatch 
+
+            but may take considerable more time to complete. The applet is not resolution 
+
+            independent and was developed for resolution of 800x600 on a Windows 
+
+            based computer system. Other resolutions and operating systems will 
+
+            work but some scrolling by the user may be required if less than 800x600. 
+
+            Resolutions greater than 800x600 will also work but may not be readable 
+
+            due the small character size.  
+
+          
+
+        
+ Please note that due to the 
+
+          complexity of this applet, you will need the Microsoft 
+
+          Internet Explorer  version 4.0 or later. You can also use Netscape 
+
+          Navigator version 4.06 or later. Macintosh systems require Internet 
+
+          Explorer version 4.5 or later, plus the Macintosh OS Runtime Environment 
+
+          for Java version 2.1 or later. Windows users require the Java version 1.4.2_04. 
+
+          If you need to acquire these browsers, please do so before attempting to 
+
+          run NASA SkyWatch.  
+
+      
+
+
+
+
+
+
+  
+
+
+
+
+
+
+ 
+	
+
+    Curator: Kim 
+      Dismukes | Responsible NASA Official: Amiko Kauderer | Updated: 09/23/2011
+
+    Privacy Policy and Important Notices
+
+

@@ -1,0 +1,2438 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords>BIOSPHERE>AQUATIC ECOSYSTEMS
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                2011 NOAA Bathymetric Lidar: U.S. Virgin Islands - St. Thomas, St. John, St. Croix (Salt River Bay, Buck Island)
+            
+        
+
+        
+        
+            Entry ID:
+            
+                gov.noaa.csc.maps.2011_usvi_bathymetry_m1394
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+        
+        
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+               
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            This data represents a LiDAR (Light Detection & Ranging) gridded bathymetric surface and a gridded relative seafloor reflectivity surface (incorporated into the las format as intensity) for an area of shallow seabed: 1. Surrounding St. Thomas and St. John (STT/STJ): 3m x 3m grid 2. Mouth of Salt River Bay (SARI) in St. Croix: 5m x 5m grid 3. Buck Island Reef National Monument (BUIS) in St. Croix:  ... 3m x 3m grid Fugro LADS, in collaboration with NOAA's National Ocean Service (NOS), National Centers for Coastal Ocean Science (NCCOS), Center for Coastal Monitoring and Assessment (CCMA), Biogeography Branch, the University of New Hampshire and the National Park Service, acquired bathymetry, relative seafloor reflectivity and hyperspectral imagery in St. Thomas and St. John on thirteen separate dates between 1/29/2011 to 2/28/2011 and in St. Croix (SARI and BUIS) on 2/21/2011 and 2/22/2011. 1. STT/STJ Hyperspectral data were acquired using a Hyspex VNIR-1600 sensor. Bathymetry and reflectivity data were acquired using a LADS (Laser Airborne Depth Sounder) Mark II Airborne System from altitudes between 1,200 and 2,200ft at ground speeds between 140 and 210 knots. The 900 Hertz Nd: YAG (neodymium-doped yttrium aluminum garnet) laser (1064 nm) acquired 3x3 meter spot spacing and 200% seabed coverage. For STT/STJ, 168.1 square kilometers of LiDAR were collected between 0 m and 40 m in depth. Data was flown for charting. This data met IHO Order 1 standards. 2. SARI Hyperspectral data were acquired using a Hyspex VNIR-1600 sensor. Bathymetry and reflectivity data were acquired using a LADS (Laser Airborne Depth Sounder) Mark II Airborne System from altitudes between 1,200 and 2,200ft at ground speeds between 140 and 175 knots. The 900 Hertz Nd: YAG (neodymium-doped yttrium aluminum garnet) laser (1064 nm) acquired 5x5 meter spot spacing and 200% seabed coverage. For SARI, 1.62 square kilometers of LiDAR were collected between 0 m and 34 m in depth. This data was collected for research, not charting. It was collected using the same acquistion parameters as STT/STJ, but its uncertainties were not quantified. As such, it is not known if this data meets IHO Order 1 standards. 3. BUIS Hyperspectral data were acquired using a Hyspex VNIR-1600 sensor. Bathymetry and reflectivity data were acquired using a LADS (Laser Airborne Depth Sounder) Mark II Airborne System from altitudes between 1,200 and 2,200ft at ground speeds between 140 and 175 knots. The 900 Hertz Nd: YAG (neodymium-doped yttrium aluminum garnet) laser (1064 nm) acquired 3x3 meter spot spacing and 200% seabed coverage. For BUIS, 35.9 square kilometers of LiDAR were collected between 0 m and 49 m in depth. This data was collected for research, not charting. It was collected using the same acquistion parameters as STT/STJ, but its uncertainties were not quantified. As such, it is not known if this data meets IHO Order 1 standards. The data received from NCCOS were in GEOTIFF format for both the lidar and seafloor reflectivity. The NOAA Coastal Services Center converted these two data sets to text format and then combined them into one text file based on x and y. The text file was then converted to las format, where the seafloor reflectivity is represented as intensity. The data's horizontal coordinate system was NAD83 UTM 20 North, and depth values were collected in meters referenced to Mean Lower Low Water (MLLW) depths. Upon receipt of the data, the NOAA Coastal Services Center converted the data to geographic coordinates and ellipsoid heights for data storage and Digital Coast provisioning purposes. Environmental factors such as wind strength and direction, cloud cover, water clarity and depth influenced the area of data acquisition on a daily basis. The data was processed using the LADS Mark II Ground System and data visualization, quality control and final products were created using CARIS HIPS and SIPS and CARIS BASE Editor. All users should individually evaluate the suitability of this data according to their own needs and standards. 
+    
+                        
+
+                    
+                    
+                        
+                            
+
+                            Purpose: 
+                            This LiDAR collection is an important effort in an ongoing NOAA scientific research mission in the US Caribbean to characterize nearshore to deep water coral reef habitats at depths down to 1,000 meters. The mission purpose is to better understand the resources within the surveyed reef habitats, and ultimately develop species utilization models linking physical habitats with biological information. The acquired bathymetry, relative seafloor reflectivity, and hyperspectral imagery will be used internally to characterize sea floor topography and to create benthic habitat maps, helping NOAA meet its mapping commitment to the US Coral Reef Task Force. The resulting publicly-distributed data is also a contribution to the greater scientific community interested in the USVI seafloor.     
+                        
+
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW EXTENDED METADATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                View Source Metadata 
+                            
+
+                        
+			
+                        
+                    
+		    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                
+            
+        
+    
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+	Multimedia Sample
+
+            
+                
+
+                    
+                        
+                            
+View full image 
+
+
+                
+
+                
+                    Description:  
+                        This kmz file shows the extent of coverage for the 2011 NOAA USVI bathymetric lidar data set.
+                    
+
+
+
+                
+
+                        
+                    
+                
+            
+        	 	
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                
+            
+        
+    
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 18.42
+                                
+                            	 	
+                                
+                                    S: 17.76
+                                
+                            	 	
+                                
+                                    E: -64.55
+                                
+                            	 	
+                                
+                                    W: -65.07
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+        
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            DOC/NOAA/NOS/OCM > Office for Coastal Management, National Ocean Service, National Oceanic and Atmospheric Administration, U.S. Department of Commerce
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Title: 
+                            2011 NOAA Bathymetric Lidar: U.S. Virgin Islands - St. Thomas, St. John, St. Croix (Salt River Bay, Buck Island)
+                        
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Release Date: 
+                            2013-06-01
+                         
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+
+                    
+                    
+                    
+                        
+                            Data Presentation Form: 
+                            imageDigital
+                        
+
+                    
+
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        http://coast.noaa.gov
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Parent DIF 
+
+        
+        
+            This data set description is a member of a collection. The
+            collection is described in
+
+            
+                
+                    
+                        gov.noaa.ngdc.USCoastalLidarElevationData
+
+                    
+                
+                
+
+            
+        
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        2011-01-29
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        2011-02-28
+                    
+
+                
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > ATLANTIC OCEAN
+                            
+                            
+                                > NORTH ATLANTIC OCEAN
+                            
+                            
+                                > CARIBBEAN SEA
+                            
+                            
+                                > VIRGIN ISLANDS
+                            
+                            
+                        
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                LAND SURFACE
+                            
+                            
+                                >
+                                TOPOGRAPHY
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                BATHYMETRY/SEAFLOOR TOPOGRAPHY
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+                        
+                	
+		
+                    
+                    
+                        
+                            
+                                SPECTRAL/ENGINEERING
+                            
+                            
+                                >
+                                LIDAR
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                BATHYMETRY/SEAFLOOR TOPOGRAPHY
+                            
+                            
+                                >
+                                SEAFLOOR TOPOGRAPHY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOSPHERE
+                            
+                            
+                                >
+                                AQUATIC ECOSYSTEMS
+                            
+                            
+                                >
+                                REEF HABITAT
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                COASTAL PROCESSES
+                            
+                            
+                                >
+                                CORAL REEFS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SOLID EARTH
+                            
+                            
+                                >
+                                GEOMORPHIC LANDFORMS/PROCESSES
+                            
+                            
+                                >
+                                COASTAL LANDFORMS
+                            
+                            
+                                >
+                                CORAL REEFS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            ELEVATION
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            LIDAR
+                            
+                                >
+                                Light Detection and Ranging
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+	    
+        
+
+
+    
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Use Constraints
+        
+            These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn from  ... analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes. 
+ 
+ While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty. 
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            Bathymetry/Topography
+                    
+
+		    
+                
+                    
+                    
+                        
+                            LiDAR
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            Bathymetry
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Seafloor
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Reef Habitat
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Coral
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Elevation data
+                    
+
+		    
+                
+                    
+                    
+                        
+                            High-resolution
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Depth
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Benthic
+                    
+
+		    
+                
+                    
+                    
+                        
+                            NPS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Reef
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Backscatter
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Reflectivity
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Intensity
+                    
+
+		    
+                
+                    
+                    
+                        
+                            LADS Mark II
+                    
+
+		    
+                
+                    
+                    
+                        
+                            NOAA
+                    
+
+		    
+                
+                    
+                    
+                        
+                            IOCM
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Integrated Ocean and Coastal Mapping
+                    
+
+		    
+                
+                    
+                    
+                        
+                            United States
+                    
+
+		    
+                
+                    
+                    
+                        
+                            USVI
+                    
+
+		    
+                
+                    
+                    
+                        
+                            U.S. Virgin Islands
+                    
+
+		    
+                
+                    
+                    
+                        
+                            St. Thomas
+                    
+
+		    
+                
+                    
+                    
+                        
+                            St. John
+                    
+
+		    
+                
+                    
+                    
+                        
+                            St. Croix
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Virgin Islands National Park
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Virgin Islands Coral Reef National Monument
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Salt River Bay
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Buck Island Reef National Monument
+                    
+
+		    
+                
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            COMPLETE
+        
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                National Geophysical Data Center, NESDIS, NOAA, U.S. Department of Commerce
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://www.ngdc.noaa.gov/
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    MIKE
+                                                    
+                                                    SUTHERLAND
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            303-497-6120
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            303-497-6513
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            mike.sutherland at noaa.gov
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        NOAA/NESDIS/NGDC E/GC1 325 Broadway
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Boulder
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                CO
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                80305-3328
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+            
+            
+            
+            
+                
+                    Distribution Format: 
+                    LAZ
+                
+
+            
+            
+            
+
+            
+                
+                
+                
+		
+            
+        
+
+    
+
+
+ 
+          
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        MIKE
+                        
+                        SUTHERLAND
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                303-497-6120
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                303-497-6513
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                mike.sutherland at noaa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                NOAA/NESDIS/NGDC E/GC1 325 Broadway
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Boulder
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    CO
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    80305-3328
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                 
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        NOAA NOS OCM
+                        
+                        OFFICE FOR COASTAL MANAGEMENT
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                843-740-1200
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                coastal.info at noaa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                2234 South Hobson Ave.
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Charleston
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    SC
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    29405-2413
+                                
+
+                            
+                            
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        
+                        
+                        DOC/NOAA/NOS/NCCOS/CCMA/BIOGEOGRAPHY BRANCH
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                301-713-3028
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                ccma at noaa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                1305 East West Highway, Rm. 8419
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Silver Spring
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    MD
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    20910
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+            
+             
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Extended Metadata Properties
+
+        
+            
+            (Click to view more)
+        
+
+        
+            
+
+            
+
+            
+                Extended Metadata Properties From GCMD
+
+                metadata.extraction_date: 2015-02-16 03:50:42
+metadata.keyword_version: 8.0
+metadata.uuid: 69739816-55ac-413b-a0e0-f5215d48877d
+
+            
+        
+
+    
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+            
+                DIF Creation Date:
+                2015-01-05
+            
+
+        
+        
+            
+                Last DIF Revision Date:
+                2015-01-09
+            
+
+        
+        
+    
+
+ 
+ 
+
+             
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                Reformat as ISO 19115 document
+            
+        
+    
+
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                              
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+        
+
+
+
+
+
+    
+
+
+
+
+                    
+                    
+                
+
+            
+
+            
+
+        
+
+    
+
+    
+    
+
+    
+
+
+
+
+
+
+
+
+    
+        	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+   
+
+
+
+
+    
+        	
+            
+        
+            + 
+                NASA Privacy Policy and Important Notices 
+
+
+    
+
+    
+    
+        
+            
+                
+        
+
+        	
+                Webmaster:
+                Monica Lyles
+            
+	
+                Responsible NASA Official:
+                Dr. Stephen Wharton
+            
+	Last updated: February 2015
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+

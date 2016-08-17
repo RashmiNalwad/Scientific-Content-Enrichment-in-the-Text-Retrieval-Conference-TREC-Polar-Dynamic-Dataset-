@@ -1,0 +1,1714 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        [Data_Center: Short_Name='DOE/ORNL/ESD/CDIAC']
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                Tropical Africa: Land Use, Biomass, and Carbon Estimates for 1980, CDIAC/NDP055
+            
+        
+
+        
+        
+            Entry ID:
+            
+                CDIAC_NDP055
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+        
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            [Summary adapted from the NDP-055 documentation] 
+ 
+ This numeric data package (NDP-055) describes a land-use and biomass 
+ database for Tropical Africa that contains 1980 land cover, maximum 
+ potential aboveground biomass, and biomass estimates for woody 
+ vegetation in 1980. In addition, the database includes information on 
+ human populations in each nation and sub-national political unit in 
+ Tropical  ... Africa for the years 1960, 1970, 1980, and 1990. These data 
+ were collected to reduce the uncertainty associated with the possible 
+ magnitude and time course of historical release of carbon from 
+ land-cover change and may be used by demographers, historians, 
+ geographers, and other researchers interested in the relationship 
+ between land cover change, land degradation, climate, and 
+ anthropogenic activities. 
+ 
+ For purposes of the NDP, Tropical Africa is defined as encompassing 
+ nearly 22.7 x 10^6 km^2 of the world's surface and includes the 
+ following countries: Angola, Botswana, Burundi, Cameroon, Cape Verde, 
+ Central African Republic, Chad, Congo, Benin, Equatorial Guinea, 
+ Ethiopia, Djibouti, Gabon, Gambia, Ghana, Guinea, Ivory Coast, Kenya, 
+ Liberia, Madagascar, Malawi, Mali, Mauritania, Mozambique, Namibia, 
+ Niger, Nigeria, Guinea-Bissau, Zimbabwe (Rhodesia), Rwanda, Senegal, 
+ Sierra Leone, Somalia, Sudan, Tanzania, Togo, Uganda, Burkina Faso 
+ (Upper Volta), Zaire, and Zambia. As defined here Tropical Africa does 
+ not include countries in Mediterranean and southern Africa. 
+ 
+ The database was developed using the GRID module in the ARC/INFO(TM) 
+ geographic information system. Source data were obtained from the Food 
+ and Agriculture Organization (FAO), the U.S. National Geophysical Data 
+ Center, and a limited number of biomass-carbon density case studies. 
+ These data were used to derive the maximum potential and actual (ca. 
+ 1980) aboveground biomass values at regional and country levels. The 
+ land-use data provided were derived from a vegetation map originally 
+ produced for the FAO by the International Institute of Vegetation 
+ Mapping, Toulouse, France. 
+ 
+ Analyses conducted with this database found that 18% of Tropical 
+ Africa was in closed forest and 36% was in open forest in 1980. These 
+ forested lands contained over 138 x 109 Mg of aboveground live 
+ biomass, equivalent to 69 x 109 Mg of carbon. Closed forests and open 
+ forests had mean aboveground biomass values of 209 Mg/ha and 67 Mg/ha, 
+ respectively, in 1980. These values are down from maximum potential 
+ aboveground live biomass values of 296 Mg/ha for closed forest and 108 
+ Mg/ha for open forest. 
+ 
+ These data are available as a Numeric Data Package (NDP) from the 
+ Carbon Dioxide Information Analysis Center (via mail or FTP). The 26 
+ files consist of seven ARC/INFOTM export files, eight flat ASCII data 
+ files, ten FORTRAN and SAS(TM) data retrieval files, and one 
+ descriptive file that explains the contents and format of each data 
+ file. The documentation contains information on the methods used in 
+ calculating each variable; detailed descriptions of file contents and 
+ formats; and a discussion of the sources, restrictions, and 
+ limitations of the data. 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Access to NDP-055 data and documentation 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                NDP-055 data set documentation 
+                            
+
+                        
+			
+                        
+                    
+		    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 25.0
+                                
+                            	 	
+                                
+                                    S: -30.0
+                                
+                            	 	
+                                
+                                    E: 50.0
+                                
+                            	 	
+                                
+                                    W: -20.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            S. Brown and G. Gaston
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Title: 
+                            Tropical Africa: Land Use, Biomass, and Carbon Estimates for 1980
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Series Name: 
+                            Numeric Data Publication
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Release Date: 
+                            1997
+                         
+
+                    
+                    
+                    
+                        
+                            Dataset Release Place: 
+                            Oak Ridge, TN
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            Carbon Dioxide Information and Analysis Center
+                        
+
+                    
+                    
+                    
+                    
+                    
+
+
+                    
+                        
+                            Issue Identification: 
+                            NDP-055
+                        
+
+                    
+                    
+                    
+
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        http://cdiac.esd.ornl.gov/epubs/ndp/ndp055/ndp055.html
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1980-01-01
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        1980-12-31
+                    
+
+                
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > CENTRAL AFRICA
+                            
+                            
+                                > ANGOLA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > BENIN
+                            
+                            
+                            
+                        
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > SOUTHERN AFRICA
+                            
+                            
+                                > BOTSWANA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > BURKINA FASO
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > BURUNDI
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > CENTRAL AFRICA
+                            
+                            
+                                > CAMEROON
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > ATLANTIC OCEAN
+                            
+                            
+                                > NORTH ATLANTIC OCEAN
+                            
+                            
+                                > CAPE VERDE
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > CENTRAL AFRICA
+                            
+                            
+                                > CENTRAL AFRICAN REPUBLIC
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > CENTRAL AFRICA
+                            
+                            
+                                > CHAD
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > CENTRAL AFRICA
+                            
+                            
+                                > CONGO, REPUBLIC
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > COTE D'IVOIRE
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > DJIBOUTI
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > CENTRAL AFRICA
+                            
+                            
+                                > EQUATORIAL GUINEA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > ETHIOPIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > CENTRAL AFRICA
+                            
+                            
+                                > GABON
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > GAMBIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > GHANA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > GUINEA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > GUINEA-BISSAU
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > KENYA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > LIBERIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > MALAWI
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > MALI
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > MAURITANIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > MOZAMBIQUE
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > SOUTHERN AFRICA
+                            
+                            
+                                > NAMIBIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > NIGER
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > NIGERIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > RWANDA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > SENEGAL
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > SIERRA LEONE
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > SOMALIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > NORTHERN AFRICA
+                            
+                            
+                                > SUDAN
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > TANZANIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > TOGO
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > UGANDA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > ZAMBIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > ZIMBABWE
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > INDIAN OCEAN
+                            
+                            
+                                > MADAGASCAR
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > CENTRAL AFRICA
+                            
+                            
+                                > CONGO, DEMOCRATIC REPUBLIC
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+		
+                    
+
+                    
+                        
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                BIOSPHERE
+                            
+                            
+                                >
+                                TERRESTRIAL ECOSYSTEMS
+                            
+                            
+                                >
+                                FORESTS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+
+
+
+
+
+
+
+
+

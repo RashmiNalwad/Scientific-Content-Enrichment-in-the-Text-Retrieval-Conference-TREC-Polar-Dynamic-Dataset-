@@ -1,0 +1,2463 @@
+
+
+
+
+	 
+        
+
+	
+            
+                	
+            
+                
+	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                
+
+
+
+
+
+        
+        	 
+                
+        
+                
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Agriculture
+	
+
+	
+		
+	
+		Atmosphere
+	
+
+	
+		
+	
+		Biological Classification
+	
+
+	
+		
+	
+		Biosphere
+	
+
+	
+		
+	
+		Climate Indicators
+	
+
+	
+		
+	
+		Cryosphere
+	
+
+	
+		
+	
+		Human Dimensions
+	
+
+	
+		
+	
+		Land Surface
+	
+
+	
+		
+	
+		Oceans
+	
+
+	
+		
+	
+		Paleoclimate
+	
+
+	
+		
+	
+		Solid Earth
+	
+
+	
+		
+	
+		Spectral/Engineering
+	
+
+	
+		
+	
+		Sun-Earth Interactions
+	
+
+	
+		
+	
+		Terrestrial Hydrosphere
+	
+
+	
+	
+
+	
+		
+Data Centers
+
+	
+		 
+Locations
+
+	
+		
+Instruments
+
+	
+		
+Platforms/Sources
+
+	
+		
+Projects
+
+
+
+
+
+
+
+                
+                
+                	
+                    	
+	
+	
+
+
+                    
+                    	
+                            	
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+Record Search Query:
+Science Keywords>OCEANS>SALINITY&#47;DENSITY>CONDUCTIVITY
+
+
+	
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        
+            
+                Aurora Australis WOCE Southern Ocean oceanographic data, cruise au9404
+            
+        
+
+        
+        
+            Entry ID:
+            
+                au9404
+            
+            
+
+            
+
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+        
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                
+                    
+                    
+                        Update this Record
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+        
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            Oceanographic measurements were conducted along WOCE Southern Ocean meridional section SR3 between Tasmania and Antarctica, and along the part of WOCE Southern ocean zonal section S4 lying between approximately 110 and 162 deg.E, from December 1994 to February 1995. An array of 4 current meter moorings at approximately 51 deg.S in the vicinity of the SR3 line was successfully recovered. A total of  ... 107 CTD vertical profile stations were taken, most to near bottom. Over 2380 Niskin bottle water samples were collected for the measurement of salinity, dissolved oxygen, nutrients (phosphate, nitrate+nitrite, silicate), chlorofluorocarbons, helium, tritium, dissolved inorganic carbon, alkalinity, carbon isotopes, dissolved organic carbon, dimethyl sulphide/dimethyl sulphoniopropionate, iodate/iodide, oxygen 18, primary productivity, and biological parameters, using a 24 bottle rosette sampler. Measurement and data processing techniques are described, and a summary of the data are presented in graphical and tabular form. 
+ 
+ The fields in this dataset are: 
+ oceanography 
+ ship 
+ station number 
+ date 
+ start time 
+ bottom time 
+ finish time 
+ cruise 
+ start position 
+ bottom position 
+ finish position 
+ maximum position 
+ bottom depth 
+ pressure 
+ sigma-T 
+ temperature (C) (ITS-90) 
+ salinity (PSS78) 
+ density-1000 (kg.m-3) 
+ specific volume anomaly x 108 
+ geopotential anomaly 
+ dissolved oxygen (mmol.l-1) 
+ number of data points used in the 2 dbar averaging bin 
+ standard deviation of temperature values in the 2 dbar bin 
+ standard deviation of conductivity values in the 2 dbar bin 
+ fluorescence 
+ photosynthetically active radiation 
+ CTD pressure (dbar) 
+ CTD temperature (C) (ITS-90) 
+ reversing thermometer temperature (C) 
+ CTD conductivity (mS.cm-1) 
+ CTD salinity (PSS78) 
+ bottle salinity (PSS78) 
+ bottle quality flag (-1=rejected, 0=suspect, 1=good) 
+ niskin bottle number 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+    
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Download page for CTD data for cruise au9404 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Citation reference for this metadata record and dataset 
+                            
+
+                        
+                        
+                        
+                    
+                    
+                
+
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: -43.0
+                                
+                            	 	
+                                
+                                    S: -67.0
+                                
+                            	 	
+                                
+                                    E: 163.0
+                                
+                            	 	
+                                
+                                    W: 109.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1994-12-20
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        1995-02-01
+                    
+
+                
+                
+                
+            
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > SOUTHERN OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > POLAR
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                BATHYMETRY/SEAFLOOR TOPOGRAPHY
+                            
+                            
+                                >
+                                WATER DEPTH
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                ALKALINITY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                AMMONIA
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                DISSOLVED GASES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                INORGANIC CARBON
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                NITRATE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                NITRITE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                NITROGEN
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                NUTRIENTS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                ORGANIC CARBON
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                OXYGEN
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                PH
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                PHOSPHATE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                PIGMENTS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                SILICATE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                STABLE ISOTOPES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN TEMPERATURE
+                            
+                            
+                                >
+                                WATER TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                SALINITY/DENSITY
+                            
+                            
+                                >
+                                CONDUCTIVITY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                SALINITY/DENSITY
+                            
+                            
+                                >
+                                SALINITY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                BACTERIA/ARCHAEA
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            BIOTA
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            ELEVATION
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOSCIENTIFIC INFORMATION
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEANS
+                        
+                    
+
+                    
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Quality
+        
+            See data report. 
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Access Constraints
+        
+            Data stored as column formatted ascii data, and matlab format; data report is a pdf document, which replaces an MS Word document. 
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+    
+    Use Constraints
+    
+        This data set conforms to the PICCCBY Attribution License 
+ (http://creativecommons.org/licenses/by/3.0/). 
+ 
+ 
+ Must be cited properly 
+    
+    
+    
+        
+        
+
+            
+                
+            
+                
+                    
+                
+
+               
+                This 
+                "Aurora Australis WOCE Southern Ocean oceanographic data, cruise au9404" is licensed under a Creative Commons Attribution 3.0 Unported License.
+            
+        
+         
+        
+    
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            BOTTLE QUALITY FLAG
+                    
+
+                    
+                
+                    
+                    
+                        
+                            BOTTLE SALINITY
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            BOTTOM DEPTH
+                    
+
+                    
+                
+                    
+                    
+                        
+                            BOTTOM POSITION
+                    
+
+                    
+                
+                    
+                    
+                        
+                            BOTTOM TIME
+                    
+
+                    
+                
+                    
+                    
+                        
+                            COMMENT
+                    
+
+                    
+                
+                    
+                    
+                        
+                            CRUISE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            CTD CONDUCTIVITY
+                    
+
+                    
+                
+                    
+                    
+                        
+                            CTD PRESSURE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            CTD SALINITY
+                    
+
+                    
+                
+                    
+                    
+                        
+                            CTD TEMPERATURE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            DATE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            DISSOLVED OXYGEN
+                    
+
+                    
+                
+                    
+                    
+                        
+                            ELEVATION ABOVE BOTTOM (M)
+                    
+
+                    
+                
+                    
+                    
+                        
+                            FINISH POSITION
+                    
+
+                    
+                
+                    
+                    
+                        
+                            FINISH TIME
+                    
+
+                    
+                
+                    
+                    
+                        
+                            FLAG
+                    
+
+                    
+                
+                    
+                    
+                        
+                            FLUORESCENCE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOPOTENTIAL ANOMALY
+                    
+
+                    
+                
+                    
+                    
+                        
+                            MAXIMUM PRESSURE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            NISKIN BOTTLE NUMBER
+                    
+
+                    
+                
+                    
+                    
+                        
+                            NUMBER OF DATA POINTS USED IN THE 2 DBAR AVERAGING BIN
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEANOGRAPHY
+                    
+
+                    
+                
+                    
+                    
+                        
+                            PHOTOSYNTHETICALLY ACTIVE RADIATION
+                    
+
+                    
+                
+                    
+                    
+                        
+                            POINT NUMBER RANGE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            PRESSURE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            REVERSING THERMOMETER TEMPERATURE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            SALINITY
+                    
+
+                    
+                
+                    
+                    
+                        
+                            SHIP
+                    
+
+                    
+                
+                    
+                    
+                        
+                            SIGMA-T
+                    
+
+                    
+                
+                    
+                    
+                        
+                            SPECIFIC VOLUME ANOMALY
+                    
+
+                    
+                
+                    
+                    
+                        
+                            STANDARD DEVIATION OF CONDUCTIVITY VALUES IN THE 2 DBAR BIN
+                    
+
+                    
+                
+                    
+                    
+                        
+                            STANDARD DEVIATION OF TEMPERATURE VALUES IN THE 2 DBAR BIN
+                    
+
+                    
+                
+                    
+                    
+                        
+                            START POSITION
+                    
+
+                    
+                
+                    
+                    
+                        
+                            START TIME
+                    
+
+                    
+                
+                    
+                    
+                        
+                            STATION
+                    
+
+                    
+                
+                    
+                    
+                        
+                            STATION NUMBER
+                    
+
+                    
+                
+                    
+                    
+                        
+                            TEMPERATURE (T-90)
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            COMPLETE
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        Antarctic CRC
+                    
+                
+
+                
+                
+            
+            
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Australian Antarctic Data Centre, Australia
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://data.aad.gov.au
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    DATA OFFICER
+                                                    
+                                                    AADC
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            +61 3 6232 3244
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            +61 3 6232 3351
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            metadata at aad.gov.au
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        Australian Antarctic Division
+
+                                                                    
+                                                                        203 Channel Highway
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Kingston
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                Tasmania
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                7050
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                Australia
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    HTTP
+                
+
+            
+            
+            
+                
+                    Distribution Size: 
+                    5,453 kb
+                
+
+            
+            
+            
+                
+                    Distribution Format: 
+                    ascii
+                
+
+            
+            
+            
+                
+                    Fees: 
+                    free
+                
+
+            
+            
+            
+                
+                
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        MARK
+                        
+                        ROSENBERG
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6226 7651
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +61 3 6226 2973
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                Mark.Rosenberg at aad.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                ACE CRC, c/- University of Tasmania
+
+                                            
+                                                Private Bag 80
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Hobart
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7001
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+            
+            
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            Rosenberg, M., Eriksen, E., Bell, S., and Rintoul, S., 1996. Aurora Australis marine science cruise AU9404 - oceanographic field measurements and analysis. Antarctic Cooperative Research Centre, Research Report No. 8, July 1996. 53 pp. 
+
+        
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+            
+                DIF Creation Date:
+                1999-10-07
+            
+
+        
+        
+            
+                Last DIF Revision Date:
+                2014-09-11
+            
+
+        
+        
+            
+                Future DIF Review Date: 
+                1999-10-07
+            
+
+        
+    
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                 Reformat as ISO 19115 document
+            
+        
+    
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+
+        
+
+
+
+
+
+
+                            
+
+                    
+                    
+                
+
+        
+        
+
+
+	
+            
+                
+        	
+            
+                
+                    NASA Privacy Policy and Important Notices
+            
+
+            
+                Responsible NASA Official:  
+                
+                    Dr. Stephen Wharton
+
+                Webmaster:  
+                
+                    Monica Lyles
+                  ·  Contact 
+                
+                    GCMD User Support for assistance
+            
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+
+

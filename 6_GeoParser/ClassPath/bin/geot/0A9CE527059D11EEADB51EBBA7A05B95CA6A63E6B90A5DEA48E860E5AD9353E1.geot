@@ -1,0 +1,1417 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        [Science_Parameters: Science_Category='EARTH SCIENCE', Science_Topic='OCEANS', Science_Term='OCEAN WAVES', Science_Variable_Level_1='WAVE HEIGHT']
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                The OPeNDAP Data Connector (ODC)
+            
+        
+
+        
+        
+            Entry ID:
+            
+                OPeNDAP_ODC
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+
+
+		  
+                        
+                    
+
+                 
+            
+        
+        
+
+        
+        
+        
+            [
+            
+                
+                    Get Service
+            
+            ]
+            
+        
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+               
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+         
+         
+                
+                    
+                    
+                        Update this Record.
+                
+
+
+
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            The OPeNDAP Data Connector (ODC) is a program which allows you to search for 
+ and retrieve datasets published by OPeNDAP data servers. OPeNDAP servers (also 
+ known as DODS servers) located at major institutions around the world serve a 
+ wide variety of data including: climatic data, satellite imagery, and ocean 
+ sensor results. The ODC allows you to find these datasets, download them to 
+ your machine,  ... save them, and import them into client applications like IDL, 
+ Matlab, SPSS, Excel, or into databases such as Access and Oracle, and plot them 
+ with advanced graphics capabilities. The ODC is your gateway to terabytes of 
+ scientific data and imagery. 
+ 
+ Features include the following: 
+ 
+ * Search union list of hundreds of well-known OPeNDAP servers 
+ * Search NASA's Global Change Master Directory 
+ * Navigate server directories with intuitive interface 
+ * Retrieve dataset structure specifications and field attributes/descriptions 
+ * Sophisticated GUI for dataset querying 
+ * Send output to text view, table view or plotter 
+ * Plot pseudocolor, vector, line, scatter, histogram 
+ * Plotter provides highly sophisticated color control and generation 
+ * Plotter has built-in 1 km coastline with 0.04 km available by download 
+ * Built-in image viewer 
+ * Interprocess server allows external applications to communicate with the ODC, 
+ to either retrieve fully qualified URLs or data values. 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET SERVICE
+                                                 > 
+                                                    GET SOFTWARE PACKAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                The OPeNDAP Data Connector (ODC) 
+                            
+
+                        
+			
+                        
+                    
+		    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Service Citation
+        
+        
+            	
+                
+                    
+                    
+                        
+                            Originators: 
+                            University of Rhode Island, Graduate School of Oceanography and Massachusetts Institute of Technology, Department of Earth Atmospheric and Planetary Science
+                        
+
+                    
+                    
+                        
+                            Title: 
+                            OPeNDAP Data Connector (ODC)
+                        
+
+                    
+                    
+                        
+                            Release_Date: 
+                            2006-12-15
+                        
+
+                    
+                    
+                        
+                            Provider: 
+                            UCAR (University Corporation for Atmospheric Research)
+                        
+
+                    
+                    
+                        
+                            Edition: 
+                            2.59.1
+                        
+
+                    
+                    
+                        
+                            URL: 
+                            
+                                
+                                    http://www.opendap.org/
+                            
+                        
+
+                    
+                    
+                    
+                
+                
+            
+        
+
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Service Keywords
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                                DATA ANALYSIS AND VISUALIZATION
+                            
+                            
+                                >VISUALIZATION/IMAGE PROCESSING
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                DATA MANAGEMENT/DATA HANDLING
+                            
+                            
+                                >SUBSETTING/SUPERSETTING
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                                DATA MANAGEMENT/DATA HANDLING
+                            
+                            
+                                >DATA SEARCH AND RETRIEVAL
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                METADATA HANDLING
+                            
+                            
+                                >DATA DISCOVERY
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                DATA MANAGEMENT/DATA HANDLING
+                            
+                            
+                                >DATA NETWORKING/DATA TRANSFER TOOLS
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+            
+            
+                
+
+                
+                     
+            
+
+
+
+        
+    
+
+
+
+
+    
+        Science Keywords 
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ALTITUDE
+                            
+                            
+                            >GEOPOTENTIAL HEIGHT
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC PRESSURE
+                            
+                            
+                            >SEA LEVEL PRESSURE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC PRESSURE
+                            
+                            
+                            >SURFACE PRESSURE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC TEMPERATURE
+                            
+                            
+                            >AIR TEMPERATURE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC TEMPERATURE
+                            
+                            
+                            >SURFACE AIR TEMPERATURE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC WATER VAPOR
+                            
+                            
+                            >WATER VAPOR
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC WINDS
+                            
+                            
+                            >SURFACE WINDS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >OCEAN PRESSURE
+                            
+                            
+                            >SEA LEVEL PRESSURE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >OCEAN PRESSURE
+                            
+                            
+                            >WATER PRESSURE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >OCEAN TEMPERATURE
+                            
+                            
+                            >SEA SURFACE TEMPERATURE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >OCEAN TEMPERATURE
+                            
+                            
+                            >WATER TEMPERATURE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >OCEAN WAVES
+                            
+                            
+                            >WAVE HEIGHT
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >OCEAN WAVES
+                            
+                            
+                            >WAVE SPEED/DIRECTION
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >OCEAN WINDS
+                            
+                            
+                            >SURFACE WINDS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >SALINITY/DENSITY
+                            
+                            
+                            >DENSITY
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >SALINITY/DENSITY
+                            
+                            
+                            >SALINITY
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >TIDES
+                            
+                            
+                            >TIDAL COMPONENTS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >TIDES
+                            
+                            
+                            >TIDAL HEIGHT
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SPECTRAL/ENGINEERING
+                            
+                            
+                            >INFRARED WAVELENGTHS
+                            
+                            
+                            >INFRARED IMAGERY
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SPECTRAL/ENGINEERING
+                            
+                            
+                            >MICROWAVE
+                            
+                            
+                            >MICROWAVE IMAGERY
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SPECTRAL/ENGINEERING
+                            
+                            
+                            >RADAR
+                            
+                            
+                            >RADAR IMAGERY
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SPECTRAL/ENGINEERING
+                            
+                            
+                            >VISIBLE WAVELENGTHS
+                            
+                            
+                            >VISIBLE IMAGERY
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >BATHYMETRY/SEAFLOOR TOPOGRAPHY
+                            
+                            
+                            >BATHYMETRY
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                    
+            
+
+
+        
+    
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ELEVATION
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEANS
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            DODS
+                            
+                                >
+                                Distributed Oceanographic Data System
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ESIP
+                            
+                                >
+                                Earth Science Information Partners Program
+                            
+                        
+                    
+                    
+                        
+                  
+
+
+
+
+
+
+
+
+
+

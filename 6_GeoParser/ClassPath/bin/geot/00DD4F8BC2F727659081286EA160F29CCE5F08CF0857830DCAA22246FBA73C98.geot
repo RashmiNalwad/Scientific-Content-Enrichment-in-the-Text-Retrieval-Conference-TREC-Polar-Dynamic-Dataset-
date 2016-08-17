@@ -1,0 +1,1230 @@
+
+
+<div id="siteContainer">
+    <div class="hidden">
+        <a href="#maincontent" title="Skip to Main Content" accesskey="3">
+            Skip to Main Content Navigation (press 3)
+        </a>
+    </div>
+    
+
+
+
+
+ <!--
+    <div class="hidden"><a href="#leftnav" title="Skip to Left Navigation" accesskey="2">Skip to Left Navigation (press 2)</a></div>
+    <div class="hidden"><a href="#maincontent" title="Skip to Main Content" accesskey="3">Skip to Main Content Navigation (press 3)</a></div>
+  -->
+
+    <div id="sitelinks">
+        <ul>
+            <li><a href="/learn/faqs/faqpage.html" title="Frequently Asked Questions about Earth Science and About the GCMD">FAQ</a></li>
+            <li><a href="/sitemap.html" title="Looking for a specific page or information?: Use the sitemap to find it quickly.">Site Map</a></li>
+            <li><a href="/MailComments/MailComments.jsf?rcpt=gcmduso" target="_blank" title="Have suggestions, comments, and questions about GCMD contact us here.">Contact Us</a></li>
+        </ul>
+    </div>
+
+    <div id="gcmdhead">
+        <div id="metaltop"><span></span></div>
+        <div id="banner">
+            <div id="bannerImg">
+                <a href="/index.html">
+                    <img alt="" title="GCMD Banner Image" src="default/images/spacer.gif" height="123" border="0" width="1000"></a>
+            </div>
+        </div>
+    </div>
+    <div id="topNav">
+        <div id="topNavCenter">
+            <div id="topNavBtns">
+                <a href="/index.html" class="homeBtn" title="GCMD Home page: Welcome to the GCMD."><span class="context">Home</span></a>
+                <a href="Keywords.do?Portal=GCMD&amp;KeywordPath=Parameters|Home&amp;MetadataType=0#maincontent" class="searchBtn" title="Locate Earth science data, data services, and more through descriptive records."><span class="context">Search GCMD</span></a>
+                <a href="/learn/index.html" class="learnBtn" title="Learn about GCMD"><span class="context">Learn about GCMD</span></a>
+                <a href="/add/portals.html" class="portalsBtn" title="Learn about GCMD's Portal Collaborations."><span class="context">Portals</span></a>
+                <a href="/collaborate/docbuilder.html" class="collaborateBtn" title="Collaborate with GCMD"><span class="context">Collaborate</span></a>
+            </div>
+        </div>
+    </div>
+    
+    <div id="page" class="alignCenter">
+        <div id="content">
+            <a name="maincontent"></a>
+            <div id="mainTabs" class="left">
+                
+                <div class="tab" onclick="window.location='Keywords.do?Portal=GCMD&amp;KeywordPath=Parameters|Home&amp;MetadataType=0&amp;Columns=0#maincontent';">
+                    <span class="tabTitle"><a href="Keywords.do?Portal=GCMD&amp;KeywordPath=Parameters|Home&amp;MetadataType=0&amp;Columns=0#maincontent">Data Sets</a></span>
+                </div>
+                <div class="tabOff" onclick="window.location='Keywords.do?Portal=GCMD&amp;KeywordPath=ServiceParameters|Home&amp;MetadataType=1&amp;Columns=0#maincontent';">
+                    <span class="tabTitle"><a href="Keywords.do?Portal=GCMD&amp;KeywordPath=ServiceParameters|Home&amp;MetadataType=1&amp;Columns=0#maincontent">Services / Tools</a></span>
+                </div>
+                <div class="tabOff" onclick="window.location='Ancillary.do?Portal=GCMD&amp;MetadataType=0&amp;Columns=0#maincontent';">
+                    <span class="tabTitle"><a href="Ancillary.do?Portal=GCMD&amp;MetadataType=0&amp;Columns=0#maincontent">Ancillary Descriptions</a></span>
+                </div>
+            </div>
+            <div id="mainContainer">
+                <div class="shadowBox_top blue clear"><span class="nested"></span></div>
+                <div class="shadowBox_contents blue">
+                    <!-- CONTENT AREA START -->
+                    
+                    
+
+
+
+
+
+
+
+
+<script language="JavaScript" src="default/newcollapse_expand_single_item.js"></script>
+
+
+
+
+<script language="JavaScript" src="default/newcollapse_expand_single_item.js"></script>
+<script language="JavaScript" src="default/newcollapse_expand_summary.js"></script>
+<script type="text/javascript" src="default/supplemental_common.js"></script>
+<script src="gmaps_util.js" type="text/javascript"></script><script src="http://maps.google.com/maps?file=api&amp;v=3&amp;key=ABQIAAAAkPkNi23ZenV98XOWI97VFxS-ImNH7xZpQ4S3GyhzicmF2BaKGxSXaGBqZLxBb3A_kmBMMLk0Le1geQ" type="text/javascript"></script><script src="http://maps.gstatic.com/maps-api-v3/api/js/20/0/main.js"></script><script src="http://maps.gstatic.com/maps-api-v3/api/js/20/0/adsense.js"></script><script src="http://maps.gstatic.com/maps-api-v3/api/js/20/0/geometry.js"></script><script src="http://maps.gstatic.com/maps-api-v3/api/js/20/0/zombie.js"></script>
+<noscript>
+    <div class="jsalert">
+        <strong>Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?</strong><br>
+        <br>
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.<br>
+        Or you can view this record using the <span style="color:#090">
+        <a href="Metadata.do?Portal=GCMD&KeywordPath=DataCenters%7CGOVERNMENT+AGENCIES-NON-US%7CARGENTINA%7CAR%2FCEADO&EntryId=Tides_CEADO&MetadataView=Text&MetadataType=0&lbnode=mdlb3"  >Text Only Format</a></span>.
+    </div>
+</noscript>
+
+
+
+
+
+
+</div>
+<!-- This is the closing DIV tag for "shadowBox_contents blue" in layout.jsp -->
+
+
+
+
+<div class="shadowBox_contents alignLeft">
+    <span class="nested" style="padding-top:12px;">
+        <div class="breadCrumb"><a href="Keywords.do?Portal=GCMD&amp;KeywordPath=DataCenters&amp;MetadataType=0&amp;&amp;lbnode=mdlb3" target="">Data Providers</a>&gt;<a href="Keywords.do?Portal=GCMD&amp;KeywordPath=DataCenters%7CGOVERNMENT+AGENCIES-NON-US&amp;MetadataType=0&amp;&amp;lbnode=mdlb3" target="">GOVERNMENT AGENCIES-NON-US</a>&gt;<a href="Keywords.do?Portal=GCMD&amp;KeywordPath=DataCenters%7CGOVERNMENT+AGENCIES-NON-US%7CARGENTINA&amp;MetadataType=0&amp;&amp;lbnode=mdlb3" target="">ARGENTINA</a>&gt;AR/CEADO</div>
+
+<!-- Start record table -->
+<table width="598">
+    <tbody><tr>
+        <td>
+            
+            
+
+<!-- Entry_Title =======================================================-->
+</td></tr><tr><td colspan="2" class="mediumText" width="589">
+<strong>
+Tides data from the Argentine Oceanographic Data Center<br>
+</strong>
+
+
+<!-- Entry_ID ========================================================-->
+
+<span class="field">Entry ID: </span>
+<span class="textrecord">
+Tides_CEADO
+</span>
+<p></p><p>
+
+</p></td>
+</tr>
+
+ <!-- DIF tab bar =========================================================== -->
+            
+
+
+
+
+
+
+
+
+<!-- start to GCMD/dif/dif_tab_bar_full_record.jsp ========================================== -->
+
+</tbody></table><table border="0" cellpadding="1" cellspacing="1">
+<tbody><tr>
+    <td class="mediumText"> 
+    <strong>
+        <!-- Test for Get Data Tab ===================================================== -->
+        
+	
+
+        
+
+            
+        
+        
+         
+        
+
+        
+
+        <!-- Print Update Record Tab  ===================================================== -->
+             <strong>
+            
+                <div style="text-align:center">
+            
+                <span class="tab" id="updateTabTop">
+                    <span class="textrecord">[</span>
+                    <span class="textrecord">
+                        <span class="textabs" onclick="dbDetails(this)">
+                            Update this Record
+                        </span>
+                        <span class="textrecord">]</span>
+                    </span>
+                </span>
+                </div>
+            </strong>
+    </strong>
+    </td>
+</tr>
+<tr>
+    <td class="mediumText" align="center" width="570">
+        <script type="text/javascript">
+            function dbDetails(obj)
+            {
+                var dbDetailsWindow =document.getElementById("dbDetailsWindow");
+                var tab2 = document.getElementById("updateTabTop");
+                
+                if (dbDetailsWindow!=null)
+                {
+                    if (dbDetailsWindow.state && dbDetailsWindow.state==true)
+                    {
+                        dbDetailsWindow.style.display="none";
+                        dbDetailsWindow.state = false;
+                        tab2.style.backgroundColor = "";
+                        tab2.style.border="";
+                    }
+                    else
+                    {
+                        dbDetailsWindow.style.display="block";
+                        dbDetailsWindow.state = true;
+                        tab2.style.backgroundColor
+                            = dbDetailsWindow.style.backgroundColor;
+                        tab2.style.border="1px solid";
+                        tab2.style.borderBottom="0px";
+                    }
+                }
+            }
+        </script> 
+           
+        <div id="dbDetailsWindow" class="textrecord" style="margin-right:2%;display:none;padding:0.5em 0;width:280px;border:1px solid black; background-color:rgb(236, 233, 216);">
+               
+
+            <div>Updating this record requires registration.</div>
+            
+            <div style="float:left;margin:0.5em;border-right:1px solid;width:125px;">
+                (Account holders)
+                <div class="texttabs">
+                
+                        
+                
+                
+                    
+                    <a target="recorddrillsearch" href="/DocumentBuilder/Metadata.do?OrigMetadataNode=GCMD&amp;EntryId=Tides_CEADO&amp;Portal=GCMD&amp;RequestAction=Build&amp;MetadataType=0&amp;UseCacheDocument=true&amp;interface=FROMGETDIF">
+                        Update this Record.</a>
+                
+        
+               
+                </div>
+            </div>
+            <div style="float:right;margin:0.5em;border-left:1px solid;width:125px;">
+                <div>
+                    <a class="texttabs" href="/collaborate/docbuilder.html">Need an account?</a>
+                    <div>&nbsp;</div>
+                </div>
+            </div>
+            <div style="clear:both"><a href="javascript:dbDetails()">close</a>
+        </div>
+    </div></td>
+</tr>
+</tbody></table>
+<br>
+<!-- end to GCMD/dif/dif_tab_bar_full_record.jsp ============================================ -->
+
+
+
+<p>
+
+<!-- Summary ========================================================== -->
+
+
+
+
+
+
+
+<!-- default/dif/summary_text.jsp -->
+
+
+</p><div class="fieldSection">
+    <div class="field">Summary</div>
+    <div class="fieldSummary">
+    
+
+    
+    <table border="0" width="100%"><tbody><tr><td>
+
+    
+        <span class="textrecord">
+            <strong>Abstract: </strong>
+            The principal aim of the Argentine Oceanographic Data Centre (CEADO) is to<br>acquire, quality control, process and store oceanographic data, and provide<br>adequate information to the community.<br><br>CEADO provides a link to the tidal data set of the national tidal network<br>operated by the Navy Hydrographic Service.
+        </span><br>
+    
+
+    
+
+    </td></tr></tbody></table>
+
+      
+    
+    
+   </div>
+</div>
+
+
+
+<!-- Related URL ============================================ -->
+
+
+
+
+
+
+
+
+<!-- Parent_DIF ===================================================== -->
+
+
+
+<!-- Aggregation ======================================================== -->
+
+
+
+
+
+<!-- Spatial Coverage ============================= -->
+
+
+
+
+
+   
+
+
+
+
+<span class="field">Geographic Coverage</span>
+
+  
+
+  
+  
+  
+  <script language="javascript">
+  <!--
+   var size = 0+1;
+   var set = new Array(size);
+   //map1.clearOverlays();
+   // -->
+  </script>
+  
+  
+
+
+
+<table>
+   <tbody><tr><td>
+
+</td><td>&nbsp;</td><td><span class="textrecord"><strong>N: </strong>-34.0</span>
+</td>
+
+
+
+<td><span class="textrecord"><strong>S: </strong>-68.0</span>
+</td>
+
+
+
+<td>&nbsp;</td><td><span class="textrecord"><strong>E: </strong>-25.0</span>
+</td>
+
+
+
+<td>&nbsp;</td><td><span class="textrecord"><strong>W: </strong>-70.0</span>
+</td>
+
+
+<!--  Test for depth/altitude field  -->
+<td>
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+</td>
+
+</tr>
+</tbody></table>
+
+
+<br>
+
+
+
+
+
+<!-- Citation ====================================================== -->
+ 
+<p>
+<span class="field">Data Set Citation</span>
+ 
+ 
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+   <tbody><tr> <td>
+     
+      <span class="textrecord"><strong>Dataset Originator/Creator: </strong>
+       SERVICIO DE HIDROGRAFIA NAVAL
+      </span> <br>
+     
+    
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+</td></tr></tbody></table>
+
+    
+
+
+
+</p><p>
+<br>
+
+
+
+<!-- Temporal Coverage ===================================================== -->
+
+</p><p>
+<span class="field">Temporal Coverage </span>
+
+
+
+<table border="0" width="100%">
+
+  
+   <tbody><tr> <td>
+   <span class="textrecord"><strong>Start Date: </strong>
+    1904-01-01
+   </span></td></tr>
+  
+
+  
+</tbody></table>
+
+  
+
+
+
+
+</p><p>
+<br>
+
+
+
+
+<!-- Paleo Temporal Coverage ===================================================== -->
+
+
+<!-- Location Keywords ===================================================== -->
+
+</p><p>
+<span class="field">Location Keywords</span>
+
+
+<table border="0" width="100%"> <tbody><tr><td>
+
+
+<span class="textrecord">
+<a href="Keywords.do?KeywordPath=%5BLocation%3A+Location_Category%3D%27OCEAN%27%2C+Location_Type%3D%27ATLANTIC+OCEAN%27%2C+Location_Subregion1%3D%27SOUTH+ATLANTIC+OCEAN%27%5D&amp;Portal=GCMD&amp;MetadataType=0" target="recorddrillsearch">
+
+OCEAN
+
+
+&gt; ATLANTIC OCEAN
+
+
+
+&gt; SOUTH ATLANTIC OCEAN
+
+
+
+
+
+
+
+
+</a></span><br>
+
+
+
+</td></tr></tbody></table>
+</p><p>
+<br>
+
+
+
+<!-- Data Resolution ===================================================== -->
+
+
+
+<!-- Parameters ===================================================== -->
+
+</p><p>
+<span class="field">Science Keywords </span>
+
+
+
+
+<table border="0" width="570"> <tbody><tr><td class="textrecord">
+  <a href="Keywords.do?KeywordPath=%5BParameters%3A+Topic%3D%27OCEANS%27%2C+Term%3D%27TIDES%27%5D&amp;Portal=GCMD&amp;MetadataType=0" target="recorddrillsearch">
+    
+        OCEANS
+    
+    
+        &gt;TIDES
+    
+    
+
+        
+        
+        
+  </a>
+
+
+  
+    &nbsp;&nbsp;<a href="Definitions.do?Portal=GCMD&amp;KeywordPath=DataCenters%7CGOVERNMENT+AGENCIES-NON-US%7CARGENTINA%7CAR%2FCEADO&amp;NumericId=61975&amp;MetadataType=0&amp;lbnode=mdlb3" onclick="exit(this.href,760,500); return false"><span class="textrecord"> [Definition]</span>
+    </a>
+  
+
+</td></tr></tbody></table>
+
+
+
+</p><p>
+<br>
+
+
+<!-- ISO_Topic_Category  ============================================================== -->
+
+
+</p><p>
+<span class="field">ISO Topic Category </span>
+
+<table border="0" width="100%"> <tbody><tr><td>
+
+
+
+
+
+<span class="textrecord">
+    <a href="Keywords.do?KeywordPath=%5BISO_Topic_Category%3D%27CLIMATOLOGY%2FMETEOROLOGY%2FATMOSPHERE%27%5D&amp;Portal=GCMD&amp;MetadataType=0" target="recorddrillsearch">
+        CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+    </a>
+</span>
+
+<br>
+
+
+<span class="textrecord">
+    <a href="Keywords.do?KeywordPath=%5BISO_Topic_Category%3D%27OCEANS%27%5D&amp;Portal=GCMD&amp;MetadataType=0" target="recorddrillsearch">
+        OCEANS
+    </a>
+</span>
+
+<br>
+
+
+
+</td></tr></tbody></table>
+</p><p>
+<br>
+
+
+
+<!-- Sources ================================================== -->
+
+</p><p>
+<span class="field">Platform</span>
+
+
+
+<table border="0" width="100%">
+<tbody><tr><td>
+
+  <a href="Keywords.do?KeywordPath=%5BSource_Name%3A+Short_Name%3D%27COASTAL+STATIONS%27%5D&amp;Portal=GCMD&amp;MetadataType=0" target="recorddrillsearch"><span class="textrecord">
+        COASTAL STATIONS
+    
+        </span></a>
+  
+    &nbsp;&nbsp;<a href="Supplementals.do?Portal=GCMD&amp;KeywordPath=Platforms&amp;NumericId=11775&amp;MetadataType=0&amp;lbnode=mdlb3" onclick="exit(this.href,760,500); return false"><span class="textrecord"> [Information]</span>
+    </a>
+  
+
+</td></tr></tbody></table>
+
+<table border="0" width="100%">
+<tbody><tr><td>
+
+  <a href="Keywords.do?KeywordPath=%5BSource_Name%3A+Short_Name%3D%27SHIPS%27%5D&amp;Portal=GCMD&amp;MetadataType=0" target="recorddrillsearch"><span class="textrecord">
+        SHIPS
+    
+        </span></a>
+  
+    &nbsp;&nbsp;<a href="Supplementals.do?Portal=GCMD&amp;KeywordPath=Platforms&amp;NumericId=11517&amp;MetadataType=0&amp;lbnode=mdlb3" onclick="exit(this.href,760,500); return false"><span class="textrecord"> [Information]</span>
+    </a>
+  
+
+</td></tr></tbody></table>
+
+
+</p><p>
+<br>
+
+
+<!-- Sensors ================================================ -->
+
+</p><p>
+<span class="field">Instrument</span>
+
+
+<table border="0" width="100%">
+<tbody><tr><td>
+
+  <a href="Keywords.do?KeywordPath=%5BSensor_Name%3A+Short_Name%3D%27TIDE+GAUGES%27%5D&amp;Portal=GCMD&amp;MetadataType=0" target="recorddrillsearch"><span class="textrecord">
+        TIDE GAUGES
+    
+        </span></a>
+  
+    &nbsp;&nbsp;<a href="Supplementals.do?Portal=GCMD&amp;KeywordPath=Instruments&amp;NumericId=9705&amp;MetadataType=0&amp;lbnode=mdlb3" onclick="exit(this.href,760,500); return false"><span class="textrecord"> [Information]</span>
+    </a>
+  
+</td></tr></tbody></table>
+
+
+</p><p>
+<br>
+
+
+<!-- Project/Campaign ================================================= -->
+
+
+<!-- Quality ============================================ -->
+
+
+
+
+<!-- Access Constraints ============================================ -->
+
+
+
+
+
+<!-- Use Constraints ============================================ -->
+
+
+
+<!-- Keywords  ============================================================== -->
+
+</p><p>
+<span class="field">Keywords</span>
+
+
+
+<table border="0" width="100%"> <tbody><tr><td>
+
+<a href="Keywords.do?KeywordPath=%5BKeyword%3D%27AIR+TEMPERATURE%27%5D&amp;Portal=GCMD&amp;MetadataType=0" target="recorddrillsearch"><span class="textrecord">AIR TEMPERATURE</span></a>
+
+</td></tr></tbody></table>
+
+<table border="0" width="100%"> <tbody><tr><td>
+
+<a href="Keywords.do?KeywordPath=%5BKeyword%3D%27IDN_NODE+GSFC%27%5D&amp;Portal=GCMD&amp;MetadataType=0" target="recorddrillsearch"><span class="textrecord">IDN_NODE GSFC</span></a>
+
+</td></tr></tbody></table>
+
+<table border="0" width="100%"> <tbody><tr><td>
+
+<a href="Keywords.do?KeywordPath=%5BKeyword%3D%27PRESSURE%27%5D&amp;Portal=GCMD&amp;MetadataType=0" target="recorddrillsearch"><span class="textrecord">PRESSURE</span></a>
+
+</td></tr></tbody></table>
+
+<table border="0" width="100%"> <tbody><tr><td>
+
+<a href="Keywords.do?KeywordPath=%5BKeyword%3D%27WATER+LEVEL%27%5D&amp;Portal=GCMD&amp;MetadataType=0" target="recorddrillsearch"><span class="textrecord">WATER LEVEL</span></a>
+
+</td></tr></tbody></table>
+
+<table border="0" width="100%"> <tbody><tr><td>
+
+<a href="Keywords.do?KeywordPath=%5BKeyword%3D%27WATER+TEMPERATURE%27%5D&amp;Portal=GCMD&amp;MetadataType=0" target="recorddrillsearch"><span class="textrecord">WATER TEMPERATURE</span></a>
+
+</td></tr></tbody></table>
+
+<table border="0" width="100%"> <tbody><tr><td>
+
+<a href="Keywords.do?KeywordPath=%5BKeyword%3D%27WIND+DIRECTION%27%5D&amp;Portal=GCMD&amp;MetadataType=0" target="recorddrillsearch"><span class="textrecord">WIND DIRECTION</span></a>
+
+</td></tr></tbody></table>
+
+<table border="0" width="100%"> <tbody><tr><td>
+
+<a href="Keywords.do?KeywordPath=%5BKeyword%3D%27WIND+VELOCITY%27%5D&amp;Portal=GCMD&amp;MetadataType=0" target="recorddrillsearch"><span class="textrecord">WIND VELOCITY</span></a>
+
+</td></tr></tbody></table>
+
+
+</p><p>
+<br>
+
+
+<!-- Dataset Progress ============================================ -->
+
+
+<!-- Originating Center ================================================== -->
+
+</p><p>
+<span class="field">Originating Center</span>
+
+
+
+<table border="0" width="80%">
+<tbody><tr><td><span class="textrecord">
+<a href="Keywords.do?KeywordPath=%5BOriginating_Center%3D%27CEADO%27%5D&amp;Portal=GCMD&amp;MetadataType=0" target="recorddrillsearch">
+CEADO
+</a>
+</span></td></tr></tbody></table>
+
+
+
+</p><p>
+<br>
+
+
+<!-- Data Center ================================================= -->
+   
+       </p><p><span class="field">Data Center</span>
+
+
+   
+    
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody><tr> <td>
+      <span class="textrecord">
+      <a href="Keywords.do?KeywordPath=%5BData_Center%3A+Short_Name%3D%27AR%2FCEADO%27%5D&amp;Portal=GCMD&amp;MetadataType=0" target="recorddrillsearch">
+      <!--AR/CEADO-->
+      
+      Centro Argentino de Datos Oceanograficos, Argentina
+      </a></span><a href="Keywords.do?KeywordPath=%5BData_Center%3A+Short_Name%3D%27AR%2FCEADO%27%5D&amp;Portal=GCMD&amp;MetadataType=0" target="recorddrillsearch">
+       </a>
+      
+      &nbsp;&nbsp; <a href="Supplementals.do?Portal=GCMD&amp;KeywordPath=DataCenters&amp;NumericId=19&amp;MetadataType=0&amp;lbnode=mdlb3" onclick="exit(this.href,760,500); return false"><span class="textrecord"> [Information]</span></a>
+    <br>
+
+
+   
+   
+   <span class="textrecord">Data Center URL: </span>
+   <span class="textrecord"><a href="RedirectAction.do?target=S6cqF6vMwKxZshRVALxu7YWPMR7G81V1v8AI1v9QQKJiReJDhFipDw%3D%3D" target="_blank">http://www.hidro.gov.ar/ceado/ceado.asp</a><br>
+   
+   
+
+   
+   
+   <span class="textrecord"><strong>Dataset ID: </strong></span>
+   <span class="textrecord">MR, Mareografos</span> <br>
+   
+   
+
+<!-- Personnel Table -->
+   
+   
+   
+   <br><table align="center" border="0" cellpadding="0" cellspacing="0" width="90%">
+   <tbody><tr> <td colspan="2" class="field" height="2" valign="top">Data Center Personnel</td>
+     </tr>
+
+   <tr> <td>
+     <span class="textrecord"><strong>Name: </strong>
+     <a href="Keywords.do?KeywordPath=%5BPersonnel%3A+Last_Name%3D%27DIRECTOR%27%2C+First_Name%3D%27CEADO%27%5D&amp;Portal=GCMD&amp;MetadataType=0" target="recorddrillsearch">
+        CEADO
+        
+        DIRECTOR</a></span><a href="Keywords.do?KeywordPath=%5BPersonnel%3A+Last_Name%3D%27DIRECTOR%27%2C+First_Name%3D%27CEADO%27%5D&amp;Portal=GCMD&amp;MetadataType=0" target="recorddrillsearch"><br>
+     </a>
+
+     
+     
+     
+     <span class="textrecord"><strong>Phone: </strong>
+      54  11 4303-2240
+     </span><br>
+     
+     
+     
+
+
+     
+     
+     
+     <span class="textrecord"><strong>Fax: </strong>
+     54  11 4303-2240
+     </span><br>
+     
+     
+     
+
+     
+     
+     
+     <span class="textrecord"><strong>Email: </strong>
+     ceado at hidro.gov.ar
+     </span><br>
+     
+     
+     
+
+
+     
+     
+
+     
+
+     
+     <span class="textrecord"><strong>Contact Address: </strong><br>
+
+     
+     <span class="textrecord">
+     Av. Montes de Oca 2124<br>
+     
+     </span>
+     
+
+     
+     <span class="textrecord"><strong>City: </strong>
+     Buenos Aires
+     </span><br>
+     
+
+     
+
+     
+     <span class="textrecord"><strong>Postal Code: </strong>
+     C1270ABV
+     </span><br>
+     
+
+     
+     <span class="textrecord"><strong>Country: </strong>
+     Argentina
+     </span>
+     
+     
+     
+     <br>
+     
+   </span></td> </tr></tbody></table>  <!-- End personnel table -->
+
+   
+
+   
+   
+   
+</span></td></tr></tbody></table>  <!-- end data center table -->
+
+
+
+
+
+ </p><p></p><p>
+<br>
+
+
+<!-- Distribution ================================================= -->
+
+
+
+
+<!-- Personnel ===================================================== -->
+
+
+
+
+<!-- Reference/Publications ============================================ -->
+
+
+
+
+
+
+
+<!-- default/dif/reference_text.jsp -->
+
+
+<br>
+
+<!-- Metadata Name  ================================================ 
+
+<p>
+<span class="field">Metadata Name and Version </span>
+
+<table border="0" width="100%">
+<tr><td>
+<span class="textrecord"><strong>Metadata Name: </strong>
+CEOS IDN DIF
+</span><br/>
+
+
+<! --  Metadata Version ================================================ 
+<span class="textrecord"><strong>Metadata Version: </strong>
+VERSION 9.7
+</span>
+</td></tr></table>
+</p><p />
+<br>
+ -->
+
+
+<!-- Creation/Review Dates  ================================================ -->
+
+
+
+
+
+
+</p><div class="fieldSection">
+    <div class="field">Creation and Review Dates</div>
+    <div>
+        
+            <div class="textrecord">
+                <strong>DIF Creation Date:</strong>
+                2001-02-22
+            </div>
+        
+        
+            <div class="textrecord">
+                <strong>Last DIF Revision Date:</strong>
+                2005-09-27
+            </div>
+        
+        
+    </div>
+ 
+ </div>
+<br>     
+            
+            <!-- DIF tab bar =========================================================== -->
+            
+
+
+
+
+
+
+
+
+
+<!-- start to GCMD/dif/dif_tab_bar_full_record.jsp ========================================== -->
+
+
+<table border="0" cellpadding="1" cellspacing="1">
+<tbody><tr>
+    <td class="mediumText" align="center"> 
+         <strong>
+             <span class="tab" id="updateTabBottom">
+                 <span class="textrecord">[</span>
+                 <span class="textrecord">
+                     <span class="textabs" onclick="dbDetails2(this)">
+                         Update this Record</span>
+                 </span>
+                 <span class="textrecord">]</span>
+             </span>
+         </strong>
+     </td>
+</tr>
+<tr>
+    <td class="mediumText" align="center" width="570">
+        <script type="text/javascript">
+            function dbDetails2(obj)
+            {
+                var dbDetails2Window =document.getElementById("dbDetails2Window");
+                var tab2 = document.getElementById("updateTabBottom");
+                
+                if (dbDetails2Window!=null)
+                {
+                    if (dbDetails2Window.state && dbDetails2Window.state==true)
+                    {
+                        dbDetails2Window.style.display="none";
+                        dbDetails2Window.state = false;
+                        tab2.style.backgroundColor = "";
+                        tab2.style.border="";
+                    }
+                    else
+                    {
+                        dbDetails2Window.style.display="block";
+                        dbDetails2Window.state = true;
+                        tab2.style.backgroundColor
+                            = dbDetails2Window.style.backgroundColor;
+                        tab2.style.border="1px solid";
+                        tab2.style.borderBottom="0";
+                    }
+                }
+            }
+        </script> 
+        <div id="dbDetails2Window" class="textrecord" style="display:none;left:50%;padding:0.5em 0;width:280px;border:1px solid black;background-color:rgb(236, 233, 216);">
+            <div>Updating this record requires registration.</div>
+            
+            <div style="float:left;margin:0.5em;border-right:1px solid;width:125px;">
+                (Account holders)
+                <div class="texttabs">
+                              
+                
+                
+                    
+                    <a target="_blank" href="/DocumentBuilder/Metadata.do?OrigMetadataNode=GCMD&amp;EntryId=Tides_CEADO&amp;RequestAction=Build&amp;Portal=GCMD&amp;MetadataType=0&amp;UseCacheDocument=true&amp;interface=FROMGETDIF">
+                        Update this Record.</a>
+                
+                
+                
+                </div>
+            </div>
+            <div style="float:right;margin:0.5em;border-left:1px solid;width:125px;">
+                <div>
+                    <a class="texttabs" href="/collaborate/docbuilder.html">Need an account?</a>
+                    <div>&nbsp;</div>
+                </div>
+            </div>
+            <div style="clear:both"><a href="javascript:dbDetails2()">close</a>
+        </div>
+    </div></td>
+</tr>
+</tbody></table>
+<br>
+<!-- end to GCMD/dif/dif_tab_bar_full_record.jsp ============================================ -->
+
+            
+            <!-- End Main Content Area ================================================= -->
+            
+        
+    
+
+
+</span></div>
+
+
+                    
+                    <!-- END Content Area -->
+                <div class="shadowBox_bottom clear"><span class="nested"></span></div>
+            </div>
+            <hr>
+        </div>
+    </div>
+    
+    <div id="metalbottom"><span></span></div>
+    
+
+
+
+
+
+
+<script type="text/javascript">
+    function openAnchor(tag, config)
+    {
+        var href = null;
+        try
+        {
+            var rawAttrib = tag.getAttribute("href");
+            if (rawAttrib!=null && 0<rawAttrib.length)
+            {
+                href = rawAttrib;
+            }
+            else
+            {
+                var list = tag.getElementsByTagName("a");
+                for (var y=0; y<list.length; ++y)
+                {
+                    var item = list[y].href
+                    if (item!=null && 0<item.length)
+                    {
+                        href = item;
+                        break;
+                    }
+                }
+            }
+            if (href!=null && 0<href.length)
+            {
+                //append suffix if configured
+                if (config.s!=null && 0<config.s.length){href += config.s;}
+                viewPage(
+                    href
+                    , Math.min(window.screen.width,config.w)
+                    , config.h);
+            }
+        }
+        catch (e){return true;}
+        return false;
+    }
+</script>
+<div id="totalfooter">
+    <div align="center">
+        <ul id="nav">
+            <li><a href="/KeywordSearch/Keywords.do?Portal=GCMD&amp;KeywordPath=Parameters|Home&amp;MetadataType=0&amp;Columns=0&amp;KeywordPath=Parameters|Home" title="Locate Earth science data, data services, and more through descriptive records.">Search</a></li>
+            <li><a href="/collaborate/docbuilder.html" title="Collaborate with GCMD">Collaborate</a></li>
+            <li><a href="/add/portals.html" title="Learn About GCMD's Portal Collaborations">Portals</a></li>
+            <li><a href="/MailComments/MailComments.jsf?rcpt=gcmduso" target="_blank" title="Have suggestions, comments, and questions about GCMD contact us here.">Contact Us</a></li>
+        </ul>
+   </div>
+</div>
+<div id="nasafoot">
+    <div id="nasafootleft">
+        <ul>
+         <li>
+            <a href="/KeywordSearch/Home.do?Portal=GCMD_legacy&amp;MetadataType=0"><img src="/images/gui/togcmd.png" alt="Return to legacy GCMD" site"=""></a>
+        
+            + <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html" target="_blank">
+                NASA Privacy Policy and Important Notices </a></li>
+        </ul>
+    </div>
+    
+    <div id="nasafootright">
+        <div class="logo">
+            <a class="external" href="http://www.nasa.gov/" target="_blank">
+                <img src="GCMD/images/gui/nasa_footer_logo.png" alt="NASA Logo - nasa.gov" height="50" width="55"></a>
+        </div>
+        <ul>
+            <li onclick="return openAnchor(this, {w:1000,h:550,s:'#maincontent'})">
+                Webmaster:
+                <a class="email" href="/MailComments/MailComments.jsf?rcpt=lyles" target="_blank">Monica Lyles</a>
+            </li>
+            <li onclick="return openAnchor(this, {w:1000,h:550,s:'#maincontent'})">
+                Responsible NASA Official:
+                <a class="email" href="/MailComments/MailComments.jsf?rcpt=wharton" target="_blank">Dr. Stephen Wharton</a>
+            </li>
+            <li>Last updated: February 2015</li>
+        </ul>
+    </div>
+</div>
+
+<!-- nettracker.jsp -->
+
+<!-- BEGIN: NetTracker Page Tag -->
+<script type="text/javascript" language="JavaScript" src="/ntpagetag.js"></script>
+<noscript>
+    <img src="http://ws1.ems.eosdis.nasa.gov/images/ntpagetag.gif?js=0" height="1" width="1" border="0" hspace="0" vspace="0" alt="">
+</noscript>
+<!-- END: NetTracker Page Tag -->
+
+
+
+
+</div>
+<!-- nettracker.jsp -->
+
+<!-- BEGIN: NetTracker Page Tag -->
+<script type="text/javascript" language="JavaScript" src="/ntpagetag.js"></script>
+<noscript>
+    <img src="http://ws1.ems.eosdis.nasa.gov/images/ntpagetag.gif?js=0" height="1" width="1" border="0" hspace="0" vspace="0" alt="">
+</noscript>
+<!-- END: NetTracker Page Tag -->
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+if (window.globals==null){window.globals = new Object();}
+if (globals.feedback==null)
+{
+    globals.feedback =
+    {
+        doHover: function()
+        {
+            var wrapper = document.getElementById("feedback");
+            wrapper.style.marginLeft = "0";
+        }
+        ,doOut: function()
+        {
+            var wrapper = document.getElementById("feedback");
+            wrapper.style.marginLeft = "-4px";
+        }
+        ,doClick: function()
+        {
+            gcmd.gwt.widgetwrappers.pageViewerApp.viewPage(
+                "Feedback"
+                , "/r/l/report"
+                , 1160, 610);
+            return false;
+        }
+    };
+}
+</script>
+
+<div class="screenControl" id="feedback" onmouseover="globals.feedback.doHover()" onmouseout="globals.feedback.doOut()">
+    <a href="/r/l/report" onclick="return globals.feedback.doClick();">
+        <img src="default/images/feedback.png?portal=GCMD" alt="Link to Web Site" border="0"></a>
+    <!--/a-->
+</div>
+
+
+<iframe style="display:none;" name="cache" id="cache" src="./GCMD/manifest.jsp" height="1" width="1"></iframe>
+
+
+
+
+
+
+
+<iframe tabindex="-1" style="position: absolute; width: 0px; height: 0px; border: medium none;" id="WidgetWrappers" src="javascript:''"></iframe>

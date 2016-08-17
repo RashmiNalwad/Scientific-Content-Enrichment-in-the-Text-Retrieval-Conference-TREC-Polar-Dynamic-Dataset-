@@ -1,0 +1,2939 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        [Keyword=&#039;Oxygen Isotopes&#039;]
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                Climate Since AD 1500 Database, WDC Paleoclimatology
+            
+        
+
+        
+        
+            Entry ID:
+            
+                EARTH_LAND_NGDC_PALEOCLIM1500AD
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+        
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+	
+        
+            This data set description is a member of a collection.
+
+            
+                Click to see members of this collection.
+            
+        
+	
+    
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            This data set contains the data described in various chapters of the 
+ book: 
+ 
+ CLIMATE SINCE A.D. 1500 
+ 
+ Edited by Raymond S. Bradley and Philip D. Jones 
+ 
+ published by Routledge, London, 1992 (679pp). 
+ 
+ Copies of the book can be obtained from: 
+ Routledge, Chapman and Hall, 29 West 35th Street, New York, N.Y. 
+ 10001. 
+ The I.S.B.N. code  ... for the book is: 0-415-07593-9. 
+ 
+ Each data file was supplied by the primary author of the chapter 
+ indicated. Users of these files should note that the authors may 
+ have subsequently revised or amended them. It would be prudent 
+ to check with the original authors if you intend to make 
+ significant use of these data sets. Specific questions about the 
+ data should also be directed to the primary author. 
+ Authors addresses are given in the book on pages xi-xiv. 
+ 
+ File 1: CH1.DAT: Data from Tables 2.1 and 2.2, Annual indices of 
+ summer ice severity in eastern and western Hudson Bay, plus 
+ additional data from Hudson Strait, and thermal indices for the 
+ southeast coast of Hudson Bay. 
+ 
+ File 2: CH6.DAT: Data from C. Pfister. Monthly temperature and 
+ Precipitation indices used to construct Figure 6.4. 
+ 
+ File 3: CH11.DAT: Data from W.C. Wang et al. Number of rain 
+ days, daytime rain hours, and night-time rain hours from the 
+ Qing-Yu-Lu for May, June and July, 1724-1903. 
+ 
+ File 4: CH13.DAT: Data from Jones and Bradley. Monthly 
+ temperature and precipitation data from some of the long-term 
+ stations shown in Figures 13.1 and 13.2. Also seasonal and 
+ annual temperature anomalies (from 1951-70) averages for northern 
+ and southern hemisphere land areas (shown in Figures 13.3 and 
+ 13.4) and for COADS SST data for the northern and southern 
+ hemispheres (shown in Figure 13.5). 
+ 
+ File 5: CH15.dat: data from D'Arrigo and Jacoby. Reconstructed 
+ mean annual temperatures for northern North America, from Figure 
+ 15.4. (Note: figure captions for Figs. 15.3 and 15.4 are reversed 
+ in the book). 
+ 
+ File 6: CH16.DAT: data from Meko. Standardised regional tree- 
+ ring series for regions 0 to 9 (shown in Figure 16.1) and scores 
+ of the first three eigenvectors from PCA on regional tree-ring 
+ series, 1750-1964 (shown in Figure 16.3). 
+ 
+ File 7: CH17.DAT: data from Cook et al. Obliquely rotated 
+ drought factor scores based on 23 PDSI reconstructions for the 
+ eastern United States (shown in Figure 17.3). 
+ 
+ File 8: CH19.DAT: data from Briffa and Schweingruber. Ring width 
+ chronologies for several sites around Lake Inari (northern 
+ Finland) and the Tornetrask region of northern Sweden (shown in 
+ Figure 19.2). Also contains data from Figures 19.4 and 19.7. 
+ 
+ File 9: CH20.DAT: data from Graybill and Shiyatov. Reconstructed 
+ June-July average temperatures at 65N, 70E (N.W. Russia) expressed 
+ as departures from the 1951-70 average (shown in Figure 20.4). 
+ 
+ File 10: CH23.DAT: data from Boninsegna. Data on reconstructed: 
+ winter precipitation at Santiago de Chile; summer and winter 
+ anticyclone positions and summer precipitation at Chiloe (shown 
+ in Figure 23.2); summer temperatures in northern and central 
+ Patagonia (Rio Alerce) and indices of summer temperature at 
+ Ushuaia (shown in Figure 23.3); streamflows of Rivers Atuel, 
+ Neuquen and Limay (shown in Figure 23.4). 
+ 
+ File 11: CH24.DAT: data from Norton and Palmer. Reconstructed 
+ climate and river flow data for New Zealand (shown in Figures 24.4 
+ and 24.5). 
+ 
+ File 12: CH25.DAT: data from Holdsworth et al. Mount Logan 
+ oxygen isotope (delta O-18) and net accumulation data (meters of 
+ water equivalent, per year) (shown in Figures 25.3 and 25.4). 
+ Note: The title of this chapter should read: 'Ice core climate 
+ signals from Mount Logan, Yukon, A.D. 1700-1987' (not 1897). 
+ 
+ File 13: CH26.DAT: data from Tarussov. Net accumulation data 
+ from Lomonosovfonna, Svalbard and Milcent, Greenland (shown in 
+ Figure 26.4). Annual Melt percentage (AMP) data for Austfonna, 
+ Svalbard (shown in Figures 26.6 and 26.7). 
+ 
+ File 14: CH32.TXT: data Quinn and Neal, historical El Nino record 
+ from Table 32.1. 
+ 
+ The data are available from: 
+ ftp://ftp.ncdc.noaa.gov/pub/data/paleo/climate1500ad/ 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Access to Bradley 1500 AD climate data 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Bradley climate to 1500 AD data set description 
+                            
+
+                        
+			
+                        
+                    
+		    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 90.0
+                                
+                            	 	
+                                
+                                    S: -90.0
+                                
+                            	 	
+                                
+                                    E: 180.0
+                                
+                            	 	
+                                
+                                    W: -180.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            Raymond S. Bradley
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Title: 
+                            Climate Since AD 1500 Database
+                        
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Release Date: 
+                            1992
+                         
+
+                    
+                    
+                    
+                        
+                            Dataset Release Place: 
+                            Boulder, CO
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            IGBP PAGES/World Data Center for Paleoclimatology
+                        
+
+                    
+                    
+                    
+                    
+                    
+
+
+                    
+                        
+                            Issue Identification: 
+                            Data Contribution Series # 92-015
+                        
+
+                    
+                    
+                    
+
+                    
+                        
+                            Other Citation Details: 
+                            NOAA/NCDC Paleoclimatology Program
+                        
+
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        ftp://ftp.ncdc.noaa.gov/pub/data/paleo/climate1500ad/readme_climate...
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                        
+
+                    
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            Raymond S. Bradley and Philip D. Jones
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Title: 
+                            CLIMATE SINCE A.D. 1500
+                        
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Release Date: 
+                            1992
+                         
+
+                    
+                    
+                    
+                        
+                            Dataset Release Place: 
+                            London, UK
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            Routledge
+                        
+
+                    
+                    
+                    
+                    
+                    
+
+
+                    
+                        
+                            Issue Identification: 
+                            ISBN 0-415-07593-9
+                        
+
+                    
+                    
+                    
+                        
+                            Data Presentation Form: 
+                            Book
+                        
+
+                    
+
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        ftp://ftp.ncdc.noaa.gov/pub/data/paleo/climate1500ad/readme_climate...
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        0000-01-01
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        1990-12-31
+                    
+
+                
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Paleo Temporal Coverage
+
+        
+        
+            
+            
+            
+                
+                    
+                    
+                        
+                            Paleo Start Date: 
+                            2100 ybp
+                            
+
+                        
+                        
+                        
+                            Paleo Stop Date: 
+                            0 ybp
+                            
+
+                        
+                        
+                        
+                            
+                                Chrono Unit: 
+                                
+                                
+                                    
+                                        
+                                            PHANEROZOIC
+                                        
+                                        
+                                        
+                                             > 
+                                            CENOZOIC
+                                        
+                                        
+                                        
+                                             > 
+                                            QUATERNARY
+                                        
+                            
+                                        
+                                             > 
+                                            HOLOCENE
+                                        
+                            
+                                        
+                            
+                                        
+                                    
+                                
+
+                            
+                        
+                    
+   		    
+    
+                    
+    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > GLOBAL
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC PHENOMENA
+                            
+                            
+                                >
+                                DROUGHT
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC PRESSURE
+                            
+                            
+                                >
+                                PRESSURE ANOMALIES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+                        
+                	
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC TEMPERATURE
+                            
+                            
+                                >
+                                SURFACE AIR TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC TEMPERATURE
+                            
+                            
+                                >
+                                TEMPERATURE ANOMALIES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                PRECIPITATION
+                            
+                            
+                                >
+                                PRECIPITATION AMOUNT
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                PRECIPITATION
+                            
+                            
+                                >
+                                PRECIPITATION ANOMALIES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC RADIATION
+                            
+                            
+                                >
+                                SOLAR RADIATION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                CRYOSPHERE
+                            
+                            
+                                >
+                                SNOW/ICE
+                            
+                            
+                                >
+                                SNOW COVER
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                CRYOSPHERE
+                            
+                            
+                                >
+                                SNOW/ICE
+                            
+                            
+                                >
+                                SNOW MELT
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                CRYOSPHERE
+                            
+                            
+                                >
+                                SNOW/ICE
+                            
+                            
+                                >
+                                SNOW WATER EQUIVALENT
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                TERRESTRIAL HYDROSPHERE
+                            
+                            
+                                >
+                                SNOW/ICE
+                            
+                            
+                                >
+                                SNOW COVER
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                TERRESTRIAL HYDROSPHERE
+                            
+                            
+                                >
+                                SNOW/ICE
+                            
+                            
+                                >
+                                SNOW MELT
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                TERRESTRIAL HYDROSPHERE
+                            
+                            
+                                >
+                                SNOW/ICE
+                            
+                            
+                                >
+                                SNOW WATER EQUIVALENT
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                TERRESTRIAL HYDROSPHERE
+                            
+                            
+                                >
+                                SURFACE WATER
+                            
+                            
+                                >
+                                DISCHARGE/FLOW
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                TERRESTRIAL HYDROSPHERE
+                            
+                            
+                                >
+                                SURFACE WATER
+                            
+                            
+                                >
+                                RIVERS/STREAMS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN TEMPERATURE
+                            
+                            
+                                >
+                                SEA SURFACE TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                PALEOCLIMATE
+                            
+                            
+                                >
+                                ICE CORE RECORDS
+                            
+                            
+                                >
+                                ISOTOPES
+                            
+                            
+                            
+                            
+                                >
+                                OXYGEN ISOTOPES
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                PALEOCLIMATE
+                            
+                            
+                                >
+                                LAND RECORDS
+                            
+                            
+                                >
+                                TREE RINGS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                CLIMATE INDICATORS
+                            
+                            
+                                >
+                                ATMOSPHERIC/OCEAN INDICATORS
+                            
+                            
+                                >
+                                TELECONNECTIONS
+                            
+                            
+                                >
+                                EL NINO SOUTHERN OSCILLATION (ENSO)
+                            
+                            
+                            
+                                >
+                                ENSO
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                CLIMATE INDICATORS
+                            
+                            
+                                >
+                                LAND SURFACE/AGRICULTURE INDICATORS
+                            
+                            
+                                >
+                                DROUGHT INDICES
+                            
+                            
+                                >
+                                PALMER DROUGHT SEVERITY INDEX
+                            
+                            
+                            
+                                >
+                                PDSI
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                PALEOCLIMATE
+                            
+                            
+                                >
+                                PALEOCLIMATE RECONSTRUCTIONS
+                            
+                            
+                                >
+                                AIR TEMPERATURE RECONSTRUCTION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                PALEOCLIMATE
+                            
+                            
+                                >
+                                PALEOCLIMATE RECONSTRUCTIONS
+                            
+                            
+                                >
+                                DROUGHT/PRECIPITATION RECONSTRUCTION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                PALEOCLIMATE
+                            
+                            
+                                >
+                                PALEOCLIMATE RECONSTRUCTIONS
+                            
+                            
+                                >
+                                STREAMFLOW RECONSTRUCTION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                PALEOCLIMATE
+                            
+                            
+                                >
+                                PALEOCLIMATE RECONSTRUCTIONS
+                            
+                            
+                                >
+                                LAKE LEVEL RECONSTRUCTION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                PALEOCLIMATE
+                            
+                            
+                                >
+                                PALEOCLIMATE RECONSTRUCTIONS
+                            
+                            
+                                >
+                                SEA LEVEL RECONSTRUCTION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOSCIENTIFIC INFORMATION
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            INLAND WATERS
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEANS
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            PAGES
+                            
+                                >
+                                Past Global Changes, IGBP
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            climate change
+                    
+
+		    
+                
+                    
+                    
+                        
+                            climate reconstructions
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            ICE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            O-18
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OXYGEN ISOTOPE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            PALEOCLIMATE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SEA SURFACE TEMPERATURES
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SNOW
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SST
+                    
+
+		    
+                
+                    
+                    
+                        
+                            TREE-RINGS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            TEMS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GTOS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            G3OS
+                    
+
+		    
+                
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        NGDC
+                    
+                
+
+                
+            
+	    
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                World Data Center for Paleoclimatology, Boulder
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://www.ncdc.noaa.gov/paleo/
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    
+                                                    
+                                                    WDC/PALEOCLIMATOLOGY, BOULDER
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            +1 (303) 497-6160
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            +1 (303) 497-6513
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            paleo at noaa.gov
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        World Data Center for Paleoclimatology
+
+                                                                    
+                                                                        NOAA/NCDC Code E/GCx3
+
+                                                                    
+                                                                        325 Broadway
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Boulder
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                CO
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                80303
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    online - ftp,www
+                
+
+            
+            
+            
+            
+            
+            
+            
+
+            
+                
+                
+                
+		
+            
+        
+
+    
+
+
+ 
+          
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        PHIL
+                        D.
+                        JONES
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                p.jones at uea.ac.uk
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Climatic Research Unit
+
+                                            
+                                                University of East Anglia
+
+                                            
+                                                Norwich
+
+                                            
+                                                NR4 7TJ
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    UNITED KINGDOM
+                                
+
+                            
+                            
+                        
+                    
+                
+                 
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        RAYMOND
+                        S.
+                        BRADLEY
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                rbradley at geo.umass.edu
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Department of Geosciences
+
+                                            
+                                                University of Massachusetts
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Amherst
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Massachusetts
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    01003
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+            
+             
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            Bradley, Raymond S. and Jones, Philip D. CLIMATE SINCE A.D. 1500 
+ published by Routledge, London, 1992 (679pp). 
+ 
+ Copies of the book can be obtained from: Routledge, Chapman and Hall, 
+ 29 West 35th Street, New York, N.Y. 10001 The I.S.B.N. code for the 
+ book is: 0-415-07593-9. 
+
+        
+    
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Extended Metadata Properties
+
+        
+            
+            (Click to view more)
+        
+
+        
+            
+
+            
+
+            
+                Extended Metadata Properties From GCMD
+
+                metadata.extraction_date: 2015-02-21 01:02:15
+metadata.keyword_version: 8.0
+
+            
+        
+
+    
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+        
+            
+                Last DIF Revision Date:
+                2009-04-20
+            
+
+        
+        
+    
+
+ 
+ 
+
+             
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                Reformat as ISO 19115 document
+            
+        
+    
+
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                              
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+        
+
+
+
+
+
+    
+
+
+
+
+                    
+                    
+                
+
+            
+
+            
+
+        
+
+    
+
+    
+    
+
+    
+
+
+
+
+
+
+
+
+    
+        	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+   
+
+
+
+
+    
+        	
+            
+        
+            + 
+                NASA Privacy Policy and Important Notices 
+
+
+    
+
+    
+    
+        
+            
+                
+        
+
+        	
+                Webmaster:
+                Monica Lyles
+            
+	
+                Responsible NASA Official:
+                Dr. Stephen Wharton
+            
+	Last updated: February 2015
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+

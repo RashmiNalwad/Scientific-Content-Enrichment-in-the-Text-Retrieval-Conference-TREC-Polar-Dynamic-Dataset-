@@ -1,0 +1,2259 @@
+
+
+
+    	
+                 
+
+            	
+                 
+
+            	
+                 
+
+            
+	
+                 
+
+            	
+                 
+
+            	
+                 
+
+            
+	
+        	
+                    
+                    	
+                                
+                            	
+                                  + Visit NASA.gov
+                            
+
+
+                
+
+
+    
+	
+        	
+                    
+                    
+                
+		
+                    
+                        Links 
+                    
+                    
+                    FAQ
+                    
+                    Contact Us
+                    
+                    Site Map
+                 
+
+
+    
+	
+
+
+		
+																			
+																			
+
+
+
+
+
+	
+                
+                    
+
+
+
+
+
+
+		
+	
+	
+	
+                
+            	
+                
+                    Agriculture
+                
+            
+	
+	
+                
+            	
+                
+                    Atmosphere
+                
+            
+	
+	
+                
+            	
+                
+                    Biological Classification
+                
+            
+	
+	
+                
+            	
+                
+                    Biosphere
+                
+            
+	
+	
+                
+            	
+                
+                    Climate Indicators
+                
+            
+	
+	
+                
+            	
+                
+                    Cryosphere
+                
+            
+	
+	
+                
+            	
+                
+                    Human Dimensions
+                
+            
+	
+	
+                
+            	
+                
+                    Land Surface
+                
+            
+	
+	
+                
+            	
+                
+                    Oceans
+                
+            
+	
+	
+                
+            	
+                
+                    Paleoclimate
+                
+            
+	
+	
+                
+            	
+                
+                    Solid Earth
+                
+            
+	
+	
+                
+            	
+                
+                    Spectral/Engineering
+                
+            
+	
+	
+                
+            	
+                
+                    Sun-Earth Interactions
+                
+            
+	
+	
+                
+            	
+                
+                    Terrestrial Hydrosphere
+                
+            
+	
+	
+
+	
+		
+            Data Centers
+        
+	
+		
+            Locations
+        
+	
+		
+            Instruments/Sensors
+        
+	
+		
+            Platforms/Sources
+        
+	
+		
+            Projects
+        
+	
+	
+
+	
+	
+
+		
+            Full text Search
+        
+
+
+	
+
+	
+		Portal 
+          Collaborations  
+	
+
+	
+		
+            Questions?
+        
+
+
+
+                
+
+            
+            	
+                 
+
+                 
+
+                
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+Record Search Query:
+Platforms>In Situ Land-based Platforms>COMPUTERS
+
+
+	
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        
+            
+                Anisotropy, Abrupt Climate Change, and the Deep Ice in West Antarctica
+            
+        
+
+        
+        
+            Entry ID:
+            
+                waddington_0636996
+            
+            
+
+            
+
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+        
+            
+                
+                    
+                    
+                 
+            
+        
+         
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+               
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+        
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            This record includes two datasets and accompanying code. 
+ 
+ The anisotropic flow dataset provides velocity and fabric evolution of anisotropic ice for several numerical experiments. The experiments examine how differing stress regimes and initial c-axis crystal fabrics can affect flow. Contained are VTU format files of finite element output of velocity (m/yr) as well as the second order fabric  ... orientation tensor, in addition to the beginning fabric orientation tensor. VTU files are readable with the open-source ParaView package. 
+ 
+ Also included are python2 and Fortran 90 codes for computation of various fabric parameters, as well as to compute the time derivatives of the A and B fabric tensors for computation of the material derivative of the fabric evolution equation. 
+ 
+ The snow and firn anisotropy dataset includes snow and firn properties corresponding to several steady-state and time-varying climate histories representing different sites on the Antarctic continent. The model divides the firn pack into layers, each of which has an individual density, age, mass, temperature, grain size distribution, and grain orientation distribution. 
+ 
+ The record also includes the model's Matlab code, tested on Matlab versions 2007b and 2009a. The code can take advantage of parallel processors but does not require them. 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+    
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                The U.S research community is conducting a deep ice coring project in West Antarctica for studies of climate, ice sheet history and cryobiology. This project is collecting a deep ice core from the West Antarctic Ice Sheet (WAIS) ice flow divide and integrating approximately 20 separate but synergistic projects to analyze the ice and interpret the records. 
+                            
+
+                        
+                        
+                        
+                    
+                    
+                
+
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: -75.0
+                                
+                            	 	
+                                
+                                    S: -85.0
+                                
+                            	 	
+                                
+                                    E: -105.0
+                                
+                            	 	
+                                
+                                    W: -165.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ANTARCTICA
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > POLAR
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                CRYOSPHERE
+                            
+                            
+                                >
+                                GLACIERS/ICE SHEETS
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                CRYOSPHERE
+                            
+                            
+                                >
+                                GLACIERS/ICE SHEETS
+                            
+                            
+                                >
+                                ABLATION ZONES/ACCUMULATION ZONES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                                CRYOSPHERE
+                            
+                            
+                                >
+                                GLACIERS/ICE SHEETS
+                            
+                            
+                                >
+                                ICE SHEETS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                CRYOSPHERE
+                            
+                            
+                                >
+                                SNOW/ICE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                CRYOSPHERE
+                            
+                            
+                                >
+                                SNOW/ICE
+                            
+                            
+                                >
+                                SNOW/ICE TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                CRYOSPHERE
+                            
+                            
+                                >
+                                GLACIERS/ICE SHEETS
+                            
+                            
+                                >
+                                FIRN
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                CRYOSPHERE
+                            
+                            
+                                >
+                                SNOW/ICE
+                            
+                            
+                                >
+                                SNOW STRATIGRAPHY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+                    
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    COMPUTERS
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+                        
+                    
+                    
+                
+
+
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            WAISDIVIDE
+                            
+                                >
+                                West Antarctic Ice Sheet Divide Project
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            Siple Dome
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Antarctica
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            WAIS
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Anisotropy
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Abrupt Climate Change
+                    
+
+                    
+                
+                    
+                    
+                        
+                            ice core
+                    
+
+                    
+                
+                    
+                    
+                        
+                            accumulation rate
+                    
+
+                    
+                
+                    
+                    
+                        
+                            vertical velocity
+                    
+
+                    
+                
+                    
+                    
+                        
+                            ice thickness
+                    
+
+                    
+                
+                    
+                    
+                        
+                            ice temperature
+                    
+
+                    
+                
+                    
+                    
+                        
+                            firn
+                    
+
+                    
+                
+                    
+                    
+                        
+                            metamorphism
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            IN WORK
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        University of Washington
+                    
+                
+
+                
+                
+            
+            
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                National Snow and Ice Data Center
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://nsidc.org
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    NSIDC
+                                                    
+                                                    USER SERVICES
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            +1 (303) 492-6199
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            +1 (303) 492-2468
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            nsidc at nsidc.org
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        National Snow and Ice Data Center
+
+                                                                    
+                                                                        CIRES, 449 UCB
+
+                                                                    
+                                                                        University of Colorado
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Boulder
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                CO
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                80309-0449
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+                        
+
+                    
+                    
+                
+                    
+                    
+                        
+                            
+                            
+                                NSIDC Antarctic Glaciological Data Center
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://nsidc.org/agdc/
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    NSIDC AGDC
+                                                    
+                                                    USER SERVICES
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            +1 (303) 492-6199
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            +1 (303) 492-2468
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            nsidc at nsidc.org
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        National Snow and Ice Data Center
+
+                                                                    
+                                                                        CIRES, 449 UCB
+
+                                                                    
+                                                                        University of Colorado
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Boulder
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                CO
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                80309-0449
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+                
+
+                
+                     
+                
+            
+
+  
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        EDWIN
+                        D
+                        WADDINGTON
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                206 543 4585
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                206 543 0489
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                edw at ess.washington.edu
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                University of Washington
+
+                                            
+                                                Dept. of Earth and Space Sciences
+
+                                            
+                                                Box 351310
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Seattle
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    WA
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    98195-1310
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        NSIDC AGDC
+                        
+                        USER SERVICES
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +1 (303) 492-6199
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +1 (303) 492-2468
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                nsidc at nsidc.org
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                National Snow and Ice Data Center
+
+                                            
+                                                CIRES, 449 UCB
+
+                                            
+                                                University of Colorado
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Boulder
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    CO
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    80309-0449
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+            
+            
+            
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            Pettit, E.C., E.D. Waddington, W.D. Harrison, Throstur Thorsteinsson, D. Elsberg, J. Morack, M.A. Zumberge. "The crossover stress, anisotropy, and the flow law at Siple Dome, West Antarctica," Journal of Glaciology, v.57, 2011, p. 39. 
+
+        
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Extended Metadata Properties
+
+        
+            
+            (Click to view more)
+        
+
+        
+            
+
+            
+
+            
+                Extended Metadata Properties From GCMD
+
+                metadata.extraction_date: 2015-02-19 16:33:35
+metadata.keyword_version: 8.0
+
+            
+        
+
+    
+
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+            
+                DIF Creation Date:
+                2012-03-16
+            
+
+        
+        
+            
+                Last DIF Revision Date:
+                2012-09-04
+            
+
+        
+        
+    
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                 Reformat as ISO 19115 document
+            
+        
+    
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+
+            
+                Bookmark URL
+                Alternate URL
+            
+
+            
+
+        
+
+
+
+
+
+
+
+                    
+                
+            
+	
+        
+            	
+                        
+                    	
+                        
+                            
+                    	
+                        
+                    	
+                        
+                            
+                                + Privacy Policy and Important Notices
+                        
+
+                    	
+                        
+                    	
+                        
+                            
+                    	
+                        
+                            Webmaster: 
+                            Monica Lyles
+                        
+
+                        
+                            Responsible NASA Official: 
+                            Dr. Stephen Wharton
+                        
+
+                        Last Updated:  February 2015
+
+                    
+	
+                        
+                    
+
+
+            
+
+
+
+
+
+    
+
+
+
+
+
+            
+        
+
+    
+	
+                 
+
+            
+	
+                 
+
+            	
+                 
+
+            	
+                 
+
+            
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+

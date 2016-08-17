@@ -1,0 +1,572 @@
+
+
+        
+    	Skip to content
+	Skip to breadcrumbs
+	Skip to header menu
+	Skip to action menu
+	Skip to quick search
+
+
+
+
+    
+        
+            
+
+
+ 
+
+
+
+
+                            
+
+    
+
+    
+
+
+
+
+    Linked ApplicationsLoading…
+
+
+Earthdata Wiki
+	
+            
+        
+        
+
+            Spaces
+    
+        
+
+
+
+	
+        Quick Search
+
+
+
+    
+	
+            
+        
+        Help
+    
+    
+                    
+                                    
+                                	
+        
+            
+
+        Online Help
+
+
+	
+    
+                
+
+        Keyboard Shortcuts
+
+
+	
+    
+            
+
+        Feed Builder
+
+
+	
+    
+            
+
+        What’s new
+
+
+	
+    
+                
+
+        Available Gadgets
+
+
+	
+    
+            
+
+        About Confluence
+
+
+
+
+            
+
+            
+    
+    
+	
+                
+    
+    
+	
+            
+    
+	
+                                            
+	
+        
+            
+
+        Log in
+
+
+
+
+
+
+
+    
+
+
+
+    
+    	
+    		
+    			
+    				
+	    	
+
+
+
+Earth Observing System Clearing House - ECHO
+
+
+	Pages
+	Blog
+
+
+Space shortcuts
+	How-To Articles
+	File Lists
+
+
+
+
+
+
+Child pages
+
+	How-To Articles
+
+
+	Polling for Deleted Collections
+
+
+
+
+
+
+
+
+Browse pages
+
+
+ConfigureSpace tools
+
+    
+    			
+
+    		
+
+        
+
+        
+        
+                
+            
+    
+                    	
+
+    
+        
+                            
+    
+    
+    
+                View Page    
+
+	
+        Tools         
+                            	
+
+    
+        
+                            
+    
+    
+    
+                Attachments (1)    
+
+	
+
+    
+        
+                            
+    
+    
+    
+                Page History    
+
+	
+
+    
+        
+                            
+    
+    
+    
+                Restrictions    
+
+
+
+                            	
+
+    
+        
+                            
+    
+    
+    
+                Page Information    
+
+	
+
+    
+        
+                            
+    
+    
+    
+                Link to this Page…    
+
+	
+
+    
+        
+                            
+    
+    
+    
+                View in Hierarchy    
+
+	
+
+    
+        
+                            
+    
+    
+    
+                View Source    
+
+	
+
+    
+        
+                            
+    
+    
+    
+                Export to PDF    
+
+	
+
+    
+        
+                            
+    
+    
+    
+                Export to Word    
+
+
+
+                    
+
+    
+
+
+    
+
+
+            
+            
+                
+                                    
+                        
+    
+    
+    	
+                
+
+                    Pages
+                                                
+	…
+	
+                
+
+                    Earth Observing System Clearing House - ECHO
+                                        
+                
+        
+	
+                
+
+                    How-To Articles
+                            
+                
+        
+	
+                
+
+                    Polling for Deleted Collections
+                
+
+
+
+
+                    
+
+                
+                
+
+                
+                                    Page History
+                                
+
+            
+
+        
+
+        
+        
+
+        
+                                                
+
+
+        
+    
+
+    
+
+    
+                
+    
+        
+
+
+
+
+        
+
+    
+    
+        
+    
+    
+                    
+    
+
+
+    
+
+
+
+
+
+    
+
+
+                        
+
+
+
+
+        
+
+
+        
+    
+                                
+    
+                        
+                    
+                Versions Compared
+
+
+                
+                                
+                
+                    
+                        Old Version
+                         2 
+                    
+                
+
+                changes.mady.by.user     Kathleen Baynes
+
+                Saved on Feb 20, 2014
+
+            
+
+        
+                    compared with
+
+                                
+                
+                    
+                        New Version
+                         Current 
+                    
+                
+
+                changes.mady.by.user     Kathleen Baynes
+
+                Saved on Apr 24, 2014
+
+            
+
+        
+                    
+                        	
+                                Previous Change: Difference between versions 1 and 2
+                            
+	
+                                View Page History
+                           
+
+
+                    
+
+                
+
+
+                        
+            Key
+
+            	This line was added.
+	This line was removed.
+	Formatting was changed.
+
+
+        
+
+    
+                                    
+
+                                                                
+    
+
+            ...
+For information about creating a token: Creating a Token
+ 
+ 
+	 Info
+	This also supports usage of date parameters: https://api.echo.nasa.gov/catalog-rest/ingest-docs/resource_deleted_collections_deleted_collections.html
+
+
+ 
+ 
+	curl -H "Echo-Token: <token here>" https://testbed.echo.nasa.gov/catalog-rest/providers/GCMDTEST/deleted_collections
+
+
+
+...
+
+
+
+    
+    
+
+            
+
+
+
+
+    
+
+
+
+
+    
+    
+
+    
+    
+    
+
+
+    
+
+                Overview
+
+            Community Forums
+
+            Content Tools
+
+            Activity
+
+            Bookmarks
+
+    
+
+
+
+
+    
+
+        
+    
+        
+            
+
+    
+
+                                        
+        
+
+        	Powered by Atlassian Confluence 5.5.3, Team Collaboration Software
+	Printed by Atlassian Confluence 5.5.3, Team Collaboration Software.
+	Report a bug
+	Atlassian News
+
+
+
+        
+
+        Atlassian
+
+
+                    
+
+
+
+
+        
+    
+
+
+
+            
+    
+
+
+
+
+
+
+

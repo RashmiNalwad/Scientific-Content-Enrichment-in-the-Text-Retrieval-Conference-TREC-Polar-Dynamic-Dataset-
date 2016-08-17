@@ -1,0 +1,2972 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords>ATMOSPHERE
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+    
+        
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                GPM Level 3 IMERG Monthy 0.1 x 0.1 degree V03 (GPM_3IMERGM) at GES DISC
+            
+        
+
+        
+        
+            Entry ID:
+            
+                GES_DISC_GPM_3IMERGM_V03
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+        
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            The Integrated Multi-satelliE Retrievals for GPM (*IMERG*) is the unified U.S. algorithm that provides the Day-1 multi-satellite precipitation product for the U.S. GPM team. The precipitation estimates from the various precipitation-relevant satellite passive microwave (PMW) sensors comprising the GPM constellation are computed using the 2014 version of the Goddard Profiling  ... Algorithm (GPROF2014), then gridded, intercalibrated to the GPM Combined Instrument product, and combined into half-hourly 0.1°x0.1° fields. These are provided to both the Climate Prediction Center (CPC) Morphing-Kalman Filter (CMORPH-KF) Lagrangian time interpolation scheme and the Precipitation Estimation from Remotely Sensed Information using Artificial Neural Networks – Cloud Classification System (PERSIANN-CCS) re-calibration scheme. In parallel, CPC assembles the zenith-angle-corrected, intercalibrated “even-odd” geo- IR fields and forward them to PPS for use in the CMORPH-KF Lagrangian time interpolation scheme and the PERSIANN-CCS computation routines. The PERSIANN-CCS estimates are computed (supported by an asynchronous re-calibration cycle) and sent to the CMORPH-KF Lagrangian time interpolation scheme. The CMORPH-KF Lagrangian time interpolation (supported by an asynchronous KF weights updating cycle) uses the PMW and IR estimates to create half-hourly estimates. The IMERG system is run twice in near-real time 
+ 
+ • “Early” multi-satellite product ~4 hr after observation time and 
+ • “Late” multi-satellite product ~12 hr after observation time, 
+ 
+ and once after the monthly gauge analysis is received 
+ 
+ • “Final” satellite-gauge product ~2 months after the observation month. 
+ 
+ The baseline is for the (near-)real-time Early and Late half-hour estimates to be calibrated with climatological coefficients that vary by month and location, while in the Final post-real-time run the multi-satellite half-hour estimates are adjusted so that they sum to a monthly satellite-gauge combination. In all cases the output contains multiple fields that provide information on the input data, selected intermediate fields, and estimation quality. 
+ 
+ Release document: 
+ http://pmm.nasa.gov/sites/default/files/document_files/IMERG_FinalR... 
+ 
+ Other key documents: 
+ 
+ Technical document and acronyms: 
+ http://pmm.nasa.gov/sites/default/files/document_files/IMERG_doc.pdf 
+ 
+ Algorithm Theoretical Basis Document (ATBD): 
+ http://pmm.nasa.gov/sites/default/files/document_files/IMERG_ATBD_V... 
+ 
+ In brief, the input precipitation estimates computed from the various satellite passive microwave sensors are intercalibrated to the GPM Combined Instrument product (because it is presumed to be the best snapshot GPM estimate), then “morphed” and combined with microwave precipitation-calibrated geo-IR fields, and adjusted with monthly surface precipitation gauge analysis data (where available) to provide half-hourly and monthly precipitation estimates on a 0.1° lat./long. grid over the domain 60°N-S. Precipitation phase is diagnosed using analyses of surface temperature, humidity, and pressure. The current period of record is mid-March 2014 to the present (delayed by about 2 months). 
+    
+                        
+
+                    
+                    
+                        
+                            
+
+                            Purpose: 
+                            The Integrated Multi-Satellite Retrievals for GPM (IMERG) algorithm is designed to leverage the international constellation of precipitation-relevant satellites to create a long record of uniformly time/space gridded precipitation estimates for the globe. The algorithm is focused on creating the best estimate at each time step, meaning that it is not a Climate Data Record, although the ideal is as homogenous a record as possible.     
+                        
+
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    ON-LINE ARCHIVE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Access the data via FTP 
+                            
+
+                        
+			
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    SSW
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Simple Subset Wizard 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    MIRADOR
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Mirador (from Spanish, a place providing a wide view) is a Google-based data archive search interface that allows searching, browsing, and retrieving of Earth science data at NASA GES DISC 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    GIOVANNI
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Online visualization and analysis 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    OPENDAP DATA (DODS)
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Access the data via the OPeNDAP protocol 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    REVERB
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Search and retrieve data with Reverb ECHO 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                GPM Project Home Page 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                 > 
+                                                    USER'S GUIDE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                README Document 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                 > 
+                                                    PI DOCUMENTATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Documents from George Huffman 
+                            
+
+                        
+			
+                        
+                    
+		    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 90.0
+                                
+                            	 	
+                                
+                                    S: -90.0
+                                
+                            	 	
+                                
+                                    E: 180.0
+                                
+                            	 	
+                                
+                                    W: -180.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            George Huffman
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Title: 
+                            GPM Level 3 IMERG Monthly 0.1 x 0.1 degree
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Series Name: 
+                            GPM_3IMERGM
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Release Date: 
+                            2015-01-15
+                         
+
+                    
+                    
+                    
+                        
+                            Dataset Release Place: 
+                            Greenbelt, MD
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            Goddard Space Flight Center Distributed Active Archive Center (GSFC DAAC)
+                        
+
+                    
+                    
+                    
+                        
+                            Version: 
+                            03
+                        
+
+                    
+                    
+                    
+
+
+                    
+                    
+                    
+                        
+                            Data Presentation Form: 
+                            Digital Science Data
+                        
+
+                    
+
+                    
+
+                    
+                       
+                          
+                               Dataset DOI: 
+                                
+                                
+                                 10.5067/GPM/IMERG/MONTH
+                                  
+                           
+
+                       
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        http://disc.gsfc.nasa.gov/datacollection/GPM_3IMERGM_V03.html
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        2014-03-12
+                    
+
+                
+                
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > TROPICS
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Data Resolution
+
+        
+        
+        
+            
+            
+
+            
+                Latitude Resolution:
+                0.1 degree
+                
+
+            
+
+            
+                Longitude Resolution:
+                0.1 degree
+                
+
+            
+
+            
+
+            
+
+            
+
+            
+                Temporal Resolution:
+                Monthly
+                
+
+            
+
+            
+
+	    
+
+                
+
+                
+		
+
+            
+        
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                PRECIPITATION
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                PRECIPITATION
+                            
+                            
+                                >
+                                PRECIPITATION AMOUNT
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+                        
+                	
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                PRECIPITATION
+                            
+                            
+                                >
+                                PRECIPITATION RATE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                PRECIPITATION
+                            
+                            
+                                >
+                                RAIN
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                PRECIPITATION
+                            
+                            
+                                >
+                                SNOW
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    GPM
+                                    
+                                        >
+                                        Global Precipitation Measurement
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+		    
+                
+
+
+    
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            GMI
+                            
+                                >
+                                Global Precipitation Measurement Microwave Imager
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            DPR
+                            
+                                >
+                                Dual-frequency Precipitation Radar
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+                    
+                
+            
+                
+                    
+                        
+                            PR
+                            
+                                >
+                                TRMM Precipitation Radar
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            TMI
+                            
+                                >
+                                TRMM Microwave Imager
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            AMSR-E
+                            
+                                >
+                                Advanced Microwave Scanning Radiometer-EOS
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            SSMI
+                            
+                                >
+                                Special Sensor Microwave/Imager
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            AMSR2
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            ATMS
+                            
+                                >
+                                Advanced Technology Microwave Sounder
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            MHS
+                            
+                                >
+                                Microwave Humidity Sounder
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            SAPHIR
+                            
+                                >
+                                Sondeur Atmosphérique du Profil d'Humidité Intertropicale par Radiométrie
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+	    
+                
+
+                
+                    
+            
+        
+
+
+    
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            GPM
+                            
+                                >
+                                Global Precipitation Measurement
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Quality
+        
+            Performance and Known Issues (for more details and figures, see the release notes at, http://pmm.nasa.gov/sites/default/files/document_files/IMERG_FinalR... 
+ 
+ The preliminary analysis during beta testing may be summarized as follows: 
+ 
+ a) The half-hourly maps are appealing and show reasonable continuity. As an  ... example, a 3-day movie is posted at ftp://meso.gsfc.nasa.gov/agnes/huffman/3IMERGHH_20140601-03_3vid.qt. In large part, this performance reflects the forward-backward morphing scheme, as well as the use of a consistent algorithm for all input data sets. On the other hand, we do see “flashing” as the different sensors give different views of the same precipitation systems, particularly at high latitudes. What remains to be demonstrated at this fine scale is the fidelity of the resulting statistics, including fraction of the time precipitating and the precipitation rate histogram. We believe that continued algorithm development for GPROF2014, as well as the future use in IMERG of proper climatological calibrations of partner imagers and sounders to GMI, will improve the agreement between successive satellite overpasses and provide more coherent precipitation estimates. 
+ 
+ b) At the monthly scale (Fig. 1), IMERG (top) has a close resemblance to the monthly TRMM Multi-satellite Precipitation Analysis, product 3B43 (bottom), for June 2014. [IMERG is averaged up to the 0.25° lat./long. native grid for 3B43.] Over land the agreement is not surprising; the monthly pattern is strongly influenced by the precipitation gauge analysis, the same analysis is used in both (from the Global Precipitation Climatology Centre), and the same satellite-gauge combination procedure is used, although at the different resolutions of the final products. 
+ 
+ c) On the other hand, IMERG is smoother than 3B43 over ocean, mostly at higher latitudes. This was a goal for IMERG, which provides estimates every half hour, versus the 3-hourly interval for the satellite data contributing to 3B43. 
+ 
+ d) In both maps, land and coastal regions show blockiness in some areas, such as the southern coast of Jamaica, the eastern coast of Brazil, and the southwestern coast of Australia. This appears to happen when there are mismatches between gauge and satellite mean values, and points to the need for a more careful treatment of the satellite-gauge combination. 
+ 
+ e) The monthly high-latitude IMERG precipitation over oceans displays some minor blockiness and some latitudinal noise; this is perhaps a result of mismatches in the spatial scales of the various calibrations currently applied. For the most part this is at latitudes outside the 3B43 domain of 50°N-S. 
+ 
+ f) Both products display “picture frames” of low values in some near-coastal oceanic areas, including the eastern coast of Africa and the southern coast of Madagascar. This largely reflects the performance of GPROF2014 and its processor version for imagers. 
+ 
+ g) Both products occasionally show anomalously high values over some inland water bodies, again due to GPROF performance. 
+ 
+ h) The monthly IMERG precipitation field has values in some areas above latitude 60°N (masked out in Fig. 1). These values are strictly precipitation gauge analysis, lacking satellite data. For this release we haven’t restricted the latitude range of the output to 60°N-S, but these values should not be used. On the other hand, the fields related to the microwave data, including HQprecipitation, HQprecipSource, and HQobservationTime, are meaningful over the entire global domain. 
+ 
+ i) Considering a somewhat arbitrarily chosen day from the middle of the month (June 2014) shown in Fig. 1, Fig. 2 compares the daily accumulation of IMERG and 3B42 (the 3-hourly counterpart to 3B43) over the coterminous U.S. (CONUS) to the NOAA Multi-Radar Multi-Sensor (MRMS) analysis. IMERG and MRMS are averaged up to the 0.25° lat./long. native grid for 3B42. The rain band stretching from Wisconsin to Kansas is better depicted by IMERG, although it overdoes the feature in northern Minnesota. In some cases the two satellite schemes look more like each other than the MRMS, including Montana and Maine. As well, both satellite maps display the major advantage of such data sets: the precipitation system over the Atlantic doesn’t end at the edge of the collection of radar umbrellas used in MRMS. 
+ 
+ j) Fig. 3 compares the three data sets as PDFs and CDFs of 3-hourly, 0.25°-gridbox averages for all available data in CONUS in June 2014. As expected, IMERG is considerably closer to MRMS for precipitation occurrence, and more modestly better for precipitation volumes. 
+ 
+ k) This improvement at the fine spatial scale carries over to improved performance by IMERG in 3-hourly, CONUS-wide averages. Fig. 4 shows the scatter plots for all three data sets over the 4-month period April-July 2014. Most statistics improve, notably the RMSE and correlation, but IMERG shows the same tendency as 3B42 to have a high bias for high precipitation rates. This is consistent with the fact that both satellite products have higher occurrences of high-end rain rates than MRMS in Fig. 3. It remains for detailed validation to demonstrate the degree to which these improvements arise from improvements in the input data set retrievals, compared to improvements in the multi-satellite merger procedures. 
+ 
+ A few additional comments are in order based on IMERG’s structure: 
+ 
+ • Calibrations tend to be monthly (or longer) to ensure stability, but fast-changing weather patterns might introduce variations that such calibrations cannot well represent. 
+ • The morphing scheme used to time-interpolate between microwave sensor overpasses essentially uses linear interpolation. Particularly as the time between overpasses becomes more than about two hours, the morphed and actual evolution of precipitation can diverge significantly, and the use of IR data in these cases introduces lower-quality data. 
+ • The IR-based displacement vectors used in morphing are not guaranteed to reproduce the actual motions of precipitation systems. This is certainly true at scales below about 2.5° of latitude/longitude and when the motions of IR-sensed cloud tops are not well-coupled to the motions of lower-altitude precipitation features. 
+ • Morphing will propagate the error in a microwave retrieval along with the “good” precipitation signal, creating correlated error at nearby times. 
+ 
+ Other cautions arise from the input data used: 
+ • Current-generation microwave algorithms work best over tropical ocean and progressively less well over mid-latitude ocean, tropical land, mid-latitude land, regions of complex topography, and regions with frozen surface. 
+ • Over land the liquid-sensing capabilities of the emission signal in the lower-frequency channels cannot be used in current-generation algorithms, reducing the potential skill of algorithms. 
+ • The retrievals make estimates over many snowy or icy surfaces, but are necessarily lower in skill in those regions. 
+ • In regions of complex terrain a variable amount of precipitation enhancement and suppression take place in the liquid phase. Such variations cannot be detected by the high-frequency channels, so skill will be lower in these areas. 
+ 
+ The error estimates contained in the IMERG Day-1 datasets are a first approximation and should be used with caution. Development work being done in the GPM science team and elsewhere holds promise for upgrades to error estimation in later releases. In common with all fine-scale precipitation datasets, the validation statistics for IMERG are relatively modest at full resolution. Averaging to progressively larger time/space data cubes results in improved error characteristics. We choose to release relatively uncertain estimates at these fine scales to allow the users to craft averages appropriate to their particular studies. This can include, for example, streamflow in sufficiently large basins, which implicitly average the data. 
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Access Constraints
+        
+            None 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Use Constraints
+        
+            The *data access policy* is "freely available" with three common-sense caveats: 
+ 
+ 1. The data set source should be acknowledged when the data are used. If the original data sets are used, this amounts to quoting the IMERG DOI (see the DOI topic for the correct value). If one of the value-added data sets that lacks a DOI is used, a formal reference  ... of the form 
+ 
+ Huffman, G.J., E.F. Stocker, D.T. Bolvin, E.J. Nelkin, 2014, last updated 2014: 
+ [value-added dataset identifier] Data Sets. NASA/GSFC, Greenbelt, MD, USA, 
+ [archive site – PPS or GES DISC], Accessed [enter user data access date] at [data landing page URL]. 
+ 
+ 
+ is suggested following Parsons et al. (2010), based on the International Polar Year (IPY) data policy guidelines (http://www.ipy.org/images/uploads/final_ipy_data_policy-1.pdf). 
+ 
+ As an “Acknowledgment”, one possible wording is: "The IMERG data were provided by the NASA/Goddard Space Flight Center's Mesoscale Atmospheric Processes Laboratory and PPS, which develop and compute IMERG as a contribution to GPM, and archived at the NASA [PPS or GES DISC]." 
+ 
+ 2. New users are urged to obtain their own current, clean copy from an official archive, rather than taking a version from a third party that might be damaged or out of date. 
+ 
+ 3. Errors and difficulties in the original datasets should be reported to the dataset creators. 
+ 
+ Access and format issues at third-party sites should be directed to their contacts. 
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            Atmosphere, Precipitation, Hydrology
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            IN WORK
+        
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        Precipitation Processing System (PPS)
+                    
+                
+
+                
+            
+	    
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Goddard Earth Sciences Data and Information Services Center (formerly Goddard DAAC), Global Change Data Center, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center, NASA
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://disc.gsfc.nasa.gov/
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    
+                                                    
+                                                    GES DISC HELP DESK SUPPORT GROUP
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            301-614-5224
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            301-614-5268
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            gsfc-help-disc at lists.nasa.gov
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        Goddard Earth Sciences Data and Information Services Center
+
+                                                                    
+                                                                        Code 610.2
+
+                                                                    
+                                                                        NASA Goddard Space Flight Center
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Greenbelt
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                MD
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                20771
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    FTP
+                
+
+            
+            
+            
+                
+                    Distribution Size: 
+                    Approx 30.0 MB per file
+                
+
+            
+            
+            
+                
+                    Distribution Format: 
+                    HDF5
+                
+
+            
+            
+            
+                
+                    Fees: 
+                    None
+                
+
+            
+
+            
+                
+                
+                
+		
+            
+        
+
+    
+
+
+ 
+          
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        GEORGE
+                        
+                        HUFFMAN
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                301-614-6308
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                301-614-5492
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                George.J.Huffman at nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                NASA Goddard Space Flight Center
+
+                                            
+                                                Mailstop 612
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Greenbelt
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    MD
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    20771
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                 
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        DANA
+                        
+                        OSTRENGA
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                301-614-5475
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                301-614-5268
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                dana.ostrenga at nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Code 610.2 Bldg 32 Rm S151
+
+                                            
+                                                NASA Goddard Space Flight Center
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Greenbelt
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    MD
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    21230
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        ZHONG
+                        
+                        LIU
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                Zhong.Liu-1 at nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                NASA
+
+                                            
+                                                Goddard Space Flight Center
+
+                                            
+                                                Mailstop 610.2
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Greenbelt
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    MD
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    20771
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+            
+             
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            Release document: 
+ http://pmm.nasa.gov/sites/default/files/document_files/IMERG_FinalR... 
+ 
+ Technical document: 
+ http://pmm.nasa.gov/sites/default/files/document_files/IMERG_doc.pdf 
+ 
+ Algorithm Theoretical Basis Document (ATBD): 
+ http://pmm.nasa.gov/sites/default/files/document_files/IMERG_ATBD_V... 
+ 
+ GPM/PPS File Specifications 3IMERGHH and 3IMERGM: ftp://gpmweb2.pps.eosdis.nasa.gov/pub/GPMfilespec/filespec.GPM.V1.pdf 
+
+Hong, Y., K. L. Hsu, S. Sorooshian, and X. Gao, 2004: Precipitation Estimation from Remotely Sensed Imagery Using an Artificial Neural Network Cloud Classification System. J. Appl. Meteorol. 43, 1834-1852. 
+
+Huffman, G. J., R. F. Adler, D. T. Bolvin, G. Gu, E. J. Nelkin, K. P. Bowman, Y. Hong, E. F. Stocker, and D. B. Wolff, 2007: The TRMM Multi-satellite Precipitation Analysis: Quasi-Global, Multi-Year, Combined-Sensor Precipitation Estimates at Fine Scale. J. Hydrometeor., 8(1), 38-55. 
+
+Joyce, R. J., P. Xie, and J. E. Janowiak, 2011: Kalman Filter Based CMORPH. J. Hydrometeor., 12, doi:10.1175/JHM-D-11-022.1, 1547-1563. 
+
+Rudolf, B., and U. Schneider, 2005: Calculation of Gridded Precipitation Data for the Global Land-Surface Using In-Situ Gauge Observations. Proc. of the 2nd Internat. Precip. Working Group Workshop, 25-28 October 2004, Monterey, CA, 231-247. 
+
+
+
+        
+    
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Extended Metadata Properties
+
+        
+            
+            (Click to view more)
+        
+
+        
+            
+
+            
+
+            
+                Extended Metadata Properties From GCMD
+
+                metadata.extraction_date: 2015-02-16 03:55:26
+metadata.keyword_version: 8.0
+metadata.uuid: e382f218-a643-4572-aad1-3e61b959c2e2
+
+            
+        
+
+    
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+            
+                DIF Creation Date:
+                2014-06-11
+            
+
+        
+        
+            
+                Last DIF Revision Date:
+                2015-02-12
+            
+
+        
+        
+            
+                Future DIF Review Date: 
+                2015-01-15
+            
+
+        
+    
+
+ 
+ 
+
+             
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                Reformat as ISO 19115 document
+            
+        
+    
+
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                              
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+        
+
+
+
+
+
+    
+
+
+
+
+                    
+                    
+                
+
+            
+
+            
+
+        
+
+    
+
+    
+    
+
+    
+
+
+
+
+
+
+
+
+    
+        	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+   
+
+
+
+
+    
+        	
+            
+        
+            + 
+                NASA Privacy Policy and Important Notices 
+
+
+    
+
+    
+    
+        
+            
+                
+        
+
+        	
+                Webmaster:
+                Monica Lyles
+            
+	
+                Responsible NASA Official:
+                Dr. Stephen Wharton
+            
+	Last updated: February 2015
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+

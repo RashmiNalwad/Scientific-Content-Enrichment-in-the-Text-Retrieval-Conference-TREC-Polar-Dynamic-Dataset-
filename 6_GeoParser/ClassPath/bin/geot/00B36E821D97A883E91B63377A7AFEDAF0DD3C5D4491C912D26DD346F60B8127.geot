@@ -1,0 +1,2973 @@
+
+
+
+    	
+                 
+
+            	
+                 
+
+            	
+                 
+
+            
+	
+                 
+
+            	
+                 
+
+            	
+                 
+
+            
+	
+        	
+                    
+                    	
+                                
+                            	
+                                  + Visit NASA.gov
+                            
+
+
+                
+
+
+    
+	
+        	
+                    
+                    
+                
+		
+                    
+                        Links 
+                    
+                    
+                    FAQ
+                    
+                    Contact Us
+                    
+                    Site Map
+                 
+
+
+    
+	
+
+
+		
+																			
+																			
+
+
+
+
+
+	
+                
+                    
+
+
+
+
+
+
+		
+	
+	
+	
+                
+            	
+                
+                    Agriculture
+                
+            
+	
+	
+                
+            	
+                
+                    Atmosphere
+                
+            
+	
+	
+                
+            	
+                
+                    Biological Classification
+                
+            
+	
+	
+                
+            	
+                
+                    Biosphere
+                
+            
+	
+	
+                
+            	
+                
+                    Climate Indicators
+                
+            
+	
+	
+                
+            	
+                
+                    Cryosphere
+                
+            
+	
+	
+                
+            	
+                
+                    Human Dimensions
+                
+            
+	
+	
+                
+            	
+                
+                    Land Surface
+                
+            
+	
+	
+                
+            	
+                
+                    Oceans
+                
+            
+	
+	
+                
+            	
+                
+                    Paleoclimate
+                
+            
+	
+	
+                
+            	
+                
+                    Solid Earth
+                
+            
+	
+	
+                
+            	
+                
+                    Spectral/Engineering
+                
+            
+	
+	
+                
+            	
+                
+                    Sun-Earth Interactions
+                
+            
+	
+	
+                
+            	
+                
+                    Terrestrial Hydrosphere
+                
+            
+	
+	
+
+	
+		
+            Data Centers
+        
+	
+		
+            Locations
+        
+	
+		
+            Instruments/Sensors
+        
+	
+		
+            Platforms/Sources
+        
+	
+		
+            Projects
+        
+	
+	
+
+	
+	
+
+		
+            Full text Search
+        
+
+
+	
+
+	
+		Portal 
+          Collaborations  
+	
+
+	
+		
+            Questions?
+        
+
+
+
+                
+
+            
+            	
+                 
+
+                 
+
+                
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+Record Search Query:
+Science Keywords>CLIMATE INDICATORS
+
+
+	
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        
+            
+                GLDAS Noah Land Surface Model L4 monthly 0.25 x 0.25 degree V020 (GLDAS_NOAH025_M) at GES DISC
+            
+        
+
+        
+        
+            Entry ID:
+            
+                GES_DISC_GLDAS_NOAH025_M_V020
+            
+            
+
+            
+
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+        
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+        
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            Global Land Data Assimilation System Version 2 (hereafter, GLDAS-2) has two components: one forced entirely with the Princeton meteorological forcing data (hereafter, GLDAS-2.0), and the other forced with a combination of model and observation based forcing data sets (hereafter, GLDAS-2.1). 
+ 
+ This data set, GLDAS-2.0 0.25 degree monthly generated through temporal averaging of the 3-hourly data,  ... contains a series of land surface parameters simulated from the Noah Model 3.3, currently covers from 1948 to 2010 and will be extended to recent years as the data set becomes available. 
+ 
+ The model simulation was initialized on simulation date January 1, 1948, using soil moisture and other state fields from the LSM climatology for that day of the year. The simulation was forced by the global meteorological forcing data set from Princeton University (Sheffield et al., 2006). The simulation used the common GLDAS data sets for land cover (MCD12Q1: Friedl et al., 2010), land water mask (MOD44W: Carroll et al., 2009), soil texture (Reynolds, 1999), and elevation (GTOPO30). The MODIS based land surface parameters are used in the current GLDAS-2.x products while the AVHRR base parameters were used in GLDAS-1 and previous GLDAS-2 products (prior to October 2012). 
+ 
+ The main objective for Version 2 is to create more climatologically consistent data sets using the Princeton forcing data sets extending from 1948. In Version 1, forcing sources switched several times throughout the record from 1979 to present, which introduced unnatural trends and exhibited highly uncertain forcing fields in 1995-1997. Other enhancements made in Version 2 include model version upgrade, switching to MODIS based land surface parameter data sets, and initialization of soil moisture over desert. In NOAH model, the bottom layer temperature data set was also updated. More details regarding the land surface parameter data changes at http://ldas.gsfc.nasa.gov/gldas/. 
+ 
+ WGRIB or other GRIB reader is required to read the files. The data set applies a user-defined parameter table to indicate the contents and parameter numbers. The GRIBTAB file (http://disc.sci.gsfc.nasa.gov/hydrology/grib_tabs/gribtab_GLDAS_V2.txt) shows a list of parameters for this data set, along with their Product Definition Section (PDS) IDs and units. 
+ 
+ There are four vertical levels for the Soil Moisture (PDS 086) and Soil Temperature (PDS 085) in the Noah GRIB files. For more information, please see the README Document at http://hydro1.sci.gsfc.nasa.gov/data/s4pa/GLDAS/GLDAS_NOAH025_3H.02... or the GrADS ctl file at ftp://hydro1.sci.gsfc.nasa.gov/data/gds/GLDAS/GLDAS_NOAH025_M.020.ctl. 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+    
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    ON-LINE ARCHIVE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Access the data via FTP. 
+                            
+
+                        
+                        
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    MIRADOR
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Mirador (from Spanish, a place providing a wide view) is a Google-based data archive search interface that allows searching, browsing, and retrieving of Earth science data at NASA GES DISC. 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    REVERB
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Search and retrieve data with Reverb ECHO 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    GIOVANNI
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                The GES-DISC Interactive Online Visualization ANd aNalysis Interface (Giovanni) is a web-based tool that allows users to analyze gridded data interactively online without having to download any data. 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    GDS
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                The GrADS Data Server (GDS, formerly known as GrADS-DODS Server) is another form of OPeNDAP that provides subsetting and some analysis services across the internet. 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW EXTENDED METADATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                The GRIBTAB file contains a list of variables, along with the GRIB Product Definition Section (PDS) ID, variable short name, long name, and unit. 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW EXTENDED METADATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                The Grid Analysis and Display System (GrADS) data descriptor file contains a complete description of the binary data as well as instructions for GrADS on where to find the data and how to read it. 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                 > 
+                                                    USER'S GUIDE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                README document 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                GLDAS Project Web Site 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                 > 
+                                                    HOW-TO
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                GES DISC Services Cookbook main page 
+                            
+
+                        
+                        
+                        
+                    
+                    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                
+            
+        
+    
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+	Multimedia Sample
+
+            
+                
+
+                    
+                        
+                            
+View full image 
+
+                            
+                               Caption:  
+                                 Average 0-10 cm Soil Moisture
+                               
+
+
+                            
+                            
+                             
+                               Description:  
+                                  GLDAS-2.0 Noah Monthly 0.25 degree Average Layer 1 (0-10 cm) Soil Moisture Jan. 1948 [kg/m2]
+                               
+
+
+
+                            
+                        
+                    
+                
+            
+        	 	
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                
+            
+        
+    
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 90.0
+                                
+                            	 	
+                                
+                                    S: -60.0
+                                
+                            	 	
+                                
+                                    E: 180.0
+                                
+                            	 	
+                                
+                                    W: -180.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+        
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            Matthew Rodell and Hiroko Kato Beaudoing, NASA/GSFC/HSL
+                        
+
+                    
+
+                    
+                        
+                            Dataset Title: 
+                            GLDAS Noah Land Surface Model L4 monthly 0.25 x 0.25 degree Version 2.0
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Series Name: 
+                            GLDAS_NOAH025_M
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Release Date: 
+                            12.01.2013
+                         
+
+                    
+                    
+                    
+                        
+                            Dataset Release Place: 
+                            Greenbelt, Maryland, USA
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            Goddard Earth Sciences Data and Information Services Center (GES DISC)
+                        
+
+                    
+
+                    
+                        
+                            Version: 
+                            020
+                        
+
+                    
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Data Presentation Form: 
+                            Digital Science Data
+                        
+
+                    
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        http://disc.sci.gsfc.nasa.gov/datacollection/GLDAS_NOAH025_M_V020.s...
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1948-01-01
+                    
+
+                
+                
+                
+                
+            
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > ARCTIC
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > GLOBAL
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > POLAR
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Data Resolution
+
+        
+        
+        
+            
+            
+
+            
+                Latitude Resolution:
+                0.25 degree
+                
+
+            
+
+            
+                Longitude Resolution:
+                0.25 degree
+                
+
+            
+
+            
+
+            
+
+            
+
+            
+                Temporal Resolution:
+                monthly
+                
+
+            
+
+            
+
+            
+
+                
+
+                
+                
+
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC PRESSURE
+                            
+                            
+                                >
+                                SURFACE PRESSURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC RADIATION
+                            
+                            
+                                >
+                                HEAT FLUX
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC RADIATION
+                            
+                            
+                                >
+                                LONGWAVE RADIATION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC RADIATION
+                            
+                            
+                                >
+                                SHORTWAVE RADIATION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC TEMPERATURE
+                            
+                            
+                                >
+                                SURFACE AIR TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC WATER VAPOR
+                            
+                            
+                                >
+                                EVAPOTRANSPIRATION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC WATER VAPOR
+                            
+                            
+                                >
+                                HUMIDITY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC WINDS
+                            
+                            
+                                >
+                                SURFACE WINDS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                PRECIPITATION
+                            
+                            
+                                >
+                                RAIN
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                PRECIPITATION
+                            
+                            
+                                >
+                                SNOW
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                LAND SURFACE
+                            
+                            
+                                >
+                                LAND TEMPERATURE
+                            
+                            
+                                >
+                                LAND SURFACE TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                LAND SURFACE
+                            
+                            
+                                >
+                                SOILS
+                            
+                            
+                                >
+                                SOIL MOISTURE/WATER CONTENT
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                LAND SURFACE
+                            
+                            
+                                >
+                                SOILS
+                            
+                            
+                                >
+                                SOIL TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                TERRESTRIAL HYDROSPHERE
+                            
+                            
+                                >
+                                SNOW/ICE
+                            
+                            
+                                >
+                                SNOW WATER EQUIVALENT
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                TERRESTRIAL HYDROSPHERE
+                            
+                            
+                                >
+                                SURFACE WATER
+                            
+                            
+                                >
+                                RUNOFF
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                CLIMATE INDICATORS
+                            
+                            
+                                >
+                                ATMOSPHERIC/OCEAN INDICATORS
+                            
+                            
+                                >
+                                HUMIDITY INDICES
+                            
+                            
+                                >
+                                HUMIDITY INDEX
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+                    
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    Noah-LSM
+                                    
+                                        >
+                                        Noah Land Surface Model
+                                    
+                                
+                            
+                        
+                        
+
+                        
+                    
+                    
+                
+
+
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            EOSDIS
+                            
+                                >
+                                Earth Observing System Data Information System
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            ESIP
+                            
+                                >
+                                Earth Science Information Partners Program
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GLDAS
+                            
+                                >
+                                Global Land Data Assimilation System
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Quality
+        
+            The data are provisional and subject to change as model improvements are implemented and new input data sets become available. Due to the fact that forcing data for Greenland are unreliable and the lack of a glacier/ice sheet model, snow water equivalent accumulates indefinitely in Greenland and a few other Arctic points. Therefore it is highly recommended that Greenland and other points with abnormally large snow water equivalent values be masked out when performing global analyses. 
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Access Constraints
+        
+            None 
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Use Constraints
+        
+            None 
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            Hydrology
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            IN WORK
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        NASA/GSFC/HSL
+                    
+                
+
+                
+                
+            
+            
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Goddard Earth Sciences Data and Information Services Center (formerly Goddard DAAC), Global Change Data Center, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center, NASA
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://disc.gsfc.nasa.gov/
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    
+                                                    
+                                                    GES DISC HELP DESK SUPPORT GROUP
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            301-614-5224
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            301-614-5268
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            gsfc-help-disc at lists.nasa.gov
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        Goddard Earth Sciences Data and Information Services Center
+
+                                                                    
+                                                                        Code 610.2
+
+                                                                    
+                                                                        NASA Goddard Space Flight Center
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Greenbelt
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                MD
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                20771
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    Online (HTTP)
+                
+
+            
+            
+            
+            
+            
+                
+                    Distribution Format: 
+                    GRIB
+                
+
+            
+            
+            
+                
+                    Fees: 
+                    No Fee
+                
+
+            
+            
+            
+                
+                
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        
+                        
+                        GES DISC HELP DESK SUPPORT GROUP
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                301-614-5224
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                301-614-5268
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                gsfc-help-disc at lists.nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Goddard Earth Sciences Data and Information Services Center
+
+                                            
+                                                Code 610.2
+
+                                            
+                                                NASA Goddard Space Flight Center
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Greenbelt
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    MD
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    20771
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        HUALAN
+                        
+                        RUI
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                301-614-5200
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                301-614-5268
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                Hualan.Rui at nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Goddard Earth Sciences Data and Information Services Center
+
+                                            
+                                                Code 610.2
+
+                                            
+                                                NASA Goddard Space Flight Center
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Greenbelt
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    MD
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    20771
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+            
+            
+            
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            Rodell, M., P. R. Houser, U. Jambor, J. Gottschalck, K. Mitchell, C.-J. Meng, K. Arsenault, B. Cosgrove, J. Radakovich, M. Bosilovich, J. K. Entin, J. P. Walker, D. Lohmann, and D. Toll, The Global Land Data Assimilation System, Bull. Amer. Meteor. Soc., 85(3): 381-394, 2004. 
+
+        
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Extended Metadata Properties
+
+        
+            
+            (Click to view more)
+        
+
+        
+            
+
+            
+
+            
+                Extended Metadata Properties From GCMD
+
+                metadata.extraction_date: 2015-02-19 11:41:14
+metadata.keyword_version: 8.0
+metadata.uuid: 39f7241c-91f9-483f-801f-2898ea94309e
+
+            
+        
+
+    
+
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+            
+                DIF Creation Date:
+                2013-09-24
+            
+
+        
+        
+            
+                Last DIF Revision Date:
+                2014-10-27
+            
+
+        
+        
+            
+                Future DIF Review Date: 
+                2015-05-01
+            
+
+        
+    
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                 Reformat as ISO 19115 document
+            
+        
+    
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+
+            
+                Bookmark URL
+                Alternate URL
+            
+
+            
+
+        
+
+
+
+
+
+
+
+                    
+                
+            
+	
+        
+            	
+                        
+                    	
+                        
+                            
+                    	
+                        
+                    	
+                        
+                            
+                                + Privacy Policy and Important Notices
+                        
+
+                    	
+                        
+                    	
+                        
+                            
+                    	
+                        
+                            Webmaster: 
+                            Monica Lyles
+                        
+
+                        
+                            Responsible NASA Official: 
+                            Dr. Stephen Wharton
+                        
+
+                        Last Updated:  February 2015
+
+                    
+	
+                        
+                    
+
+
+            
+
+
+
+
+
+    
+
+
+
+
+
+            
+        
+
+    
+	
+                 
+
+            
+	
+                 
+
+            	
+                 
+
+            	
+                 
+
+            
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+

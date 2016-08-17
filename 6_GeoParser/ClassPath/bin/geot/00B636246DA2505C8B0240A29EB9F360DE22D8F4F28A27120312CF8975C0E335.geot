@@ -1,0 +1,1776 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords>AGRICULTURE>AGRICULTURAL AQUATIC SCIENCES>FISHERIES
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                DFO Maritimes Research Vessel Trawl Surveys Fish Observations (OBIS Canada)
+            
+        
+
+        
+        
+            Entry ID:
+            
+                OBIS.DFOgfsDBfish
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+        
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            This is the OBIS-formatted view of the Canadian Department of Fisheries and Oceans (DFO) Maritimes Research Vessel Trawl Surveys. This data is created using a Structured Query Language (SQL) program run against the DFO production database. Refer to the parent metadata record for more information about the surveys. 
+ 
+ This OBIS product reports the abundance and weight of demersal fish species  ... captured by a variety of trawl gear and vessles. Catch data appear in the "observedindividualcount" and "observedweight" OBIS fields and have been normalised for distance towed. The swept area of each tow can be found in the "samplesize" field of the OBIS schema. Care should be taken when using multiple types of gear since the catchability of different fish species varies from gear to gear. The OBIS field "locality" contains the DFO stratum number where each tow was conducted. The OBIS field "collectioncode" identifies which survey series each data record comes from. Strata statistics required to derive stratified random estimates of catch abundance and biomass can be found on the OBISCanada website or upon request. 
+    
+                        
+
+                    
+                    
+                        
+                            
+
+                            Purpose: 
+                            OBIS-formatted data from Canadian Department of Fisheries and Oceans (DFO) Maritimes Research Vessel Trawl Surveys. 
+ 
+ OBIS Schema fields implemented in this data set are: 
+ InstitutionCode, CatalogNumber, Citation, FieldNumber, collector, YearCollected, MonthCollected, DayCollected, TimeOfDay, startYearCollected, startMonthCollected, startDayCollected, startTimeOfDay, endYearCollected,  ... endMonthCollected, endDayCollected, endTimeOfDay, ContinentOcean, locality, StartLatitude, StartLongitude, EndLatitude, EndLongitude, Latitude, Longitude, MinimumDepth, MaximumDepth, Temperature, samplesize, ScientificName, kingdom, phylum, class, order, family, genus, species, ObservedWeight, ObservedIndividualCount 
+ 
+ 
+ Additional fields that can be provided upon request: 
+ gear, geardescription, MINIMUMSIZE, MAXIMUMSIZE, AVERAGESIZE, AVERAGESIZE5CM 
+    
+                        
+
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                iOBIS mapper for this dataset
+ Get Data for DFO Maritimes Research Vessel Trawl Surveys Fish Observations (OBIS Canada). 
+                            
+
+                        
+			
+                        
+                    
+		    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+                
+            
+            
+                
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 47.85
+                                
+                            	 	
+                                
+                                    S: 39.97
+                                
+                            	 	
+                                
+                                    E: -56.49
+                                
+                            	 	
+                                
+                                    W: -69.98
+                                
+                            
+	
+                            
+                                
+                                
+                                
+                            
+                        
+	
+                            
+                                
+                                    Min Depth:
+                                    10 FATHOMS
+                                
+                                
+                                
+                                    
+                                        Max Depth:
+                                        440 FATHOMS
+                                    
+                                
+                            
+                        
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            Clark, D. and Branton, B.
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Title: 
+                            DFO Maritimes Research Vessel Trawl Surveys
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Series Name: 
+                            OBIS Canada Digital Collections
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Release Date: 
+                            2007
+                         
+
+                    
+                    
+                    
+                        
+                            Dataset Release Place: 
+                            Bedford Institute of Oceanography, Dartmouth, Nova Scotia, Canada
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            OBIS Canada
+                        
+
+                    
+                    
+                    
+                        
+                            Version: 
+                            1
+                        
+
+                    
+                    
+                    
+
+
+                    
+                    
+                    
+                        
+                            Data Presentation Form: 
+                            Digital
+                        
+
+                    
+
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        http://www.iobis.org/
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1970-07-06
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        2007-03-20
+                    
+
+                
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > NORTH AMERICA
+                            
+                            
+                                > CANADA
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > NORTH AMERICA
+                            
+                            
+                                > UNITED STATES OF AMERICA
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > ATLANTIC OCEAN
+                            
+                            
+                                > NORTH ATLANTIC OCEAN
+                            
+                            
+                                > GULF OF MAINE
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > ATLANTIC OCEAN
+                            
+                            
+                                > NORTH ATLANTIC OCEAN
+                            
+                            
+                                > BAY OF FUNDY
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > NORTH AMERICA
+                            
+                            
+                                > CANADA
+                            
+                            
+                                > NOVA SCOTIA
+                            
+                            
+                            
+                                > SCOTIAN SHELF
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > ATLANTIC OCEAN
+                            
+                            
+                                > NORTH ATLANTIC OCEAN
+                            
+                            
+                                > GEORGES BANK
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+		
+                    
+
+                    
+                        
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                AGRICULTURE
+                            
+                            
+                                >
+                                AGRICULTURAL AQUATIC SCIENCES
+                            
+                            
+                                >
+                                FISHERIES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN TEMPERATURE
+                            
+                            
+                                >
+                                WATER TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+                        
+                	
+		
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN TEMPERATURE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                AQUATIC SCIENCES
+                            
+                            
+                                >
+                                FISHERIES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                AQUATIC SCIENCES
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                ANIMALS/VERTEBRATES
+                            
+                            
+                                >
+                                FISH
+                            
+                            
+                                >
+                                RAY-FINNED FISHES
+                            
+                            
+                            
+                        
+                    
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                ANIMALS/VERTEBRATES
+                            
+                            
+                                >
+                                FISH
+                            
+                            
+                                >
+                                SHARKS/RAYS/CHIMAERAS
+                            
+                            
+                            
+                        
+                    
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                ANIMALS/VERTEBRATES
+                            
+                            
+                                >
+                                FISH
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                ANIMALS/VERTEBRATES
+                            
+                            
+                                >
+                                FISH
+                            
+                            
+                                >
+                                LAMPREYS/HAGFISHES
+                            
+                            
+                            
+                        
+                    
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                ANIMALS/INVERTEBRATES
+                            
+                            
+                                >
+                                MOLLUSKS
+                            
+                            
+                                >
+                                CEPHALOPODS
+                            
+                            
+                            
+                        
+                    
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                ANIMALS/INVERTEBRATES
+                            
+                            
+                                >
+                                MOLLUSKS
+                            
+                            
+                                >
+                                CEPHALOPODS
+                            
+                            
+                                >
+                                SQUIDS
+                            
+                            
+                        
+                    
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                ANIMALS/INVERTEBRATES
+                            
+                            
+                                >
+                                TUNICATES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                ANIMALS/INVERTEBRATES
+                            
+                            
+                                >
+                                TUNICATES
+                            
+                            
+                                >
+                                SEA SQUIRTS
+                            
+                            
+                            
+                        
+                    
+                    
+                    
+
+		    
+		
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            BIOTA
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEANS
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    SHIPS
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+		    
+                
+
+
+    
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            TRAWL
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+	    
+        
+
+
+    
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            OBIS
+                            
+                                >
+                                OCEAN BIOGEOGRAPHIC INFORMATION SYSTEM
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            COML
+                            
+                                >
+                                CENSUS OF MARINE LIFE
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Access Constraints
+        
+            None. 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Use Constraints
+        
+            Acknowledge the use of specific records from contributing databases in the form 
+ appearing in the 'Citation' field thereof (if any); and acknowledge the use of 
+ the OBIS facility. 
+ 
+ For information purposes, email to obissupport@marine.rutgers.edu the full 
+ citation of any publication made (printed or electronic) that cites OBIS or any 
+ constituent part. 
+ 
+ Recognize the limitations of data in OBIS. http://iobis.org/data/policy/disclaimer for more details 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        Fisheries and Oceans Canada, Bedford Institute of Oceanography
+                    
+                
+
+                
+            
+	    
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                International Ocean Biogeographic Information System
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://www.iobis.org/
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    PHOEBE
+                                                    
+                                                    ZHANG
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            (732) 932-6555 x 503
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            54-2965-451543
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            phoebe at marine.rutgers.edu
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        Institute of Marine and Coastal Sciences
+
+                                                                    
+                                                                        Rutgers University
+
+                                                                    
+                                                                        71 Dudley Road
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                New Brunswick
+                                                            
+
+                                                        
+                                                        
+                                       
+
+
+
+
+
+
+
+
+
+
+
+
+

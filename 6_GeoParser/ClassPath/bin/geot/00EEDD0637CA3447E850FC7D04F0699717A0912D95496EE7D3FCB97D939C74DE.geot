@@ -1,0 +1,81 @@
+body{
+background-color: #fcfcfc;font-size: 14px;color: #2e2e2e;}
+body, input, textarea{
+font-family: "Ubuntu";}
+a{
+color: #005494;}
+a:hover{
+color: #0f0f0f;}
+blockquote {
+border-left: 2px solid #005494;}
+td,th { 
+border: 1px solid #e3e3e3;}
+input[type=text],input[type=password],input[type=submit],input[type=button], button
+{
+background: #e3e3e3;color: #575757;}
+input::-webkit-input-placeholder {
+color: #575757;}
+input:-moz-placeholder{
+color: #575757;}
+input:placeholder{
+color: #575757;}
+input[type=submit]:hover,input[type=button]:hover, button:hover{
+background: #005494;color: #080108;}
+/***** PRIMARY COLOR *****/
+.primary{
+background: #005494;color: #080108;}
+.primary a{
+color: #005494;}
+.primary a:hover{
+color: #005494;}
+a.primary, .boxlink_wrap a{
+color: #080108;}
+a.primary:hover,button.primary:hover,input[type="submit"].primary:hover,input[type="reset"].primary:hover,input[type="button"].primary:hover{
+	/* FROM ACCENT */
+background: #e3e3e3;color: #575757;}
+hr{
+background: #005494;}
+#topnav li a:hover,#topnav li.current_page_item a{
+background: #005494;color: #080108;}
+/***** ACCENT COLOR *****/
+.accent, .boxlink_wrap a{
+background: #e3e3e3;color: #575757;}
+.accent a{
+color: #383838;}
+.accent a:hover{
+color: #000000;}
+a.accent{
+color: #575757;}
+a.accent:hover,button.accent:hover, input[type="submit"].accent:hover, input[type="reset"].accent:hover, input[type="button"].accent:hover, .boxlink_wrap a:hover{
+	/* FROM PRIMARY */
+background: #005494;color: #080108;}
+#topnav li a{
+background: #e3e3e3;color: #575757;}
+/***** Emblematic *****/
+#emblematic div{
+background: #e3e3e3;}
+#emblematic div:nth-child(-n+4){
+background: #005494;}
+#emblematic:hover div{
+background: #e3e3e3;}
+/****** WIDGET ******/
+.widget ul li, div#calendar_wrap, .textwidget, .widget_nav_menu ul.menu{
+background: #005494;color: #080108;}
+.widget ul li a, div#calendar_wrap a, .widget_nav_menu ul.menu a{
+color: #005494;}
+.widget ul li a:hover, div#calendar_wrap a:hover, .widget_nav_menu ul.menu a:hover{
+color: #005494;}
+.widget_title{
+background: #e3e3e3;color: #575757;}
+
+#post-banner-9449{
+background-image: url(http://open.nasa.gov/wp-content/uploads/2014/12/Orion-header.png);width: 870px;}
+#post-banner-9449 .protean_banner_title{
+font-family: "Ubuntu";color: #ffffff;font-size: 26px;line-height: 1.5em;text-align: left;}
+#post-banner-9449 .protean_banner_title a,#post-banner-9449 .protean_banner_title a:hover{
+color: #ffffff;}
+#post-banner-9449 .protean_banner_subtitle{
+top: 4px;left: 475px;font-family: "Ubuntu";color: #ffffff;font-size: 14px;line-height: 1.5em;text-align: left;}
+#post-banner-9449 .protean_banner_fill span{
+}
+

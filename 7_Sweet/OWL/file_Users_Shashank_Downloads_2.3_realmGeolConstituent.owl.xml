@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>file:///Users/Shashank/Downloads/2.3/realmGeolConstituent.owl</title><link href="file_Users_Shashank_Downloads_2.3_realmGeolConstituent.owl_files/viewsource.css" type="text/css" rel="stylesheet"/></head><body style="-moz-tab-size: 4" class="highlight" id="viewsource" contextmenu="actions"><pre id="line1"><span/><span class="pi">&lt;?xml version="1.0" encoding="UTF-8"?&gt;</span><span>
+<span id="line2"/>
+<span id="line3"/></span><span class="error error doctype" title="Bogus doctype.
+Stray doctype.">&lt;!DOCTYPE rdf:RDF [
+<span id="line4"/>  &lt;!ENTITY con "http://sweet.jpl.nasa.gov/2.3/realmGeolConstituent.owl"&gt;</span><span>
+<span id="line5"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY crela "http://sweet.jpl.nasa.gov/2.3/relaChemical.owl"&gt;</span><span>
+<span id="line6"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY obj3d "http://sweet.jpl.nasa.gov/2.3/reprSpaceGeometry3D.owl"&gt;</span><span>
+<span id="line7"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY prop "http://sweet.jpl.nasa.gov/2.3/propChemical.owl"&gt;</span><span>
+<span id="line8"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY petr "http://sweet.jpl.nasa.gov/2.3/matrRock.owl"&gt;</span><span>
+<span id="line9"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY owl "http://www.w3.org/2002/07/owl#"&gt;</span><span>
+<span id="line10"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;</span><span>
+<span id="line11"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#"&gt;</span><span>
+<span id="line12"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY xsd "http://www.w3.org/2001/XMLSchema#"&gt;</span><span>
+<span id="line13"/>]&gt;
+<span id="line14"/>
+<span id="line15"/></span><span>&lt;<span class="start-tag">rdf:RDF</span> <span class="attribute-name">xml:base</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>con</span>;</a>"
+<span id="line16"/>         <span class="attribute-name">xmlns:crela</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>cr</span>ela;</a>"
+<span id="line17"/>         <span class="attribute-name">xmlns:petr</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>pe</span>tr;</a>"
+<span id="line18"/>         <span class="attribute-name">xmlns:prop</span>="<a class="attribute-value"><span class="entity"><span>&amp;</span>prop;</span></a>"
+<span id="line19"/>         <span class="attribute-name">xmlns:obj3d</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>o</span>bj3d;</a>"
+<span id="line20"/>         <span class="attribute-name">xmlns:con</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>con</span>;</a>"
+<span id="line21"/>         <span class="attribute-name">xmlns:owl</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>o</span>wl;</a>"
+<span id="line22"/>         <span class="attribute-name">xmlns:rdf</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>rd</span>f;</a>"
+<span id="line23"/>         <span class="attribute-name">xmlns:rdfs</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>rd</span>fs;</a>"
+<span id="line24"/> 	 <span class="attribute-name">xmlns:xsd</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;</a>"&gt;</span><span>
+<span id="line25"/>
+<span id="line26"/>  </span><span>&lt;<span class="start-tag">owl:Ontology</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value"/>" <span class="attribute-name">owl:versionInfo</span>="<a class="attribute-value">2.3</a>"&gt;</span><span>
+<span id="line27"/>     </span><span>&lt;<span class="start-tag">rdfs:label</span>&gt;</span><span>SWEET Ontology</span><span>&lt;/<span class="end-tag">rdfs:label</span>&gt;</span><span>
+<span id="line28"/>     </span><span>&lt;<span class="start-tag">owl:imports</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>cr</span>ela;</a>"<span>/</span>&gt;</span><span>
+<span id="line29"/>     </span><span>&lt;<span class="start-tag">owl:imports</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span class="entity"><span>&amp;</span>prop;</span></a>"<span>/</span>&gt;</span><span>
+<span id="line30"/>     </span><span>&lt;<span class="start-tag">owl:imports</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>pe</span>tr;</a>"<span>/</span>&gt;</span><span>
+<span id="line31"/>     </span><span>&lt;<span class="start-tag">owl:imports</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>o</span>bj3d;</a>"<span>/</span>&gt;</span><span>
+<span id="line32"/>  </span><span>&lt;/<span class="end-tag">owl:Ontology</span>&gt;</span><span>
+<span id="line33"/>
+<span id="line34"/>
+<span id="line35"/></span><span class="comment">&lt;!-- Constituent attributes  --&gt;</span><span>
+<span id="line36"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#ArmoredRelictInclusion</a>"&gt;</span><span>
+<span id="line37"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Inclusion</a>"<span>/</span>&gt;</span><span>
+<span id="line38"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>An inclusion of an earlier rock that is prevented from further reaction in a later rock by a rim of reaction products.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line39"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line40"/>
+<span id="line41"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Clot</a>"&gt;</span><span>
+<span id="line42"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#StructuralConfiguration</a>"<span>/</span>&gt;</span><span>
+<span id="line43"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>A cluster of ferromagnesian minerals in an igneous rock, from several centimeters to decimeters in diameter, that may be a segregation or an altered xenolith.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line44"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line45"/>
+<span id="line46"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Corona</a>"&gt;</span><span>
+<span id="line47"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#StructuralConfiguration</a>"<span>/</span>&gt;</span><span>
+<span id="line48"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>Constituent occurs as a concentric envelope enclosing another constituent. Corona is a non-genetic term.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line49"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line50"/>
+<span id="line51"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#CorrosionRim</a>"&gt;</span><span>
+<span id="line52"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Corona</a>"<span>/</span>&gt;</span><span>
+<span id="line53"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>A corona formed by a secondary mineral around an orginal igneous crystal, formed by modification of the crystal by the corrosive action of its parent magma.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line54"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line55"/>
+<span id="line56"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Dropstone</a>"&gt;</span><span>
+<span id="line57"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#StructuralConfiguration</a>"<span>/</span>&gt;</span><span>
+<span id="line58"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>"An oversized stone in laminated sediment that depresses the underlying laminae and may be covered by -draped laminae.  Most dropstones originate through ice-rafting; other sources are floating tree roots and kelp holdfasts...."</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span> 
+<span id="line59"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line60"/>
+<span id="line61"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#FloatingClast</a>"&gt;</span><span>
+<span id="line62"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#StructuralConfiguration</a>"<span>/</span>&gt;</span><span>
+<span id="line63"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>Constituent is a clast that has no visible contacts with other clasts. Interpreted to be largely or completly immersed in matrix or cement.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line64"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line65"/>
+<span id="line66"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Groundmass</a>"&gt;</span><span>
+<span id="line67"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#RockConstituent</a>"<span>/</span>&gt;</span><span>
+<span id="line68"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>Constituent forms an interconnected network of material enclosing other constituents that are disguished by larger grain size.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line69"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line70"/>
+<span id="line71"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Epimatrix</a>"&gt;</span><span>
+<span id="line72"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Matrix</a>"<span>/</span>&gt;</span><span>
+<span id="line73"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>A type of matrix consisting of inhomogeneous interstitial materials grown in originally open interstices during diagenesis, but lacking the homogeneity and clear textural evidence of pore-filling needed to classify as phyllosilicate cement.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line74"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line75"/>
+<span id="line76"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Inclusion</a>"&gt;</span><span>
+<span id="line77"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#StructuralConfiguration</a>"<span>/</span>&gt;</span><span>
+<span id="line78"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>A fragment of older material within an igneous rock to which it may or may not be genetically related.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line79"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line80"/>
+<span id="line81"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Irregular</a>"&gt;</span><span>
+<span id="line82"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#StructuralConfiguration</a>"<span>/</span>&gt;</span><span>
+<span id="line83"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>A constituent with irregular distribution and geometry, as in pseudobreccia or patch migmatite.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line84"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line85"/>
+<span id="line86"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#KelyphiticRim</a>"&gt;</span><span>
+<span id="line87"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Corona</a>"<span>/</span>&gt;</span><span>
+<span id="line88"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>Corona that consists of concentric bands with radial fibrous texture.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line89"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line90"/>
+<span id="line91"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Layer</a>"&gt;</span><span>
+<span id="line92"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#StructuralConfiguration</a>"<span>/</span>&gt;</span><span>
+<span id="line93"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>A thin sheet compositionally distinct from the surrounding material, related to primary genesis of rock, e.g. sedimentary layers, metamorphic segregation.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line94"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line95"/>
+<span id="line96"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Pseudomatrix</a>"&gt;</span><span>
+<span id="line97"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Matrix</a>"<span>/</span>&gt;</span><span>
+<span id="line98"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>A type of matrix consisting of soft deformable framework grains that are squeezed and flattened between stronger framework grains.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line99"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line100"/>
+<span id="line101"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Protomatrix</a>"&gt;</span><span>
+<span id="line102"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Matrix</a>"<span>/</span>&gt;</span><span>
+<span id="line103"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>A type of matrix consisting of un-recrystallized detrital clayey lutum  (clay fraction, less than 2 micron) in weakly consolidated rocks.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line104"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line105"/>
+<span id="line106"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Orthomatrix</a>"&gt;</span><span>
+<span id="line107"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Matrix</a>"<span>/</span>&gt;</span><span>
+<span id="line108"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>A type of matrix consisting of recrystallized detrital lutum  (clay fraction, less than 2 micron) or protomatrix.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line109"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line110"/>
+<span id="line111"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#SmallConcretion</a>"&gt;</span><span>
+<span id="line112"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#StructuralConfiguration</a>"<span>/</span>&gt;</span><span>
+<span id="line113"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>A hard, compact mass or aggregate of mineral matter, normally subsperical but commonly oblate, disc-shaped or irregular.  Formed by precipitation of mineral from solution in the pores of a granular rock, localized around a nucleus or center, to define a discrete, sharply separated object. Size ranges from cm to decimeter for application as a compoundMaterialConstituentPart; larger concretions should be considered GeologicUnit parts.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line114"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line115"/>
+<span id="line116"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Vein</a>"&gt;</span><span>
+<span id="line117"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#StructuralConfiguration</a>"<span>/</span>&gt;</span><span>
+<span id="line118"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>Thin sheet of material intruded into the rock. May be hydrothermal, magmatic, or sedimentary.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line119"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line120"/>
+<span id="line121"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#ClastSupportingOrthomatrix</a>"&gt;</span><span>
+<span id="line122"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Orthomatrix</a>"<span>/</span>&gt;</span><span>
+<span id="line123"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>Orthomatrix in matrix supported sedimentary rock.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line124"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line125"/>
+<span id="line126"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Matrix</a>"&gt;</span><span>
+<span id="line127"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#RockConstituent</a>"<span>/</span>&gt;</span><span>
+<span id="line128"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>Constituent forms finer-grained material interstitial to a framework constituent. "The finer-grained material enclosing, or filling the interstices between, the larger grains or particles of a sediment or sedimentary rock....The term refers to the relative size and disposition of the particles, and no particular particle size is implied" (Jackson, 1997, p. 393).  May be classifiable into orthomatrix, protomatrix, epimatrix, pseudomatrix, and unclassified matrix.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line129"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line130"/>
+<span id="line131"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#SedimentaryRockCement</a>"&gt;</span><span>
+<span id="line132"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#RockConstituent</a>"<span>/</span>&gt;</span><span>
+<span id="line133"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>A constituent that occupies space between individual grains of a consolidated sedimentary rock, and binds the grains together as a rigid, coherent mass; it may be derived from the sediment or its entrapped waters, or it may be brought in by solution from outside sources. Material is usually chemically precipitated (Jackson, 1997, p. 103).
+<span id="line134"/>Distinguished from matrix by clearly secondary origin and generally monomineralic charactera</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line135"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line136"/>
+<span id="line137"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#RockConstituent</a>"&gt;</span><span>
+<span id="line138"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span class="entity"><span>&amp;</span>prop;</span>#Constituent</a>"<span>/</span>&gt;</span><span>
+<span id="line139"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span>&gt;</span><span>
+<span id="line140"/>      </span><span>&lt;<span class="start-tag">owl:Restriction</span>&gt;</span><span>
+<span id="line141"/>        </span><span>&lt;<span class="start-tag">owl:allValuesFrom</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>pe</span>tr;#Rock</a>"<span>/</span>&gt;</span><span>
+<span id="line142"/>        </span><span>&lt;<span class="start-tag">owl:onProperty</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>cr</span>ela;#hasSubstance</a>"<span>/</span>&gt;</span><span>
+<span id="line143"/>      </span><span>&lt;/<span class="end-tag">owl:Restriction</span>&gt;</span><span>
+<span id="line144"/>    </span><span>&lt;/<span class="end-tag">rdfs:subClassOf</span>&gt;</span><span>
+<span id="line145"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line146"/>
+<span id="line147"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Inclusion</a>"&gt;</span><span>
+<span id="line148"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#StructuralConfiguration</a>"<span>/</span>&gt;</span><span>
+<span id="line149"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>A fragment of older material within an igneous rock to which it may or may not be genetically related.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line150"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line151"/>
+<span id="line152"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#InterstitialConstituent</a>"&gt;</span><span>
+<span id="line153"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#RockConstituent</a>"<span>/</span>&gt;</span><span>
+<span id="line154"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>Constituent is distributed through the material between other constituent particles
+<span id="line155"/>    </span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line156"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line157"/>
+<span id="line158"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Megacryst</a>"&gt;</span><span>
+<span id="line159"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#ParticulateConstituent</a>"<span>/</span>&gt;</span><span>
+<span id="line160"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>constituent occurs as a collection of particles that are characterized by average properties of the individual particles</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line161"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line162"/>
+<span id="line163"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#ParticulateConstituent</a>"&gt;</span><span>
+<span id="line164"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#RockConstituent</a>"<span>/</span>&gt;</span><span>
+<span id="line165"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>any crystal in an igneous or metamorphic rock that is sgnificantly larger than the surounding groundmass.  May be a phenocryst, xenocryst, porphyroblast or porphyroclast.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line166"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line167"/>
+<span id="line168"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#ArmouredRelictCrystal</a>"&gt;</span><span>
+<span id="line169"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#ParticulateConstituent</a>"<span>/</span>&gt;</span><span>
+<span id="line170"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>a crystal of an earlier rock that is prevented from further reaction in a later rock by a rim of reaction products
+<span id="line171"/>    </span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line172"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line173"/>
+<span id="line174"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Chadacryst</a>"&gt;</span><span>
+<span id="line175"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#ParticulateConstituent</a>"<span>/</span>&gt;</span><span>
+<span id="line176"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>the enclosed crystal in a poikolitic texture
+<span id="line177"/>    </span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line178"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line179"/>
+<span id="line180"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#CrystallineFramework</a>"&gt;</span><span>
+<span id="line181"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#ParticulateConstituent</a>"<span>/</span>&gt;</span><span>
+<span id="line182"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>Constituent forms an interconnected network of discernible crystals.
+<span id="line183"/>    </span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line184"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line185"/>
+<span id="line186"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#GranularFramework</a>"&gt;</span><span>
+<span id="line187"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#ParticulateConstituent</a>"<span>/</span>&gt;</span><span>
+<span id="line188"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>"Constituent forms a rigid arrangement of particles that support one another at their points of contact...constituting a mechanically firm structure capable of supporting open pore spaces, although interstices may be occupied by cement or matrix"
+<span id="line189"/>    </span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line190"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line191"/>
+<span id="line192"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Oikocryst</a>"&gt;</span><span>
+<span id="line193"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#ParticulateConstituent</a>"<span>/</span>&gt;</span><span>
+<span id="line194"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>Constituent occurs as crystals that poikilitically enclose crystals of other phases in an igneous rock.
+<span id="line195"/>    </span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line196"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line197"/>
+<span id="line198"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Phenoclast</a>"&gt;</span><span>
+<span id="line199"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#ParticulateConstituent</a>"<span>/</span>&gt;</span><span>
+<span id="line200"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>a relatively large and conspicuous fragment in a sediment or sedimentary rock
+<span id="line201"/>    </span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line202"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line203"/>
+<span id="line204"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Phenocryst</a>"&gt;</span><span>
+<span id="line205"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Megacryst</a>"<span>/</span>&gt;</span><span>
+<span id="line206"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>A phenocryst is a relatively large and usually conspicuous crystal distinctly larger than the grains of the rock groundmass of a porphyritic igneous rock. Phenocrysts often have euhedral forms either due to early growth within a magma or by post-emplacement recrystallization. [Wikipedia]</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line207"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line208"/>
+<span id="line209"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Porphyroblast</a>"&gt;</span><span>
+<span id="line210"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Megacryst</a>"<span>/</span>&gt;</span><span>
+<span id="line211"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>Constituent occurs as crystals formed by metamorphic crystallization, set in a finer-grained groundmass.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line212"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line213"/>
+<span id="line214"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Overgrowth</a>"&gt;</span><span>
+<span id="line215"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#StructuralConfiguration</a>"<span>/</span>&gt;</span><span>
+<span id="line216"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>Constituent crystallized in crystallographic continuity with some other mineral constituent, typically quartz or calcite. In a clastic rock, commonly forms cement as well, but this should be represented using two role attribute links, 'overgrowth' and cement, because overgrowth does not necessarily imply cement.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line217"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line218"/>
+<span id="line219"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Porphyroclast</a>"&gt;</span><span>
+<span id="line220"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Megacryst</a>"<span>/</span>&gt;</span><span>
+<span id="line221"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>Relict crystal in metamorphic rock, in groundmass of relatively finer-grained material. Connotes that groundmass is result of tectonic reduction in grain size.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line222"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line223"/>
+<span id="line224"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#StructuralConfiguration</a>"&gt;</span><span>
+<span id="line225"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#RockConstituent</a>"<span>/</span>&gt;</span><span>
+<span id="line226"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>Constituent occurs in a structural configuration integral to the rock, such as layering, veinlets, overgrowths. The 'material' composition of these parts will often be other rock materials, not minerals, and  'ParticleGeometryDescription' associated with these describes the geometry of the constituent, not the particles the it is made of. These roles are mostly useful for RockMaterial descriptions that apply to individual samples, because their distribution is unlikely to be pervasive enought to be considered characteristic of a large mass of material.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line227"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line228"/>
+<span id="line229"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Vug</a>"&gt;</span><span>
+<span id="line230"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#StructuralConfiguration</a>"<span>/</span>&gt;</span><span>
+<span id="line231"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>o</span>bj3d;#Cavity</a>"<span>/</span>&gt;</span><span>
+<span id="line232"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line233"/>
+<span id="line234"/></span><span>&lt;/<span class="end-tag">rdf:RDF</span>&gt;</span><span>
+<span id="line235"/></span></pre><menu type="context" id="actions"><menuitem id="goToLine" label="Go to Line…" accesskey="L"/><menuitem id="wrapLongLines" label="Wrap Long Lines" type="checkbox"/><menuitem id="highlightSyntax" label="Syntax Highlighting" type="checkbox" checked="true"/></menu></body></html>

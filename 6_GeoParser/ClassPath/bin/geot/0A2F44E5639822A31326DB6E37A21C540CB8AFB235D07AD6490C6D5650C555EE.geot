@@ -1,0 +1,902 @@
+
+
+
+
+	 
+        
+
+	
+            
+                	
+            
+                
+	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                
+
+
+
+
+
+        
+        	 
+                
+        
+                
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Agriculture
+	
+
+	
+		
+	
+		Atmosphere
+	
+
+	
+		
+	
+		Biological Classification
+	
+
+	
+		
+	
+		Biosphere
+	
+
+	
+		
+	
+		Climate Indicators
+	
+
+	
+		
+	
+		Cryosphere
+	
+
+	
+		
+	
+		Human Dimensions
+	
+
+	
+		
+	
+		Land Surface
+	
+
+	
+		
+	
+		Oceans
+	
+
+	
+		
+	
+		Paleoclimate
+	
+
+	
+		
+	
+		Solid Earth
+	
+
+	
+		
+	
+		Spectral/Engineering
+	
+
+	
+		
+	
+		Sun-Earth Interactions
+	
+
+	
+		
+	
+		Terrestrial Hydrosphere
+	
+
+	
+	
+
+	
+		
+Data Centers
+
+	
+		 
+Locations
+
+	
+		
+Instruments
+
+	
+		
+Platforms/Sources
+
+	
+		
+Projects
+
+
+
+
+
+
+
+                
+                
+                	
+                    	
+	
+	
+
+
+                    
+                    	
+                            	
+                            
+
+
+
+
+
+
+
+
+
+
+
+     
+    [ 
+    
+        
+            Return to Record
+         
+    ]
+
+
+
+
+
+	
+            
+
+
+
+
+
+
+
+
+
+MODIS/Terra Near Real Time (NRT) Coarse Snow Cover 5-Min L2 Swath 5km V005
+
+      Federal Geographic Data Committee (FGDC) Metadata:
+
+      	Identification_Information
+	Data_Quality_Information
+	Spatial_Reference_Information
+	
+               Distribution_Information
+               
+	Metadata_Reference_Information
+
+
+         
+	Identification_Information:
+	
+            	Citation:
+	
+                  	Citation_Information:
+	
+                        	Originator: Hall, D. K., G. A. Riggs, and V. V. Salomonson
+                           
+	Publication_Date: 20061218
+                           
+	Title: MODIS/Terra Near Real Time (NRT) Coarse Snow Cover 5-Min L2 Swath 5km V005
+                           
+	Edition: 5
+                           
+	Geospatial_Data_Presentation_Form: Digital Media
+                           
+	Series_Information: 
+	
+                              	Series_Name: 
+	Issue_Identification: 
+
+
+                           
+	Publication_Information: 
+	
+                              	Publication_Place: Greenbelt, MD
+                                 
+	Publisher: MODAPS
+                                 
+
+
+                           
+	Other_Citation_Details: 
+	
+	Online_Linkage: https://earthdata.nasa.gov/about-eosdis/system-description/lance/modaps/about-modaps/data-products
+
+
+                     
+
+
+               
+	Description:
+	
+                  	Abstract:
+	
+                        
+                        The MODIS/Terra Near Real Time (NRT) Coarse Snow Cover 5-Min L2 Swath 5km (MOD10L2C) data set contains snow cover and Quality
+                        Assessment (QA) data, latitudes and longitudes in compressed Hierarchical Data Format-Earth Observing System (HDF-EOS) format,
+                        and corresponding metadata. Latitude and longitude geolocation fields are at 5 km resolution while all other fields are at
+                        500 m resolution. Version 5 (V005), the latest version of the Moderate Resolution Imaging Spectroradiometer (MODIS) data available
+                        has two separate snow fields. The first field, snow cover, classifies each cloud-free land or inland water body pixel as snow-covered
+                        or snow-free, the second field, fractional snow cover, provides the percent of snow cover within each pixel for land and inland
+                        water bodies. MODIS snow cover data are based on a snow mapping algorithm that employs a Normalized Difference Snow Index
+                        (NDSI) and other criteria tests.  Data are stored in HDF-EOS format, and are available from 24 February 2000 to present via
+                        FTP. Data can also be obtained in GeoTIFF format by ordering the data through the Data Pool.
+                        
+                        
+                     
+	Purpose:
+	Not Available
+	Supplemental_Information:
+	 REFERENCE: 
+                        Diner, D.J., J.V. Martonchik, C. Borel, S.A.W. Gerstl, H.R. Gordon, Y. Knyazikhin, R. Myneni, B. Pinty, and M.M. Verstraete.
+                        1999. MISR Level-2 surface retrieval algorithm theoretical basis document. Pasadena, CA: Jet Propulsion Laboratory.  Earth
+                        Science Data and Information System (ESDIS). 1996. EOS Ground System (EGS) systems and operations concept. Greenbelt, MD:
+                        Goddard Space Flight Center.  Hall, D.K., G.A. Riggs, and V.V. Salomonson. September 2001a. Algorithm Theoretical Basis Document
+                        (ATBD) for the MODIS Snow-, Lake Ice- and Sea Ice-Mapping Algorithms. Greenbelt, MD: Goddard Space Flight Center. <http://modis-snow-ice.gsfc.nasa.gov/atbd.html>
+                        .  Hall, D.K., G.A. Riggs, V.V. Salomonson, N.E. DiGirolamo, and K.J. Bayr. 2002. MODIS snow-cover products. Remote Sensing
+                        of the Environment 83: 181-194.  Hall, D.K. and J. Martinec. 1985. Remote sensing of ice and snow. London: Chapman and Hall.
+                        Hall, D.K., J.L. Foster, D.L. Verbyla, A.G. Klein, and C.S. Benson. 1998. Assessment of snow cover mapping accuracy in a variety
+                        of vegetation cover densities in central Alaska. Remote Sensing of the Environment 66: 129-137.  Hall, D.K., J.L. Foster,
+                        V.V. Salomonson, A.G. Klein, and J.Y.L. Chien. 2001b. Development of a technique to assess snow-cover mapping accuracy from
+                        space. IEEE Transactions on Geoscience and Remote Sensing 39(2): 232-238.  Hall, D.K., G.A. Riggs. 2006. Assessment of errors
+                        in the MODIS suite of snow-cover products. Hydrological Processes, in press.  Hapke, B. 1993. Theory of reflectance and emittance
+                        spectroscopy. Cambridge: Cambridge University Press.  Klein, A. MODIS Snow Albedo Prototype. 2003. <http://geog.tamu.edu/klein/modis_albedo/>
+                        Accessed July 2003.  Klein, A.G., and J. Stroeve. 2002. Development and validation of a snow albedo algorithm for the MODIS
+                        instrument. Annals of Glaciology 34: 45-52. Klein, A.G., D.K. Hall, and G.A. Riggs. 1998. Improving snow-cover mapping in
+                        forests through the use of a canopy reflectance model. Hydrologic Processes 12(10-11): 1723-1744.  Markham, B.L. and J.L.
+                        Barker. 1986. Landsat MSS and TM post-calibration dynamic ranges, exoatmospheric reflectances and at-satellite temperatures.
+                        EOSAT Technical Notes 1:3-8.  MODIS Characterization and Support Team (MCST). 2000. MODIS Level-1B product user's guide for
+                        Level-1B Version 2.3.x Release 2. MCST Document #MCM-PUG-01-U-DNCN.  MODIS Science and Instrument Team. MODIS Web (July 2003).
+                        <http://modis.gsfc.nasa.gov/> Accessed October 2000.  Pearson II, F. 1990. Map projections: theory and applications. Boca
+                        Raton, FL: CRC Press, Inc.  Riggs, G.A., D.K. Hall, and V.V. Salomonson. January 2006. MODIS snow products user guide for
+                        collection 4 data products. <http://modis-snow-ice.gsfc.nasa.gov/sug_main.html>.  Salomonson, V. and I. Appel. 2006. Development
+                        of the Aqua MODIS NDSI Fractional Snow Cover Algorithm and Validation Results. Transactions on Geoscience and Remote Sensing
+                        44(7):1747-1756.  Salomonson, V. and I. Appel. 2004. Estimating fractional snow cover from MODIS using the normalized difference
+                        snow index (NDSI). Remote Sensing of the Environment 89:351-360.  Wiscombe, W.J. and S.G. Warren. 1980. A model for the spectral
+                        albedo of snow I: pure snow. Journal of the Atmospheric Sciences 37: 2712-2733.   
+                     
+
+
+               
+	Time_Period_of_Content:
+	
+                  	Time_Period_Information:
+	
+                        	Range_of_Dates/Times:
+	
+                              	Beginning_Date: 20150212
+                                 
+	Ending_Date: 20150223
+                                 
+
+
+                           
+
+
+                     
+	Currentness_Reference:Unknown
+                     
+
+
+               
+	Status:
+	
+                  	Progress: In Work
+                     
+	Maintenance_and_Update_Frequency: As needed
+                     
+
+
+               
+	Spatial_Domain:
+	
+                  	Description_of_Geographic_Extent:
+	
+	Bounding_Coordinates:
+	
+                        	West_Bounding_Coordinate: -180.0
+                           
+	East_Bounding_Coordinate: 180.0
+                           
+	North_Bounding_Coordinate: 90.0
+                           
+	South_Bounding_Coordinate: -90.0
+                           
+
+
+                     
+
+
+               
+	Keywords:
+	
+                  	Theme:
+	
+                        	Theme_Keyword_Thesaurus: GCMD SCIENCE PARAMETERS
+                           
+	Theme_Keyword_Thesaurus: GCMD PLATFORM
+                           
+	Theme_Keyword_Thesaurus: GCMD INSTRUMENT
+                           
+	Theme_Keyword_Thesaurus: PROJECT
+                           
+	Theme_Keyword_Thesaurus: ANCILLARY KEYWORDS
+                           
+	Theme_Keyword_Thesaurus: ISO TOPIC CATEGORY
+                           
+	Theme_Keyword_Thesaurus: DATA SET LANGUAGE
+                           
+	Theme_Keyword: EARTH SCIENCE > CRYOSPHERE > SNOW/ICE > LAKE ICE
+                           
+	Theme_Keyword: EARTH SCIENCE > CRYOSPHERE > SNOW/ICE > RIVER ICE
+                           
+	Theme_Keyword: EARTH SCIENCE > CRYOSPHERE > SNOW/ICE > SNOW COVER
+                           
+	Theme_Keyword: EARTH SCIENCE > CRYOSPHERE > SNOW/ICE > SNOW COVER > FRACTIONAL SNOW COVER
+                           
+	Theme_Keyword: EARTH SCIENCE > CRYOSPHERE > SNOW/ICE
+                           
+	Theme_Keyword: EARTH SCIENCE > TERRESTRIAL HYDROSPHERE > SNOW/ICE > LAKE ICE
+                           
+	Theme_Keyword: EARTH SCIENCE > TERRESTRIAL HYDROSPHERE > SNOW/ICE > RIVER ICE
+                           
+	Theme_Keyword: EARTH SCIENCE > TERRESTRIAL HYDROSPHERE > SNOW/ICE > SNOW COVER
+                           
+	Theme_Keyword: EARTH SCIENCE > TERRESTRIAL HYDROSPHERE > SNOW/ICE > SNOW COVER > FRACTIONAL SNOW COVER
+                           
+	Theme_Keyword: EARTH SCIENCE > TERRESTRIAL HYDROSPHERE > SNOW/ICE
+                           
+	Theme_Keyword: TERRA > EARTH OBSERVING SYSTEM, TERRA (AM-1)
+                           
+	Theme_Keyword: MODIS > MODERATE-RESOLUTION IMAGING SPECTRORADIOMETER
+                           
+	Theme_Keyword: EOS > EARTH OBSERVING SYSTEM
+                           
+	Theme_Keyword: EOSDIS > EARTH OBSERVING SYSTEM DATA INFORMATION SYSTEM
+                           
+	Theme_Keyword: ESIP > EARTH SCIENCE INFORMATION PARTNERS PROGRAM
+                           
+	Theme_Keyword: Antarctic
+                           
+	Theme_Keyword: Arctic
+                           
+	Theme_Keyword: Climatology
+                           
+	Theme_Keyword: Daac
+                           
+	Theme_Keyword: Ecs
+                           
+	Theme_Keyword: Eosdis
+                           
+	Theme_Keyword: Global Change
+                           
+	Theme_Keyword: Lake Ice
+                           
+	Theme_Keyword: Nasa
+                           
+	Theme_Keyword: Nsidc
+                           
+	Theme_Keyword: Nsidc Daac
+                           
+	Theme_Keyword: Polar
+                           
+	Theme_Keyword: Remote Sensing
+                           
+	Theme_Keyword: Snow
+                           
+	Theme_Keyword: Snow Cover
+                           
+	Theme_Keyword: Snow On Ice
+                           
+	Theme_Keyword: Swath
+                           
+	Theme_Keyword: Lance
+                           
+	Theme_Keyword: Relative_start_date: -11
+                           
+	Theme_Keyword: GEOSCIENTIFIC INFORMATION
+                           
+	Theme_Keyword: IMAGERY/BASE MAPS/EARTH COVER
+                           
+	Theme_Keyword: ENGLISH
+                           
+
+
+                     
+	Place:
+	
+                        	Place_Keyword_Thesaurus: GCMD
+                           
+	Place_Keyword: CONTINENT > AFRICA
+                           
+	Place_Keyword: CONTINENT > ANTARCTICA
+                           
+	Place_Keyword: CONTINENT > ASIA
+                           
+	Place_Keyword: CONTINENT > EUROPE
+                           
+	Place_Keyword: CONTINENT > NORTH AMERICA
+                           
+	Place_Keyword: GEOGRAPHIC REGION > GLOBAL
+                           
+	Place_Keyword: GEOGRAPHIC REGION > GLOBAL LAND
+                           
+	Place_Keyword: GEOGRAPHIC REGION > POLAR
+                           
+	Place_Keyword: CONTINENT > SOUTH AMERICA
+                           
+	Place_Keyword: CONTINENT > AUSTRALIA/NEW ZEALAND
+                           
+
+
+                     
+	Temporal:
+	
+                        	Temporal_Keyword_Thesaurus: GCMD
+                           
+	Temporal_Keyword: 5 Min
+                           
+	Temporal_Keyword: 1 Minute - < 1 Hour
+                           
+
+
+                     
+
+
+               
+	Access_Constraints: Not Available
+               
+	Use_Constraints:
+	Not Available
+	Point_of_Contact:
+	
+                  	Contact_Information:
+	
+                        	Contact_Person_Primary:
+	
+                              	Contact_Person: NEAL DEVINE 
+                                 
+
+
+                           
+	Contact_Position: TECHNICAL CONTACT
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+
+
+                           
+	Contact_Voice_Telephone: 301-731-2923
+                           
+	Contact_Electronic_Mail_Address: neal.k.devine@nasa.gov
+                           
+
+
+                     
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Data_Quality_Information:
+	
+            	Attribute_Accuracy:
+	
+                  	Attribute_Accuracy_Report:
+	
+                        Quality indicators for MODIS snow data can be found in three places:  * AutomaticQualityFlag and the ScienceQualityFlag metadata
+                        objects and their corresponding explanations: AutomaticQualityFlagExplanation and ScienceQualityFlagExplanation located in
+                        the CoreMetadata.0 global attributes  * Custom local attributes associated with each Scientific Data Set (SDS), for example
+                        snow cover  * Snow Cover Pixel QA data field.  These quality indicators are generated during production or in post-production
+                        scientific and quality checks of the data product.   The AutomaticQualityFlag is automatically set according to conditions
+                        for meeting data criteria in the snow mapping algorithm. In most cases, the flag is set to either Passed or Suspect, and in
+                        rare instances, it may be set to Failed. Suspect means that a significant percentage of the data were anomalous and that further
+                        analysis should be done to determine the source of anomalies. The AutomaticQualityFlagExplanation contains a brief message
+                        explaining the reason for the setting of the AutomaticQualityFlag. The ScienceQualityFlag and the ScienceQualityFlagExplanation
+                        maybe updated after production, either after an automated QA program is run or after the data product is inspected by a qualified
+                        snow scientist. Content and explanation of this flag are dynamic so it should always be examined if present in the external
+                        metadata file.  The snow algorithm identifies missing data and reports them in the output product. Certain expected anomalous
+                        conditions may exist with the input data such as a few missing lines or unusable data from the MODIS sensor. In these cases,
+                        the snow algorithm makes no snow decision for an affected pixel. Summary statistics are calculated for these conditions and
+                        reported as Valid EV Obs Band x percent and Saturated EV Obs Band 1 percent local attributes Riggs, Hall, and Salomonson 2006).
+                        In addition to these data values, the product contains quality information at the pixel level.  The Snow Cover Pixel QA data
+                        field provides additional information on algorithm results for each pixel within a MODIS scene and is used as a measure of
+                        usefulness for snow-cover data. The QA data are stored as coded integer values and tell if algorithm results were nominal,
+                        abnormal, or if other defined conditions were encountered for a pixel (Riggs, Hall, and Salomonson 2006). For example, intermediate
+                        checks for theoretical bounding of reflectance data and the NDSI ratio are made in the algorithm. In theory, reflectance values
+                        should lie within the 0-100 percent range, and the NDSI ratio should lie within the -1.0 to +1.0 range. Summary statistics
+                        are kept for pixels that exceed these theoretical limits; however, the test for snow is done regardless of violations of these
+                        limits.  The NASA Goddard Space Flight Center: MODIS Land Quality Assessment Web site provides updated quality information
+                        for each product.
+                        
+                     
+
+
+               
+	Logical_Consistency_Report:
+	Not Available
+	Completeness_Report:
+	Not Available
+	Lineage:
+
+	Process_Step:
+	
+                     	Process_Description:
+	Not Available
+	Process_Date: Unknown
+                        
+
+
+                  
+
+
+            
+
+
+         
+      Back to Top
+         
+	Spatial_Reference_Information:
+	
+            	Horizontal_Coordinate_System_Definition:
+	
+                  	Geographic:
+	
+                        	Latitude_Resolution: 5 km
+                           
+	Longitude_Resolution: 5 km
+                           
+	Geographic_Coordinate_Units: Decimal degrees
+                           
+
+
+                     
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Distribution_Information:
+	
+            	Distributor:
+	
+                  	Contact_Information:
+	
+                        	Contact_Organization_Primary:
+	
+                              	Contact_Organization: NASA/GSFC/SED/ESD/HBSL/BISB/MODAPS > MODIS Adaptive Processing System, Biospheric Information Systems Branch, Hydrospheric
+                                    and Biospheric Sciences Laboratory, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center,
+                                    NASA
+                                 
+	Contact_Person: MODAPS USER SUPPORT OFFICE 
+                                 
+
+
+                           
+	Contact_Position: DATA CENTER CONTACT
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: MODAPS User Support Team 
+                                 
+	Address: NASA/GSFC 
+                                 
+	Address: Mail Code: 619 
+                                 
+	City: Greenbelt
+                                 
+	State_or_Province: MD
+                                 
+	Postal_Code: 20771
+                                 
+	Country: USA
+                                 
+
+
+                           
+	Contact_Voice_Telephone: 1-800-596-8132
+                           
+	Contact_Facsimile_Telephone: 301-867-2151
+                           
+	Contact_Electronic_Mail_Address: MODAPSUSO@lists.nasa.gov
+                           
+
+
+                     
+
+
+               
+	Resource_Description: MOD10L2C_C5_NRT
+               
+	Distribution_Liability:
+	Not Available
+	Standard_Order_Process:
+	
+                  	Digital_Form:
+	
+                        	Digital_Transfer_Information:
+	
+                              	Format_Name: HDF-EOS
+                                 
+	Transfer_Size: 1129 KB
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://modaps.nascom.nasa.gov
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	DATA CENTER URL
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://earthdata.nasa.gov/data/nrt-data/data-produ...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          NASA LANCE Near Real Time Data Products
+                                          
+                                       
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://modis.gsfc.nasa.gov/
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          The MODIS Project Home Web page.
+                                          
+                                       
+
+
+                                 
+
+
+                           
+
+
+                     
+	Fees: None
+                     
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Metadata_Reference_Information:
+	
+            	Metadata_Date: 20110502
+               
+	Metadata_Review_Date: 20150108
+               
+	Metadata_Contact:
+	
+                  	Contact_Information:
+	
+                        	Contact_Person_Primary:
+	
+                              	Contact_Person: GCMD User Support Office
+                                 
+	Contact_Organization: NASA Global Change Master Directory
+                                 
+
+
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: Not Available
+                                 
+	City: Lanham
+                                 
+	State_or_Province: MD
+                                 
+	Postal_Code: 20706
+                                 
+	Country: USA
+                                 
+
+
+                           
+	Contact_Voice_Telephone: Not Available
+                           
+	Contact_Electronic_Mail_Address: gcmduso@gcmd.gsfc.nasa.gov
+                           
+
+
+                     
+
+
+               
+	Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+               
+	Metadata_Standard_Version: FGDC-STD-001-1998
+               
+	Metadata_Time_Convention: local time
+               
+
+
+         
+
+Back to Top
+
+
+
+     
+    [ 
+    
+        
+            Return to Record
+         
+    ]
+
+
+
+
+                            
+                        
+                                        
+                    
+                               
+            
+                
+        
+
+
+	
+            
+                
+        	
+            
+                
+                    NASA Privacy Policy and Important Notices
+            
+
+            
+                Responsible NASA Official:  
+                
+                    Dr. Stephen Wharton
+
+                Webmaster:  
+                
+                    Monica Lyles
+                  ·  Contact 
+                
+                    GCMD User Support for assistance
+            
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+    
+

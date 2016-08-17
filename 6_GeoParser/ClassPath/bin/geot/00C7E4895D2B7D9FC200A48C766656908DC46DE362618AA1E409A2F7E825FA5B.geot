@@ -1,0 +1,2658 @@
+
+
+
+
+	 
+        
+
+	
+            
+                	
+            
+                
+	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                
+
+
+
+
+
+        
+        	 
+                
+        
+                
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Agriculture
+	
+
+	
+		
+	
+		Atmosphere
+	
+
+	
+		
+	
+		Biological Classification
+	
+
+	
+		
+	
+		Biosphere
+	
+
+	
+		
+	
+		Climate Indicators
+	
+
+	
+		
+	
+		Cryosphere
+	
+
+	
+		
+	
+		Human Dimensions
+	
+
+	
+		
+	
+		Land Surface
+	
+
+	
+		
+	
+		Oceans
+	
+
+	
+		
+	
+		Paleoclimate
+	
+
+	
+		
+	
+		Solid Earth
+	
+
+	
+		
+	
+		Spectral/Engineering
+	
+
+	
+		
+	
+		Sun-Earth Interactions
+	
+
+	
+		
+	
+		Terrestrial Hydrosphere
+	
+
+	
+	
+
+	
+		
+Data Centers
+
+	
+		 
+Locations
+
+	
+		
+Instruments
+
+	
+		
+Platforms/Sources
+
+	
+		
+Projects
+
+
+
+
+
+
+
+                
+                
+                	
+                    	
+	
+	
+
+
+                    
+                    	
+                            	
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+Record Search Query:
+[Sensor_Name: Short_Name=&#039;Thermometers&#039;]
+
+
+	
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        
+            
+                Monthly lowest air temperatures for Australian Antarctic stations.
+            
+        
+
+        
+        
+            Entry ID:
+            
+                SOE_monthly_min_temp
+            
+            
+
+            
+
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+        
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                
+                    
+                    
+                        Update this Record
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+        
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            INDICATOR DEFINITION 
+ Monthly lowest temperatures obtained from observed daily minimum temperatures for Australian Antarctic stations Casey, Davis, Mawson and Macquarie Island. 
+ 
+ TYPE OF INDICATOR 
+ There are three types of indicators used in this report: 
+ 1.Describes the CONDITION of important elements of a system; 
+ 2.Show the extent of the major PRESSURES exerted on a system; 
+ 3.Determine RESPONSES to  ... either condition or changes in the condition of a system. 
+ 
+ This indicator is one of: CONDITION 
+ 
+ RATIONALE FOR INDICATOR SELECTION 
+ Global climate models show warming in response to increased greenhouse gas (carbon dioxide, methane etc) concentrations in the atmosphere; this is called the 'enhanced greenhouse effect'. Because of this, there is interest in observations of temperature across the globe, including Antarctica. Extensive high-quality observations from fixed locations are essential to serve as direct indicators of temperature changes and also confirm climate model output. 
+ 
+ DESIGN AND STRATEGY FOR INDICATOR MONITORING PROGRAM 
+ Spatial Scale: Australian Antarctic stations: Casey (lat 66 degrees 16' 54.5" S, long 110 degrees 31' 39.4" E), Davis (lat 68 degrees 34' 35.8" S, long 77 degrees 58' 02.6" E), Mawson (lat 67 degrees 36' 09.7" S, long 62 degrees 52' 25.7" E) and Macquarie Island (lat 54 degrees 37' 59.9" S, long 158 degrees 52' 59.9" E). 
+ 
+ Temporal scale: Monthly. 
+ 
+ Measurement Technique: Thermometry. 
+ 
+ RESEARCH ISSUES 
+ There is need to develop a high-quality data set from the available data, correcting erroneous data and estimating missing data. Adjustment may be necessary for changes in site location or exposure, and for changes in instrumentation or observing practices. 
+ 
+ Some of these changes are documented in the station history files held by the Regional Observations Section. These history files are currently held as paper records, although more recent information is held electronically and there is an effort to digitise the older records. 
+ 
+ Before the data can be used for the detection of change, a concerted effort will need to be made to identify deficiencies in the data, and then make compensations where possible. This is made more difficult by the lack of suitable comparison sites. 
+ 
+ LINKS TO OTHER INDICATORS 
+ SOE Indicators 1 - Monthly mean air temperatures for Australian Antarctic stations 
+ SOE Indicators 2 - Monthly highest air temperatures for Australian Antarctic stations 
+ SOE Indicators 4 - Monthly mean of daily radiosonde temperatures at the 100hPa level (deg C) 
+ SOE Indicators 5 - Monthly mean of daily radiosonde temperatures at the 500hPa level (deg C) 
+ SOE Indicators 6 - Daily mean 10m Firn Temperatures at AWS sites in the AAT (deg C) 
+ SOE Indicators 8 - Monthly mean of three-hourly mean sea level pressures (hPa) 
+ SOE Indicators 11 - Atmospheric concentrations of greenhouse gas species 
+ SOE Indicators 14 - Midwinter atmospheric temperature at altitude 87km 
+ SOE Indicators 16 - Extent of summer surface glacial melt (sq km) 
+ SOE Indicators 42 - Antarctic sea ice extent and concentration 
+ SOE Indicators 43 - Fast ice thickness at Davis and Mawson 
+ SOE Indicators 56 - Monthly fuel usage of the generator sets and boilers 
+ SOE Indicators 59 - Monthly electricity usage 
+ 
+ Note - Station codes in the data are as follows: 
+ 300000 - Davis 
+ 300001 - Mawson 
+ 300004 - Macquarie Island 
+ 300017 - Casey 
+ 
+ The fields in this dataset are: 
+ Temperature 
+ Lowest Air Temperature 
+ Year 
+ Month 
+ Station 
+ Station Code 
+ Field 
+ Value 
+ Enough Observations 
+ Number Observations 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+    
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Display Antarctic State of Environment Indicator 3 
+                            
+
+                        
+                        
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Download page for Australian Antarctic Data Centre 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Citation reference for this metadata record and dataset 
+                            
+
+                        
+                        
+                        
+                    
+                    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: -54.0
+                                
+                            	 	
+                                
+                                    S: -69.0
+                                
+                            	 	
+                                
+                                    E: 159.0
+                                
+                            	 	
+                                
+                                    W: 61.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1948-04-01
+                    
+
+                
+                
+                
+                
+            
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > SOUTHERN OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ANTARCTICA
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ANTARCTICA
+                            
+                            
+                            
+                            
+                            
+                                > Casey
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ANTARCTICA
+                            
+                            
+                            
+                            
+                            
+                                > Davis
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ANTARCTICA
+                            
+                            
+                            
+                            
+                            
+                                > Mawson
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > POLAR
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            VERTICAL LOCATION
+                            
+                                > BOUNDARY LAYER
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                
+                    
+
+                    
+                        
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Data Resolution
+
+        
+        
+        
+            
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+                Temporal Resolution:
+                Monthly
+                
+
+            
+
+            
+
+            
+
+                
+
+                
+                
+
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC TEMPERATURE
+                            
+                            
+                                >
+                                AIR TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC TEMPERATURE
+                            
+                            
+                                >
+                                MAXIMUM/MINIMUM TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+                    
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    ARWS
+                                    
+                                        >
+                                        Automatic Remote Weather Station
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+                        
+                    
+                        
+                            
+                                
+                                    WEATHER STATIONS
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+                        
+                    
+                    
+                
+
+
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            AWS
+                            
+                                >
+                                Automated Weather System
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+                
+            
+                
+                    
+                        
+                            TEMPERATURE SENSORS
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+                
+            
+                
+                    
+                        
+                            Thermometers
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+                
+            
+            
+        
+
+
+    
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Quality
+        
+            Lowest monthly temperatures are obtained by taking the lowest of the observed minimum temperatures for individual days of a given month. The daily minima are currently derived from temperature sensors sampling at 1 second intervals. If less than 25 days are available in any month, the monthly figure is flagged and removed from the State of Environment dataset. 
+ 
+ The  ... monthly air temperature anomaly is calculated as the difference between the lowest air temperature for a given month and the long-term mean lowest air temperature for that calendar month between 1971 and 2000, so that: 
+ 
+ Anomaly (for given month) = Value (for given month) - Long-term Mean (for relevant calendar month) 
+ 
+ Although the Bureau of Meteorology uses the period from 1961 to 1990 as the standard period for calculation of long-term means, it was decided that for Antarctic stations, the 1971-2000 dataset was in most cases more complete, and would therefore provide a more accurate long-term mean. 
+ 
+ These records require analysis for variability and trends. However, there are likely to be significant errors in the data, and these need to be addressed first (see Research Issues). 
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Access Constraints
+        
+            Data arising from this project are available from the state of the environment indicator URL given below. 
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+    
+    Use Constraints
+    
+        This data set conforms to the PICCCBY Attribution License 
+ (http://creativecommons.org/licenses/by/3.0/). 
+ 
+ Please follow instructions listed in the citation reference provided at http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=SOE_mont... when using these data. 
+    
+    
+    
+        
+        
+
+            
+                
+            
+                
+                    
+                
+
+               
+                This 
+                "Monthly lowest air temperatures for Australian Antarctic stations." is licensed under a Creative Commons Attribution 3.0 Unported License.
+            
+        
+         
+        
+    
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            ENOUGH
+                    
+
+                    
+                
+                    
+                    
+                        
+                            EXTREMES
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            FIELD
+                    
+
+                    
+                
+                    
+                    
+                        
+                            LOWEST AIR TEMPERATURE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            MAXIMUM
+                    
+
+                    
+                
+                    
+                    
+                        
+                            MINIMUM
+                    
+
+                    
+                
+                    
+                    
+                        
+                            MONTH
+                    
+
+                    
+                
+                    
+                    
+                        
+                            NBR OBS
+                    
+
+                    
+                
+                    
+                    
+                        
+                            STATION
+                    
+
+                    
+                
+                    
+                    
+                        
+                            SURFACE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            TEMPERATURE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            VALUE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            YEAR
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            IN WORK
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        Bureau of Meteorology
+                    
+                
+
+                
+                
+            
+            
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Australian Antarctic Data Centre, Australia
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://data.aad.gov.au
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    DATA OFFICER
+                                                    
+                                                    AADC
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            +61 3 6232 3244
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            +61 3 6232 3351
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            metadata at aad.gov.au
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        Australian Antarctic Division
+
+                                                                    
+                                                                        203 Channel Highway
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Kingston
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                Tasmania
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                7050
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                Australia
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+                        
+
+                    
+                    
+                
+                    
+                    
+                        
+                            
+                            
+                                Bureau of Meteorology, Australia
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://www.bom.gov.au/
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    
+                                                    
+                                                    CLIMATE SERVICES
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            +61 3 6221 2043
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            +61 3 6221 2045
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            climate.tas at bom.gov.au
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        Climate and Consultancy Section
+
+                                                                    
+                                                                        GPO Box 727
+
+                                                                    
+                                                                        Bureau of Meteorology
+
+                                                                    
+                                                                        Tasmania and Antarctica Regional Office
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Hobart
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                Tasmania
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                7001
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                Australia
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                        
+
+                    
+                    
+                
+                    
+                    
+                        
+                            
+                            
+                                Tasmanian-Antarctica Regional Office, Bureau of Meteorology, Australia
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://www.bom.gov.au/weather/tas/
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    
+                                                    
+                                                    CLIMATE SERVICES
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            +61 3 6221 2043
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            +61 3 6221 2045
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            climate.tas at bom.gov.au
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        Climate and Consultancy Section
+
+                                                                    
+                                                                        GPO Box 727
+
+                                                                    
+                                                                        Bureau of Meteorology
+
+                                                                    
+                                                                        Tasmania and Antarctica Regional Office
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Hobart
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                Tasmania
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                7001
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                Australia
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+                
+
+                
+                     
+                
+            
+
+  
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    HTTP
+                
+
+            
+            
+            
+            
+            
+            
+            
+                
+                    Fees: 
+                    Free
+                
+
+            
+            
+            
+                
+                
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        
+                        
+                        CLIMATE SERVICES
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                            
+                                Role: 
+                                DATA CENTER CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6221 2043
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +61 3 6221 2045
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                climate.tas at bom.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Climate and Consultancy Section
+
+                                            
+                                                GPO Box 727
+
+                                            
+                                                Bureau of Meteorology
+
+                                            
+                                                Tasmania and Antarctica Regional Office
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Hobart
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7001
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        
+                        
+                        REGIONAL OBSERVATIONS SECTION
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6221 2071
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                (via) +61 3 6221 2045
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                climate.tas at bom.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Regional Observations Section
+
+                                            
+                                                GPO Box 727
+
+                                            
+                                                Bureau of Meteorology
+
+                                            
+                                                Tasmania and Antarctica Regional Office
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Hobart
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7001
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        IAN
+                        
+                        BARNES-KEOGAHN
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6221 2043
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +61 3 6221 2045
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                I.Barnes-Keogahn at bom.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Climate and Consultancy Section
+
+                                            
+                                                GPO Box 727
+
+                                            
+                                                Bureau of Meteorology
+
+                                            
+                                                Tasmania and Antarctica Regional Office
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Hobart
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7001
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+            
+            
+            
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            CSIRO (2001), Climate Change Projections for Australia. Climate Impact Group, CSIRO Atmospheric Research, 8, Melbourne 
+
+IAWG (2001), Climate Change Impacts for Australia. CSIRO Impacts and Adaptation Working Group., CSIRO Sustainable Ecosystems, 8, Aitkenvale 
+
+White, W.B. and Peterson, R.G. (1996), An Antarctic Circumpolar Wave in Surface Pressure, Wind, Temperature and Sea-Ice Extent., Nature, 380, 699-702 
+
+
+
+        
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+            
+                DIF Creation Date:
+                2001-04-23
+            
+
+        
+        
+            
+                Last DIF Revision Date:
+                2014-09-12
+            
+
+        
+        
+    
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                 Reformat as ISO 19115 document
+            
+        
+    
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+
+        
+
+
+
+
+
+
+                            
+
+                    
+                    
+                
+
+        
+        
+
+
+	
+            
+                
+        	
+            
+                
+                    NASA Privacy Policy and Important Notices
+            
+
+            
+                Responsible NASA Official:  
+                
+                    Dr. Stephen Wharton
+
+                Webmaster:  
+                
+                    Monica Lyles
+                  ·  Contact 
+                
+                    GCMD User Support for assistance
+            
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+
+

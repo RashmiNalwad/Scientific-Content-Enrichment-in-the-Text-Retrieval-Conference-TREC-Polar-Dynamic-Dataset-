@@ -1,0 +1,1763 @@
+
+
+
+
+	 
+        
+
+	
+            
+                	
+            
+                
+	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                
+
+
+
+
+
+        
+        	 
+                
+        
+                
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Agriculture
+	
+
+	
+		
+	
+		Atmosphere
+	
+
+	
+		
+	
+		Biological Classification
+	
+
+	
+		
+	
+		Biosphere
+	
+
+	
+		
+	
+		Climate Indicators
+	
+
+	
+		
+	
+		Cryosphere
+	
+
+	
+		
+	
+		Human Dimensions
+	
+
+	
+		
+	
+		Land Surface
+	
+
+	
+		
+	
+		Oceans
+	
+
+	
+		
+	
+		Paleoclimate
+	
+
+	
+		
+	
+		Solid Earth
+	
+
+	
+		
+	
+		Spectral/Engineering
+	
+
+	
+		
+	
+		Sun-Earth Interactions
+	
+
+	
+		
+	
+		Terrestrial Hydrosphere
+	
+
+	
+	
+
+	
+		
+Data Centers
+
+	
+		 
+Locations
+
+	
+		
+Instruments
+
+	
+		
+Platforms/Sources
+
+	
+		
+Projects
+
+
+
+
+
+
+
+                
+                
+                	
+                    	
+	
+	
+
+
+                    
+                    	
+                            	
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+Record Search Query:
+Platforms>Earth Observation Satellites>SEASAT 1
+
+
+	
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        
+            
+                Polar Waveform Data Reference Set from Seasat Altimeter Sensor Data Record
+            
+        
+
+        
+        
+            Entry ID:
+            
+                ADF_PDRS
+            
+            
+
+            
+
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+        
+            
+        
+         
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+               
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                
+                    
+                    
+                        Update this Record
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+        
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            The PDRS (Polar Data Reference Set) is a subset of the Seasat Altimeter sensor 
+ data record (SDR) archive maintained at the ADF (Algorithm Development 
+ Facility), part of the EODC (Earth Observation Data Centre). The aim was to 
+ provide a manageable set of polar waveforms for R&D analysis. The PDRS covers 
+ a 17-day repeat period from 24th July 1978 to 11th August 1978. 
+ 
+ Seasat was launched on  ... 28th June 1978 carrying a five-sensor payload. The 
+ objective of the Altimeter (ALT) was to determine ocean topography with a 
+ height measurement precision of 10 cm. The ALT carrier frequency was 13.5 GHz 
+ and operated in chirp pulse mode with a 3.2 micro-second uncompressed pulse 
+ width and 3.125 ns compressed pulse width. The pulse limited footprint 
+ diameter was 1.2 km for calm seas; beam-limited footprint diameter was 22.2 
+ km. 
+ 
+ The PDRS is sub-divided into four data types: i) Antarctic ice sheet data, 
+ ii) Antarctic sea ice data, iii) Greenland ice sheet data, and iv) Arctic sea 
+ ice data. 
+ 
+ The source of the PDRS data set was 36 tapes comprising the SDR waveform data 
+ for a 17-day repeat period. The data points of interest fall in two distinct 
+ geographic regions: south of -50 and north of 59 latitudes. In the southern 
+ region, all data with the TOIL flag set to land were extracted as Antarctic 
+ ice sheet data. In the northern region, all data with the TOIL flag set to 
+ land within Greenland (longitudes -58 W and -20 W) were extracted as Greenland 
+ ice sheet data 
+ 
+ The remaining sets of sea ice data were extracted using an algorithm based on 
+ the peakiness of the waveform which was developed by the Remote Sensing Group 
+ at Mullard Space Science Laboratories, UK. 
+ 
+ The tapes are written in 9-track, 6250-bpi format. The block format is that 
+ described in the Seast Telemetry dictionary, containing 23 waveforms packed 
+ into 2988 2-byte words. Each tape is divided into logical files separated by 
+ a file mark, one per source tape. 
+ 
+ Full tape copies will be made of this data set on request. Tape handling 
+ costs will be charged. 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+    
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+                
+                    
+                
+                
+            
+        
+        
+        
+            	
+                            1.
+                        	 	
+                                
+                                    N: -60.0
+                                
+                            	 	
+                                
+                                    S: -90.0
+                                
+                            	 	
+                                
+                                    E: 180.0
+                                
+                            	 	
+                                
+                                    W: -180.0
+                                
+                            	
+                             
+                            
+                                
+                        
+
+
+        
+            	
+                            2.
+                        	 	
+                                
+                                    N: 90.0
+                                
+                            	 	
+                                
+                                    S: 60.0
+                                
+                            	 	
+                                
+                                    E: 180.0
+                                
+                            	 	
+                                
+                                    W: -180.0
+                                
+                            	
+                             
+                            
+                                
+                        
+
+
+        
+        
+
+ 
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1978-07-24
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        1978-08-11
+                    
+
+                
+                
+                
+            
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > ARCTIC OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > SOUTHERN OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > NORTH AMERICA
+                            
+                            
+                                > GREENLAND
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ANTARCTICA
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > ARCTIC
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > POLAR
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                
+                    
+
+                    
+                        
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                CRYOSPHERE
+                            
+                            
+                                >
+                                GLACIERS/ICE SHEETS
+                            
+                            
+                                >
+                                ICE SHEETS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                TERRESTRIAL HYDROSPHERE
+                            
+                            
+                                >
+                                GLACIERS/ICE SHEETS
+                            
+                            
+                                >
+                                ICE SHEETS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                SPECTRAL/ENGINEERING
+                            
+                            
+                                >
+                                RADAR
+                            
+                            
+                                >
+                                SENSOR COUNTS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            GEOSCIENTIFIC INFORMATION
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            IMAGERY/BASE MAPS/EARTH COVER
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            INLAND WATERS
+                        
+                    
+
+                    
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    SEASAT 1
+                                    
+                                        >
+                                        Ocean Dynamics Satellite
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+                        
+                    
+                    
+                
+
+
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            ALTIMETERS
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+                
+            
+            
+        
+
+
+    
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            GREENLAND
+                    
+
+                    
+                
+                    
+                    
+                        
+                            IDN_NODE ESRIN/EODC
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        EODC
+                    
+                
+
+                
+                
+            
+            
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                NERC Earth Observation Data Centre, Natural Environment Research Council, United Kingdom
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://www.neodc.rl.ac.uk/
+
+                        
+                    
+                    
+                    
+                        
+                            Dataset ID: 
+                            PDRS > Polar Data Reference Set 
+
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    ALAN
+                                                    
+                                                    HASKELL
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            +44 1252 394005
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        CSC25 Space Dept.
+
+                                                                    
+                                                                        Defense Research Agency
+
+                                                                    
+                                                                        Farnborough
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Hampshire
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                GU14 6TD
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                UK
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        MARK
+                        D.
+                        ELKINGTON
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +44 1252 721444
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                marke at eos.co.uk
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Earth Observation Sciences
+
+                                            
+                                                Broadmede
+
+                                            
+                                                Farnham Business Park
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Farnham
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Surrey
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    GU9 8QL
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    UK
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        BRIAN
+                        
+                        THOMAS
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +44 1252 721444
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +44 1252 712552
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                briant at eos.co.uk
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Earth Observation Sciences
+
+                                            
+                                                Broadmede
+
+                                            
+                                                Farnham Business Park
+
+                                            
+                                                Farnham
+
+                                            
+                                                Surrey GU9 8QL, UK
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+            
+            
+            
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            NASA/JPL (May 1, 1979), Seasat-A data Record Tape Specification, TInterface Control Document and Telemetry Dictionary, Revision A, 622-57 
+
+        
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+        
+            
+                Last DIF Revision Date:
+                2011-04-15
+            
+
+        
+        
+    
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                 Reformat as ISO 19115 document
+            
+        
+    
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+
+        
+
+
+
+
+
+
+                            
+
+                    
+                    
+                
+
+        
+        
+
+
+	
+            
+                
+        	
+            
+                
+                    NASA Privacy Policy and Important Notices
+            
+
+            
+                Responsible NASA Official:  
+                
+                    Dr. Stephen Wharton
+
+                Webmaster:  
+                
+                    Monica Lyles
+                  ·  Contact 
+                
+                    GCMD User Support for assistance
+            
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+
+

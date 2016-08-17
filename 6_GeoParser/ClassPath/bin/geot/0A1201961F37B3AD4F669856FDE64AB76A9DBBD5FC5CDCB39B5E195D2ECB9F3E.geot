@@ -1,0 +1,64 @@
+
+
+
+******************************************************************************
+dorisreport             19-Jan-2012 16:50:41 Message No 2794
+******************************************************************************
+
+
+Author: Laurent soudarin <laurent.soudarin@cls.fr>
+Subject: new LCA sinex series lcawd30
+
+
+Dear colleagues,
+
+
+A new series lcawd30 of SINEX solutions is now available at IDS Data Centers.
+It results from a complete reprocessing to take into account upgrades
+brought to the software (attitude laws revised, bug related to
+the frequency bias solved) and the modeling, since the configuration set up
+for IDS-3. It includes SPOT-2, -3, -4, -5, Topex, Envisat, Jason-2 and 
+Cryosat-2.
+
+Compared to the previous series lcawd20,24,26,28 delivered to IDS for and
+in continuity of the IDS-3 realization, we use:
+-DPOD2008 as a priori instead of DPOD2005, and for discontinuities and data
+rejection.
+-IERS EOP series aligned on ITRF2008
+-GMF/GPT tropospheric model instead of zenith delay derived from ECMWF
+meteorological model and Guo&Langley mapping function
+-EIGEN-6S gravity model instead of EIGEN-GL04S
+
+
+A new macro-model tuned by GRGS Toulouse team is used for Jason-2
+The phase wind-up effect has been implemanted in GINS and is used in the
+data processing.
+
+For more details, see the series description form
+doris/products/sinex_series/lcawd/lcawd30.snx.dsc
+
+
+Sp3 orbit files of all the DORIS missions obtained from this reprocessing
+will be provided soon to IDS Data Centers,
+as well as STCD files for the station coordinate time series.
+
+LCA will now resumed its routine processing and delivery to IDS.
+
+
+Best regards,
+
+Laurent Soudarin
+on behalf of the LCA team.
+
+
+
+
+                           Cliquez sur l'url suivante 
+https://www.mailcontrol.com/sr/4oh6tEXoiVTTndxI!oX7Uo9cpkuWnNqk3eV0LRu1LJNXYWzX29fEJCHvVzQwrJltsrSSg8k+VYigvJyt6ermNw==  
+                    si ce message est indésirable (pourriel).
+
+
+
+Please do not reply directly to this message, but send 
+comments and suggestions to IDS.central.bureau@cls.fr
+

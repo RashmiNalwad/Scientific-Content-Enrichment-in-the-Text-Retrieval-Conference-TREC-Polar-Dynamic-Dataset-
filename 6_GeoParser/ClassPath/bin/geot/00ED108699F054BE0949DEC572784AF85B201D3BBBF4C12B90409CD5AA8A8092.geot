@@ -1,0 +1,1713 @@
+
+
+
+
+	 
+		
+
+
+		
+
+
+
+		
+			 
+				
+		
+	            
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Biological Classification
+	
+
+	
+		
+	
+		Biosphere
+	
+
+	
+		
+	
+		Cryosphere
+	
+
+	
+		
+	
+		Oceans
+	
+
+	
+		
+	
+		Paleoclimate
+	
+
+	
+		
+	
+		Solid Earth
+	
+
+	
+	
+
+	
+		
+Data Centers
+
+	
+		 
+Locations
+
+	
+	
+
+	
+		
+Add to AMD
+
+	
+
+
+
+
+
+
+				
+				
+					
+						
+	
+	
+
+
+					
+						
+								
+							
+
+
+
+
+
+
+
+
+
+
+
+     
+    [ 
+    
+        
+            Return to Record
+         
+    ]
+
+
+
+
+
+	
+            
+<?xml   version="1.0"   encoding="utf-8"?>
+
+<gmd:MD_Metadata   xmlns:util="java:java.util.UUID"   xmlns:gmd="http://www.isotc211.org/2005/gmd"
+
+                                                   xmlns:gco="http://www.isotc211.org/2005/gco"
+
+                                                   xmlns:dif="http://gcmd.gsfc.nasa.gov/Aboutus/xml/dif/"
+
+                                                   xmlns:gml="http://www.opengis.net/gml"
+
+                                                   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+
+         <gmd:fileIdentifier>
+
+                  <gco:CharacterString>AMD_BE_SO_CONVECTION</gco:CharacterString>
+
+         </gmd:fileIdentifier>
+
+         <gmd:language>
+
+                  <gco:CharacterString>eng</gco:CharacterString>
+
+         </gmd:language>
+
+         <gmd:characterSet>
+
+                  <gmd:MD_CharacterSetCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode"
+
+                                                                                             codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+
+         </gmd:characterSet>
+
+         <gmd:hierarchyLevel>
+
+                  <gmd:MD_ScopeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode"
+
+                                                                        codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+
+         </gmd:hierarchyLevel>
+
+         <gmd:contact>
+
+                  <gmd:CI_ResponsibleParty>
+
+                           <gmd:individualName>
+
+                                    <gco:CharacterString>MAJOR,   GENER.</gco:CharacterString>
+
+                           </gmd:individualName>
+
+                           <gmd:contactInfo>
+
+                                    <gmd:CI_Contact>
+
+                                             <gmd:address>
+
+                                                      <gmd:CI_Address>
+
+                                                               <gmd:electronicMailAddress>
+
+                                                                        <gco:CharacterString>gsfc-gcmduso@mail.nasa.gov</gco:CharacterString>
+
+                                                               </gmd:electronicMailAddress>
+
+                                                      </gmd:CI_Address>
+
+                                             </gmd:address>
+
+                                    </gmd:CI_Contact>
+
+                           </gmd:contactInfo>
+
+                           <gmd:role>
+
+                                    <gmd:CI_RoleCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+
+                                                                                       codeListValue="author">author</gmd:CI_RoleCode>
+
+                           </gmd:role>
+
+                  </gmd:CI_ResponsibleParty>
+
+         </gmd:contact>
+
+         <gmd:contact>
+
+                  <gmd:CI_ResponsibleParty>
+
+                           <gmd:organisationName>
+
+                                    <gco:CharacterString>GCMD</gco:CharacterString>
+
+                           </gmd:organisationName>
+
+                           <gmd:role>
+
+                                    <gmd:CI_RoleCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+
+                                                                                       codeListValue="originator">originator</gmd:CI_RoleCode>
+
+                           </gmd:role>
+
+                  </gmd:CI_ResponsibleParty>
+
+         </gmd:contact>
+
+         <gmd:dateStamp   gco:nilReason="missing"/>
+
+         <gmd:metadataStandardName>
+
+                  <gco:CharacterString>CEOS   IDN   DIF</gco:CharacterString>
+
+         </gmd:metadataStandardName>
+
+         <gmd:metadataStandardVersion>
+
+                  <gco:CharacterString>VERSION   9.7</gco:CharacterString>
+
+         </gmd:metadataStandardVersion>
+
+         <gmd:identificationInfo>
+
+                  <gmd:MD_DataIdentification>
+
+                           <gmd:citation>
+
+                                    <gmd:CI_Citation>
+
+                                             <gmd:title>
+
+                                                      <gco:CharacterString>Study   of   convective   movements   in   the   Southern   Ocean</gco:CharacterString>
+
+                                             </gmd:title>
+
+                                             <gmd:alternateTitle>
+
+                                                      <gco:CharacterString>Study   of   convective   movements   in   the   Southern   Ocean</gco:CharacterString>
+
+                                             </gmd:alternateTitle>
+
+                                             <gmd:date>
+
+                                                      <gmd:CI_Date>
+
+                                                               <gmd:date   gco:nilReason="unknown"/>
+
+                                                               <gmd:dateType>
+
+                                                                        <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                       codeListValue="publication">publication</gmd:CI_DateTypeCode>
+
+                                                               </gmd:dateType>
+
+                                                      </gmd:CI_Date>
+
+                                             </gmd:date>
+
+                                             <gmd:citedResponsibleParty>
+
+                                                      <gmd:CI_ResponsibleParty>
+
+                                                               <gmd:individualName>
+
+                                                                        <gco:CharacterString>PICHOT,   GEORGES</gco:CharacterString>
+
+                                                               </gmd:individualName>
+
+                                                               <gmd:contactInfo>
+
+                                                                        <gmd:CI_Contact>
+
+                                                                                 <gmd:phone>
+
+                                                                                          <gmd:CI_Telephone>
+
+                                                                                                   <gmd:voice>
+
+                                                                                                            <gco:CharacterString>+32(0)2/   773.21.22</gco:CharacterString>
+
+                                                                                                   </gmd:voice>
+
+                                                                                                   <gmd:facsimile>
+
+                                                                                                            <gco:CharacterString>+32(0)2/   773.69.72</gco:CharacterString>
+
+                                                                                                   </gmd:facsimile>
+
+                                                                                          </gmd:CI_Telephone>
+
+                                                                                 </gmd:phone>
+
+                                                                                 <gmd:address>
+
+                                                                                          <gmd:CI_Address>
+
+                                                                                                   <gmd:deliveryPoint>
+
+                                                                                                            <gco:CharacterString>Management   Unit   of   the   Mathematical   Model   of   the   North   Sea</gco:CharacterString>
+
+                                                                                                   </gmd:deliveryPoint>
+
+                                                                                                   <gmd:deliveryPoint>
+
+                                                                                                            <gco:CharacterString>Belgian   Royal   Institute   of   Natural   Sciences</gco:CharacterString>
+
+                                                                                                   </gmd:deliveryPoint>
+
+                                                                                                   <gmd:city>
+
+                                                                                                            <gco:CharacterString>Gulledelle</gco:CharacterString>
+
+                                                                                                   </gmd:city>
+
+                                                                                                   <gmd:administrativeArea>
+
+                                                                                                            <gco:CharacterString>BRUSSELS</gco:CharacterString>
+
+                                                                                                   </gmd:administrativeArea>
+
+                                                                                                   <gmd:postalCode>
+
+                                                                                                            <gco:CharacterString>B-1200</gco:CharacterString>
+
+                                                                                                   </gmd:postalCode>
+
+                                                                                                   <gmd:country>
+
+                                                                                                            <gco:CharacterString>Belgium</gco:CharacterString>
+
+                                                                                                   </gmd:country>
+
+                                                                                                   <gmd:electronicMailAddress>
+
+                                                                                                            <gco:CharacterString>G.Pichot@mumm.ac.be</gco:CharacterString>
+
+                                                                                                   </gmd:electronicMailAddress>
+
+                                                                                          </gmd:CI_Address>
+
+                                                                                 </gmd:address>
+
+                                                                        </gmd:CI_Contact>
+
+                                                               </gmd:contactInfo>
+
+                                                               <gmd:role>
+
+                                                                        <gmd:CI_RoleCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+
+                                                                                                                           codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+
+                                                               </gmd:role>
+
+                                                      </gmd:CI_ResponsibleParty>
+
+                                             </gmd:citedResponsibleParty>
+
+                                             <gmd:citedResponsibleParty>
+
+                                                      <gmd:CI_ResponsibleParty>
+
+                                                               <gmd:individualName>
+
+                                                                        <gco:CharacterString>PICHOT,   GEORGES</gco:CharacterString>
+
+                                                               </gmd:individualName>
+
+                                                               <gmd:contactInfo>
+
+                                                                        <gmd:CI_Contact>
+
+                                                                                 <gmd:phone>
+
+                                                                                          <gmd:CI_Telephone>
+
+                                                                                                   <gmd:voice>
+
+                                                                                                            <gco:CharacterString>+32(0)2/   773.21.22</gco:CharacterString>
+
+                                                                                                   </gmd:voice>
+
+                                                                                                   <gmd:facsimile>
+
+                                                                                                            <gco:CharacterString>+32(0)2/   773.69.72</gco:CharacterString>
+
+                                                                                                   </gmd:facsimile>
+
+                                                                                          </gmd:CI_Telephone>
+
+                                                                                 </gmd:phone>
+
+                                                                                 <gmd:address>
+
+                                                                                          <gmd:CI_Address>
+
+                                                                                                   <gmd:deliveryPoint>
+
+                                                                                                            <gco:CharacterString>Management   Unit   of   the   Mathematical   Model   of   the   North   Sea</gco:CharacterString>
+
+                                                                                                   </gmd:deliveryPoint>
+
+                                                                                                   <gmd:deliveryPoint>
+
+                                                                                                            <gco:CharacterString>Belgian   Royal   Institute   of   Natural   Sciences</gco:CharacterString>
+
+                                                                                                   </gmd:deliveryPoint>
+
+                                                                                                   <gmd:city>
+
+                                                                                                            <gco:CharacterString>Gulledelle</gco:CharacterString>
+
+                                                                                                   </gmd:city>
+
+                                                                                                   <gmd:administrativeArea>
+
+                                                                                                            <gco:CharacterString>BRUSSELS</gco:CharacterString>
+
+                                                                                                   </gmd:administrativeArea>
+
+                                                                                                   <gmd:postalCode>
+
+                                                                                                            <gco:CharacterString>B-1200</gco:CharacterString>
+
+                                                                                                   </gmd:postalCode>
+
+                                                                                                   <gmd:country>
+
+                                                                                                            <gco:CharacterString>Belgium</gco:CharacterString>
+
+                                                                                                   </gmd:country>
+
+                                                                                                   <gmd:electronicMailAddress>
+
+                                                                                                            <gco:CharacterString>G.Pichot@mumm.ac.be</gco:CharacterString>
+
+                                                                                                   </gmd:electronicMailAddress>
+
+                                                                                          </gmd:CI_Address>
+
+                                                                                 </gmd:address>
+
+                                                                        </gmd:CI_Contact>
+
+                                                               </gmd:contactInfo>
+
+                                                               <gmd:role>
+
+                                                                        <gmd:CI_RoleCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+
+                                                                                                                           codeListValue="processor">processor</gmd:CI_RoleCode>
+
+                                                               </gmd:role>
+
+                                                      </gmd:CI_ResponsibleParty>
+
+                                             </gmd:citedResponsibleParty>
+
+                                             <gmd:citedResponsibleParty>
+
+                                                      <gmd:CI_ResponsibleParty>
+
+                                                               <gmd:individualName>
+
+                                                                        <gco:CharacterString>Dr   Georges   PICHOT</gco:CharacterString>
+
+                                                               </gmd:individualName>
+
+                                                               <gmd:role>
+
+                                                                        <gmd:CI_RoleCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+
+                                                                                                                           codeListValue="originator">originator</gmd:CI_RoleCode>
+
+                                                               </gmd:role>
+
+                                                      </gmd:CI_ResponsibleParty>
+
+                                             </gmd:citedResponsibleParty>
+
+                                    </gmd:CI_Citation>
+
+                           </gmd:citation>
+
+                           <gmd:abstract>
+
+                                    <gco:CharacterString>[from   "http://www.belspo.be/belspo/antar/orp/h01_uk.stm"]
+
+
+
+The   project   aims   at   working   out   a   mathematical   model   able   to   provide,
+
+at   the   regional   scale   of   the   Weddell   Sea,   an   accurate   representation
+
+of   the   hydrodynamics   and   the   air/ocean   interface   usually   covered   by
+
+the   ice   pack.   Detailed   attention   is   paid   to   the   zones   surrounding   the
+
+Filchner-Ronne   Ice   Shelf   and   the   Maud   Rise   which   are   renowned,   the
+
+former,   for   significantly   contributing   to   the   production   of   deep   water
+
+and,   the   latter,   for   undergoing   upwellings   of   relatively   warmer   water.
+
+
+
+It   comprises   two   main   sections   which   are   the   numerical   modelling   and
+
+the   use   of   satellite   imagery   and   in   situ   data.   The   first   deals   with   a
+
+detailed   representation   of   the   ice   pack   including   its   rheology   coupled
+
+to   a   oceanic   model   calculating   the   temperature   and   salinity
+
+fields.   The   second   one   is   centred   on   the   direct   validation   of   the
+
+results.
+
+
+
+In   a   second   step,   it   consists   in   implementing   the   model   so   as   to   study
+
+the   convective   phenomena   characteristic   of   the   Southern   Ocean   and
+
+their   implications   on   the   production   of   deep   water   in   relation   to   the
+
+regulation   of   the   global   climate.
+
+	      [   This   document   was   provided   by   NASA's   Global   Change   Master   Directory.   
+
+                  For   more   information   on   the   source   of   this   metadata   please   visit
+
+                  http://gcmd.nasa.gov/r/geoss/[GCMD]AMD_BE_SO_CONVECTION   ]
+
+					</gco:CharacterString>
+
+                           </gmd:abstract>
+
+                           <gmd:pointOfContact>
+
+                                    <gmd:CI_ResponsibleParty>
+
+                                             <gmd:individualName>
+
+                                                      <gco:CharacterString>PICHOT,   GEORGES</gco:CharacterString>
+
+                                             </gmd:individualName>
+
+                                             <gmd:organisationName>
+
+                                                      <gco:CharacterString>BE/RBINS/MUMM   &gt;   Management   Unit   of   the   Mathematical   Model   of   the   North   Sea,   Royal   Belgian   Institute   of   Natural   Sciences,   Belgium</gco:CharacterString>
+
+                                             </gmd:organisationName>
+
+                                             <gmd:positionName>
+
+                                                      <gco:CharacterString>DATA   CENTER   CONTACT</gco:CharacterString>
+
+                                             </gmd:positionName>
+
+                                             <gmd:contactInfo>
+
+                                                      <gmd:CI_Contact>
+
+                                                               <gmd:phone>
+
+                                                                        <gmd:CI_Telephone>
+
+                                                                                 <gmd:voice>
+
+                                                                                          <gco:CharacterString>+32(0)2/   773.21.22</gco:CharacterString>
+
+                                                                                 </gmd:voice>
+
+                                                                                 <gmd:facsimile>
+
+                                                                                          <gco:CharacterString>+32(0)2/   773.69.72</gco:CharacterString>
+
+                                                                                 </gmd:facsimile>
+
+                                                                        </gmd:CI_Telephone>
+
+                                                               </gmd:phone>
+
+                                                               <gmd:address>
+
+                                                                        <gmd:CI_Address>
+
+                                                                                 <gmd:deliveryPoint>
+
+                                                                                          <gco:CharacterString>Management   Unit   of   the   Mathematical   Model   of   the   North   Sea</gco:CharacterString>
+
+                                                                                 </gmd:deliveryPoint>
+
+                                                                                 <gmd:deliveryPoint>
+
+                                                                                          <gco:CharacterString>Belgian   Royal   Institute   of   Natural   Sciences</gco:CharacterString>
+
+                                                                                 </gmd:deliveryPoint>
+
+                                                                                 <gmd:city>
+
+                                                                                          <gco:CharacterString>Gulledelle</gco:CharacterString>
+
+                                                                                 </gmd:city>
+
+                                                                                 <gmd:administrativeArea>
+
+                                                                                          <gco:CharacterString>BRUSSELS</gco:CharacterString>
+
+                                                                                 </gmd:administrativeArea>
+
+                                                                                 <gmd:postalCode>
+
+                                                                                          <gco:CharacterString>B-1200</gco:CharacterString>
+
+                                                                                 </gmd:postalCode>
+
+                                                                                 <gmd:country>
+
+                                                                                          <gco:CharacterString>Belgium</gco:CharacterString>
+
+                                                                                 </gmd:country>
+
+                                                                                 <gmd:electronicMailAddress>
+
+                                                                                          <gco:CharacterString>G.Pichot@mumm.ac.be</gco:CharacterString>
+
+                                                                                 </gmd:electronicMailAddress>
+
+                                                                        </gmd:CI_Address>
+
+                                                               </gmd:address>
+
+                                                               <gmd:onlineResource>
+
+                                                                        <gmd:CI_OnlineResource>
+
+                                                                                 <gmd:linkage>
+
+                                                                                          <gmd:URL>http://www.mumm.ac.be/</gmd:URL>
+
+                                                                                 </gmd:linkage>
+
+                                                                        </gmd:CI_OnlineResource>
+
+                                                               </gmd:onlineResource>
+
+                                                      </gmd:CI_Contact>
+
+                                             </gmd:contactInfo>
+
+                                             <gmd:role>
+
+                                                      <gmd:CI_RoleCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+
+                                                                                                         codeListValue="resourceProvider">resourceProvider</gmd:CI_RoleCode>
+
+                                             </gmd:role>
+
+                                    </gmd:CI_ResponsibleParty>
+
+                           </gmd:pointOfContact>
+
+                           <gmd:descriptiveKeywords>
+
+                                    <gmd:MD_Keywords>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>EARTH   SCIENCE   &gt;   CRYOSPHERE   &gt;   SEA   ICE   &gt;   PACK   ICE</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>EARTH   SCIENCE   &gt;   OCEANS   &gt;   OCEAN   CIRCULATION   &gt;   CONVECTION</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>EARTH   SCIENCE   &gt;   OCEANS   &gt;   OCEAN   TEMPERATURE   &gt;   WATER   TEMPERATURE</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>EARTH   SCIENCE   &gt;   OCEANS   &gt;   SALINITY/DENSITY   &gt;   SALINITY</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>EARTH   SCIENCE   &gt;   OCEANS   &gt;   SEA   ICE   &gt;   PACK   ICE</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:thesaurusName>
+
+                                                      <gmd:CI_Citation>
+
+                                                               <gmd:title>
+
+                                                                        <gco:CharacterString>NASA/GCMD   Earth   Science   Keywords</gco:CharacterString>
+
+                                                               </gmd:title>
+
+                                                               <gmd:alternateTitle>
+
+                                                                        <gco:CharacterString>Science   Keywords</gco:CharacterString>
+
+                                                               </gmd:alternateTitle>
+
+                                                               <gmd:date>
+
+                                                                        <gmd:CI_Date>
+
+                                                                                 <gmd:date>
+
+                                                                                          <gco:Date>2008-02-05</gco:Date>
+
+                                                                                 </gmd:date>
+
+                                                                                 <gmd:dateType>
+
+                                                                                          <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                                         codeListValue="revision">revision</gmd:CI_DateTypeCode>
+
+                                                                                 </gmd:dateType>
+
+                                                                        </gmd:CI_Date>
+
+                                                               </gmd:date>
+
+                                                               <gmd:collectiveTitle>
+
+                                                                        <gco:CharacterString>Olsen,   L.M.,   G.   Major,   K.   Shein,   J.   Scialdone,   R.   Vogel,   S.   Leicester,   H.   Weir,   S.   Ritz,   T.   Stevens,   M.   Meaux,   C.Solomon,   R.   Bilodeau,   M.   Holland,   T.   Northcutt,   R.   A.   Restrepo,   2007   .         NASA/Global   Change   Master   Directory   (GCMD)   Earth   Science   Keywords.   Version      6.0.0.0.0</gco:CharacterString>
+
+                                                               </gmd:collectiveTitle>
+
+                                                      </gmd:CI_Citation>
+
+                                             </gmd:thesaurusName>
+
+                                    </gmd:MD_Keywords>
+
+                           </gmd:descriptiveKeywords>
+
+                           <gmd:descriptiveKeywords>
+
+                                    <gmd:MD_Keywords>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>MODELLING</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>MODEL</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>CONVECTION</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>AIR/OCEAN   INTERFACE</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>MAUD   RISE</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>FILCHNER-RONNE   ICE   SHELF</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>DEEP   WATER</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                    </gmd:MD_Keywords>
+
+                           </gmd:descriptiveKeywords>
+
+                           <gmd:descriptiveKeywords>
+
+                                    <gmd:MD_Keywords>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>AMD/BE</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>CEOS</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>AMD</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:thesaurusName>
+
+                                                      <gmd:CI_Citation>
+
+                                                               <gmd:title>
+
+                                                                        <gco:CharacterString>NASA/GCMD   Earth   Science   Keywords</gco:CharacterString>
+
+                                                               </gmd:title>
+
+                                                               <gmd:alternateTitle>
+
+                                                                        <gco:CharacterString>IDN   Nodes</gco:CharacterString>
+
+                                                               </gmd:alternateTitle>
+
+                                                               <gmd:date>
+
+                                                                        <gmd:CI_Date>
+
+                                                                                 <gmd:date>
+
+                                                                                          <gco:Date>2007-04-01</gco:Date>
+
+                                                                                 </gmd:date>
+
+                                                                                 <gmd:dateType>
+
+                                                                                          <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                                         codeListValue="revision">revision</gmd:CI_DateTypeCode>
+
+                                                                                 </gmd:dateType>
+
+                                                                        </gmd:CI_Date>
+
+                                                               </gmd:date>
+
+                                                               <gmd:collectiveTitle>
+
+                                                                        <gco:CharacterString>Olsen,   L.M.,   G.   Major,   K.   Shein,   J.   Scialdone,   R.   Vogel,   S.   Leicester,   H.   Weir,   S.   Ritz,   T.   Stevens,   M.   Meaux,   C.Solomon,   R.   Bilodeau,   M.   Holland,   T.   Northcutt,   R.   A.   Restrepo,   2007   .         NASA/Global   Change   Master   Directory   (GCMD)   Earth   Science   Keywords.   Version      6.0.0.0.0</gco:CharacterString>
+
+                                                               </gmd:collectiveTitle>
+
+                                                      </gmd:CI_Citation>
+
+                                             </gmd:thesaurusName>
+
+                                    </gmd:MD_Keywords>
+
+                           </gmd:descriptiveKeywords>
+
+                           <gmd:descriptiveKeywords>
+
+                                    <gmd:MD_Keywords>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>OCEAN   &gt;   SOUTHERN   OCEAN</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>GEOGRAPHIC   REGION   &gt;   POLAR</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>OCEAN   &gt;   SOUTHERN   OCEAN   &gt;   WEDDELL   SEA</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:thesaurusName>
+
+                                                      <gmd:CI_Citation>
+
+                                                               <gmd:title>
+
+                                                                        <gco:CharacterString>NASA/GCMD   Earth   Science   Keywords</gco:CharacterString>
+
+                                                               </gmd:title>
+
+                                                               <gmd:alternateTitle>
+
+                                                                        <gco:CharacterString>Locations</gco:CharacterString>
+
+                                                               </gmd:alternateTitle>
+
+                                                               <gmd:date>
+
+                                                                        <gmd:CI_Date>
+
+                                                                                 <gmd:date>
+
+                                                                                          <gco:Date>2009-12-22</gco:Date>
+
+                                                                                 </gmd:date>
+
+                                                                                 <gmd:dateType>
+
+                                                                                          <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                                         codeListValue="revision">revision</gmd:CI_DateTypeCode>
+
+                                                                                 </gmd:dateType>
+
+                                                                        </gmd:CI_Date>
+
+                                                               </gmd:date>
+
+                                                               <gmd:collectiveTitle>
+
+                                                                        <gco:CharacterString>Olsen,   L.M.,   G.   Major,   K.   Shein,   J.   Scialdone,   R.   Vogel,   S.   Leicester,   H.   Weir,   S.   Ritz,   T.   Stevens,   M.   Meaux,   C.Solomon,   R.   Bilodeau,   M.   Holland,   T.   Northcutt,   R.   A.   Restrepo,   2007   .         NASA/Global   Change   Master   Directory   (GCMD)   Earth   Science   Keywords.   Version      6.0.0.0.0</gco:CharacterString>
+
+                                                               </gmd:collectiveTitle>
+
+                                                      </gmd:CI_Citation>
+
+                                             </gmd:thesaurusName>
+
+                                    </gmd:MD_Keywords>
+
+                           </gmd:descriptiveKeywords>
+
+                           <gmd:resourceConstraints>
+
+                                    <gmd:MD_LegalConstraints>
+
+                                             <gmd:accessConstraints>
+
+                                                      <gmd:MD_RestrictionCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode"
+
+                                                                                                                              codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
+
+                                             </gmd:accessConstraints>
+
+                                             <gmd:otherConstraints>
+
+                                                      <gco:CharacterString>
+
+                  Please   contact   investigator.
+
+         </gco:CharacterString>
+
+                                             </gmd:otherConstraints>
+
+                                    </gmd:MD_LegalConstraints>
+
+                           </gmd:resourceConstraints>
+
+                           <gmd:resourceConstraints>
+
+                                    <gmd:MD_LegalConstraints>
+
+                                             <gmd:useConstraints>
+
+                                                      <gmd:MD_RestrictionCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode"
+
+                                                                                                                              codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
+
+                                             </gmd:useConstraints>
+
+                                             <gmd:otherConstraints>
+
+                                                      <gco:CharacterString>
+
+                  Please   cite   data   provider(s).
+
+         </gco:CharacterString>
+
+                                             </gmd:otherConstraints>
+
+                                    </gmd:MD_LegalConstraints>
+
+                           </gmd:resourceConstraints>
+
+                           <gmd:language   gco:nilReason="missing">
+
+                                    <gco:CharacterString/>
+
+                           </gmd:language>
+
+                           <gmd:characterSet>
+
+                                    <gmd:MD_CharacterSetCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode"
+
+                                                                                                               codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+
+                           </gmd:characterSet>
+
+                           <gmd:topicCategory>
+
+                                    <gmd:MD_TopicCategoryCode>oceans</gmd:MD_TopicCategoryCode>
+
+                           </gmd:topicCategory>
+
+                           <gmd:extent>
+
+                                    <gmd:EX_Extent>
+
+                                             <gmd:geographicElement>
+
+                                                      <gmd:EX_GeographicBoundingBox>
+
+                                                               <gmd:westBoundLongitude>
+
+                                                                        <gco:Decimal>-75.0</gco:Decimal>
+
+                                                               </gmd:westBoundLongitude>
+
+                                                               <gmd:eastBoundLongitude>
+
+                                                                        <gco:Decimal>0.0</gco:Decimal>
+
+                                                               </gmd:eastBoundLongitude>
+
+                                                               <gmd:southBoundLatitude>
+
+                                                                        <gco:Decimal>-80.0</gco:Decimal>
+
+                                                               </gmd:southBoundLatitude>
+
+                                                               <gmd:northBoundLatitude>
+
+                                                                        <gco:Decimal>-58.0</gco:Decimal>
+
+                                                               </gmd:northBoundLatitude>
+
+                                                      </gmd:EX_GeographicBoundingBox>
+
+                                             </gmd:geographicElement>
+
+                                             <gmd:geographicElement>
+
+                                                      <gmd:EX_GeographicDescription>
+
+                                                               <gmd:geographicIdentifier>
+
+                                                                        <gmd:MD_Identifier>
+
+                                                                                 <gmd:authority>
+
+                                                                                          <gmd:CI_Citation>
+
+                                                                                                   <gmd:title>
+
+                                                                                                            <gco:CharacterString>NASA/GCMD   Earth   Science   Keywords</gco:CharacterString>
+
+                                                                                                   </gmd:title>
+
+                                                                                                   <gmd:alternateTitle>
+
+                                                                                                            <gco:CharacterString>Locations</gco:CharacterString>
+
+                                                                                                   </gmd:alternateTitle>
+
+                                                                                                   <gmd:date>
+
+                                                                                                            <gmd:CI_Date>
+
+                                                                                                                     <gmd:date>
+
+                                                                                                                              <gco:Date>2009-12-22</gco:Date>
+
+                                                                                                                     </gmd:date>
+
+                                                                                                                     <gmd:dateType>
+
+                                                                                                                              <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                                                                             codeListValue="revision"/>
+
+                                                                                                                     </gmd:dateType>
+
+                                                                                                            </gmd:CI_Date>
+
+                                                                                                   </gmd:date>
+
+                                                                                                   <gmd:collectiveTitle>
+
+                                                                                                            <gco:CharacterString>Olsen,   L.M.,   G.   Major,   K.   Shein,   J.   Scialdone,   R.   Vogel,   S.   Leicester,   H.   Weir,   S.   Ritz,   T.   Stevens,   M.   Meaux,   C.Solomon,   R.   Bilodeau,   M.   Holland,   T.   Northcutt,   R.   A.   Restrepo,   2007   .         NASA/Global   Change   Master   Directory   (GCMD)   Earth   Science   Keywords.   Version      6.0.0.0.0</gco:CharacterString>
+
+                                                                                                   </gmd:collectiveTitle>
+
+                                                                                          </gmd:CI_Citation>
+
+                                                                                 </gmd:authority>
+
+                                                                                 <gmd:code>
+
+                                                                                          <gco:CharacterString>OCEAN   &gt;   SOUTHERN   OCEAN</gco:CharacterString>
+
+                                                                                 </gmd:code>
+
+                                                                        </gmd:MD_Identifier>
+
+                                                               </gmd:geographicIdentifier>
+
+                                                      </gmd:EX_GeographicDescription>
+
+                                             </gmd:geographicElement>
+
+                                             <gmd:geographicElement>
+
+                                                      <gmd:EX_GeographicDescription>
+
+                                                               <gmd:geographicIdentifier>
+
+                                                                        <gmd:MD_Identifier>
+
+                                                                                 <gmd:authority>
+
+                                                                                          <gmd:CI_Citation>
+
+                                                                                                   <gmd:title>
+
+                                                                                                            <gco:CharacterString>NASA/GCMD   Earth   Science   Keywords</gco:CharacterString>
+
+                                                                                                   </gmd:title>
+
+                                                                                                   <gmd:alternateTitle>
+
+                                                                                                            <gco:CharacterString>Locations</gco:CharacterString>
+
+                                                                                                   </gmd:alternateTitle>
+
+                                                                                                   <gmd:date>
+
+                                                                                                            <gmd:CI_Date>
+
+                                                                                                                     <gmd:date>
+
+                                                                                                                              <gco:Date>2009-12-22</gco:Date>
+
+                                                                                                                     </gmd:date>
+
+                                                                                                                     <gmd:dateType>
+
+                                                                                                                              <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                                                                             codeListValue="revision"/>
+
+                                                                                                                     </gmd:dateType>
+
+                                                                                                            </gmd:CI_Date>
+
+                                                                                                   </gmd:date>
+
+                                                                                                   <gmd:collectiveTitle>
+
+                                                                                                            <gco:CharacterString>Olsen,   L.M.,   G.   Major,   K.   Shein,   J.   Scialdone,   R.   Vogel,   S.   Leicester,   H.   Weir,   S.   Ritz,   T.   Stevens,   M.   Meaux,   C.Solomon,   R.   Bilodeau,   M.   Holland,   T.   Northcutt,   R.   A.   Restrepo,   2007   .         NASA/Global   Change   Master   Directory   (GCMD)   Earth   Science   Keywords.   Version      6.0.0.0.0</gco:CharacterString>
+
+                                                                                                   </gmd:collectiveTitle>
+
+                                                                                          </gmd:CI_Citation>
+
+                                                                                 </gmd:authority>
+
+                                                                                 <gmd:code>
+
+                                                                                          <gco:CharacterString>GEOGRAPHIC   REGION   &gt;   POLAR</gco:CharacterString>
+
+                                                                                 </gmd:code>
+
+                                                                        </gmd:MD_Identifier>
+
+                                                               </gmd:geographicIdentifier>
+
+                                                      </gmd:EX_GeographicDescription>
+
+                                             </gmd:geographicElement>
+
+                                             <gmd:geographicElement>
+
+                                                      <gmd:EX_GeographicDescription>
+
+                                                               <gmd:geographicIdentifier>
+
+                                                                        <gmd:MD_Identifier>
+
+                                                                                 <gmd:authority>
+
+                                                                                          <gmd:CI_Citation>
+
+                                                                                                   <gmd:title>
+
+                                                                                                            <gco:CharacterString>NASA/GCMD   Earth   Science   Keywords</gco:CharacterString>
+
+                                                                                                   </gmd:title>
+
+                                                                                                   <gmd:alternateTitle>
+
+                                                                                                            <gco:CharacterString>Locations</gco:CharacterString>
+
+                                                                                                   </gmd:alternateTitle>
+
+                                                                                                   <gmd:date>
+
+                                                                                                            <gmd:CI_Date>
+
+                                                                                                                     <gmd:date>
+
+                                                                                                                              <gco:Date>2009-12-22</gco:Date>
+
+                                                                                                                     </gmd:date>
+
+                                                                                                                     <gmd:dateType>
+
+                                                                                                                              <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                                                                             codeListValue="revision"/>
+
+                                                                                                                     </gmd:dateType>
+
+                                                                                                            </gmd:CI_Date>
+
+                                                                                                   </gmd:date>
+
+                                                                                                   <gmd:collectiveTitle>
+
+                                                                                                            <gco:CharacterString>Olsen,   L.M.,   G.   Major,   K.   Shein,   J.   Scialdone,   R.   Vogel,   S.   Leicester,   H.   Weir,   S.   Ritz,   T.   Stevens,   M.   Meaux,   C.Solomon,   R.   Bilodeau,   M.   Holland,   T.   Northcutt,   R.   A.   Restrepo,   2007   .         NASA/Global   Change   Master   Directory   (GCMD)   Earth   Science   Keywords.   Version      6.0.0.0.0</gco:CharacterString>
+
+                                                                                                   </gmd:collectiveTitle>
+
+                                                                                          </gmd:CI_Citation>
+
+                                                                                 </gmd:authority>
+
+                                                                                 <gmd:code>
+
+                                                                                          <gco:CharacterString>OCEAN   &gt;   SOUTHERN   OCEAN   &gt;   WEDDELL   SEA</gco:CharacterString>
+
+                                                                                 </gmd:code>
+
+                                                                        </gmd:MD_Identifier>
+
+                                                               </gmd:geographicIdentifier>
+
+                                                      </gmd:EX_GeographicDescription>
+
+                                             </gmd:geographicElement>
+
+                                             <gmd:temporalElement>
+
+                                                      <gmd:EX_TemporalExtent>
+
+                                                               <gmd:extent>
+
+                                                                        <gml:TimePeriod   gml:id="w1aa">
+
+                                                                                 <gml:begin>
+
+                                                                                          <gml:TimeInstant   gml:id="a4b9698b1-303f-4d93-884e-df408088df84">
+
+                                                                                                   <gml:timePosition   indeterminatePosition="unknown"/>
+
+                                                                                          </gml:TimeInstant>
+
+                                                                                 </gml:begin>
+
+                                                                                 <gml:end>
+
+                                                                                          <gml:TimeInstant   gml:id="a847e7559-627e-471f-9dca-7b212b73fdb9">
+
+                                                                                                   <gml:timePosition   indeterminatePosition="unknown"/>
+
+                                                                                          </gml:TimeInstant>
+
+                                                                                 </gml:end>
+
+                                                                        </gml:TimePeriod>
+
+                                                               </gmd:extent>
+
+                                                      </gmd:EX_TemporalExtent>
+
+                                             </gmd:temporalElement>
+
+                                    </gmd:EX_Extent>
+
+                           </gmd:extent>
+
+                  </gmd:MD_DataIdentification>
+
+         </gmd:identificationInfo>
+
+         <gmd:distributionInfo>
+
+                  <gmd:MD_Distribution>
+
+                           <gmd:distributionFormat>
+
+                                    <gmd:MD_Format>
+
+                                             <gmd:name   gco:nilReason="missing">
+
+                                                      <gco:CharacterString/>
+
+                                             </gmd:name>
+
+                                             <gmd:version   gco:nilReason="missing">
+
+                                                      <gco:CharacterString/>
+
+                                             </gmd:version>
+
+                                    </gmd:MD_Format>
+
+                           </gmd:distributionFormat>
+
+                           <gmd:distributor>
+
+                                    <gmd:MD_Distributor>
+
+                                             <gmd:distributorContact>
+
+                                                      <gmd:CI_ResponsibleParty>
+
+                                                               <gmd:individualName>
+
+                                                                        <gco:CharacterString>PICHOT,   GEORGES</gco:CharacterString>
+
+                                                               </gmd:individualName>
+
+                                                               <gmd:organisationName>
+
+                                                                        <gco:CharacterString>BE/RBINS/MUMM   &gt;   Management   Unit   of   the   Mathematical   Model   of   the   North   Sea,   Royal   Belgian   Institute   of   Natural   Sciences,   Belgium</gco:CharacterString>
+
+                                                               </gmd:organisationName>
+
+                                                               <gmd:positionName>
+
+                                                                        <gco:CharacterString>DATA   CENTER   CONTACT</gco:CharacterString>
+
+                                                               </gmd:positionName>
+
+                                                               <gmd:contactInfo>
+
+                                                                        <gmd:CI_Contact>
+
+                                                                                 <gmd:phone>
+
+                                                                                          <gmd:CI_Telephone>
+
+                                                                                                   <gmd:voice>
+
+                                                                                                            <gco:CharacterString>+32(0)2/   773.21.22</gco:CharacterString>
+
+                                                                                                   </gmd:voice>
+
+                                                                                                   <gmd:facsimile>
+
+                                                                                                            <gco:CharacterString>+32(0)2/   773.69.72</gco:CharacterString>
+
+                                                                                                   </gmd:facsimile>
+
+                                                                                          </gmd:CI_Telephone>
+
+                                                                                 </gmd:phone>
+
+                                                                                 <gmd:address>
+
+                                                                                          <gmd:CI_Address>
+
+                                                                                                   <gmd:deliveryPoint>
+
+                                                                                                            <gco:CharacterString>Management   Unit   of   the   Mathematical   Model   of   the   North   Sea</gco:CharacterString>
+
+                                                                                                   </gmd:deliveryPoint>
+
+                                                                                                   <gmd:deliveryPoint>
+
+                                                                                                            <gco:CharacterString>Belgian   Royal   Institute   of   Natural   Sciences</gco:CharacterString>
+
+                                                                                                   </gmd:deliveryPoint>
+
+                                                                                                   <gmd:city>
+
+                                                                                                            <gco:CharacterString>Gulledelle</gco:CharacterString>
+
+                                                                                                   </gmd:city>
+
+                                                                                                   <gmd:administrativeArea>
+
+                                                                                                            <gco:CharacterString>BRUSSELS</gco:CharacterString>
+
+                                                                                                   </gmd:administrativeArea>
+
+                                                                                                   <gmd:postalCode>
+
+                                                                                                            <gco:CharacterString>B-1200</gco:CharacterString>
+
+                                                                                                   </gmd:postalCode>
+
+                                                                                                   <gmd:country>
+
+                                                                                                            <gco:CharacterString>Belgium</gco:CharacterString>
+
+                                                                                                   </gmd:country>
+
+                                                                                                   <gmd:electronicMailAddress>
+
+                                                                                                            <gco:CharacterString>G.Pichot@mumm.ac.be</gco:CharacterString>
+
+                                                                                                   </gmd:electronicMailAddress>
+
+                                                                                          </gmd:CI_Address>
+
+                                                                                 </gmd:address>
+
+                                                                                 <gmd:onlineResource>
+
+                                                                                          <gmd:CI_OnlineResource>
+
+                                                                                                   <gmd:linkage>
+
+                                                                                                            <gmd:URL>http://www.mumm.ac.be/</gmd:URL>
+
+                                                                                                   </gmd:linkage>
+
+                                                                                          </gmd:CI_OnlineResource>
+
+                                                                                 </gmd:onlineResource>
+
+                                                                        </gmd:CI_Contact>
+
+                                                               </gmd:contactInfo>
+
+                                                               <gmd:role>
+
+                                                                        <gmd:CI_RoleCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+
+                                                                                                                           codeListValue="distributor">distributor</gmd:CI_RoleCode>
+
+                                                               </gmd:role>
+
+                                                      </gmd:CI_ResponsibleParty>
+
+                                             </gmd:distributorContact>
+
+                                    </gmd:MD_Distributor>
+
+                           </gmd:distributor>
+
+                           <gmd:transferOptions>
+
+                                    <gmd:MD_DigitalTransferOptions>
+
+                                             <gmd:onLine>
+
+                                                      <gmd:CI_OnlineResource>
+
+                                                               <gmd:linkage>
+
+                                                                        <gmd:URL>http://www.belspo.be/belspo/antar/orp/h01_uk.stm</gmd:URL>
+
+                                                               </gmd:linkage>
+
+                                                               <gmd:protocol>
+
+                                                                        <gco:CharacterString>WWW:LINK-1.0-http--link</gco:CharacterString>
+
+                                                               </gmd:protocol>
+
+                                                               <gmd:name>
+
+                                                                        <gco:CharacterString>VIEW   RELATED   INFORMATION</gco:CharacterString>
+
+                                                               </gmd:name>
+
+                                                               <gmd:description>
+
+                                                                        <gco:CharacterString/>
+
+                                                               </gmd:description>
+
+                                                      </gmd:CI_OnlineResource>
+
+                                             </gmd:onLine>
+
+                                    </gmd:MD_DigitalTransferOptions>
+
+                           </gmd:transferOptions>
+
+                  </gmd:MD_Distribution>
+
+         </gmd:distributionInfo>
+
+         <gmd:dataQualityInfo>
+
+                  <gmd:DQ_DataQuality>
+
+                           <gmd:scope>
+
+                                    <gmd:DQ_Scope>
+
+                                             <gmd:level>
+
+                                                      <gmd:MD_ScopeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode"
+
+                                                                                                            codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+
+                                             </gmd:level>
+
+                                    </gmd:DQ_Scope>
+
+                           </gmd:scope>
+
+                           <gmd:lineage>
+
+                                    <gmd:LI_Lineage>
+
+                                             <gmd:statement   gco:nilReason="missing">
+
+                                                      <gco:CharacterString/>
+
+                                             </gmd:statement>
+
+                                    </gmd:LI_Lineage>
+
+                           </gmd:lineage>
+
+                  </gmd:DQ_DataQuality>
+
+         </gmd:dataQualityInfo>
+
+         <gmd:metadataConstraints>
+
+                  <gmd:MD_LegalConstraints>
+
+                           <gmd:useLimitation>
+
+                                    <gco:CharacterString>This   metadata   record   is   publicly   available.</gco:CharacterString>
+
+                           </gmd:useLimitation>
+
+                  </gmd:MD_LegalConstraints>
+
+         </gmd:metadataConstraints>
+
+         <gmd:metadataMaintenance>
+
+                  <gmd:MD_MaintenanceInformation>
+
+                           <gmd:maintenanceAndUpdateFrequency>
+
+                                    <gmd:MD_MaintenanceFrequencyCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode"
+
+                                                                                                                                       codeListValue="asNeeded">asNeeded</gmd:MD_MaintenanceFrequencyCode>
+
+                           </gmd:maintenanceAndUpdateFrequency>
+
+                           <gmd:dateOfNextUpdate>
+
+                                    <gco:Date>2003-09-13</gco:Date>
+
+                           </gmd:dateOfNextUpdate>
+
+                           <gmd:maintenanceNote>
+
+                                    <gco:CharacterString>
+
+                  2002-09-13   New   DIF
+
+         </gco:CharacterString>
+
+                           </gmd:maintenanceNote>
+
+                           <gmd:contact>
+
+                                    <gmd:CI_ResponsibleParty>
+
+                                             <gmd:individualName>
+
+                                                      <gco:CharacterString>MAJOR,   GENER.</gco:CharacterString>
+
+                                             </gmd:individualName>
+
+                                             <gmd:contactInfo>
+
+                                                      <gmd:CI_Contact>
+
+                                                               <gmd:address>
+
+                                                                        <gmd:CI_Address>
+
+                                                                                 <gmd:electronicMailAddress>
+
+                                                                                          <gco:CharacterString>gsfc-gcmduso@mail.nasa.gov</gco:CharacterString>
+
+                                                                                 </gmd:electronicMailAddress>
+
+                                                                        </gmd:CI_Address>
+
+                                                               </gmd:address>
+
+                                                      </gmd:CI_Contact>
+
+                                             </gmd:contactInfo>
+
+                                             <gmd:role>
+
+                                                      <gmd:CI_RoleCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+
+                                                                                                         codeListValue="author">author</gmd:CI_RoleCode>
+
+                                             </gmd:role>
+
+                                    </gmd:CI_ResponsibleParty>
+
+                           </gmd:contact>
+
+                  </gmd:MD_MaintenanceInformation>
+
+         </gmd:metadataMaintenance>
+
+</gmd:MD_Metadata>
+            
+
+        
+
+
+
+
+
+
+
+     
+    [ 
+    
+        
+            Return to Record
+         
+    ]
+
+
+
+
+							
+
+					
+					
+				
+
+		
+		
+		
+	Contact Belgian Antarctic Programme
+	Search the AMD
+	More Information
+
+
+
+
+	
+		   
+                  NASA Website Privacy and Security Statement, Disclaimer and 
+                  Accessibility Certification 
+ Responsible 
+                  NASA Official:  Dr. Stephen Wharton  ·  Webmaster:  Monica Lyles
+ Contact  GCMD 
+                  User Support  for assistance 
+                
+
+
+

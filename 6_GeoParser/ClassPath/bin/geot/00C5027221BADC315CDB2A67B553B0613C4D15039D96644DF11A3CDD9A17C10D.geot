@@ -1,0 +1,2924 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Locations>CONTINENT>ASIA
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+    
+        
+        
+            
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                MODIS/Terra Near Real Time (NRT) Snow Cover 5-Min L2 Swath 500m, Version 5
+            
+        
+
+        
+        
+            Entry ID:
+            
+                MOD10_L2_C5_NRT
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+        
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                             MODIS/Terra Near Real Time (NRT) Snow Cover 5-Min L2 Swath 500m (MOD10_L2) contains snow cover and quality assurance (QA) data, latitudes, and longitudes in HDF-EOS format, along with corresponding metadata. Latitude and longitude geolocation fields are at 5 km resolution, while all other fields are at 500 m resolution. Version 5 (V005) has two separate snow cover fields: one incorporating the  ... original cloud mask, and another using a less cloud-conservative mask. MODIS/Terra V005 data extend from 24 February 2000 to present. MODIS snow cover data are based on a snow mapping algorithm that employs a Normalized Difference Snow Index (NDSI) and other criteria tests. The only data available for Version 5 (V005) is the Golden Month, which is a sample of V004 data covering the time period 29 August 2002 (day of year 241) through 7 October 2002 (day of year 280). The Golden Month is only available by special request by contacting NSIDC User Services. Please note that NSIDC now has a complete series of Version 5 data, which is the highest version number now available and represents the best quality of data. 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            
+                                                GET DATA
+                                                 > 
+                                                    LANCE
+                                                
+                                            
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                LANCE Near Real Time (NRT) Data Products 
+                            
+
+                        
+			
+                        
+                    
+		    
+                
+            
+        
+    
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                    (Click for Interactive Map)
+                
+
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 90.0
+                                
+                            	 	
+                                
+                                    S: -90.0
+                                
+                            	 	
+                                
+                                    E: 180.0
+                                
+                            	 	
+                                
+                                    W: -180.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            Hall, D.K., G. A. Riggs, and V. V. Salomonson
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Title: 
+                            MODIS/Terra Near Real Time (NRT) Snow Cover 5-Min L2 Swath 500m, Version 5
+                        
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Release Date: 
+                            2000-09-01
+                         
+
+                    
+                    
+                    
+                        
+                            Dataset Release Place: 
+                            Boulder, CO
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            National Snow and Ice Data Center (NSIDC)
+                        
+
+                    
+                    
+                    
+                        
+                            Version: 
+                            5
+                        
+
+                    
+                    
+                    
+
+
+                    
+                    
+                    
+
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        http://nsidc.org/data/mod10_l2.html
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                       2015-02-05
+                    
+
+                
+
+                
+                
+                        Stop Date: 
+                        2015-02-16
+                    
+
+                
+                
+
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ANTARCTICA
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ASIA
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > EUROPE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > NORTH AMERICA
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > EASTERN HEMISPHERE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > GLOBAL LAND
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > NORTHERN HEMISPHERE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > POLAR
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > SOUTHERN HEMISPHERE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > WESTERN HEMISPHERE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > SOUTH AMERICA
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AUSTRALIA/NEW ZEALAND
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+		
+                    
+
+                    
+                        
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Data Resolution
+
+        
+        
+        
+            
+            
+
+            
+                Latitude Resolution:
+                500 m
+                
+
+            
+
+            
+                Longitude Resolution:
+                500 m
+                
+
+            
+
+            
+
+            
+
+            
+
+            
+                Temporal Resolution:
+                5 min
+                
+
+            
+
+            
+
+	    
+
+                
+
+                
+		
+
+            
+        
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                CRYOSPHERE
+                            
+                            
+                                >
+                                SNOW/ICE
+                            
+                            
+                                >
+                                LAKE ICE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                CRYOSPHERE
+                            
+                            
+                                >
+                                SNOW/ICE
+                            
+                            
+                                >
+                                SNOW COVER
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                TERRESTRIAL HYDROSPHERE
+                            
+                            
+                                >
+                                SNOW/ICE
+                            
+                            
+                                >
+                                LAKE ICE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                TERRESTRIAL HYDROSPHERE
+                            
+                            
+                                >
+                                SNOW/ICE
+                            
+                            
+                                >
+                                SNOW COVER
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+		
+            
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                           GEOSCIENTIFIC INFORMATION
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                           IMAGERY/BASE MAPS/EARTH COVER
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    TERRA
+                                    
+                                        >
+                                        Earth Observing System, TERRA (AM-1)
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+		    
+                
+
+
+    
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            MODIS
+                            
+                                >
+                                Moderate-Resolution Imaging Spectroradiometer
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            Spectroradiometers
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+	    
+        
+
+
+    
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            EOS
+                            
+                                >
+                                Earth Observing System
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            EOSDIS
+                            
+                                >
+                                Earth Observing System Data Information System
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ESIP
+                            
+                                >
+                                Earth Science Information Partners Program
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Quality
+        
+            Quality indicators for MODIS snow data are represented by AutomaticQualityFlag and ScienceQualityFlag metadata objects and their corresponding explanations, AutomaticQualityFlagExplanation and ScienceQualityFlagExplanation, in the CoreMetadata.0 global attribute, in custom local attributes associated with the snow cover Science Data Set (SDS), and also in the Snow Cover PixelQA data field. These  ... are generated during production or in post-product scientific and quality checks of the data product. The AutomaticQualityFlag is automatically set according to conditions for meeting data criteria in the snow mapping algorithm. In most cases, the flag is set to either Passed or Suspect, and in rare instances, it may be set to Failed. Suspect means that a significant percentage of the data were anomalous and that further analysis should be done to determine the source of anomalies. The AutomaticQualityFlagExplanation contains a brief message explaining the reason for the setting of the AutomaticQualityFlag. The ScienceQualityFlag and the ScienceQualityFlagExplanation maybe updated after production, either after an automated QA program is run or after the data product is inspected by a qualified snow scientist. Content and explanation of this flag are dynamic so it should always be examined if present in the external metadata file. The snow algorithm identifies missing data and reports them in the output product. Certain expected anomalous conditions may exist with the input data such as a few missing lines or unusable data from the MODIS sensor. In these cases, the snow algorithm makes no snow decision for an affected pixel. Summary statistics are calculated for these conditions and reported as Valid EV Obs Band x percent and Saturated EV Obs Band 1 percent local attributes Riggs, Hall, and Salomonson 2003). In addition to these data values, the product contains quality information at the pixel level. The Snow Cover PixelQA data field provides additional information on algorithm results for each pixel within a MODIS scene and is used as a measure of usefulness for snow-cover data. The QA information tells if algorithm results were nominal, abnormal, or if other defined conditions were encountered for a pixel (Riggs, Hall, and Salomonson 2003). For example, intermediate checks for theoretical bounding of reflectance data and the NDSI ratio are made in the algorithm. In theory, reflectance values should lie within the 0-100 percent range, and the NDSI ratio should lie within the -1.0 to +1.0 range. Summary statistics are kept for pixels that exceed these theoretical limits; however, the test for snow is done regardless of violations of these limits. The NASA Goddard Space Flight Center: MODIS Land Quality Assessment Web site provides updated quality information for each product. 
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            Antarctic
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Arctic
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            Climatology
+                    
+
+		    
+                
+                    
+                    
+                        
+                            DAAC
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ECS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            EOSDIS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Global Change
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Lake Ice
+                    
+
+		    
+                
+                    
+                    
+                        
+                            NASA
+                    
+
+		    
+                
+                    
+                    
+                        
+                            NSIDC
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Polar
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Remote Sensing
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Snow
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Snow Cover
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Snow On Ice
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Swath
+                    
+
+		    
+                
+                    
+                    
+                        
+                            RELATIVE_START_DATE: -11
+                    
+
+		    
+                
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            COMPLETE
+        
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                MODIS Adaptive Processing System (MODAPS) Services, Biospheric Information Systems Branch, Hydrospheric and Biospheric Sciences Laboratory, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center, NASA
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://modaps.nascom.nasa.gov/services/
+
+                        
+                    
+                    
+                    
+                        
+                            Dataset ID: 
+                            MOD10_L2V3, MOD10_L2V5 
+
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    
+                                                    
+                                                    MODAPS USER SUPPORT OFFICE
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            1-800-596-8132
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            301-867-2151
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            MODAPSUSO at lists.nasa.gov
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        MODAPS User Support Team
+
+                                                                    
+                                                                        NASA/GSFC
+
+                                                                    
+                                                                        Mail Code: 619
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Greenbelt
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                MD
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                20771
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    upon request
+                
+
+            
+            
+            
+                
+                    Distribution Size: 
+                    32.4
+                
+
+            
+            
+            
+                
+                    Distribution Format: 
+                    GeoTIFF
+                
+
+            
+            
+            
+
+            
+                
+                
+                    
+
+                
+                
+            
+            
+                
+                    Distribution Media: 
+                    upon request
+                
+
+            
+            
+            
+                
+                    Distribution Size: 
+                    32.4
+                
+
+            
+            
+            
+                
+                    Distribution Format: 
+                    HDF-EOS
+                
+
+            
+            
+            
+
+            
+                
+                
+                
+		
+            
+        
+
+    
+
+
+ 
+          
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                    
+                        NEAL
+                        
+                        DEVINE
+                    
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                301-731-2923
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                neal.k.devine at nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                            
+                            
+
+                            
+                            
+                            
+ 
+                            
+                            
+                            
+                            
+                        
+                    
+                
+                 
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                    
+                        DOROTHY
+                        K.
+                        HALL
+                    
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                    
+                                        
+                                            
+                                                National Aeronautics and Space Administration (NASA) Goddard Space Flight Center (GSFC)
+
+                                            
+                                                Mail stop 614.1
+
+                                            
+                                        
+
+                                    
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    
+                                    Greenbelt
+                                    
+                                
+
+                            
+
+                            
+                            
+                                
+                                    Province or State: 
+                                    
+                                    MD
+                                    
+                                
+
+                            
+                            
+ 
+                            
+                                
+                                    Postal Code: 
+                                    
+                                     20771
+                                    
+                                
+
+                            
+                            
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                    
+                        VINCE
+                        V.
+                        SALOMONSON
+                    
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                801-585-9492
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                vincent.salomonson at utah.edu
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                    
+                                        
+                                            
+                                                University of Utah
+
+                                            
+                                                Department of Meteorology
+
+                                            
+                                                135 S 1460 E, Rm 809
+
+                                            
+                                        
+
+                                    
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    
+                                    Salt Lake City
+                                    
+                                
+
+                            
+
+                            
+                            
+                                
+                                    Province or State: 
+                                    
+                                    UT
+                                    
+                                
+
+                            
+                            
+ 
+                            
+                                
+                                    Postal Code: 
+                                    
+                                     84112
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                     
+                                    US
+                                    
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                    
+                        NSIDC
+                        
+                        USER SERVICES
+                    
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +1 (303) 492-6199
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +1 (303) 492-2468
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                nsidc at nsidc.org
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                    
+                                        
+                                            
+                                                National Snow and Ice Data Center
+
+                                            
+                                                CIRES, 449 UCB
+
+                                            
+                                                University of Colorado
+
+                                            
+                                        
+
+                                    
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    
+                                    Boulder
+                                    
+                                
+
+                            
+
+                            
+                            
+                                
+                                    Province or State: 
+                                    
+                                    CO
+                                    
+                                
+
+                            
+                            
+ 
+                            
+                                
+                                    Postal Code: 
+                                    
+                                     80309-0449
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                     
+                                    USA
+                                    
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                    
+                        GEORGE
+                        A.
+                        RIGGS
+                    
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                301-614-5650
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                George.A.Riggs at nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                    
+                                        
+                                            
+                                                NASA Goddard Space Flight Center (GSFC)
+
+                                            
+                                                Science Systems and Applications, Inc.
+
+                                            
+                                                Code 614.1
+
+                                            
+                                        
+
+                                    
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    
+                                    Greenbelt
+                                    
+                                
+
+                            
+
+                            
+                            
+                                
+                                    Province or State: 
+                                    
+                                    MD
+                                    
+                                
+
+                            
+                            
+ 
+                            
+                                
+                                    Postal Code: 
+                                    
+                                     20771
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                     
+                                    USA
+                                    
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+            
+             
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            Earth Science Data and Information System (ESDIS). 1996. EOS Ground System (EGS) systems and operations concept. Greenbelt, MD: Goddard Space Flight Center. 
+ 
+ Hall, D.K., A.B. Tait, G.A. Riggs, and V.V. Salomonson. 1998. Algorithm Theoretical Basis Document (ATBD) for the MODIS Snow, Lake Ice, and Sea Ice Mapping Algorithms (Version 4.0). 
+ 
+ Hall, D.K., G.A. Riggs, and V.V. Salomonson. 1995.  ... Development of methods for mapping global snow cover using Moderate Resolution Imaging Spectroradiometer (MODIS). Remote Sensing of the Environment 54(2): 127-140. 
+ 
+ Hall, D.K. and J. Martinec. 1985. Remote Sensing of Ice and Snow. London: Chapman and Hall. 
+ 
+ Markham, B.L. and J.L. Barker. 1986. Landsat MSS and TM post-calibration dynamic ranges, exoatmospheric reflectances and at-satellite temperatures. EOSAT Technical Notes 1:3-8. 
+ 
+ MODIS Characterization and Support Team (MCST). 2000. MODIS level 1B product user's guide for level 1B Version 2.3.x Release 2. MCST Document #MCM-PUG-01-U-DNCN. 
+ 
+ Pearson II, F. 1990. Map projections: theory and applications. Boca Raton, FL: CRC Press, Inc. 
+ 
+ Riggs, G.A., D.K. Hall, and V.V. Salomonson. January 2006. MODIS snow products user guide for collection 4 data products. 
+ 
+ Wiscombe, W.J. and S.G. Warren. 1980. A model for the spectral albedo of snow I: pure snow. Journal of the Atmospheric Sciences 37:2712-2733. 
+
+        
+    
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Extended Metadata Properties
+
+        
+            
+            (Click to view more)
+        
+
+        
+            
+
+            
+
+            
+                Extended Metadata Properties From GCMD
+
+                metadata.extraction_date: 2015-02-16 05:10:06
+metadata.keyword_version: 8.0
+metadata.uuid: 73a2ca7d-136a-4bb5-bb37-cfcb50140ffd
+
+            
+        
+
+    
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+            
+                DIF Creation Date:
+                2000-09-01
+            
+
+        
+        
+            
+                Last DIF Revision Date:
+                2015-01-08
+            
+
+        
+        
+            
+                Future DIF Review Date: 
+                2008-09-01
+            
+
+        
+    
+
+ 
+ 
+
+             
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                Reformat as ISO 19115 document
+            
+        
+    
+
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                              
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+        
+    
+
+
+    
+
+
+
+                    
+                    
+                
+
+            
+            
+
+        
+    
+    
+    
+
+    
+
+
+
+
+
+
+
+
+    
+        	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+   
+
+
+
+
+    
+        	
+            
+        
+            + 
+                NASA Privacy Policy and Important Notices 
+
+
+    
+
+    
+    
+        
+            
+                
+        
+
+        	
+                Webmaster:
+                Monica Lyles
+            
+	
+                Responsible NASA Official:
+                Dr. Stephen Wharton
+            
+	Last updated: February 2015
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1835 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        ServiceParameters>MODELS>COMPONENT PROCESS MODELS
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                CHAIN 2D Model: Simulates the movement of water, heat and multiple solutes in two-dimensional variably-saturated porous media
+            
+        
+
+        
+        
+            Entry ID:
+            
+                USDA_ARS_CHAIN_2D
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+
+
+		  
+                        
+                    
+
+                 
+            
+        
+        
+
+        
+        
+        
+            [
+            
+                
+                    Get Service
+            
+            ]
+            
+        
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+               
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+         
+         
+                
+                    
+                    
+                        Update this Record.
+                
+
+
+
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            CHAIN-2D is a computer program for simulating two-dimensional variably 
+ saturated water flow, heat transport, and the movement of solutes involved in 
+ sequential first-order decay reactions. The program numerically solves the 
+ Richards' equation for saturated-unsaturated water flow and the 
+ convection-dispersion equation for heat and solute transport. The flow equation 
+ incorporates a sink term to  ... account for water uptake by plant roots. The water 
+ flow part of the model can deal with prescribed head, gradient, and flux 
+ boundaries, as well as boundaries controlled by atmospheric conditions. Free 
+ drainage boundary condition and a simplified representation of nodal drains 
+ using results of electric analog experiments is also included. The heat 
+ transport equation considers transport due to conduction and convection with 
+ flowing water. The solute transport equations consider convective-dispersive 
+ transport in the liquid phase, as well as diffusion in the gaseous phase. The 
+ transport equations also include provisions for nonlinear nonequilibrium 
+ reactions between the solid and liquid phases, linear equilibrium reactions 
+ between the liquid and gaseous phases, zero-order production, and two 
+ first-order degradation reactions: one which is independent of other solutes, 
+ and one which provides the coupling between solutes involved in the sequential 
+ first-order decay reactions. The program may be used to analyze water and 
+ solute movement in unsaturated, partially saturated, or fully saturated porous 
+ media. CHAIN-2D can handle flow regions delineated by irregular boundaries. The 
+ flow region itself may be composed of nonuniform soils having an arbitrary 
+ degree of local anisotropy. Flow and transport can occur in the vertical plane, 
+ the horizontal plane, or in a three-dimensional region exhibiting radial 
+ symmetry about the vertical axis. 
+ 
+ The governing flow and transport equations are solved numerically using 
+ Galerkin-type linear finite element schemes. Depending upon the size of the 
+ problem, the matrix equations resulting from discretization of the governing 
+ equations are solved using either Gaussian elimination for banded matrices or 
+ the conjugate gradient method for symmetric matrices, or the ORTHOMIN method 
+ for asymmetric matrices. The program is written in ANSI standard FORTRAN 77. 
+ Computer memory is a function of the problem definition. This report serves as 
+ both a user manual and reference document. Detailed instructions are given for 
+ data input preparation. Example input and selected output files are also 
+ provided. 
+ 
+ [Summary provided by the USDA.] 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET SERVICE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Fill out the download form to access the CHAIN 2D model. 
+                            
+
+                        
+			
+                        
+                    
+		    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Service Citation
+        
+        
+            	
+                
+                    
+                    
+                        
+                            Originators: 
+                            Simunek, J. and M. Th. van Genuchten
+                        
+
+                    
+                    
+                        
+                            Title: 
+                            CHAIN 2D Model: Simulates the movement of water, heat and multiple solutes in two-dimensional variably-saturated porous media
+                        
+
+                    
+                    
+                        
+                            Release_Date: 
+                            1984
+                        
+
+                    
+                    
+                        
+                            Provider: 
+                            USDA Agricultural Research Service
+                        
+
+                    
+                    
+                        
+                            Edition: 
+                            1.0
+                        
+
+                    
+                    
+                        
+                            URL: 
+                            
+                                
+                                    http://www.ars.usda.gov/Services/docs.htm?docid=8914
+                            
+                        
+
+                    
+                    
+                    
+                
+                
+            
+        
+
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Service Keywords
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                                DATA ANALYSIS AND VISUALIZATION
+                            
+                            
+                                >VISUALIZATION/IMAGE PROCESSING
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                MODELS
+                            
+                            
+                                >COMPONENT PROCESS MODELS
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+            
+            
+
+
+
+        
+    
+
+
+
+
+    
+        Science Keywords 
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            AGRICULTURE
+                            
+                            
+                            >SOILS
+                            
+                            
+                            >SOIL ABSORPTION
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            AGRICULTURE
+                            
+                            
+                            >SOILS
+                            
+                            
+                            >SOIL MOISTURE/WATER CONTENT
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                            AGRICULTURE
+                            
+                            
+                            >SOILS
+                            
+                            
+                            >SOIL WATER HOLDING CAPACITY
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >GROUND WATER
+                            
+                            
+                            >GROUND WATER DISCHARGE/FLOW
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >EROSION/SEDIMENTATION
+                            
+                            
+                            >SEDIMENT TRANSPORT
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >SOILS
+                            
+                            
+                            >SOIL ABSORPTION
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >SOILS
+                            
+                            
+                            >SOIL MOISTURE/WATER CONTENT
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >SOILS
+                            
+                            
+                            >SOIL WATER HOLDING CAPACITY
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                    
+            
+
+
+        
+    
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            FARMING
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOSCIENTIFIC INFORMATION
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Access Constraints
+        
+            Users must complete a registration form in order to download software. 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            Models
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Soil Characteristics
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            Water Flow
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Solute Movement
+                    
+
+		    
+                
+                    
+                    
+                        
+                            2D Simulations
+                    
+
+		    
+                
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Service Provider
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                                
+                                    USDA/ARS
+                                    
+                                         >  
+                                        Agricultural Research Service, U. S. Department of Agriculture
+                                    
+                                
+                           
+                            
+                                
+                                    
+                            
+                            
+
+                        
+                    
+                    
+                        
+                            Service Organization URL: 
+                        
+                        
+                            
+                                
+                                            http://www.ars.usda.gov 
+                            
+                        
+                        
+
+                    
+                    
+                        
+                    
+                    
+                    
+                        
+                            
+
+                            	Service Provider Personnel
+	
+                                        Name: 
+                                        
+                                            
+                                                WALTER
+                                                
+                                                RUSSELL
+                                            
+                                        
+                                        
+
+                                        
+                                            
+                                                Phone: 
+                                                
+                                                    909-369-4850
+                                                
+                                                
+
+                                            
+                                        
+                                        
+                                            
+                                                Fax: 
+                                                
+                                                    909-342-4964
+                                                
+                                                
+
+                                            
+                                        
+                                        
+                                            
+                                                
+                                                    Email: 
+                                                    
+                                                        wrussell at ussl.ars.usda.gov
+                                                    
+                                                    
+
+                                                
+                                            
+                                        
+                                        
+                                            
+                                                
+                                                    
+                                                        Contact Address: 
+
+                                                        
+                                                            
+                                                                
+                                                                    U.S. Salinity Laboratory 
+
+                                                                
+                                                                    USDA, ARS 
+
+                                                                
+                                                                    450 West Big Springs Road 
+
+                                                                
+                                                            
+                                                        
+                                                    
+                                                    
+                                                        City: 
+                                                        
+                                                            Riverside
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Province or State: 
+                                                        
+                                                            CA
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Postal Code: 
+                                                        
+                                                            92507-4617
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Country: 
+                                                        
+                                                            USA
+                                                        
+                                                        
+
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+  
+                            
+                        
+                    
+                    
+                    
+                
+                
+            
+
+  
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    Online
+                
+
+            
+            
+            
+            
+            
+            
+            
+
+            
+                
+                
+                
+		
+            
+        
+
+    
+
+
+ 
+          
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        TYLER
+                        B.
+                        STEVENS
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                SERF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                (301) 614-6898
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                301-614-5268
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                Tyler.B.Stevens at nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                NASA Goddard Space Flight Center
+
+                                            
+                                                Global Change Master Directory
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Greenbelt
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    MD
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    20771
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                 
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        WALTER
+                        
+                        RUSSELL
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                909-369-4850
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                909-342-4964
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                wrussell at ussl.ars.usda.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                U.S. Salinity Laboratory
+
+                                            
+                                                USDA, ARS
+
+                                            
+                                                450 West Big Springs Road
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Riverside
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    CA
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    92507-4617
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+            
+             
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            Simunek, J. and M. Th. van Genuchten. 1994. The CHAIN_2D Code for Simulating 
+ Two-Dimensional Movement of Water, Heat, and Multiple Solutes in 
+ Variably-Saturated Porous Media, Version 1.1. Research Report No. 136, U. S. 
+ Salinity Laboratory, USDA, ARS, Riverside, California. 
+
+        
+    
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Extended Metadata Properties
+
+        
+            
+            (Click to view more)
+        
+
+        
+            
+
+            
+
+            
+                Extended Metadata Properties From GCMD
+
+                metadata.extraction_date: 2015-02-18 05:43:49
+metadata.keyword_version: 8.0
+
+            
+        
+
+    
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+        
+        
+    
+
+ 
+
+        	
+            
+                SERF Creation Date:
+                2007-03-05
+            
+            
+
+            
+                SERF Last Revision Date:
+                2012-04-24
+            
+            
+
+            
+        
+
+
+
+ 
+
+             
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+
+            
+
+            
+                
+                    Need 
+
+
+
+
+
+
+
+
+
+
+
+
+

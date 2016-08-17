@@ -1,0 +1,2998 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Providers>NON-GOVERNMENT/NON-PROFIT ORGANIZATIONS
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                AfSIS MODIS Collection: Albedo, 2012 Release
+            
+        
+
+        
+        
+            Entry ID:
+            
+                CIESIN_AfSIS_MODIS_ALB2012
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+        
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            The Africa Soil Information Service (AfSIS) Moderate Resolution Imaging Spectroradiometer (MODIS) Collection's Albedo data set contains rasters with the following calculations: time series average, time series standard deviation, and time series variance for white sky and black sky albedo. These Africa continent-wide calculations use surface reflectance data obtained by the National Aeronautics  ... and Space Administration (NASA) MODIS MCD43A3 product. The rasters have a 16-day temporal resolution, a spatial resolution of 500 meters, and are updated annually by AfSIS using data provided by the U.S. Geological Survey (USGS) Land Processes Distributed Active Archive Center (LPDAAC) Data Pool at https://lpdaac.usgs.gov. 
+ 
+ The data are available in Geographic Tagged Image File Format (GeoTIFF) from the Africa Soil Information Service (AfSIS). 
+    
+                        
+
+                    
+                    
+                        
+                            
+
+                            Purpose: 
+                            To serve a wide user community by providing albedo data for the continent of Africa that can be used to predict soil properties as well as for a range of other applications, including erosion and landslide risk.     
+                        
+
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Data in GeoTIFF format. 
+                            
+
+                        
+			
+                        
+                    
+		    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 40.0
+                                
+                            	 	
+                                
+                                    S: -40.0
+                                
+                            	 	
+                                
+                                    E: 60.0
+                                
+                            	 	
+                                
+                                    W: -20.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            Africa Soil Information Service (AfSIS)
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Title: 
+                            AfSIS MODIS Collection: Albedo, 2012 Release
+                        
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Release Date: 
+                            2012
+                         
+
+                    
+                    
+                    
+                        
+                            Dataset Release Place: 
+                            Palisades, NY
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            Center for International Earth Science Information Network (CIESIN), Columbia University
+                        
+
+                    
+                    
+                    
+                        
+                            Version: 
+                            2012.00
+                        
+
+                    
+                    
+                    
+
+
+                    
+                    
+                    
+                        
+                            Data Presentation Form: 
+                            raster
+                        
+
+                    
+
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        ftp://africagrids.net/500m/MCD43A3/
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        2000-02-01
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        2012-06-31
+                    
+
+                
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > NORTHERN AFRICA
+                            
+                            
+                                > ALGERIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > CENTRAL AFRICA
+                            
+                            
+                                > ANGOLA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > BENIN
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > SOUTHERN AFRICA
+                            
+                            
+                                > BOTSWANA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > BURUNDI
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > BURKINA FASO
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > CENTRAL AFRICA
+                            
+                            
+                                > CAMEROON
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > CENTRAL AFRICA
+                            
+                            
+                                > CENTRAL AFRICAN REPUBLIC
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > CENTRAL AFRICA
+                            
+                            
+                                > CHAD
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > COTE D'IVOIRE
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > CENTRAL AFRICA
+                            
+                            
+                                > CONGO, DEMOCRATIC REPUBLIC
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > DJIBOUTI
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > NORTHERN AFRICA
+                            
+                            
+                                > EGYPT
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > CENTRAL AFRICA
+                            
+                            
+                                > EQUATORIAL GUINEA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > ERITREA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > ETHIOPIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > CENTRAL AFRICA
+                            
+                            
+                                > GABON
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > GAMBIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > GHANA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > GUINEA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > GUINEA-BISSAU
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > KENYA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > SOUTHERN AFRICA
+                            
+                            
+                                > LESOTHO
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > LIBERIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > NORTHERN AFRICA
+                            
+                            
+                                > LIBYA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > INDIAN OCEAN
+                            
+                            
+                                > MADAGASCAR
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > MALAWI
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > MALI
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > MAURITANIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > INDIAN OCEAN
+                            
+                            
+                                > MAURITIUS
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > NORTHERN AFRICA
+                            
+                            
+                                > MOROCCO
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > MOZAMBIQUE
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > SOUTHERN AFRICA
+                            
+                            
+                                > NAMIBIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > NIGER
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > NIGERIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > SENEGAL
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > SIERRA LEONE
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > SOMALIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > SOUTHERN AFRICA
+                            
+                            
+                                > SOUTH AFRICA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > NORTHERN AFRICA
+                            
+                            
+                                > SUDAN
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > SOUTHERN AFRICA
+                            
+                            
+                                > SWAZILAND
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > TANZANIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > TOGO
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > NORTHERN AFRICA
+                            
+                            
+                                > TUNISIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > UGANDA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > ZAMBIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > EASTERN AFRICA
+                            
+                            
+                                > ZIMBABWE
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+		
+                    
+
+                    
+                        
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                LAND SURFACE
+                            
+                            
+                                >
+                                SURFACE RADIATIVE PROPERTIES
+                            
+                            
+                                >
+                                ALBEDO
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+		
+            
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            IMAGERY/BASE MAPS/EARTH COVER
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            MODIS
+                            
+                                >
+                                Moderate-Resolution Imaging Spectroradiometer
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+	    
+        
+
+
+    
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            AFSIS/MODIS
+                            
+                                >
+                                Africa Soil Information Service MODIS Collection
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Access Constraints
+        
+            None 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Use Constraints
+        
+            Use is authorized under the Creative Commons Attribution License (http://creativecommons.org/licenses/by/3.0/), which only requires attribution of the source. The recommended citation for this data set is: Africa Soil Information Service (AfSIS). 2012. AfSIS MODIS Collection: Albedo, 2012 Release. Palisades, NY: Center for International Earth Science Information Network (CIESIN), Columbia University. ftp://africagrids.net/500m/MCD43A3/. Accessed DAY MONTH YEAR. 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            Albedo
+                    
+
+		    
+                
+                    
+                    
+                        
+                            MODIS
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            Remote Sensing
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Satellite Imagery
+                    
+
+		    
+                
+                    
+                    
+                        
+                            White Sky Albedo Near Infrared Band
+                    
+
+		    
+                
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            COMPLETE
+        
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        CIESIN
+                    
+                
+
+                
+            
+	    
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Center for International Earth Science Information Network
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://www.ciesin.columbia.edu
+
+                        
+                    
+                    
+                    
+                        
+                            Dataset ID: 
+                            CIESIN_AfSIS_MODIS_ALB2012 
+
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    
+                                                    
+                                                    AFRICA SOIL INFORMATION SERVICE (AFSIS)
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            +1 845-365-8920
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            +1 845-365-8922
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            afsis.info at africasoils.net
+                                                        
+
+                                                    
+                                                        
+                                                            Email: 
+                                                            ciesin.info at ciesin.columbia.edu
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        61 Route 9W, P.O. Box 1000
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Palisades
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                NY
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                10964
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    ONLINE FTP
+                
+
+            
+            
+            
+            
+            
+                
+                    Distribution Format: 
+                    GeoTIFF
+                
+
+            
+            
+            
+                
+                    Fees: 
+                    0
+                
+
+            
+
+            
+                
+                
+                
+		
+            
+        
+
+    
+
+
+ 
+          
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        
+                        
+                        AFRICA SOIL INFORMATION SERVICE (AFSIS)
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +1 845-365-8920
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +1 845-365-8922
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                afsis.info at africasoils.net
+                            
+
+                        
+                            
+                                Email: 
+                                ciesin.info at ciesin.columbia.edu
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                61 Route 9W, P.O. Box 1000
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Palisades
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    NY
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    10964
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                 
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        
+                        
+                        CIESIN METADATA ADMINISTRATION
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +1 845-365-8988
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +1 845-365-8922
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                metadata at ciesin.columbia.edu
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                61 Route 9W, P.O. Box 1000
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Palisades
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    New York
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    10964
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+            
+             
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            Africa Soil Information Service (AfSIS) (2012), AfSIS MODIS Collection: Land Cover Type, 2012 Release, 2012.00, Center for International Earth Science Information Network (CIESIN), Columbia University, Palisades, NY, ftp://africagrids.net/500m/MCD12Q1/ 
+
+Africa Soil Information Service (AfSIS) (2014), AfSIS MODIS Collection: Land Surface Temperature, April 2014 Release, 2014.04, Center for International Earth Science Information Network (CIESIN), Columbia University, Palisades, NY, ftp://africagrids.net/1000m/MYD11A2/ 
+
+Africa Soil Information Service (AfSIS) (2012), AfSIS MODIS Collection: Leaf Area Index - FPAR, 2012 Release, 2012.00, Center for International Earth Science Information Network (CIESIN), Columbia University, Palisades, NY, ftp://africagrids.net/1000m/MOD15A2/ 
+
+Africa Soil Information Service (AfSIS) (2014), AfSIS MODIS Collection: Primary Productivity, 2012 Release, 2014.00, Center for International Earth Science Information Network (CIESIN), Columbia University, Palisades, NY, ftp://africagrids.net/1000m/MOD17A3/ 
+
+Africa Soil Information Service (AfSIS) (2014), AfSIS MODIS Collection: Vegetation Indices, April 2014 Release, 2014.04, Center for International Earth Science Information Network (CIESIN), Columbia University, Palisades, NY, ftp://africagrids.net/250m/MOD13Q1/ 
+
+
+
+        
+    
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Extended Metadata Properties
+
+        
+            
+            (Click to view more)
+        
+
+        
+            
+
+            
+
+            
+                Extended Metadata Properties From GCMD
+
+                metadata.extraction_date: 2015-02-19 15:41:08
+metadata.keyword_version: 8.0
+metadata.uuid: a2210b23-dbcf-48b2-afc2-31bbe2dcef12
+
+            
+        
+
+    
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+            
+                DIF Creation Date:
+                2014-10-17
+            
+
+        
+        
+            
+                Last DIF Revision Date:
+                2014-10-20
+            
+
+        
+        
+    
+
+ 
+ 
+
+             
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                Reformat as ISO 19115 document
+            
+        
+    
+
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                              
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+        
+
+
+
+
+
+    
+
+
+
+
+                    
+                    
+                
+
+            
+
+            
+
+        
+
+    
+
+    
+    
+
+    
+
+
+
+
+
+
+
+
+    
+        	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+   
+
+
+
+
+    
+        	
+            
+        
+            + 
+                NASA Privacy Policy and Important Notices 
+
+
+    
+
+    
+    
+        
+            
+                
+        
+
+        	
+                Webmaster:
+                Monica Lyles
+            
+	
+                Responsible NASA Official:
+                Dr. Stephen Wharton
+            
+	Last updated: February 2015
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+

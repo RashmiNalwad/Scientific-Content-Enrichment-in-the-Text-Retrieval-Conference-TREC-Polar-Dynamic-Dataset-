@@ -1,0 +1,77 @@
+Dataset ID,Short Name,Version ID,Coll Online?,Coll Browse,Total Granules,Online Granules,Browse Granules
+AMSR/ADEOS-II L2A Global Swath Spatially-Resampled Brightness Temperatures (Tb) V001,AA_L2A,1,No,0,0,0,0
+AMSR-E/Aqua 5-Day L3 Global Snow Water Equivalent EASE-Grids V002,AE_5DSno,2,No,0,667,667,667
+AMSR-E/Aqua Daily L3 Global Ascending/Descending .25x.25 deg Ocean Grids V002,AE_DyOcn,2,No,0,3365,3365,3365
+AMSR-E/Aqua Daily L3 Global Snow Water Equivalent EASE-Grids V002,AE_DySno,2,No,0,3364,3364,3364
+AMSR-E/Aqua L2A Global Swath Spatially-Resampled Brightness Temperatures (Tb) V002,AE_L2A,2,No,0,97603,97603,97603
+AMSR-E/Aqua L2A Global Swath Spatially-Resampled Brightness Temperatures (Tb) V003,AE_L2A,3,No,0,98162,98162,17136
+AMSR-E/Aqua L2B Surface Soil Moisture_ Ancillary Parms_ & QC EASE-Grids V002,AE_Land,2,No,0,97580,97580,97580
+AMSR-E/Aqua Daily L3 Surface Soil Moisture_ Interpretive Parms_ & QC EASE-Grids V002,AE_Land3,2,No,0,3366,3366,3366
+AMSR-E/Aqua Monthly L3 Global Ascending/Descending .25x.25 deg Ocean Grids V002,AE_MoOcn,2,No,0,112,112,112
+AMSR-E/Aqua Monthly L3 Global Snow Water Equivalent EASE-Grids V002,AE_MoSno,2,No,0,112,112,112
+AMSR-E/Aqua L2B Global Swath Ocean Products derived from Wentz Algorithm V002,AE_Ocean,2,No,0,97603,97603,97588
+AMSR-E/Aqua L2B Global Swath Rain Rate/Type GSFC Profiling Algorithm V002,AE_Rain,2,No,0,97600,97600,97599
+AMSR-E/Aqua Monthly L3 5x5 deg Rainfall Accumulations V002,AE_RnGd,2,No,0,112,112,112
+AMSR-E/Aqua Daily L3 12.5 km Tb_ Sea Ice Conc._ & Snow Depth Polar Grids V002,AE_SI12,2,No,0,3365,3365,3365
+AMSR-E/Aqua Daily L3 25 km Tb and Sea Ice Concentration Polar Grids V002,AE_SI25,2,No,0,3365,3365,3365
+AMSR-E/Aqua Daily L3 6.25 km 89 GHz Brightness Temperature (Tb) Polar Grids V002,AE_SI6,2,No,0,6730,6730,6730
+AMSR-E/Aqua Daily L3 6.25 km Sea Ice Drift Polar Grids V001,AE_SID,1,No,0,123,123,0
+AMSR-E/Aqua Weekly L3 Global Ascending/Descending .25x.25 deg Ocean Grids V002,AE_WkOcn,2,No,0,484,484,484
+AMSR/ADEOS-II L1A Raw Observation Counts V002,AMSR-L1A,2,No,0,0,0,0
+AMSR-E/Aqua L1A Raw Observation Counts V003,AMSREL1A,3,No,0,98146,98146,0
+GLAS/ICESat L1A Global Altimetry Data V033,GLA01,33,No,0,34275,34275,34254
+GLAS/ICESat L1A Global Atmosphere Data V033,GLA02,33,No,0,4302,4302,4299
+GLAS/ICESat L1A Global Engineering Data V033,GLA03,33,No,0,4302,4302,4299
+GLAS/ICESat L1A Global Laser Pointing Data V033,GLA04,33,No,0,4302,4302,4297
+GLAS/ICESat L1B Global Waveform-based Range Corrections Data V033,GLA05,33,No,0,34248,34248,34186
+GLAS/ICESat L1B Global Elevation Data V033,GLA06,33,No,0,34206,34206,34180
+GLAS/ICESat L1B Global Backscatter Data V033,GLA07,33,No,0,4302,4302,4299
+GLAS/ICESat L2 Global Planetary Boundary Layer & Elevated Aerosol Layer Heights V033,GLA08,33,No,0,250,250,249
+GLAS/ICESat L2 Global Cloud Heights for Multi-layer Clouds V033,GLA09,33,No,0,514,514,512
+GLAS/ICESat L2 Global Aerosol Vertical Structure Data V033,GLA10,33,No,0,250,250,249
+GLAS/ICESat L2 Global Thin Cloud/Aerosol Optical Depths Data V033,GLA11,33,No,0,642,642,640
+GLAS/ICESat L2 Global Antarctic and Greenland Ice Sheet Altimetry Data V033,GLA12,33,No,0,637,637,636
+GLAS/ICESat L2 Sea Ice Altimetry Data V033,GLA13,33,No,0,642,642,641
+GLAS/ICESat L2 Global Land Surface Altimetry Data V033,GLA14,33,No,0,642,642,641
+GLAS/ICESat L2 Ocean Altimetry Data V033,GLA15,33,No,0,642,642,641
+GLAS/ICESat L1B Global Waveform-based Range Corrections Data (HDF5) V033,GLAH05,33,No,0,34277,34277,0
+GLAS/ICESat L1B Global Elevation Data (HDF5) V033,GLAH06,33,No,0,34208,34208,0
+GLAS/ICESat L2 Global Antarctic and Greenland Ice Sheet Altimetry Data (HDF5) V033,GLAH12,33,No,0,637,637,0
+GLAS/ICESat L2 Sea Ice Altimetry Data (HDF5) V033,GLAH13,33,No,0,642,642,0
+GLAS/ICESat L2 Global Land Surface Altimetry Data (HDF5) V033,GLAH14,33,No,0,642,642,0
+GLAS/ICESat L2 Ocean Altimetry Data (HDF5) V033,GLAH15,33,No,0,642,642,0
+IceBridge Sea Ice Freeboard_ Snow Depth_ and Thickness V001,IDCSI2,1,No,0,22,22,0
+IceBridge Sander AIRGrav L1B Geolocated Free Air Gravity Anomalies V001,IGGRV1B,1,No,0,184,184,0
+IceBridge ATM L1B Qfit Elevation and Return Strength V001,ILATM1B,1,No,0,11200,11200,0
+IceBridge ATM L2 Icessn Elevation_ Slope_ and Roughness V001,ILATM2,1,No,0,11205,11205,0
+IceBridge Narrow Swath ATM L1B Qfit Elevation and Return Strength V001,ILNSA1B,1,No,0,2012,2012,0
+IceBridge DMS L1B Geolocated and Orthorectified Images V001,IODMS1B,1,No,0,2183328,2183328,1702650
+IceBridge MCoRDS L2 Ice Thickness V001,IRMCR2,1,No,0,380,380,0
+IceBridge PARIS L2 Ice Thickness V001,IRPAR2,1,No,0,101,101,0
+MODIS/Terra Snow Cover Daily L3 Global 500m SIN Grid V005,MOD10A1,5,No,0,1477470,1477470,1445617
+MODIS/Terra Snow Cover 8-Day L3 Global 500m SIN Grid V005,MOD10A2,5,No,0,187686,187686,183426
+MODIS/Terra Snow Cover Daily L3 Global 0.05Deg CMG V005,MOD10C1,5,No,0,4858,4858,4752
+MODIS/Terra Snow Cover 8-Day L3 Global 0.05Deg CMG V005,MOD10C2,5,No,0,615,615,601
+MODIS/Terra Snow Cover Monthly L3 Global 0.05Deg CMG V005,MOD10CM,5,No,0,157,157,0
+MODIS/Terra Snow Cover 5-Min L2 Swath 500m V005,MOD10_L2,5,No,0,766180,766180,749463
+MODIS/Terra Sea Ice Extent 5-Min L2 Swath 1km V005,MOD29,5,No,0,847092,847092,828577
+MODIS/Terra Sea Ice Extent and IST Daily L3 Global 4km EASE-Grid Day V005,MOD29E1D,5,No,0,4854,4854,4748
+MODIS/Terra Sea Ice Extent Daily L3 Global 1km EASE-Grid Day V005,MOD29P1D,5,No,0,982789,982789,962092
+MODIS/Terra Sea Ice Extent Daily L3 Global 1km EASE-Grid Night V005,MOD29P1N,5,No,0,981327,981327,960643
+MODIS/Aqua Snow Cover Daily L3 Global 500m SIN Grid V005,MYD10A1,5,No,0,1229757,1229757,1197431
+MODIS/Aqua Snow Cover 8-Day L3 Global 500m SIN Grid V005,MYD10A2,5,No,0,155597,155597,151691
+MODIS/Aqua Snow Cover Daily L3 Global 0.05Deg CMG V005,MYD10C1,5,No,0,4035,4035,3928
+MODIS/Aqua Snow Cover 8-Day L3 Global 0.05Deg CMG V005,MYD10C2,5,No,0,509,509,496
+MODIS/Aqua Snow Cover Monthly L3 Global 0.05Deg CMG V005,MYD10CM,5,No,0,132,132,0
+MODIS/Aqua Snow Cover 5-Min L2 Swath 500m V005,MYD10_L2,5,No,0,638581,638581,621474
+MODIS/Aqua Sea Ice Extent 5-Min L2 Swath 1km V005,MYD29,5,No,0,707871,707871,688918
+MODIS/Aqua Sea Ice Extent and IST Daily L3 Global 4km EASE-Grid Day V005,MYD29E1D,5,No,0,4037,4037,3929
+MODIS/Aqua Sea Ice Extent Daily L3 Global 1km EASE-Grid Day V005,MYD29P1D,5,No,0,816879,816879,795684
+MODIS/Aqua Sea Ice Extent Daily L3 Global 1km EASE-Grid Night V005,MYD29P1N,5,No,0,817402,817402,796196
+Near Real-Time SSM/I EASE-Grid Daily Global Ice Concentration and Snow Extent V002,NISE,2,No,0,5232,5232,5227
+Near-Real-Time SSMIS EASE-Grid Daily Global Ice Concentration and Snow Extent V004,NISE,4,No,0,1443,1443,1347
+Nimbus Advanced Vidicon Camera System Visible Imagery L1_ HDF5 V001,NmAVCS1H,1,No,0,114298,114298,0
+Nimbus Advanced Vidicon Camera System Remapped Visible Imagery Daily L3_ GeoTIFF V001,NmAVCS3G,1,No,0,0,0,0
+Nimbus Advanced Vidicon Camera System Remapped Visible Imagery Daily L3_ HDF5 V001,NmAVCS3H,1,No,0,0,0,0
+Nimbus Image Dissection Camera System Visible Imagery L1_ HDF5 V001,NmIDCS1H,1,No,0,26438,26438,0
+

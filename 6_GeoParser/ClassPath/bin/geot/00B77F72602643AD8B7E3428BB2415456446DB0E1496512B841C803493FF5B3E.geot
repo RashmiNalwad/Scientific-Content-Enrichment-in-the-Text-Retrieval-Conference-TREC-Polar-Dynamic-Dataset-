@@ -1,0 +1,1776 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only
+ Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Projects>M - O>MA
+
+
+
+	
+            
+
+
+	
+             <?xml   version="1.0"   encoding="utf-8"?>
+
+<gmd:MD_Metadata   xmlns:util="java:java.util.UUID"   xmlns:gmd="http://www.isotc211.org/2005/gmd"
+
+                                                   xmlns:gco="http://www.isotc211.org/2005/gco"
+
+                                                   xmlns:dif="http://gcmd.gsfc.nasa.gov/Aboutus/xml/dif/"
+
+                                                   xmlns:gml="http://www.opengis.net/gml"
+
+                                                   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+
+         <gmd:fileIdentifier>
+
+                  <gco:CharacterString>MAPS_OSTA3_COSEC_HDF</gco:CharacterString>
+
+         </gmd:fileIdentifier>
+
+         <gmd:language>
+
+                  <gco:CharacterString>eng</gco:CharacterString>
+
+         </gmd:language>
+
+         <gmd:characterSet>
+
+                  <gmd:MD_CharacterSetCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode"
+
+                                                                                             codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+
+         </gmd:characterSet>
+
+         <gmd:hierarchyLevel>
+
+                  <gmd:MD_ScopeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode"
+
+                                                                        codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+
+         </gmd:hierarchyLevel>
+
+         <gmd:contact>
+
+                  <gmd:CI_ResponsibleParty>
+
+                           <gmd:individualName>
+
+                                    <gco:CharacterString>USER   SERVICES,   ASDC</gco:CharacterString>
+
+                           </gmd:individualName>
+
+                           <gmd:contactInfo>
+
+                                    <gmd:CI_Contact>
+
+                                             <gmd:phone>
+
+                                                      <gmd:CI_Telephone>
+
+                                                               <gmd:voice>
+
+                                                                        <gco:CharacterString>757-864-8656</gco:CharacterString>
+
+                                                               </gmd:voice>
+
+                                                      </gmd:CI_Telephone>
+
+                                             </gmd:phone>
+
+                                             <gmd:address>
+
+                                                      <gmd:CI_Address>
+
+                                                               <gmd:deliveryPoint>
+
+                                                                        <gco:CharacterString>NASA   Langley   Atmospheric   Science   Data   Center</gco:CharacterString>
+
+                                                               </gmd:deliveryPoint>
+
+                                                               <gmd:deliveryPoint>
+
+                                                                        <gco:CharacterString>User   and   Data   Services</gco:CharacterString>
+
+                                                               </gmd:deliveryPoint>
+
+                                                               <gmd:deliveryPoint>
+
+                                                                        <gco:CharacterString>NASA   Langley   Research   Center</gco:CharacterString>
+
+                                                               </gmd:deliveryPoint>
+
+                                                               <gmd:deliveryPoint>
+
+                                                                        <gco:CharacterString>Mail   Stop   157D</gco:CharacterString>
+
+                                                               </gmd:deliveryPoint>
+
+                                                               <gmd:city>
+
+                                                                        <gco:CharacterString>Hampton</gco:CharacterString>
+
+                                                               </gmd:city>
+
+                                                               <gmd:administrativeArea>
+
+                                                                        <gco:CharacterString>VA</gco:CharacterString>
+
+                                                               </gmd:administrativeArea>
+
+                                                               <gmd:postalCode>
+
+                                                                        <gco:CharacterString>23681-2199</gco:CharacterString>
+
+                                                               </gmd:postalCode>
+
+                                                               <gmd:country>
+
+                                                                        <gco:CharacterString>USA</gco:CharacterString>
+
+                                                               </gmd:country>
+
+                                                               <gmd:electronicMailAddress>
+
+                                                                        <gco:CharacterString>support-asdc@earthdata.nasa.gov</gco:CharacterString>
+
+                                                               </gmd:electronicMailAddress>
+
+                                                      </gmd:CI_Address>
+
+                                             </gmd:address>
+
+                                    </gmd:CI_Contact>
+
+                           </gmd:contactInfo>
+
+                           <gmd:role>
+
+                                    <gmd:CI_RoleCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+
+                                                                                       codeListValue="author">author</gmd:CI_RoleCode>
+
+                           </gmd:role>
+
+                  </gmd:CI_ResponsibleParty>
+
+         </gmd:contact>
+
+         <gmd:contact>
+
+                  <gmd:CI_ResponsibleParty>
+
+                           <gmd:organisationName>
+
+                                    <gco:CharacterString>GCMD</gco:CharacterString>
+
+                           </gmd:organisationName>
+
+                           <gmd:role>
+
+                                    <gmd:CI_RoleCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+
+                                                                                       codeListValue="originator">originator</gmd:CI_RoleCode>
+
+                           </gmd:role>
+
+                  </gmd:CI_ResponsibleParty>
+
+         </gmd:contact>
+
+         <gmd:dateStamp   gco:nilReason="missing"/>
+
+         <gmd:metadataStandardName>
+
+                  <gco:CharacterString>CEOS   IDN   DIF</gco:CharacterString>
+
+         </gmd:metadataStandardName>
+
+         <gmd:metadataStandardVersion>
+
+                  <gco:CharacterString>VERSION   9.8.4</gco:CharacterString>
+
+         </gmd:metadataStandardVersion>
+
+         <gmd:identificationInfo>
+
+                  <gmd:MD_DataIdentification>
+
+                           <gmd:citation>
+
+                                    <gmd:CI_Citation>
+
+                                             <gmd:title>
+
+                                                      <gco:CharacterString>Measurement   of   Air   Pollution   from   Satellites   (MAPS)   Office   of   Space   and   Terrestrial   Applications   -   3   (OSTA3)   Carbon   Monoxide   Second   by   Second   data</gco:CharacterString>
+
+                                             </gmd:title>
+
+                                             <gmd:date>
+
+                                                      <gmd:CI_Date>
+
+                                                               <gmd:date   gco:nilReason="unknown"/>
+
+                                                               <gmd:dateType>
+
+                                                                        <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                       codeListValue="publication">publication</gmd:CI_DateTypeCode>
+
+                                                               </gmd:dateType>
+
+                                                      </gmd:CI_Date>
+
+                                             </gmd:date>
+
+                                             <gmd:identifier>
+
+                                                      <gmd:MD_Identifier>
+
+                                                               <gmd:code>
+
+                                                                        <gco:CharacterString>MAPS_OSTA3_COSEC_HDF</gco:CharacterString>
+
+                                                               </gmd:code>
+
+                                                      </gmd:MD_Identifier>
+
+                                             </gmd:identifier>
+
+                                             <gmd:citedResponsibleParty>
+
+                                                      <gmd:CI_ResponsibleParty>
+
+                                                               <gmd:individualName>
+
+                                                                        <gco:CharacterString>CONNORS,   VICKIES.</gco:CharacterString>
+
+                                                               </gmd:individualName>
+
+                                                               <gmd:role>
+
+                                                                        <gmd:CI_RoleCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+
+                                                                                                                           codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+
+                                                               </gmd:role>
+
+                                                      </gmd:CI_ResponsibleParty>
+
+                                             </gmd:citedResponsibleParty>
+
+                                             <gmd:citedResponsibleParty>
+
+                                                      <gmd:CI_ResponsibleParty>
+
+                                                               <gmd:individualName>
+
+                                                                        <gco:CharacterString>LARC_DAAC</gco:CharacterString>
+
+                                                               </gmd:individualName>
+
+                                                               <gmd:role>
+
+                                                                        <gmd:CI_RoleCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+
+                                                                                                                           codeListValue="originator">originator</gmd:CI_RoleCode>
+
+                                                               </gmd:role>
+
+                                                      </gmd:CI_ResponsibleParty>
+
+                                             </gmd:citedResponsibleParty>
+
+                                    </gmd:CI_Citation>
+
+                           </gmd:citation>
+
+                           <gmd:abstract>
+
+                                    <gco:CharacterString>MAPS   Overview   
+
+
+
+The   MAPS   experiment   measures   the   global   distribution   of   carbon   monoxide   (CO)   mixing   ratios   in   the   free   troposphere.   Because   of   MAPS'   previous   flights   on   board   the   Space   Shuttle,   Earth   system   scientists   now   know   that   carbon   monoxide   concentrations   in   the   troposphere   are   highly   variable   around   the   planet,   and   that   widespread   burning   in   the   South   American   Amazon   Basin   and   southern   cerrados,   the   African   savannahs,and   the   Australian   grasslands   and   ranches   are   major   sources   of   carbon   monoxide   in   the   southern   hemisphere   and   tropical   troposphere.
+
+
+
+Instrument
+
+
+
+The   MAPS   instrument   is   based   on   a   technique   called   gas   filter   radiometry.   Thermal   energy   from   the   Earth   passes   through   the   atmosphere   and   enters   the   viewport   of   the   downlooking   MAPS   instrument.   Carbon   monoxide   and   nitrous   oxide   (N2O)   in   the   atmosphere   produce   unique   absorption   lines   in   the   transmitted   energy.   The   energy   which   enters   the   MAPS   instrument   is   split   into   three   beams.   One   beam   passes   through   a   cell   containing   CO   and   falls   onto   a   detector.   This   CO   gas   cell   acts   as   a   filter   for   the   effects   of   CO   present   in   the   middle   troposphere.   A   second   beam   falls   directly   onto   a   detector   without   passing   through   any   gas   filter.   The   difference   in   the   voltage   of   the   signals   from   these   two   detectors   can   be   used   to   determine   the   amount   of   CO   present   in   the   atmosphere   at   an   altitude   of   7-8   km.      A   third   beam   of   the   incident   energy   passes   through   a   cell   containing   N2O   and   falls   onto   a   detector.   This   N2O   gas   cell   acts   as   a   filter   for   the   effects   of   N2O   present   in   the   atmosphere.   The   global   distribution   of   N2O   is   well   known,   so   the   N2O   signal   can   be   used   to   detect   the   presence   of   clouds   in   the   field   of   view   and   to   correct   the   simultaneous   CO   measurement   for   systematic   errors   in   the   data.
+
+
+
+The   data   that   are   available   from   MAPS   OSTA3   include   a   5   by   5   degree   gridded   box   (MAPS_OSTA3_5X5_HDF)   and   a   second   by   second   data   product   (MAPS_OSTA3_COSEC_HDF).   These   data   sets   are   available   from   the   Langley   DAAC.
+
+
+
+	      [   This   document   was   provided   by   NASA's   Global   Change   Master   Directory.   
+
+                  For   more   information   on   the   source   of   this   metadata   please   visit
+
+                  http://gcmd.nasa.gov/r/geoss/[GCMD]MAPS_OSTA3_COSEC_HDF   ]
+
+					</gco:CharacterString>
+
+                           </gmd:abstract>
+
+                           <gmd:pointOfContact>
+
+                                    <gmd:CI_ResponsibleParty>
+
+                                             <gmd:individualName>
+
+                                                      <gco:CharacterString>USER   SERVICES,   ASDC</gco:CharacterString>
+
+                                             </gmd:individualName>
+
+                                             <gmd:organisationName>
+
+                                                      <gco:CharacterString>NASA/LARC/SD/ASDC   &gt;   Atmospheric   Science   Data   Center,   Science   Directorate,   Langley   Research   Center,   NASA</gco:CharacterString>
+
+                                             </gmd:organisationName>
+
+                                             <gmd:positionName>
+
+                                                      <gco:CharacterString>DATA   CENTER   CONTACT</gco:CharacterString>
+
+                                             </gmd:positionName>
+
+                                             <gmd:contactInfo>
+
+                                                      <gmd:CI_Contact>
+
+                                                               <gmd:phone>
+
+                                                                        <gmd:CI_Telephone>
+
+                                                                                 <gmd:voice>
+
+                                                                                          <gco:CharacterString>757-864-8656</gco:CharacterString>
+
+                                                                                 </gmd:voice>
+
+                                                                        </gmd:CI_Telephone>
+
+                                                               </gmd:phone>
+
+                                                               <gmd:address>
+
+                                                                        <gmd:CI_Address>
+
+                                                                                 <gmd:deliveryPoint>
+
+                                                                                          <gco:CharacterString>NASA   Langley   Atmospheric   Science   Data   Center</gco:CharacterString>
+
+                                                                                 </gmd:deliveryPoint>
+
+                                                                                 <gmd:deliveryPoint>
+
+                                                                                          <gco:CharacterString>User   and   Data   Services</gco:CharacterString>
+
+                                                                                 </gmd:deliveryPoint>
+
+                                                                                 <gmd:deliveryPoint>
+
+                                                                                          <gco:CharacterString>NASA   Langley   Research   Center</gco:CharacterString>
+
+                                                                                 </gmd:deliveryPoint>
+
+                                                                                 <gmd:deliveryPoint>
+
+                                                                                          <gco:CharacterString>Mail   Stop   157D</gco:CharacterString>
+
+                                                                                 </gmd:deliveryPoint>
+
+                                                                                 <gmd:city>
+
+                                                                                          <gco:CharacterString>Hampton</gco:CharacterString>
+
+                                                                                 </gmd:city>
+
+                                                                                 <gmd:administrativeArea>
+
+                                                                                          <gco:CharacterString>VA</gco:CharacterString>
+
+                                                                                 </gmd:administrativeArea>
+
+                                                                                 <gmd:postalCode>
+
+                                                                                          <gco:CharacterString>23681-2199</gco:CharacterString>
+
+                                                                                 </gmd:postalCode>
+
+                                                                                 <gmd:country>
+
+                                                                                          <gco:CharacterString>USA</gco:CharacterString>
+
+                                                                                 </gmd:country>
+
+                                                                                 <gmd:electronicMailAddress>
+
+                                                                                          <gco:CharacterString>support-asdc@earthdata.nasa.gov</gco:CharacterString>
+
+                                                                                 </gmd:electronicMailAddress>
+
+                                                                        </gmd:CI_Address>
+
+                                                               </gmd:address>
+
+                                                               <gmd:onlineResource>
+
+                                                                        <gmd:CI_OnlineResource>
+
+                                                                                 <gmd:linkage>
+
+                                                                                          <gmd:URL>http://eosweb.larc.nasa.gov/</gmd:URL>
+
+                                                                                 </gmd:linkage>
+
+                                                                        </gmd:CI_OnlineResource>
+
+                                                               </gmd:onlineResource>
+
+                                                      </gmd:CI_Contact>
+
+                                             </gmd:contactInfo>
+
+                                             <gmd:role>
+
+                                                      <gmd:CI_RoleCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+
+                                                                                                         codeListValue="resourceProvider">resourceProvider</gmd:CI_RoleCode>
+
+                                             </gmd:role>
+
+                                    </gmd:CI_ResponsibleParty>
+
+                           </gmd:pointOfContact>
+
+                           <gmd:descriptiveKeywords>
+
+                                    <gmd:MD_Keywords>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>EARTH   SCIENCE   &gt;   ATMOSPHERE   &gt;   AIR   QUALITY   &gt;   CARBON   MONOXIDE</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>EARTH   SCIENCE   &gt;   ATMOSPHERE   &gt;   ATMOSPHERIC   CHEMISTRY   &gt;   CARBON   AND   HYDROCARBON   COMPOUNDS   &gt;   CARBON   DIOXIDE</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:thesaurusName>
+
+                                                      <gmd:CI_Citation>
+
+                                                               <gmd:title>
+
+                                                                        <gco:CharacterString>NASA/GCMD   Earth   Science   Keywords</gco:CharacterString>
+
+                                                               </gmd:title>
+
+                                                               <gmd:alternateTitle>
+
+                                                                        <gco:CharacterString>Science   Keywords</gco:CharacterString>
+
+                                                               </gmd:alternateTitle>
+
+                                                               <gmd:date>
+
+                                                                        <gmd:CI_Date>
+
+                                                                                 <gmd:date>
+
+                                                                                          <gco:Date>2008-02-05</gco:Date>
+
+                                                                                 </gmd:date>
+
+                                                                                 <gmd:dateType>
+
+                                                                                          <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                                         codeListValue="revision">revision</gmd:CI_DateTypeCode>
+
+                                                                                 </gmd:dateType>
+
+                                                                        </gmd:CI_Date>
+
+                                                               </gmd:date>
+
+                                                               <gmd:collectiveTitle>
+
+                                                                        <gco:CharacterString>Olsen,   L.M.,   G.   Major,   K.   Shein,   J.   Scialdone,   R.   Vogel,   S.   Leicester,   H.   Weir,   S.   Ritz,   T.   Stevens,   M.   Meaux,   C.Solomon,   R.   Bilodeau,   M.   Holland,   T.   Northcutt,   R.   A.   Restrepo,   2007   .         NASA/Global   Change   Master   Directory   (GCMD)   Earth   Science   Keywords.   Version      6.0.0.0.0</gco:CharacterString>
+
+                                                               </gmd:collectiveTitle>
+
+                                                      </gmd:CI_Citation>
+
+                                             </gmd:thesaurusName>
+
+                                    </gmd:MD_Keywords>
+
+                           </gmd:descriptiveKeywords>
+
+                           <gmd:descriptiveKeywords>
+
+                                    <gmd:MD_Keywords>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>EOSDIS</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>LBA</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                    </gmd:MD_Keywords>
+
+                           </gmd:descriptiveKeywords>
+
+                           <gmd:descriptiveKeywords>
+
+                                    <gmd:MD_Keywords>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>GFC   RADIOMETER   &gt;   Gas   Filter   Correlated   Radiometer</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>MAPS   &gt;   Measurement   of   Air   Pollution   from   Satellite</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:thesaurusName>
+
+                                                      <gmd:CI_Citation>
+
+                                                               <gmd:title>
+
+                                                                        <gco:CharacterString>NASA/GCMD   Earth   Science   Keywords</gco:CharacterString>
+
+                                                               </gmd:title>
+
+                                                               <gmd:alternateTitle>
+
+                                                                        <gco:CharacterString>Instruments</gco:CharacterString>
+
+                                                               </gmd:alternateTitle>
+
+                                                               <gmd:date>
+
+                                                                        <gmd:CI_Date>
+
+                                                                                 <gmd:date>
+
+                                                                                          <gco:Date>2009-06-10</gco:Date>
+
+                                                                                 </gmd:date>
+
+                                                                                 <gmd:dateType>
+
+                                                                                          <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                                         codeListValue="revision">revision</gmd:CI_DateTypeCode>
+
+                                                                                 </gmd:dateType>
+
+                                                                        </gmd:CI_Date>
+
+                                                               </gmd:date>
+
+                                                               <gmd:collectiveTitle>
+
+                                                                        <gco:CharacterString>Olsen,   L.M.,   G.   Major,   K.   Shein,   J.   Scialdone,   R.   Vogel,   S.   Leicester,   H.   Weir,   S.   Ritz,   T.   Stevens,   M.   Meaux,   C.Solomon,   R.   Bilodeau,   M.   Holland,   T.   Northcutt,   R.   A.   Restrepo,   2007   .         NASA/Global   Change   Master   Directory   (GCMD)   Earth   Science   Keywords.   Version      6.0.0.0.0</gco:CharacterString>
+
+                                                               </gmd:collectiveTitle>
+
+                                                      </gmd:CI_Citation>
+
+                                             </gmd:thesaurusName>
+
+                                    </gmd:MD_Keywords>
+
+                           </gmd:descriptiveKeywords>
+
+                           <gmd:descriptiveKeywords>
+
+                                    <gmd:MD_Keywords>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>SPACE   SHUTTLES</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>STS-41G   &gt;   Space   Transport   System   STS-41G</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:thesaurusName>
+
+                                                      <gmd:CI_Citation>
+
+                                                               <gmd:title>
+
+                                                                        <gco:CharacterString>NASA/GCMD   Earth   Science   Keywords</gco:CharacterString>
+
+                                                               </gmd:title>
+
+                                                               <gmd:alternateTitle>
+
+                                                                        <gco:CharacterString>Platforms</gco:CharacterString>
+
+                                                               </gmd:alternateTitle>
+
+                                                               <gmd:date>
+
+                                                                        <gmd:CI_Date>
+
+                                                                                 <gmd:date>
+
+                                                                                          <gco:Date>2009-06-10</gco:Date>
+
+                                                                                 </gmd:date>
+
+                                                                                 <gmd:dateType>
+
+                                                                                          <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                                         codeListValue="revision">revision</gmd:CI_DateTypeCode>
+
+                                                                                 </gmd:dateType>
+
+                                                                        </gmd:CI_Date>
+
+                                                               </gmd:date>
+
+                                                               <gmd:collectiveTitle>
+
+                                                                        <gco:CharacterString>Olsen,   L.M.,   G.   Major,   K.   Shein,   J.   Scialdone,   R.   Vogel,   S.   Leicester,   H.   Weir,   S.   Ritz,   T.   Stevens,   M.   Meaux,   C.Solomon,   R.   Bilodeau,   M.   Holland,   T.   Northcutt,   R.   A.   Restrepo,   2007   .         NASA/Global   Change   Master   Directory   (GCMD)   Earth   Science   Keywords.   Version      6.0.0.0.0</gco:CharacterString>
+
+                                                               </gmd:collectiveTitle>
+
+                                                      </gmd:CI_Citation>
+
+                                             </gmd:thesaurusName>
+
+                                    </gmd:MD_Keywords>
+
+                           </gmd:descriptiveKeywords>
+
+                           <gmd:descriptiveKeywords>
+
+                                    <gmd:MD_Keywords>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>EOSDIS   &gt;   Earth   Observing   System   Data   Information   System</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>MAPS   &gt;   Measurement   of   Air   Pollution   from   Satellites</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>ESIP   &gt;   Earth   Science   Information   Partners   Program</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:thesaurusName>
+
+                                                      <gmd:CI_Citation>
+
+                                                               <gmd:title>
+
+                                                                        <gco:CharacterString>NASA/GCMD   Earth   Science   Keywords</gco:CharacterString>
+
+                                                               </gmd:title>
+
+                                                               <gmd:alternateTitle>
+
+                                                                        <gco:CharacterString>Projects</gco:CharacterString>
+
+                                                               </gmd:alternateTitle>
+
+                                                               <gmd:date>
+
+                                                                        <gmd:CI_Date>
+
+                                                                                 <gmd:date>
+
+                                                                                          <gco:Date>2009-06-10</gco:Date>
+
+                                                                                 </gmd:date>
+
+                                                                                 <gmd:dateType>
+
+                                                                                          <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                                         codeListValue="revision">revision</gmd:CI_DateTypeCode>
+
+                                                                                 </gmd:dateType>
+
+                                                                        </gmd:CI_Date>
+
+                                                               </gmd:date>
+
+                                                               <gmd:collectiveTitle>
+
+                                                                        <gco:CharacterString>Olsen,   L.M.,   G.   Major,   K.   Shein,   J.   Scialdone,   R.   Vogel,   S.   Leicester,   H.   Weir,   S.   Ritz,   T.   Stevens,   M.   Meaux,   C.Solomon,   R.   Bilodeau,   M.   Holland,   T.   Northcutt,   R.   A.   Restrepo,   2007   .         NASA/Global   Change   Master   Directory   (GCMD)   Earth   Science   Keywords.   Version      6.0.0.0.0</gco:CharacterString>
+
+                                                               </gmd:collectiveTitle>
+
+                                                      </gmd:CI_Citation>
+
+                                             </gmd:thesaurusName>
+
+                                    </gmd:MD_Keywords>
+
+                           </gmd:descriptiveKeywords>
+
+                           <gmd:descriptiveKeywords>
+
+                                    <gmd:MD_Keywords>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>USA/NASA</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:thesaurusName>
+
+                                                      <gmd:CI_Citation>
+
+                                                               <gmd:title>
+
+                                                                        <gco:CharacterString>NASA/GCMD   Earth   Science   Keywords</gco:CharacterString>
+
+                                                               </gmd:title>
+
+                                                               <gmd:alternateTitle>
+
+                                                                        <gco:CharacterString>IDN   Nodes</gco:CharacterString>
+
+                                                               </gmd:alternateTitle>
+
+                                                               <gmd:date>
+
+                                                                        <gmd:CI_Date>
+
+                                                                                 <gmd:date>
+
+                                                                                          <gco:Date>2007-04-01</gco:Date>
+
+                                                                                 </gmd:date>
+
+                                                                                 <gmd:dateType>
+
+                                                                                          <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                                         codeListValue="revision">revision</gmd:CI_DateTypeCode>
+
+                                                                                 </gmd:dateType>
+
+                                                                        </gmd:CI_Date>
+
+                                                               </gmd:date>
+
+                                                               <gmd:collectiveTitle>
+
+                                                                        <gco:CharacterString>Olsen,   L.M.,   G.   Major,   K.   Shein,   J.   Scialdone,   R.   Vogel,   S.   Leicester,   H.   Weir,   S.   Ritz,   T.   Stevens,   M.   Meaux,   C.Solomon,   R.   Bilodeau,   M.   Holland,   T.   Northcutt,   R.   A.   Restrepo,   2007   .         NASA/Global   Change   Master   Directory   (GCMD)   Earth   Science   Keywords.   Version      6.0.0.0.0</gco:CharacterString>
+
+                                                               </gmd:collectiveTitle>
+
+                                                      </gmd:CI_Citation>
+
+                                             </gmd:thesaurusName>
+
+                                    </gmd:MD_Keywords>
+
+                           </gmd:descriptiveKeywords>
+
+                           <gmd:descriptiveKeywords>
+
+                                    <gmd:MD_Keywords>
+
+                                             <gmd:keyword>
+
+                                                      <gco:CharacterString>VERTICAL   LOCATION   &gt;   TROPOSPHERE</gco:CharacterString>
+
+                                             </gmd:keyword>
+
+                                             <gmd:thesaurusName>
+
+                                                      <gmd:CI_Citation>
+
+                                                               <gmd:title>
+
+                                                                        <gco:CharacterString>NASA/GCMD   Earth   Science   Keywords</gco:CharacterString>
+
+                                                               </gmd:title>
+
+                                                               <gmd:alternateTitle>
+
+                                                                        <gco:CharacterString>Locations</gco:CharacterString>
+
+                                                               </gmd:alternateTitle>
+
+                                                               <gmd:date>
+
+                                                                        <gmd:CI_Date>
+
+                                                                                 <gmd:date>
+
+                                                                                          <gco:Date>2009-12-22</gco:Date>
+
+                                                                                 </gmd:date>
+
+                                                                                 <gmd:dateType>
+
+                                                                                          <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                                         codeListValue="revision">revision</gmd:CI_DateTypeCode>
+
+                                                                                 </gmd:dateType>
+
+                                                                        </gmd:CI_Date>
+
+                                                               </gmd:date>
+
+                                                               <gmd:collectiveTitle>
+
+                                                                        <gco:CharacterString>Olsen,   L.M.,   G.   Major,   K.   Shein,   J.   Scialdone,   R.   Vogel,   S.   Leicester,   H.   Weir,   S.   Ritz,   T.   Stevens,   M.   Meaux,   C.Solomon,   R.   Bilodeau,   M.   Holland,   T.   Northcutt,   R.   A.   Restrepo,   2007   .         NASA/Global   Change   Master   Directory   (GCMD)   Earth   Science   Keywords.   Version      6.0.0.0.0</gco:CharacterString>
+
+                                                               </gmd:collectiveTitle>
+
+                                                      </gmd:CI_Citation>
+
+                                             </gmd:thesaurusName>
+
+                                    </gmd:MD_Keywords>
+
+                           </gmd:descriptiveKeywords>
+
+                           <gmd:language>
+
+                                    <gco:CharacterString>eng</gco:CharacterString>
+
+                           </gmd:language>
+
+                           <gmd:characterSet>
+
+                                    <gmd:MD_CharacterSetCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode"
+
+                                                                                                               codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+
+                           </gmd:characterSet>
+
+                           <gmd:topicCategory>
+
+                                    <gmd:MD_TopicCategoryCode>climatology/meteorology/atmosphere</gmd:MD_TopicCategoryCode>
+
+                           </gmd:topicCategory>
+
+                           <gmd:topicCategory>
+
+                                    <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
+
+                           </gmd:topicCategory>
+
+                           <gmd:extent>
+
+                                    <gmd:EX_Extent>
+
+                                             <gmd:geographicElement>
+
+                                                      <gmd:EX_GeographicBoundingBox>
+
+                                                               <gmd:westBoundLongitude>
+
+                                                                        <gco:Decimal>-180.0</gco:Decimal>
+
+                                                               </gmd:westBoundLongitude>
+
+                                                               <gmd:eastBoundLongitude>
+
+                                                                        <gco:Decimal>18.0</gco:Decimal>
+
+                                                               </gmd:eastBoundLongitude>
+
+                                                               <gmd:southBoundLatitude>
+
+                                                                        <gco:Decimal>-70.0</gco:Decimal>
+
+                                                               </gmd:southBoundLatitude>
+
+                                                               <gmd:northBoundLatitude>
+
+                                                                        <gco:Decimal>70.0</gco:Decimal>
+
+                                                               </gmd:northBoundLatitude>
+
+                                                      </gmd:EX_GeographicBoundingBox>
+
+                                             </gmd:geographicElement>
+
+                                             <gmd:geographicElement>
+
+                                                      <gmd:EX_GeographicDescription>
+
+                                                               <gmd:geographicIdentifier>
+
+                                                                        <gmd:MD_Identifier>
+
+                                                                                 <gmd:authority>
+
+                                                                                          <gmd:CI_Citation>
+
+                                                                                                   <gmd:title>
+
+                                                                                                            <gco:CharacterString>NASA/GCMD   Earth   Science   Keywords</gco:CharacterString>
+
+                                                                                                   </gmd:title>
+
+                                                                                                   <gmd:alternateTitle>
+
+                                                                                                            <gco:CharacterString>Locations</gco:CharacterString>
+
+                                                                                                   </gmd:alternateTitle>
+
+                                                                                                   <gmd:date>
+
+                                                                                                            <gmd:CI_Date>
+
+                                                                                                                     <gmd:date>
+
+                                                                                                                              <gco:Date>2009-12-22</gco:Date>
+
+                                                                                                                     </gmd:date>
+
+                                                                                                                     <gmd:dateType>
+
+                                                                                                                              <gmd:CI_DateTypeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+
+                                                                                                                                                                                             codeListValue="revision"/>
+
+                                                                                                                     </gmd:dateType>
+
+                                                                                                            </gmd:CI_Date>
+
+                                                                                                   </gmd:date>
+
+                                                                                                   <gmd:collectiveTitle>
+
+                                                                                                            <gco:CharacterString>Olsen,   L.M.,   G.   Major,   K.   Shein,   J.   Scialdone,   R.   Vogel,   S.   Leicester,   H.   Weir,   S.   Ritz,   T.   Stevens,   M.   Meaux,   C.Solomon,   R.   Bilodeau,   M.   Holland,   T.   Northcutt,   R.   A.   Restrepo,   2007   .         NASA/Global   Change   Master   Directory   (GCMD)   Earth   Science   Keywords.   Version      6.0.0.0.0</gco:CharacterString>
+
+                                                                                                   </gmd:collectiveTitle>
+
+                                                                                          </gmd:CI_Citation>
+
+                                                                                 </gmd:authority>
+
+                                                                                 <gmd:code>
+
+                                                                                          <gco:CharacterString>VERTICAL   LOCATION   &gt;   TROPOSPHERE</gco:CharacterString>
+
+                                                                                 </gmd:code>
+
+                                                                        </gmd:MD_Identifier>
+
+                                                               </gmd:geographicIdentifier>
+
+                                                      </gmd:EX_GeographicDescription>
+
+                                             </gmd:geographicElement>
+
+                                             <gmd:temporalElement>
+
+                                                      <gmd:EX_TemporalExtent>
+
+                                                               <gmd:extent>
+
+                                                                        <gml:TimePeriod   gml:id="w1aac31">
+
+                                                                                 <gml:begin>
+
+                                                                                          <gml:TimeInstant   gml:id="w1aac31b1">
+
+                                                                                                   <gml:timePosition>1984-10-06</gml:timePosition>
+
+                                                                                          </gml:TimeInstant>
+
+                                                                                 </gml:begin>
+
+                                                                                 <gml:end>
+
+                                                                                          <gml:TimeInstant   gml:id="w1aac31b3">
+
+                                                                                                   <gml:timePosition>1984-10-13</gml:timePosition>
+
+                                                                                          </gml:TimeInstant>
+
+                                                                                 </gml:end>
+
+                                                                        </gml:TimePeriod>
+
+                                                               </gmd:extent>
+
+                                                      </gmd:EX_TemporalExtent>
+
+                                             </gmd:temporalElement>
+
+                                    </gmd:EX_Extent>
+
+                           </gmd:extent>
+
+                  </gmd:MD_DataIdentification>
+
+         </gmd:identificationInfo>
+
+         <gmd:distributionInfo>
+
+                  <gmd:MD_Distribution>
+
+                           <gmd:distributionFormat>
+
+                                    <gmd:MD_Format>
+
+                                             <gmd:name>
+
+                                                      <gco:CharacterString>HDF</gco:CharacterString>
+
+                                             </gmd:name>
+
+                                             <gmd:version   gco:nilReason="missing">
+
+                                                      <gco:CharacterString/>
+
+                                             </gmd:version>
+
+                                    </gmd:MD_Format>
+
+                           </gmd:distributionFormat>
+
+                           <gmd:distributor>
+
+                                    <gmd:MD_Distributor>
+
+                                             <gmd:distributorContact>
+
+                                                      <gmd:CI_ResponsibleParty>
+
+                                                               <gmd:individualName>
+
+                                                                        <gco:CharacterString>USER   SERVICES,   ASDC</gco:CharacterString>
+
+                                                               </gmd:individualName>
+
+                                                               <gmd:organisationName>
+
+                                                                        <gco:CharacterString>NASA/LARC/SD/ASDC   &gt;   Atmospheric   Science   Data   Center,   Science   Directorate,   Langley   Research   Center,   NASA</gco:CharacterString>
+
+                                                               </gmd:organisationName>
+
+                                                               <gmd:positionName>
+
+                                                                        <gco:CharacterString>DATA   CENTER   CONTACT</gco:CharacterString>
+
+                                                               </gmd:positionName>
+
+                                                               <gmd:contactInfo>
+
+                                                                        <gmd:CI_Contact>
+
+                                                                                 <gmd:phone>
+
+                                                                                          <gmd:CI_Telephone>
+
+                                                                                                   <gmd:voice>
+
+                                                                                                            <gco:CharacterString>757-864-8656</gco:CharacterString>
+
+                                                                                                   </gmd:voice>
+
+                                                                                          </gmd:CI_Telephone>
+
+                                                                                 </gmd:phone>
+
+                                                                                 <gmd:address>
+
+                                                                                          <gmd:CI_Address>
+
+                                                                                                   <gmd:deliveryPoint>
+
+                                                                                                            <gco:CharacterString>NASA   Langley   Atmospheric   Science   Data   Center</gco:CharacterString>
+
+                                                                                                   </gmd:deliveryPoint>
+
+                                                                                                   <gmd:deliveryPoint>
+
+                                                                                                            <gco:CharacterString>User   and   Data   Services</gco:CharacterString>
+
+                                                                                                   </gmd:deliveryPoint>
+
+                                                                                                   <gmd:deliveryPoint>
+
+                                                                                                            <gco:CharacterString>NASA   Langley   Research   Center</gco:CharacterString>
+
+                                                                                                   </gmd:deliveryPoint>
+
+                                                                                                   <gmd:deliveryPoint>
+
+                                                                                                            <gco:CharacterString>Mail   Stop   157D</gco:CharacterString>
+
+                                                                                                   </gmd:deliveryPoint>
+
+                                                                                                   <gmd:city>
+
+                                                                                                            <gco:CharacterString>Hampton</gco:CharacterString>
+
+                                                                                                   </gmd:city>
+
+                                                                                                   <gmd:administrativeArea>
+
+                                                                                                            <gco:CharacterString>VA</gco:CharacterString>
+
+                                                                                                   </gmd:administrativeArea>
+
+                                                                                                   <gmd:postalCode>
+
+                                                                                                            <gco:CharacterString>23681-2199</gco:CharacterString>
+
+                                                                                                   </gmd:postalCode>
+
+                                                                                                   <gmd:country>
+
+                                                                                                            <gco:CharacterString>USA</gco:CharacterString>
+
+                                                                                                   </gmd:country>
+
+                                                                                                   <gmd:electronicMailAddress>
+
+                                                                                                            <gco:CharacterString>support-asdc@earthdata.nasa.gov</gco:CharacterString>
+
+                                                                                                   </gmd:electronicMailAddress>
+
+                                                                                          </gmd:CI_Address>
+
+                                                                                 </gmd:address>
+
+                                                                                 <gmd:onlineResource>
+
+                                                                                          <gmd:CI_OnlineResource>
+
+                                                                                                   <gmd:linkage>
+
+                                                                                                            <gmd:URL>http://eosweb.larc.nasa.gov/</gmd:URL>
+
+                                                                                                   </gmd:linkage>
+
+                                                                                          </gmd:CI_OnlineResource>
+
+                                                                                 </gmd:onlineResource>
+
+                                                                        </gmd:CI_Contact>
+
+                                                               </gmd:contactInfo>
+
+                                                               <gmd:role>
+
+                                                                        <gmd:CI_RoleCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+
+                                                                                                                           codeListValue="distributor">distributor</gmd:CI_RoleCode>
+
+                                                               </gmd:role>
+
+                                                      </gmd:CI_ResponsibleParty>
+
+                                             </gmd:distributorContact>
+
+                                             <gmd:distributionOrderProcess>
+
+                                                      <gmd:MD_StandardOrderProcess>
+
+                                                               <gmd:fees>
+
+                                                                        <gco:CharacterString>None</gco:CharacterString>
+
+                                                               </gmd:fees>
+
+                                                      </gmd:MD_StandardOrderProcess>
+
+                                             </gmd:distributionOrderProcess>
+
+                                    </gmd:MD_Distributor>
+
+                           </gmd:distributor>
+
+                           <gmd:transferOptions>
+
+                                    <gmd:MD_DigitalTransferOptions>
+
+                                             <gmd:onLine>
+
+                                                      <gmd:CI_OnlineResource>
+
+                                                               <gmd:linkage>
+
+                                                                        <gmd:URL>http://www.nasa.gov/centers/langley/news/factsheets/MAPS.html</gmd:URL>
+
+                                                               </gmd:linkage>
+
+                                                               <gmd:protocol>
+
+                                                                        <gco:CharacterString>WWW:LINK-1.0-http--link</gco:CharacterString>
+
+                                                               </gmd:protocol>
+
+                                                               <gmd:name>
+
+                                                                        <gco:CharacterString>VIEW   PROJECT   HOME   PAGE</gco:CharacterString>
+
+                                                               </gmd:name>
+
+                                                               <gmd:description>
+
+                                                                        <gco:CharacterString>
+
+                           Measurement   of   Air   Pollution   from   Satellites   (MAPS)   fact   sheet
+
+                  </gco:CharacterString>
+
+                                                               </gmd:description>
+
+                                                      </gmd:CI_OnlineResource>
+
+                                             </gmd:onLine>
+
+                                    </gmd:MD_DigitalTransferOptions>
+
+                           </gmd:transferOptions>
+
+                  </gmd:MD_Distribution>
+
+         </gmd:distributionInfo>
+
+         <gmd:dataQualityInfo>
+
+                  <gmd:DQ_DataQuality>
+
+                           <gmd:scope>
+
+                                    <gmd:DQ_Scope>
+
+                                             <gmd:level>
+
+                                                      <gmd:MD_ScopeCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode"
+
+                                                                                                            codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+
+                                             </gmd:level>
+
+                                    </gmd:DQ_Scope>
+
+                           </gmd:scope>
+
+                           <gmd:lineage>
+
+                                    <gmd:LI_Lineage>
+
+                                             <gmd:statement   gco:nilReason="missing">
+
+                                                      <gco:CharacterString/>
+
+                                             </gmd:statement>
+
+                                    </gmd:LI_Lineage>
+
+                           </gmd:lineage>
+
+                  </gmd:DQ_DataQuality>
+
+         </gmd:dataQualityInfo>
+
+         <gmd:metadataConstraints>
+
+                  <gmd:MD_LegalConstraints>
+
+                           <gmd:useLimitation>
+
+                                    <gco:CharacterString>This   metadata   record   is   publicly   available.</gco:CharacterString>
+
+                           </gmd:useLimitation>
+
+                  </gmd:MD_LegalConstraints>
+
+         </gmd:metadataConstraints>
+
+         <gmd:metadataMaintenance>
+
+                  <gmd:MD_MaintenanceInformation>
+
+                           <gmd:maintenanceAndUpdateFrequency>
+
+                                    <gmd:MD_MaintenanceFrequencyCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode"
+
+                                                                                                                                       codeListValue="asNeeded">asNeeded</gmd:MD_MaintenanceFrequencyCode>
+
+                           </gmd:maintenanceAndUpdateFrequency>
+
+                           <gmd:contact>
+
+                                    <gmd:CI_ResponsibleParty>
+
+                                             <gmd:individualName>
+
+                                                      <gco:CharacterString>USER   SERVICES,   ASDC</gco:CharacterString>
+
+                                             </gmd:individualName>
+
+                                             <gmd:contactInfo>
+
+                                                      <gmd:CI_Contact>
+
+                                                               <gmd:phone>
+
+                                                                        <gmd:CI_Telephone>
+
+                                                                                 <gmd:voice>
+
+                                                                                          <gco:CharacterString>757-864-8656</gco:CharacterString>
+
+                                                                                 </gmd:voice>
+
+                                                                        </gmd:CI_Telephone>
+
+                                                               </gmd:phone>
+
+                                                               <gmd:address>
+
+                                                                        <gmd:CI_Address>
+
+                                                                                 <gmd:deliveryPoint>
+
+                                                                                          <gco:CharacterString>NASA   Langley   Atmospheric   Science   Data   Center</gco:CharacterString>
+
+                                                                                 </gmd:deliveryPoint>
+
+                                                                                 <gmd:deliveryPoint>
+
+                                                                                          <gco:CharacterString>User   and   Data   Services</gco:CharacterString>
+
+                                                                                 </gmd:deliveryPoint>
+
+                                                                                 <gmd:deliveryPoint>
+
+                                                                                          <gco:CharacterString>NASA   Langley   Research   Center</gco:CharacterString>
+
+                                                                                 </gmd:deliveryPoint>
+
+                                                                                 <gmd:deliveryPoint>
+
+                                                                                          <gco:CharacterString>Mail   Stop   157D</gco:CharacterString>
+
+                                                                                 </gmd:deliveryPoint>
+
+                                                                                 <gmd:city>
+
+                                                                                          <gco:CharacterString>Hampton</gco:CharacterString>
+
+                                                                                 </gmd:city>
+
+                                                                                 <gmd:administrativeArea>
+
+                                                                                          <gco:CharacterString>VA</gco:CharacterString>
+
+                                                                                 </gmd:administrativeArea>
+
+                                                                                 <gmd:postalCode>
+
+                                                                                          <gco:CharacterString>23681-2199</gco:CharacterString>
+
+                                                                                 </gmd:postalCode>
+
+                                                                                 <gmd:country>
+
+                                                                                          <gco:CharacterString>USA</gco:CharacterString>
+
+                                                                                 </gmd:country>
+
+                                                                                 <gmd:electronicMailAddress>
+
+                                                                                          <gco:CharacterString>support-asdc@earthdata.nasa.gov</gco:CharacterString>
+
+                                                                                 </gmd:electronicMailAddress>
+
+                                                                        </gmd:CI_Address>
+
+                                                               </gmd:address>
+
+                                                      </gmd:CI_Contact>
+
+                                             </gmd:contactInfo>
+
+                                             <gmd:role>
+
+                                                      <gmd:CI_RoleCode   codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+
+                                                                                                         codeListValue="author">author</gmd:CI_RoleCode>
+
+                                             </gmd:role>
+
+                                    </gmd:CI_ResponsibleParty>
+
+                           </gmd:contact>
+
+                  </gmd:MD_MaintenanceInformation>
+
+         </gmd:metadataMaintenance>
+
+</gmd:MD_Metadata>
+            
+ 
+
+
+
+           
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                              
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+        
+
+
+
+    
+
+
+
+
+                    
+                    
+                
+
+            
+
+            
+
+        
+
+    
+
+    
+    
+
+    
+
+
+
+
+
+
+
+
+    
+        	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+   
+
+
+
+
+    
+        	
+            
+        
+            + 
+                NASA Privacy Policy and Important Notices 
+
+
+    
+
+    
+    
+        
+            
+                
+        
+
+        	
+                Webmaster:
+                Monica Lyles
+            
+	
+                Responsible NASA Official:
+                Dr. Stephen Wharton
+            
+	Last updated: February 2015
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,101 @@
+
+    
+
+      
+
+        
+          ECHO REST API
+
+Currently, only select resources
+are accessible using the ECHO REST API and those resources are available for evaluation purposes.
+The ECHO REST API aims to expose entities within ECHO as resources that can be accessed in a RESTful manner.
+    Clients using the ECHO REST API can send and/or
+receive messages in XML or JSON format. While the ECHO REST API may not provide for a pure-REST
+architecture, it does allow for more integration and mashups with browser-based clients through
+languages such as Javascript.
+
+
+
+Generated Documentation
+
+ECHO REST API Generated Documentation
+
+
+Request URLs
+
+Endpoints are defined for each resource and follow a naming convention based upon the
+resource name.  For example,
+https://api.echo.nasa.gov/echo-rest/users is the publicly available URL for ECHO users.
+
+
+Request Messages
+
+Clients must supply an ECHO "Echo-Token" HTTP Header with a value of a valid token in order to access protected resources to ECHO.
+
+In each REST request, the HTTP body
+may contain a request message in a format described below.
+
+XML format
+
+Clients must supply a "Content-Type" HTTP Header with a value of "application/xml" in order to send XML formatted requests to ECHO.
+For requests in XML format,
+the request body may contain one element named according to the resource name or may contain query parameters.  An element can have any number of child elements.
+An XML request message to the tokens resource would then be formatted as follows:
+
+
+  
+    <token>
+      <username>"username value"</username>
+      <password>"password value"</password>
+      <client_id>"client ID value"</client_id>
+      <user_ip_address>"user IP address value"</user_ip_address>
+      <act_as_user_name>"act as username value"</act_as_user_name>
+      <provider>"behalf of provider value"</provider>
+    </token>
+  
+
+
+
+JSON format
+
+Clients must supply a "Content-Type" HTTP Header with a value of "application/json" in order to send JSON formatted requests to ECHO.
+For requests in JSON format, the request may contain one object.  That object can have any number of fields (name/value pairs).
+A JSON request message to the tokens resource would then be formatted as follows:
+
+
+  
+    {
+      "username": "username value",
+      "password": "password value",
+      "client_id": "client ID value",
+      "user_ip_address": "user IP address value"
+      "act_as_user_name": "act as username value",
+      "provider": "behalf of provider value"
+    }
+  
+
+
+
+Response Messages
+
+Every REST request has a corresponding REST response. Depending on the type of request, a response body may or may not
+    contain content. A REST response body may contain a response message in a format described below.
+
+XML format
+
+Clients must supply an "Accept" HTTP Header with a value of "application/xml" in order to receive XML formatted responses from ECHO .
+
+
+JSON format
+
+Clients must supply an "Accept" HTTP Header with a value of "application/json" in order to receive JSON formatted responses from ECHO.
+
+
+        
+
+      
+
+
+    
+
+  

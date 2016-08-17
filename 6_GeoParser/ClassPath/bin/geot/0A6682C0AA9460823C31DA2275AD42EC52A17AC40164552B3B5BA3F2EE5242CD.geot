@@ -1,0 +1,1742 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        ServiceParameters>MODELS>PHENOMENOLOGICAL MODELS
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                Fifth-Generation NCAR / Penn State Mesoscale Model (MM5)
+            
+        
+
+        
+        
+            Entry ID:
+            
+                MM5_PSU_NCAR
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+
+
+		  
+                        
+                    
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+        
+        
+
+        
+        
+        
+            [
+            
+                
+                    Get Service
+            
+            ]
+            
+        
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+               
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+         
+         
+                
+                    
+                    
+                        Update this Record.
+                
+
+
+
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            The PSU/NCAR mesoscale model is a limited-area, nonhydrostatic or hydrostatic 
+ (Version 2 only), terrain-following sigma-coordinate model designed to simulate 
+ or predict mesoscale and regional-scale atmospheric circulation. It has been 
+ developed at Penn State and NCAR as a community mesoscale model and is 
+ continuously being improved by contributions from users at several  ... universities 
+ and government laboratories. 
+ 
+ The Fifth-Generation NCAR / Penn State Mesoscale Model (MM5) is the latest in a 
+ series that developed from a mesoscale model used by Anthes at Penn State in 
+ the early 70's that was later documented by Anthes and Warner (1978). Since 
+ that time, it has undergone many changes designed to broaden its usage. These 
+ include (i) a multiple-nest capability, (ii) nonhydrostatic dynamics, which 
+ allows the model to be used at a few-kilometer scale, (iii) multitasking 
+ capability on shared- and distributed-memory machines, (iv) a four-dimensional 
+ data-assimilation capability, and (v) more physics options. 
+ 
+ The model (known as MM5) is supported by several auxiliary programs, which are 
+ referred to collectively as the MM5 modeling system. 
+ 
+ A schematic diagram (a pdf file, to be opened by Adobe Acrobat Reader) is 
+ provided to facilitate discussion of the complete modeling system. It is 
+ intended to show the order of the programs and the flow of the data, and to 
+ briefly describe their primary functions. Documentation for various programs in 
+ the modeling system is available online. 
+ 
+ Terrestrial and isobaric meteorological data are horizontally interpolated 
+ (programs TERRAIN and REGRID) from a latitude-longitude mesh to a variable 
+ high-resolution domain on either a Mercator, Lambert conformal, or polar 
+ stereographic projection. Since the interpolation does not provide mesoscale 
+ detail, the interpolated data may be enhanced (program RAWINS or little_r) with 
+ observations from the standard network of surface and rawinsonde stations using 
+ either a successive-scan Cressman technique or multiquadric scheme. Program 
+ INTERPF performs the vertical interpolation from pressure levels to the sigma 
+ coordinate system of MM5. Sigma surfaces near the ground closely follow the 
+ terrain, and the higher-level sigma surfaces tend to approximate isobaric 
+ surfaces. Since the vertical and horizontal resolution and domain size are 
+ variable, the modeling package programs employ parameterized dimensions 
+ requiring a variable amount of core memory. Some peripheral storage devices are 
+ also used. 
+ 
+ Since MM5 is a regional model, it requires an initial condition as well as 
+ lateral boundary condition to run. To produce lateral boundary condition for a 
+ model run, one needs gridded data to cover the entire time period that the 
+ model is integrated. 
+ 
+ MM5 has been used for a broad spectrum of theoretical and real-time studies, 
+ including applications of both predictive simulation and four-dimensional data 
+ assimilation to monsoons, hurricanes, and cyclones. On the smaller meso-beta 
+ and meso-gamma scales (2-200 km), MM5 has been used for studies involving 
+ mesoscale convective systems, fronts, land-sea breezes, mountain-valley 
+ circulations, and urban heat islands. The model allows for multiple levels of 
+ nesting for cases involving scale interaction. Since the model is designed 
+ primarily for research applications, modification and development will 
+ continue. 
+ 
+ (Summary adapted from: http://www.mmm.ucar.edu/mm5/overview.html.) 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET SERVICE
+                                                 > 
+                                                    GET SOFTWARE PACKAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                The SPoRT real-time mesoscale modeling system web site. High-resolution
+ meteorological forecasts are produced twelve times daily by the Pennsylvania
+ State University/National center for Atmospheric Research (PSU/NCAR) mesoscale
+ model (MM5v3.4). 
+                            
+
+                        
+			
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET RELATED DATA SET METADATA (DIF)
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Real-time mesoscale model weather forecasts using the non-hydrostatic Penn
+ State/NCAR mesoscale model (MM5) are being produced at least twice-daily by the
+ Mesoscale Prediction Group at NCAR MMM. 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET RELATED DATA SET METADATA (DIF)
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                This gridded dataset consists of output from the Polar MM5, a version of the
+ Pennsylvania State University / National Center for Atmospheric Research Fifth
+ Generation Mesoscale Model (MM5; version 2) modified for use over extensive ice
+ sheets. 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET RELATED DATA SET METADATA (DIF)
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                This data set is a product of TAU WeRC (Tel Aviv University Weather Research
+ Center) and includes weather forecasts for Israel. 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Other models available through the Mesoscale & Microscale Meteorology Division,
+ National Center for Atmospheric Research. 
+                            
+
+                        
+			
+                        
+                    
+		    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Service Citation
+        
+        
+            	
+                
+                    
+                    
+                        
+                            Originators: 
+                            NCAR / Penn State
+                        
+
+                    
+                    
+                        
+                            Title: 
+                            Fifth-Generation NCAR / Penn State Mesoscale Model (MM5)
+                        
+
+                    
+                    
+                        
+                            Release_Date: 
+                            2004-12-23
+                        
+
+                    
+                    
+                        
+                            Provider: 
+                            UCAR
+                        
+
+                    
+                    
+                        
+                            Edition: 
+                            V 3.7
+                        
+
+                    
+                    
+                        
+                            URL: 
+                            
+                                
+                                    http://www.mmm.ucar.edu/mm5/mm5-home.html
+                            
+                        
+
+                    
+                    
+                    
+                
+                
+            
+        
+
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Service Keywords
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                                MODELS
+                            
+                            
+                                >COMPONENT PROCESS MODELS
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                MODELS
+                            
+                            
+                                >PHENOMENOLOGICAL MODELS
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                MODELS
+                            
+                            
+                                >SOCIAL AND ECONOMIC MODELS
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                MODELS
+                            
+                            
+                                >EARTH SCIENCE REANALYSES/ASSIMILATION MODELS
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+            
+            
+
+
+
+        
+    
+
+
+
+
+    
+        Science Keywords 
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ALTITUDE
+                            
+                            
+                            >STRATOPAUSE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ALTITUDE
+                            
+                            
+                            >TROPOPAUSE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC PRESSURE
+                            
+                            
+                            >PRESSURE THICKNESS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC PRESSURE
+                            
+                            
+                            >SEA LEVEL PRESSURE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC TEMPERATURE
+                            
+                            
+                            >POTENTIAL TEMPERATURE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC WATER VAPOR
+                            
+                            
+                            >DEW POINT TEMPERATURE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC WATER VAPOR
+                            
+                            
+                            >HUMIDITY
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC WATER VAPOR
+                            
+                            
+                            >WATER VAPOR
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC WINDS
+                            
+                            
+                            >CONVECTION
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC WINDS
+                            
+                            
+                            >UPPER LEVEL WINDS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC WINDS
+                            
+                            
+                            >VORTICITY
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC WINDS
+                            
+                            
+                            >WIND PROFILES
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                    
+            
+
+
+        
+    
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ENVIRONMENT
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            ESIP
+                            
+                                >
+                                Earth Science Information Partners Program
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            atmospheric circulation
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Polar stereographic
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Lambert conformal
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Mercator
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Service Provider
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                                
+                                    UCAR/NCAR/MMM/MPG
+                                    
+                                         >  
+                                        Mesoscale Prediction Group, Mesoscale and Microscale Meteorology, National Center for Atmospheric Research, University Corporation for Atmospheric Research
+                                    
+                                
+                           
+                            
+                                
+                                    
+                            
+                            
+
+                        
+                    
+                    
+                        
+                            Service Organization URL: 
+                        
+                        
+                            
+                                
+                                            http://www.mmm.ucar.edu/mp/mp.html 
+                            
+                        
+                        
+
+                    
+                    
+                        
+                    
+                    
+                    
+                        
+                            
+
+                            	Service Provider Personnel
+	
+                                        Name: 
+                                        
+                                            
+                                                JAMES
+                                                
+                                                BRESH
+                                            
+                                        
+                                        
+
+                                        
+                                            
+                                                Phone: 
+                                                
+                                                    303-497-8145
+                                                
+                                                
+
+                                            
+                                        
+                                        
+                                            
+                                                Fax: 
+                                                
+                                                    303-497-8171
+                                                
+                                                
+
+                                            
+                                        
+                                        
+                                            
+                                                
+                                                    Email: 
+                                                    
+                                                        bresch at ucar.edu
+                                                    
+                                                    
+
+                                                
+                                            
+                                        
+                                        
+                                            
+                                                
+                                                    
+                                                        Contact Address: 
+
+                                                        
+                                                            
+                                                                
+                                                                    P.O. Box 3000 
+
+                                                                
+                                                            
+                                                        
+                                                    
+                                                    
+                                                        City: 
+                                                        
+                                                            Boulder
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Province or State: 
+                                                        
+                                                            CO
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Postal Code: 
+                                                        
+                                                            80307-3000
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Country: 
+                                                        
+                                                            USA
+                                                        
+                                                        
+
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+  
+                            
+                        
+                    
+                    
+                    
+                
+                
+            
+
+  
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    Electronic/Download
+                
+
+            
+            
+            
+            
+            
+            
+            
+                
+                    Fees: 
+                    None
+                
+
+            
+
+            
+                
+                
+                
+		
+            
+        
+
+    
+
+
+ 
+          
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        TYLER
+                        B.
+                        STEVENS
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                SERF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                (301) 614-6898
+                            
+
+                        
+                    
+                
+           
+
+
+
+
+
+
+
+
+
+

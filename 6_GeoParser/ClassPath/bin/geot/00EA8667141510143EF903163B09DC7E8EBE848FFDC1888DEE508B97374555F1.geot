@@ -1,0 +1,3587 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        [Personnel: Last_Name=&#039;PINNOCK&#039;, First_Name=&#039;MICHAEL&#039;]
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    
+
+
+
+
+    
+        
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                Coupling, Energetics, and Dynamics of Atmospheric Regions (CEDAR) Database at NCAR/HAO
+            
+        
+
+        
+        
+            Entry ID:
+            
+                CEDAR_NCAR_HAO
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+        
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+	
+        
+            This data set description is a member of a collection.
+
+            
+                Click to see members of this collection.
+            
+        
+	
+    
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            The Coupling, Energetics, and Dynamics of Atmospheric regions (CEDAR) is a 
+ program sponsored by the National Science Foundation (NSF) designed to enhance 
+ the capability of ground-based instruments to measure the upper atmosphere and 
+ to coordinate instrument and model data for the benefit of the scientific 
+ community. The CEDAR Data Base (formally the Incoherent Scatter Radar Data 
+ Base) is a  ... cooperative project between the National Center for Atmospheric 
+ Research (NCAR) and several institutions that provide upper atmosphere data and 
+ model output for community use. The CEDAR Data Base contains: documentation, 
+ catalogue information, geophysical indices, summary plots, analysis software, 
+ and computer models. A catalogue is produced every year and is available on the 
+ WWW at: 
+ http://cedarweb.hao.ucar.edu/wiki/index.php/Main_Page 
+ 
+ CEDAR instruments are located throughout the world. Only selected data from 
+ each instrument is available in the CEDAR Data Base. The on-line CEDAR Data 
+ Base contains information to contact investigators for additional data not 
+ found in the Data Base. 
+ 
+ The CEDAR Data Base currently contains approximately 10GB of data. A 
+ complete inventory of data and data availability is obtainable from 
+ the following: 
+ 
+ http://cedarweb.hao.ucar.edu/wiki/index.php/Main_Page 
+ 
+ The CEDAR Data Base consists of the following: 
+ 
+ Geophysical Indices. Includes Dst, Kp, ap, Ap, solar 10.7 cm flux, 
+ sunspot number, AE, and IMF parameters. 
+ 
+ Large Model Output. Includes model output from the Assimilative 
+ Mapping of Ionospheric Electrodynamics (AMIE), Thermosphere Ionosphere 
+ General Circulation Model (TIGCM), and Global-Scale Wave Model (GSWM). 
+ 
+ Incoherent Scatter Radar. This is the primary data in the CEDAR Data 
+ Base. Includes ionospheric electron densities, ion velocities, and 
+ electron and ion temperatures. 
+ 
+ Ionospheric Doppler Radars. HF ionospheric doppler radars are organized into a 
+ collection of radars called SuperDARN (Super Dual Auroral Radar Network). 
+ Eleven radars have data in the CEDAR Data Base. Basic parameters include 
+ line-of-sight plasma irregularity and velocity spread. 
+ 
+ Digisondes. Consists of ion drift data from the Qaanaaq Digisonde. 
+ 
+ Fabry-Perot Interferometers. Basic parameters from FPI are 
+ brightness, neutral temperature, and line-of-sight neutral winds. 
+ 
+ IR Michelson Interferometers. Data include neutral temperatures 
+ derived from nightglow hydroxyl (OH). 
+ 
+ Lidar. Basic Lidar parameters are photocounts, relative neutral number 
+ density, and sodium or iron density. 
+ 
+ Middle Atmosphere Radars. Data are from MST radars, MF radars, LF 
+ radars, meteor wind radars and ST radars. There is only limited data 
+ in the CEDAR Data Base. Parameters include line-of-sight neutral winds 
+ and turbulence. 
+ 
+ Airglow Imagers and All-Sky Cameras. Data includes brightness data 
+ from imagers. None of the imager data are in digital form. Some 
+ airglow data is on video tape. 
+ 
+ Models. Consists of both theoretical models and empirical models. 
+ Source code is available from the CEDAR Data Base. Model output 
+ consists of geomagnetic field data, electron densities, electric 
+ fields, interpolations and models of NOAA and DMSP satellite data, 
+ wind models, ionospheric parameters, and other data. 
+ 
+ The CEDAR Data Base is accessible through the WWW and ftp, but users must have 
+ a valid access form, available from the WWW or ftp (see Access and Use 
+ constraints) or contact Barbara Emery (emery@ucar.edu ). See the WWW site 
+ for additional information on accessing the data and Rules of the Road 
+ procedures. 
+ http://cedarweb.hao.ucar.edu/wiki/index.php/Main_Page 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Virtual Solar Terrestrial Observatory data access. 
+                            
+
+                        
+			
+                        
+                    
+		    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 90.0
+                                
+                            	 	
+                                
+                                    S: -90.0
+                                
+                            	 	
+                                
+                                    E: 180.0
+                                
+                            	 	
+                                
+                                    W: -180.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            Emery, B.A. and R. M. Barnes
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Title: 
+                            CEDAR Data Base
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Series Name: 
+                            CEDAR Data Base Catalog
+                        
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Release Place: 
+                            Boulder, CO
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            NCAR/HAO
+                        
+
+                    
+                    
+                    
+                    
+                    
+
+
+                    
+                    
+                    
+
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        http://cedarweb.hao.ucar.edu/wiki/index.php/Data_Services:General_O...
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1966-01-01
+                    
+
+                
+                
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            SPACE
+                            
+                                > EARTH MAGNETIC FIELD
+                            
+                            
+                                > HIGH LATITUDE MAGNETOSPHERE
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SPACE
+                            
+                                > SOLAR REGION
+                            
+                            
+                                > PHOTOSPHERE
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > GLOBAL
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > POLAR
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            VERTICAL LOCATION
+                            
+                                > IONOSPHERE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            VERTICAL LOCATION
+                            
+                                > MESOSPHERE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            VERTICAL LOCATION
+                            
+                                > THERMOSPHERE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+		
+                    
+
+                    
+                        
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC TEMPERATURE
+                            
+                            
+                                >
+                                AIR TEMPERATURE
+                            
+                            
+                            
+                            
+                                >
+                                NEUTRAL TEMPERATURE
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC WINDS
+                            
+                            
+                                >
+                                UPPER LEVEL WINDS
+                            
+                            
+                            
+                            
+                                >
+                                NEUTRAL WINDS
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+                        
+                	
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                IONOSPHERE/MAGNETOSPHERE DYNAMICS
+                            
+                            
+                                >
+                                AURORAE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                SOLAR ENERGETIC PARTICLE FLUX
+                            
+                            
+                                >
+                                ELECTRON FLUX
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                SOLAR ENERGETIC PARTICLE FLUX
+                            
+                            
+                                >
+                                ION FLUX
+                            
+                            
+                            
+                            
+                                >
+                                ION VELOCITY
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                SOLAR ENERGETIC PARTICLE PROPERTIES
+                            
+                            
+                                >
+                                PARTICLE DENSITY
+                            
+                            
+                            
+                            
+                                >
+                                ELECTRON DENSITY
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                SOLAR ENERGETIC PARTICLE PROPERTIES
+                            
+                            
+                                >
+                                PARTICLE SPEED
+                            
+                            
+                            
+                            
+                                >
+                                ELECTRON VELOCITY
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                SOLAR ENERGETIC PARTICLE PROPERTIES
+                            
+                            
+                                >
+                                PARTICLE TEMPERATURE
+                            
+                            
+                            
+                            
+                                >
+                                ELECTRON TEMPERATURE
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                SOLAR ACTIVITY
+                            
+                            
+                                >
+                                SOLAR ACTIVE REGIONS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                SOLAR ACTIVITY
+                            
+                            
+                                >
+                                SOLAR RADIO WAVE EMISSIONS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                SOLAR ACTIVITY
+                            
+                            
+                                >
+                                SUNSPOTS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SOLID EARTH
+                            
+                            
+                                >
+                                GEOMAGNETISM
+                            
+                            
+                                >
+                                ELECTRICAL FIELD
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SOLID EARTH
+                            
+                            
+                                >
+                                GEOMAGNETISM
+                            
+                            
+                                >
+                                GEOMAGNETIC INDICES
+                            
+                            
+                            
+                            
+                                >
+                                GEOPHYSICAL INDICES
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SOLID EARTH
+                            
+                            
+                                >
+                                GEOMAGNETISM
+                            
+                            
+                                >
+                                MAGNETIC FIELD
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC RADIATION
+                            
+                            
+                                >
+                                AIRGLOW
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                IONOSPHERE/MAGNETOSPHERE DYNAMICS
+                            
+                            
+                                >
+                                GEOMAGNETIC INDICES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                IONOSPHERE/MAGNETOSPHERE DYNAMICS
+                            
+                            
+                                >
+                                MAGNETIC FIELDS/MAGNETIC CURRENTS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                SUN-EARTH INTERACTIONS
+                            
+                            
+                                >
+                                IONOSPHERE/MAGNETOSPHERE DYNAMICS
+                            
+                            
+                                >
+                                ION CHEMISTRY/IONIZATION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOSCIENTIFIC INFORMATION
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    FIXED OBSERVATION STATIONS
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    GEOMAGNETIC STATIONS
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                            
+                        
+                    
+                        
+                            
+                                
+                                    GROUND STATIONS
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    GROUND-BASED OBSERVATIONS
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    OBSERVATORIES
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    ACE
+                                    
+                                        >
+                                        Advanced Composition Explorer (ACE)
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    GOES
+                                    
+                                        >
+                                        NOAA Geostationary Operational Environmental Satellites
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    NOAA POES
+                                    
+                                        >
+                                        NOAA Polar Orbiting Environmental Satellites
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+		    
+                        
+
+                        
+                             
+                    
+                
+
+
+    
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            AIRGLOW/AURORA IMAGER
+                            
+                        
+                    
+                    
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            ASC
+                            
+                                >
+                                All-Sky Camera
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+                    
+                
+            
+                
+                    
+                        
+                            CAMERAS
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            LIDAR
+                            
+                                >
+                                Light Detection and Ranging
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            MAGNETOMETERS
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            DOPPLER RADAR
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            INCOHERENT SCATTER RADAR
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            RADAR
+                            
+                                >
+                                Radio Detection and Ranging
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            IONOSONDE
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            WIND PROFILERS
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            FPI
+                            
+                                >
+                                Fabry-Perot Interferometer
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            INTERFEROMETERS
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            MICHELSON INTERFEROMETER
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            PARTICLE DETECTORS
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            SEM
+                            
+                                >
+                                Space Environment Monitor
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            RADIO TELESCOPES
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+                
+                    
+                        
+                            TELESCOPES
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+	    
+                
+
+                
+                    
+            
+        
+
+
+    
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CEDAR
+                            
+                                >
+                                Coupling, Energetics, and Dynamics of Atmospheric Regions
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ESIP
+                            
+                                >
+                                Earth Science Information Partners Program
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Quality
+        
+            Users are asked to contact individual investigators and data suppliers 
+ about the nature, quality and limitations of the data. 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Access Constraints
+        
+            Data are accessible via CEDAR WWW site, ftp and/or from individual 
+ CEDAR investigators. 
+ 
+ Access to the CEDAR Data Base requires submission of an access form 
+ available from: 
+ http://cedarweb.hao.ucar.edu/wiki/index.php/Special:Cedar_Create_Ac... 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Use Constraints
+        
+            Use of CEDAR data must follow established Rules of the Road: 
+ http://cedarweb.hao.ucar.edu/wiki/index.php/Data_Services:Rules_of_... 
+ 
+ Acknowledgement of the instruments and of the CEDAR Data Base is required. 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            AIRGLOW
+                    
+
+		    
+                
+                    
+                    
+                        
+                            AMIE
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            APEX
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ATMOSPHERIC DENSITY
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CEDAR
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CHIU
+                    
+
+		    
+                
+                    
+                    
+                        
+                            DIGISONDES
+                    
+
+		    
+                
+                    
+                    
+                        
+                            E FIELD
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ELECTRON TEMPERATURE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GCM
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOPHYSICAL INDICES
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GLOBAL CIRCULATION MODELS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GSWM
+                    
+
+		    
+                
+                    
+                    
+                        
+                            HAO
+                    
+
+		    
+                
+                    
+                    
+                        
+                            HF RADARS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            HMR
+                    
+
+		    
+                
+                    
+                    
+                        
+                            HPI
+                    
+
+		    
+                
+                    
+                    
+                        
+                            HWM
+                    
+
+		    
+                
+                    
+                    
+                        
+                            HYDROXYL
+                    
+
+		    
+                
+                    
+                    
+                        
+                            IMF PARAMETERS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            INCOHERENT SCATTER RADAR
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ION TEMPERATURE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ION VELOCITY
+                    
+
+		    
+                
+                    
+                    
+                        
+                            IONOSPHERIC ELECTRON DENSITY
+                    
+
+		    
+                
+                    
+                    
+                        
+                            IONOSPHERIC MODELS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            IRI
+                    
+
+		    
+                
+                    
+                    
+                        
+                            IRON DENSITY
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ISR
+                    
+
+		    
+                
+                    
+                    
+                        
+                            IZMEM
+                    
+
+		    
+                
+                    
+                    
+                        
+                            LF RADARS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            LIDAR
+                    
+
+		    
+                
+                    
+                    
+                        
+                            LINE-OF-SIGHT VELOCITY
+                    
+
+		    
+                
+                    
+                    
+                        
+                            MAGFLD
+                    
+
+		    
+                
+                    
+                    
+                        
+                            MEDAC
+                    
+
+		    
+                
+                    
+                    
+                        
+                            METEOR WIND RADARS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            MH
+                    
+
+		    
+                
+                    
+                    
+                        
+                            MICHELSON INTERFEROMETERS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            MIDDLE ATMOSPHERE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            MSIS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            NCAR
+                    
+
+		    
+                
+                    
+                    
+                        
+                            NEUTRAL TEMPERATURES
+                    
+
+		    
+                
+                    
+                    
+                        
+                            NEUTRAL WINDS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            NIGHTGLOW
+                    
+
+		    
+                
+                    
+                    
+                        
+                            RELATIVE NUMBER DENSITY
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SODIUM DENSITY
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SOLAR WIND PARAMETERS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            TIGCM
+                    
+
+		    
+                
+                    
+                    
+                        
+                            WEIMER
+                    
+
+		    
+                
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            IN WORK
+        
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        NCAR/HAO
+                    
+                
+
+                
+            
+	    
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Coupling, Energetics and Dynamics of Atmospheric Regions, High Altitude Observatory, National Center for Atmospheric Research, UCAR
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://cedarweb.hao.ucar.edu/
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    BARBARA
+                                                    
+                                                    EMERY
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            (303) 497-1596
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            (303) 497-1589
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            emery at ucar.edu
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        National Center for Atmospheric Research
+
+                                                                    
+                                                                        High Altitude Observatory
+
+                                                                    
+                                                                        P.O. Box 3000
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Boulder
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                CO
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                80307
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    online ftp, WWW, various media
+                
+
+            
+            
+            
+                
+                    Distribution Size: 
+                    varies
+                
+
+            
+            
+            
+                
+                    Distribution Format: 
+                    varies
+                
+
+            
+            
+            
+                
+                    Fees: 
+                    free or cost of reproduction
+                
+
+            
+
+            
+                
+                
+                
+		
+            
+        
+
+    
+
+
+ 
+          
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        ROY
+                        
+                        BARNES
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                (303) 497-1230
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                (303) 497-1137
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                bozo at ucar.edu
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                National Center for Atmospheric Research
+
+                                            
+                                                Scientific Computing Division
+
+                                            
+                                                P.O. Box 3000
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Boulder
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    CO
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    80307
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                 
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        BARBARA
+                        
+                        EMERY
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                (303) 497-1596
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                (303) 497-1589
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                emery at ucar.edu
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                National Center for Atmospheric Research
+
+                                            
+                                                High Altitude Observatory
+
+                                            
+                                                P.O. Box 3000
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Boulder
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    CO
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    80307
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        GENE
+                        R.
+                        MAJOR
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                gsfc-gcmduso at mail.nasa.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+            
+             
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            Emery, B.A. and Barnes, R. M. 1998. CEDAR Data Base 
+ Catalogue. National Center for Atmospheric Research (NCAR), Boulder, 
+ CO. 
+ http://cedarweb.hao.ucar.edu/wiki/index.php/Main_Page 
+
+        
+    
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Extended Metadata Properties
+
+        
+            
+            (Click to view more)
+        
+
+        
+            
+
+            
+
+            
+                Extended Metadata Properties From GCMD
+
+                metadata.extraction_date: 2015-02-21 01:19:33
+metadata.keyword_version: 8.0
+
+            
+        
+
+    
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+        
+            
+                Last DIF Revision Date:
+                2010-09-22
+            
+
+        
+        
+    
+
+ 
+ 
+
+             
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                Reformat as ISO 19115 document
+            
+        
+    
+
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                              
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+        
+
+
+
+
+
+    
+
+
+
+
+                    
+                    
+                
+
+            
+
+            
+
+        
+
+    
+
+    
+    
+
+    
+
+
+
+
+
+
+
+
+    
+        	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+   
+
+
+
+
+    
+        	
+            
+        
+            + 
+                NASA Privacy Policy and Important Notices 
+
+
+    
+
+    
+    
+        
+            
+                
+        
+
+        	
+                Webmaster:
+                Monica Lyles
+            
+	
+                Responsible NASA Official:
+                Dr. Stephen Wharton
+            
+	Last updated: February 2015
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3 @@
+1) Scholar.java is a Tika Parser which reads the TEI metadata files and uses scholar.py to extract the related publications of author from Google Scholar. It produces output as .txt file which has all the related_publications of the author. 
+2) TTRExtracter.java is a Tika Parser that computes the Text-Tag ratio and it uses it to extract the measurements such as Temperature, Pressure, Miles etc within the Polar Dataset.
+3) SWEET.java is a Tika Parser parses the OWL files to identify the SWEET Ontologies and map the ontologies to the Polar Dataset. 

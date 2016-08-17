@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>file:///Users/Shashank/Downloads/2.3/realmLandOrographic.owl</title><link href="file_Users_Shashank_Downloads_2.3_realmLandOrographic.owl_files/viewsource.css" type="text/css" rel="stylesheet"/></head><body style="-moz-tab-size: 4" class="highlight" id="viewsource" contextmenu="actions"><pre id="line1"><span/><span class="pi">&lt;?xml version="1.0" encoding="UTF-8"?&gt;</span><span>
+<span id="line2"/>
+<span id="line3"/></span><span class="error error doctype" title="Bogus doctype.
+Stray doctype.">&lt;!DOCTYPE rdf:RDF [
+<span id="line4"/>  &lt;!ENTITY srela "http://sweet.jpl.nasa.gov/2.3/relaSpace.owl"&gt;</span><span>
+<span id="line5"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY rela "http://sweet.jpl.nasa.gov/2.3/rela.owl"&gt;</span><span>
+<span id="line6"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY ht "http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl"&gt;</span><span>
+<span id="line7"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY land "http://sweet.jpl.nasa.gov/2.3/realmLandform.owl"&gt;</span><span>
+<span id="line8"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY orog "http://sweet.jpl.nasa.gov/2.3/realmLandOrographic.owl"&gt;</span><span>
+<span id="line9"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY realm "http://sweet.jpl.nasa.gov/2.3/realm.owl"&gt;</span><span>
+<span id="line10"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY space "http://sweet.jpl.nasa.gov/2.3/reprSpaceGeometry.owl"&gt;</span><span>
+<span id="line11"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY owl "http://www.w3.org/2002/07/owl#"&gt;</span><span>
+<span id="line12"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;</span><span>
+<span id="line13"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#"&gt;</span><span>
+<span id="line14"/>  </span><span class="error comment" title="Bogus comment.">&lt;!ENTITY xsd "http://www.w3.org/2001/XMLSchema#"&gt;</span><span>
+<span id="line15"/>]&gt;
+<span id="line16"/>
+<span id="line17"/></span><span>&lt;<span class="start-tag">rdf:RDF</span> <span class="attribute-name">xml:base</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>oro</span>g;</a>"
+<span id="line18"/>         <span class="attribute-name">xmlns:owl</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>o</span>wl;</a>"
+<span id="line19"/>         <span class="attribute-name">xmlns:rdf</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>rd</span>f;</a>"
+<span id="line20"/>         <span class="attribute-name">xmlns:rdfs</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>rd</span>fs;</a>"
+<span id="line21"/>         <span class="attribute-name">xmlns:xsd</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>xs</span>d;</a>"
+<span id="line22"/>         <span class="attribute-name">xmlns:space</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>spa</span>ce;</a>"
+<span id="line23"/>         <span class="attribute-name">xmlns:orog</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>oro</span>g;</a>"
+<span id="line24"/>         <span class="attribute-name">xmlns:realm</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>real</span>m;</a>"
+<span id="line25"/>         <span class="attribute-name">xmlns:land</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>lan</span>d;</a>"
+<span id="line26"/>         <span class="attribute-name">xmlns:rela</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>re</span>la;</a>"
+<span id="line27"/>         <span class="attribute-name">xmlns:srela</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>sr</span>ela;</a>"
+<span id="line28"/>         <span class="attribute-name">xmlns:ht</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>h</span>t;</a>"
+<span id="line29"/>&gt;</span><span>
+<span id="line30"/>
+<span id="line31"/></span><span class="comment">&lt;!-- Ontology Information --&gt;</span><span>
+<span id="line32"/>  </span><span>&lt;<span class="start-tag">owl:Ontology</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value"/>"
+<span id="line33"/>                <span class="attribute-name">owl:versionInfo</span>="<a class="attribute-value">2.3</a>"&gt;</span><span>
+<span id="line34"/>     </span><span>&lt;<span class="start-tag">rdfs:label</span>&gt;</span><span>SWEET Ontology</span><span>&lt;/<span class="end-tag">rdfs:label</span>&gt;</span><span>
+<span id="line35"/>     </span><span>&lt;<span class="start-tag">owl:imports</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>lan</span>d;</a>"<span>/</span>&gt;</span><span>
+<span id="line36"/>     </span><span>&lt;<span class="start-tag">owl:imports</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>spa</span>ce;</a>"<span>/</span>&gt;</span><span>
+<span id="line37"/>     </span><span>&lt;<span class="start-tag">owl:imports</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>real</span>m;</a>"<span>/</span>&gt;</span><span>
+<span id="line38"/>     </span><span>&lt;<span class="start-tag">owl:imports</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>re</span>la;</a>"<span>/</span>&gt;</span><span>
+<span id="line39"/>     </span><span>&lt;<span class="start-tag">owl:imports</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>sr</span>ela;</a>"<span>/</span>&gt;</span><span>
+<span id="line40"/>     </span><span>&lt;<span class="start-tag">owl:imports</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>h</span>t;</a>"<span>/</span>&gt;</span><span>
+<span id="line41"/>  </span><span>&lt;/<span class="end-tag">owl:Ontology</span>&gt;</span><span>
+<span id="line42"/>
+<span id="line43"/> </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Alpine</a>"&gt;</span><span>
+<span id="line44"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#MountainRegion</a>"<span>/</span>&gt;</span><span>
+<span id="line45"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>Alpine region is one above the tree line. [Wikipedia]</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line46"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line47"/>
+<span id="line48"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:ID</span>="<a class="attribute-value">Bluff</a>"&gt;</span><span>
+<span id="line49"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Hill</a>"<span>/</span>&gt;</span><span>
+<span id="line50"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line51"/>
+<span id="line52"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:ID</span>="<a class="attribute-value">Butte</a>"&gt;</span><span>
+<span id="line53"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Hill</a>"<span>/</span>&gt;</span><span>
+<span id="line54"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line55"/>
+<span id="line56"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:ID</span>="<a class="attribute-value">Cliff</a>"&gt;</span><span>
+<span id="line57"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Hill</a>"<span>/</span>&gt;</span><span>
+<span id="line58"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line59"/>
+<span id="line60"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:ID</span>="<a class="attribute-value">Foothill</a>"&gt;</span><span>
+<span id="line61"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#MountainRegion</a>"<span>/</span>&gt;</span><span>
+<span id="line62"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line63"/>
+<span id="line64"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Hill</a>"&gt;</span><span>
+<span id="line65"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>lan</span>d;#Landform</a>"<span>/</span>&gt;</span><span>
+<span id="line66"/></span><span class="comment">&lt;!--
+<span id="line67"/>    &lt;rdfs:subClassOf&gt;
+<span id="line68"/>      &lt;owl:Restriction&gt;
+<span id="line69"/>        &lt;owl:onProperty rdf:resource="&amp;xten;#hasSpatialExtent" /&gt;
+<span id="line70"/>        &lt;owl:allValuesFrom rdf:resource="&amp;ht;#Elevation" /&gt;
+<span id="line71"/>      &lt;/owl:Restriction&gt;
+<span id="line72"/>    &lt;/rdfs:subClassOf&gt;
+<span id="line73"/>--&gt;</span><span>
+<span id="line74"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>A hill is a landform that extends above the surrounding terrain, in a limited area. Hills often have a distinct summit, although in areas with scarp/dip topography a hill may refer to a particular section of scarp slope without a well-defined summit (e.g. Box Hill). A hillock is a small hill. [Wikipedia]</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line75"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line76"/>
+<span id="line77"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Hummock</a>"&gt;</span><span>
+<span id="line78"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>lan</span>d;#Landform</a>"<span>/</span>&gt;</span><span>
+<span id="line79"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line80"/>
+<span id="line81"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Mesa</a>"&gt;</span><span>
+<span id="line82"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#MountainRegion</a>"<span>/</span>&gt;</span><span>
+<span id="line83"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line84"/>
+<span id="line85"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:ID</span>="<a class="attribute-value">Mountain</a>"&gt;</span><span>
+<span id="line86"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>lan</span>d;#Landform</a>"<span>/</span>&gt;</span><span>
+<span id="line87"/></span><span class="comment">&lt;!--
+<span id="line88"/>    &lt;rdfs:subClassOf&gt;
+<span id="line89"/>      &lt;owl:Restriction&gt;
+<span id="line90"/>        &lt;owl:onProperty rdf:resource="&amp;xten;#hasSpatialExtent" /&gt;
+<span id="line91"/>        &lt;owl:allValuesFrom rdf:resource="&amp;ht;#Elevation" /&gt;
+<span id="line92"/>      &lt;/owl:Restriction&gt;
+<span id="line93"/>    &lt;/rdfs:subClassOf&gt;
+<span id="line94"/>--&gt;</span><span>
+<span id="line95"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line96"/>
+<span id="line97"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:ID</span>="<a class="attribute-value">MountainRange</a>"&gt;</span><span>
+<span id="line98"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>spa</span>ce;#Cluster</a>"<span>/</span>&gt;</span><span>
+<span id="line99"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span>&gt;</span><span>
+<span id="line100"/>      </span><span>&lt;<span class="start-tag">owl:Restriction</span>&gt;</span><span>
+<span id="line101"/>        </span><span>&lt;<span class="start-tag">owl:allValuesFrom</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Mountain</a>"<span>/</span>&gt;</span><span>
+<span id="line102"/>        </span><span>&lt;<span class="start-tag">owl:onProperty</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>sr</span>ela;#clusterOf</a>"<span>/</span>&gt;</span><span>
+<span id="line103"/>      </span><span>&lt;/<span class="end-tag">owl:Restriction</span>&gt;</span><span>
+<span id="line104"/>    </span><span>&lt;/<span class="end-tag">rdfs:subClassOf</span>&gt;</span><span>
+<span id="line105"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line106"/>
+<span id="line107"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#MountainRegion</a>"&gt;</span><span>
+<span id="line108"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>lan</span>d;#LandRegion</a>" <span>/</span>&gt;</span><span>
+<span id="line109"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span>&gt;</span><span>
+<span id="line110"/>      </span><span>&lt;<span class="start-tag">owl:Restriction</span>&gt;</span><span>
+<span id="line111"/>        </span><span>&lt;<span class="start-tag">owl:allValuesFrom</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Mountain</a>"<span>/</span>&gt;</span><span>
+<span id="line112"/>        </span><span>&lt;<span class="start-tag">owl:onProperty</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>re</span>la;#hasRealm</a>"<span>/</span>&gt;</span><span>
+<span id="line113"/>      </span><span>&lt;/<span class="end-tag">owl:Restriction</span>&gt;</span><span>
+<span id="line114"/>    </span><span>&lt;/<span class="end-tag">rdfs:subClassOf</span>&gt;</span><span>
+<span id="line115"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line116"/>
+<span id="line117"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#NonOrographic</a>"&gt;</span><span>
+<span id="line118"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>lan</span>d;#Landform</a>"<span>/</span>&gt;</span><span>
+<span id="line119"/>    </span><span>&lt;<span class="start-tag">owl:disjointWith</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Orographic</a>"<span>/</span>&gt;</span><span>
+<span id="line120"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line121"/>
+<span id="line122"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:ID</span>="<a class="attribute-value">Orography</a>"&gt;</span><span>
+<span id="line123"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>lan</span>d;#Landform</a>"<span>/</span>&gt;</span><span>
+<span id="line124"/>    </span><span>&lt;<span class="start-tag">owl:equivalentClass</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Mountain</a>"<span>/</span>&gt;</span><span>
+<span id="line125"/>    </span><span>&lt;<span class="start-tag">owl:equivalentClass</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Orographic</a>"<span>/</span>&gt;</span><span>
+<span id="line126"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line127"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:ID</span>="<a class="attribute-value">Orographic</a>"<span>/</span>&gt;</span><span>
+<span id="line128"/>
+<span id="line129"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Pass</a>"&gt;</span><span>
+<span id="line130"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#MountainRegion</a>"<span>/</span>&gt;</span><span>
+<span id="line131"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line132"/>
+<span id="line133"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Plateau</a>"&gt;</span><span>
+<span id="line134"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#MountainRegion</a>"<span>/</span>&gt;</span><span>
+<span id="line135"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line136"/>
+<span id="line137"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Protrusion</a>"&gt;</span><span>
+<span id="line138"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#Ridge</a>"<span>/</span>&gt;</span><span>
+<span id="line139"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line140"/>
+<span id="line141"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Ridge</a>"&gt;</span><span>
+<span id="line142"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#MountainRegion</a>"<span>/</span>&gt;</span><span>
+<span id="line143"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line144"/>
+<span id="line145"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Summit</a>"&gt;</span><span>
+<span id="line146"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#MountainRegion</a>"<span>/</span>&gt;</span><span>
+<span id="line147"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line148"/>
+<span id="line149"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Talus</a>"&gt;</span><span>
+<span id="line150"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#MountainRegion</a>"<span>/</span>&gt;</span><span>
+<span id="line151"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span> <span class="attribute-name">xml:lang</span>="<a class="attribute-value">en</a>"&gt;</span><span>A slope formed at the base of a steeper slope, made of fallen and disintegrated materials.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line152"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line153"/>  
+<span id="line154"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#TopographicalRegion</a>"&gt;</span><span>
+<span id="line155"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value"><span><span class="error" title="“&amp;” did not start a character reference. (“&amp;” probably should have been escaped as “&amp;amp;”.)">&amp;</span>lan</span>d;#SurfaceRegion</a>"<span>/</span>&gt;</span><span>
+<span id="line156"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line157"/>
+<span id="line158"/>  </span><span>&lt;<span class="start-tag">owl:Class</span> <span class="attribute-name">rdf:about</span>="<a class="attribute-value">#Ubac</a>"&gt;</span><span>
+<span id="line159"/>    </span><span>&lt;<span class="start-tag">rdfs:subClassOf</span> <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">#MountainRegion</a>" <span>/</span>&gt;</span><span>
+<span id="line160"/>    </span><span>&lt;<span class="start-tag">rdfs:comment</span>&gt;</span><span>The shady (usually poleward) side of a mountain.</span><span>&lt;/<span class="end-tag">rdfs:comment</span>&gt;</span><span>
+<span id="line161"/>  </span><span>&lt;/<span class="end-tag">owl:Class</span>&gt;</span><span>
+<span id="line162"/>
+<span id="line163"/></span><span>&lt;/<span class="end-tag">rdf:RDF</span>&gt;</span><span>
+<span id="line164"/></span></pre><menu type="context" id="actions"><menuitem id="goToLine" label="Go to Line…" accesskey="L"/><menuitem id="wrapLongLines" label="Wrap Long Lines" type="checkbox"/><menuitem id="highlightSyntax" label="Syntax Highlighting" type="checkbox" checked="true"/></menu></body></html>

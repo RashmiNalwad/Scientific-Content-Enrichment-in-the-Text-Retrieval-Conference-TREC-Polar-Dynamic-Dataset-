@@ -1,0 +1,19 @@
+All Services
+	AccessControlService
+AdministrationService
+AuthenticationService
+CalendarService
+CatalogService
+DataManagementService
+EventNotificationService
+ExtendedServicesService
+Group2ManagementService
+OrderManagementService
+OrderProcessingService
+ProviderService
+ServiceManagementService
+SubscriptionService
+TaxonomyService
+UserService
+
+

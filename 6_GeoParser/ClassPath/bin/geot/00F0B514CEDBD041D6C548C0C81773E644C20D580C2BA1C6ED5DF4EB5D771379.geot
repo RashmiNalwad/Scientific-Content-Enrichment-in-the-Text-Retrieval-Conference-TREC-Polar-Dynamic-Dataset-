@@ -1,0 +1,940 @@
+
+
+
+
+
+   	
+	
+		
+				
+			       			
+								There's a problem with your browser or settings.
+
+			       			
+			      			
+			            		Your browser or your browser's settings are not supported. To get the best experience possible, please download a compatible browser. 
+			            		If you know your browser is up to date, you should check to ensure that javascript is enabled.
+ 			            		
+
+			      			
+ 		            		› Learn How
+
+			    		
+
+
+		
+
+	
+
+    
+
+
+
+
+		
+			
+        	
+				NASA Technical Reports Server (NTRS)
+
+				Providing Access to NASA's Technology, Research, and Science
+
+           	
+            
+                
+                	
+                		Search again:
+                		
+                		
+                			
+                		
+
+                	
+
+                
+
+                › Advanced Search
+
+            
+
+            
+
+
+		
+        
+		
+			Main menu
+
+			Skip to content
+
+			
+	            	BASIC SEARCH
+	ADVANCED SEARCH
+	ABOUT NTRS
+	NTRS NEWS
+	OAI HARVEST
+	TUTORIALS
+	SEARCH TIPS
+	CONTACT / HELP
+
+
+            
+
+		
+
+
+
+
+
+
+
+
+	
+		
+			
+			Record Details
+
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+			
+				‹Return to Search Results
+			
+
+			
+				
+					‹ Previous Record |
+				
+				
+					› Next Record
+				
+			
+
+			
+				›Printable View
+			
+
+	
+
+	
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+				Text Size
+
+				Grow Text  Size
+				Shrink Text Size
+			
+
+			
+			
+				
+					Record 1 of 1001913
+				
+
+			
+
+			
+				
+				
+					Share
+				
+
+				
+					 Send 
+				
+
+				
+			
+
+			
+		
+	
+	
+
+
+
+
+	
+	
+		
+			Verification and Validation of a Three-Dimensional Generalized Composite Material Model
+	
+						NTRS Full-Text:
+						Click to View   [PDF Size: 887 KB]
+	Author and Affiliation:	
+							
+									Hoffarth, Canio	(Arizona State Univ., Tempe, AZ, United States);	
+
+	Harrington, Joseph	(Arizona State Univ., Tempe, AZ, United States);	
+
+	Rajan, Subramaniam D.	(Arizona State Univ., Tempe, AZ, United States);	
+
+	Goldberg, Robert K.	(NASA Glenn Research Center, Cleveland, OH, United States);	
+
+	Carney, Kelly S.	(NASA Glenn Research Center, Cleveland, OH, United States);	
+
+	DuBois, Paul	(George Mason Univ., Fairfax, VA, United States);	
+
+	Blankenhorn, Gunther	(Livermore Software Technology Corp., CA, United States)	
+
+
+							
+							
+	Abstract:	
+							
+								A general purpose orthotropic elasto-plastic computational constitutive material model has been developed to improve predictions of the response of composites subjected to high velocity impact. The three-dimensional orthotropic elasto-plastic composite material model is being implemented initially for solid elements in LS-DYNA as MAT213. In order to accurately represent the response of a composite, experimental stress-strain curves are utilized as input, allowing for a more general material model that can be used on a variety of composite applications. The theoretical details are discussed in a companion paper. This paper documents the implementation, verification and qualitative validation of the material model using the T800-F3900 fiber/resin composite material
+							
+							
+	Publication Date:	
+							
+								Jan 01, 2015
+							
+							
+	Document ID:	
+								
+								
+									20150000901
+									(Acquired Feb 11, 2015)
+
+								
+
+							
+							
+	Subject Category:	
+							
+								STRUCTURAL MECHANICS; COMPOSITE MATERIALS
+							
+							
+	Report/Patent Number:	
+							
+								NASA/TM-2015-218446, E-19008, GRC-E-DAA-TN17120
+							
+							
+	Document Type:	
+							
+								Technical Report
+							
+							
+	Meeting Information:	
+							
+								International LS-DYNA Users Conference; 13th; 8-10 Jun. 2014; Dearborn, MI; United States
+							
+							
+	Meeting Sponsor:	
+							
+								Livermore Software Technology Corp.; CA, United States
+							
+							
+	Contract/Grant/Task Num:	
+							
+								WBS 544163.04.01.03.01.02
+							
+							
+	Financial Sponsor:	
+							
+								NASA Glenn Research Center; Cleveland, OH United States
+Federal Aviation Administration; Washington, DC, United States
+							
+							
+	Organization Source:	
+							
+								NASA Glenn Research Center; Cleveland, OH United States
+							
+							
+	Description:	
+							
+								24p; In English
+							
+							
+	Distribution Limits:	
+							
+								Unclassified; Publicly available; Unlimited
+							
+							
+	Rights:	
+							
+								Copyright; Distribution as joint owner in the copyright
+							
+							
+	NASA Terms:	
+							
+								THREE DIMENSIONAL COMPOSITES; STRESS-STRAIN RELATIONSHIPS; COMPOSITE MATERIALS; ELASTOPLASTICITY; SURFACE PROPERTIES; PROVING; STRAIN RATE; FIBER COMPOSITES; CHARACTERIZATION; SENSITIVITY; FAILURE; MATHEMATICAL MODELS; RESINS
+							
+							
+	Other Descriptors:	
+							
+								POLYMER MATRIX COMPOSITES; PLASTICITY; FINITE ELEMENT METHOD
+							
+							
+
+
+		
+	
+
+
+
+
+
+
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+			
+				‹Return to Search Results
+			
+
+			
+				
+					‹ Previous Record |
+				
+				
+					› Next Record
+				
+			
+
+			
+				›Printable View
+			
+
+	
+
+	
+
+
+
+
+
+
+
+
+				
+					› Back to Top
+				
+		
+			
+
+		
+
+		
+			
+            	
+					
+                	
+                	
+                	
+                	
+
+				
+
+            
+
+            
+            	
+					
+						
+							Find Similar Records
+						
+
+					
+	
+					
+						
+							
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+	
+		
+		
+			
+			
+
+
+
+	
+
+
+		
+		
+			Collection
+
+		
+		
+		
+	
+	 
+	NASA STI
+		
+	
+		
+	
+		
+		
+		
+			Author
+
+		
+		
+		
+	
+	 
+	Blankenhorn, Gunther
+		
+	
+		
+	
+			
+	
+	 
+	Carney, Kelly S.
+		
+	
+		
+	
+			
+	
+	 
+	DuBois, Paul
+		
+	
+		
+	
+			
+	
+	 
+	Goldberg, Robert K.
+		
+	
+		
+	
+			
+	
+	 
+	Harrington, Joseph
+		
+	
+		
+	
+			
+	
+	 
+	Hoffarth, Canio
+		
+	
+		
+	
+			
+	
+	 
+	Rajan, Subramaniam D.
+		
+	
+		
+	
+		
+		
+		
+			Publication Year
+
+		
+		
+		
+	
+	 
+	2015
+		
+	
+		
+	
+		
+		
+		
+			Availability Type
+
+		
+		
+		
+	
+	 
+	Online NTRS full-text available
+		
+	
+		
+	
+		
+		
+		
+			Document Type
+
+		
+		
+		
+	
+	 
+	Technical Report
+		
+	
+		
+	
+		
+		
+		
+			NASA Center
+
+		
+		
+		
+	
+	 
+	Glenn Research Center
+		
+	
+		
+	
+		
+		
+		
+			Organization
+
+		
+		
+		
+	
+	 
+	Arizona State Univ.
+		
+	
+		
+	
+			
+	
+	 
+	Federal Aviation Administration
+		
+	
+		
+	
+			
+	
+	 
+	George Mason Univ.
+		
+	
+		
+	
+			
+	
+	 
+	Livermore Software Technology Corp.
+		
+	
+		
+	
+			
+	
+	 
+	NASA Glenn Research Center
+		
+	
+		
+	
+		
+		
+		
+			Subject Category
+
+		
+		
+		
+	
+	 
+	COMPOSITE MATERIALS
+		
+	
+		
+	
+			
+	
+	 
+	STRUCTURAL MECHANICS
+		
+	
+		
+	
+		
+		
+		
+			Subject Terms
+
+		
+		
+	
+			
+		
+	
+	 
+	CHARACTERIZATION
+		
+	
+		
+
+		
+	
+	 
+	COMPOSITE MATERIALS
+		
+	
+		
+
+		
+	
+	 
+	ELASTOPLASTICITY
+		
+	
+		
+
+		
+	
+	 
+	FAILURE
+		
+	
+		
+
+		
+	
+	 
+	FIBER COMPOSITES
+		
+	
+		
+
+		
+	
+	 
+	FINITE ELEMENT METHOD
+		
+	
+		
+
+		
+	
+	 
+	MATHEMATICAL MODELS
+		
+	
+		
+
+		
+	
+	 
+	PLASTICITY
+		
+	
+		
+
+		
+	
+	 
+	POLYMER MATRIX COMPOSITES
+		
+	
+		
+
+		
+	
+	 
+	PROVING
+		
+	
+		
+
+		
+	
+	 
+	RESINS
+		
+	
+		
+
+		
+	
+	 
+	SENSITIVITY
+		
+	
+		
+
+		
+	
+	 
+	STRAIN RATE
+		
+	
+		
+
+		
+	
+	 
+	STRESS-STRAIN RELATIONSHIPS
+		
+	
+		
+
+		
+	
+	 
+	SURFACE PROPERTIES
+		
+	
+		
+
+		
+	
+	 
+	THREE DIMENSIONAL COMPOSITES
+		
+	
+		
+
+		
+	
+	
+
+
+
+
+
+	Matching Records: 
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+
+					
+
+				
+
+			
+
+		
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+	
+    	
+		NASA Official: Gerald Steeman
+
+        Sponsored By: NASA Scientific and Technical Information Program
+
+		Site Curator: STI Support Services
+
+		Last Modified: February 11, 2015
+
+    
+ 
+   	
+   		Privacy Policy & Important Notices
+        Disclaimers, Copyright, Terms of Use
+        Freedom of Information Act
+        USA.gov
+        NASA.gov
+        NASA OCIO
+        Free Adobe PDF Reader
+        Free MS Word Viewer
+     
+ 
+	
+ 
+
+
+
+
+

@@ -1,0 +1,1880 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Locations>GEOGRAPHIC REGION>GLOBAL OCEAN
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+            
+        
+    
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                Reynolds Optimum Interpolation (OI) Sea Surface Temperature (SST) Analysis V2 (1981 - present)
+            
+        
+
+        
+        
+            Entry ID:
+            
+                REYNOLDS_SST
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+        
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            The data sets in the CDC archive called "Reynolds SST' and 
+ "Reconstructed Reynolds SST" were discontinued on 1 April 2003. 
+ 
+ A new OI SST data set is available as described here, which includes a 
+ new analysis for the historical data and updates into the future. NCEP 
+ will not provide new data for the "Reynolds SST" after December 2002 
+ and CDC will remove the "Reynolds SST" data set on 1 April 2003. 
+ 
+  ... A new extended reconstructed SST data set is now available as 
+ well. This data set replaces the "Reconstructed Reynolds SST", which 
+ was removed from the CDC archive on 1 April 2003. 
+ 
+ The optimum interpolation (OI) sea surface temperature (SST) analysis 
+ is produced weekly on a one-degree grid. The analysis uses in situ and 
+ satellite SST's plus SST's simulated by sea-ice cover. Before the 
+ analysis is computed, the satellite data is adjusted for biases using 
+ the method of Reynolds (1988) and Reynolds and Marsico (1993). A 
+ description of the OI analysis can be found in Reynolds and Smith 
+ (1994). 
+ 
+ The bias correction improves the large scale accuracy of the 
+ OI. Examples of the effect of recent corrections are given by Reynolds 
+ (1993). The bias correction does add a small amount of noise in 
+ time. Most of the noise can be eliminated by using a 1/4-1/2-1/4 
+ binomial filter in time. CDC STRONGLY recommends that this filter be 
+ applied to the data fields before they are used. An improved method of 
+ correcting the biases is being developed. 
+ 
+ 
+ Weekly Data 
+ The optimum interpolation (OI) sea surface temperature (SST) analysis 
+ is produced weekly on a one-degree grid. The analysis uses in situ and 
+ satellite SST's plus SST's simulated by sea-ice cover. Before the 
+ analysis is computed, the satellite data is adjusted for biases using 
+ the method of Reynolds (1988) and Reynolds and Marsico (1993). 
+ 
+ The OI.v2 analysis is described in Reynolds, R.W., N.A. Rayner, 
+ T.M. Smith, D.C. Stokes, and W. Wang, 2002: An Improved In Situ and 
+ Satellite SST Analysis for Climate, J. Climate. The paper has been 
+ accepted by the Journal of Climate subject to minor revisions. A 
+ preprint of the paper can from this anonymous ftp site: 
+ ftp://ftpprd.ncep.noaa.gov/pub/cmb/sst/papers/oiv2pap/. 
+ 
+ 
+ Monthly Data 
+ The NOAA OI.v2 SST monthly fields are derived by a linear 
+ interpolation of the weekly optimum interpolation (OI) version 2 
+ fields to daily fields then averaging the daily values over a 
+ month. The monthly fields are in the same format and spatial 
+ resolution as the weekly fields. 
+ 
+ Monthly Long-term Data 
+ A climatology based on these fields was derived by Yan Xue of the NCEP 
+ Climate Prediction Center following the technique of Reynolds and 
+ Smith (1995) and Smith and Reynolds (1998). The climatology is 
+ available here in the sst.ltm.*.nc files. 
+ 
+ The OI data set consists of: 
+ - Monthly means from 12/1981 to present 
+ - Long term monthly mean, derived from data for 1961 - 1990 
+ - Long term monthly mean, derived from data for 1971 - 2000 
+ - Weekly means from 10/29/1981 to 12/28/1989 
+ - Weekly means from 12/31/1989 to present 
+ - The current weekly means are generally one week behind the current 
+ date. 
+ 
+ See the Reynolds SST page at: 
+ http://www.cdc.noaa.gov/cdc/data.reynolds_sst.html 
+ and 
+ http://www.cdc.noaa.gov/cdc/data.noaa.oisst.v2.html 
+ 
+ An Extended Reconstructed (1854 to present) SST data set is also 
+ available from NOAA/CDC. 
+ http://www.cdc.noaa.gov/cdc/data.noaa.ersst.html 
+ 
+ Further information on the OI analyses is available from: 
+ http://www.emc.ncep.noaa.gov/research/cmb/sst_analysis/ 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Additional data set information 
+                            
+
+                        
+			
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Reynolds monthly and weekly SST OI V2 data sets from 1981 to
+ present from NOAA/CDC 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Documentation on the OI analyses. 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Weekly and monthly OI SST V2 Data from University of Washington JISAO 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Weekly and monthly OI SST Data from NCAR 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Weekly and Monthly OI SST data (1981 - present) from LDEO
+ Climate Data Library 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                NVODS Live Access to Reynolds SST data 
+                            
+
+                        
+			
+                        
+                    
+		    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 89.5
+                                
+                            	 	
+                                
+                                    S: -89.5
+                                
+                            	 	
+                                
+                                    E: 180.0
+                                
+                            	 	
+                                
+                                    W: -180.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            Reynolds, R., and T. Smith
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Title: 
+                            Optimum Interpolation Sea Surface Temperature Analysis
+                        
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Release Date: 
+                            April 2003
+                         
+
+                    
+                    
+                    
+                        
+                            Dataset Release Place: 
+                            Boulder, CO
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            NOAA/CDC
+                        
+
+                    
+                    
+                    
+                        
+                            Version: 
+                            Version 2
+                        
+
+                    
+                    
+                    
+
+
+                    
+                    
+                    
+
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        http://www.cdc.noaa.gov/cdc/data.noaa.oisst.v2.html
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1981-10-29
+                    
+
+                
+                
+        	
+                    
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        Start Date: 
+                        1961-01-01
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        1990-12-31
+                    
+
+                
+        	
+                
+                    
+
+                
+            
+                
+                
+                    
+                        Start Date: 
+                        1971-01-01
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        2000-12-31
+                    
+
+                
+        	
+                
+            
+	    
+            
+
+            
+                 
+            
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > ATLANTIC OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > INDIAN OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > PACIFIC OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > GLOBAL OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Data Resolution
+
+        
+        
+        
+            
+            
+
+            
+                Latitude Resolution:
+                1 degree
+                
+
+            
+
+            
+                Longitude Resolution:
+                1 degree
+                
+
+            
+
+            
+
+            
+
+            
+
+            
+                Temporal Resolution:
+                weekly, monthly
+                
+
+            
+
+            
+
+	    
+
+                
+
+                
+		
+
+            
+        
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                CRYOSPHERE
+                            
+                            
+                                >
+                                SEA ICE
+                            
+                            
+                                >
+                                SEA ICE CONCENTRATION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN TEMPERATURE
+                            
+                            
+                                >
+                                SEA SURFACE TEMPERATURE
+                            
+                            
+                            
+                            
+                                >
+                                SST
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                SEA ICE
+                            
+                            
+                                >
+                                SEA ICE CONCENTRATION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+		
+            
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            OCEANS
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    SHIPS
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    NOAA POES
+                                    
+                                        >
+                                        NOAA Polar Orbiting Environmental Satellites
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+		    
+                
+
+
+    
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            AVHRR
+                            
+                                >
+                                Advanced Very High Resolution Radiometer
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+	    
+        
+
+
+    
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            DODS
+                            
+                                >
+                                Distributed Oceanographic Data System
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ESIP
+                            
+                                >
+                                Earth Science Information Partners Program
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OPENDAP
+                            
+                                >
+                                Open-source Project for a Network Data Access Protocol
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Use Constraints
+        
+            If data are acquired from NOAA/CDC, please acknowledge by including 
+ text such as NOAA Optimum Interpolation (OI) SST V2 data provided by 
+ the NOAA-CIRES Climate Diagnostics Center, Boulder, CO in any 
+ documents or publications using these data. Copies of relevant 
+ publications should be forwarded to NOAA/CDC. 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            OPTIMUM INTERPOLATION
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SST
+                    
+
+		    
+                
+                    
+                    
+                        
+                            sea ice concentration
+                    
+
+		    
+                
+                    
+                    
+                        
+                            land-sea mask
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            IN WORK
+        
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        NOAA
+                    
+                
+
+                
+            
+	    
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Climate Analysis Branch, Physical Sciences Division, Earth System Research Laboratory, OAR, NOAA, U.S. Department of Commerce
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://www.esrl.noaa.gov/psd/psd1/
+
+                        
+                    
+                    
+                    
+                        
+                            Dataset ID: 
+                            data.noaa.oisst.v2 
+
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    
+                                                    
+                                                    ESRL/PSD DATA INQUIRIES
+                                                
+                                            
+
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            esrl.psd.data at noaa.gov
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                    
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+                        
+
+        
+
+
+
+
+
+
+
+
+
+
+

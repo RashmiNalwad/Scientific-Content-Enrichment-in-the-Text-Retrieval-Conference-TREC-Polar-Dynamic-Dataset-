@@ -1,0 +1,1324 @@
+
+ 
+
+    	
+                 
+
+            	
+                 
+
+            	
+                 
+
+            
+	
+                 
+
+            	
+                 
+
+            	
+                 
+
+            
+	
+        	
+                    
+                    	
+                                
+                            	
+                                  + Visit NASA.gov
+                            
+
+
+                
+
+
+    
+	
+        	
+                    
+                    
+                
+		
+                    
+                        Links 
+                    
+                    
+                    FAQ
+                    
+                    Contact Us
+                    
+                    Site Map
+                 
+
+
+    
+	
+
+
+		
+																			
+																			
+
+
+
+
+
+	
+                
+                    
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Data Analysis And Visualization
+	
+
+	
+		
+	
+		Data Management/Data Handling
+	
+
+	
+		
+	
+		Education/Outreach
+	
+
+	
+		
+	
+		Environmental Advisories
+	
+
+	
+		
+	
+		Hazards Management
+	
+
+	
+		
+	
+		Metadata Handling
+	
+
+	
+		
+	
+		Models
+	
+
+	
+		
+	
+		Reference And Information Services
+	
+
+	
+		
+	
+		Web Services
+	
+
+	
+	
+	
+	
+
+	
+		Earth Science Links
+	
+	
+
+	
+		Portal 
+      Collaborations 
+	
+
+	
+	
+		Questions?
+        
+
+
+
+                
+
+            	
+                 
+
+                 
+
+                
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        	
+                    Are you using a browser that doesn't support JavaScript or have you disabled JavaScript? 
+
+                    
+
+                    If you have disabled JavaScript, you must re-enable JavaScript to use
+                    this page.
+ Or you can view this record using the 
+                    Text Only Format .
+
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Record Search Query:
+    ServiceParameters>MODELS>SOLAR-ATMOSPHERE/SPACE-WEATHER MODELS
+
+
+
+
+
+
+
+
+
+
+    
+        
+            Exospheric Solar Wind Model
+
+        
+        
+        
+            Entry ID: 
+            
+                Exospheric
+            
+            
+
+        
+    
+
+
+
+
+
+
+
+
+    
+        
+            
+        
+    
+        
+            
+                
+            
+        
+    
+
+
+	
+            
+                [
+                
+                    
+                        Get Service
+                
+                ]
+            
+        	
+        
+             
+            
+                
+                
+                     [
+                     
+                         
+                             Update this Record
+                         
+                     
+                     ]
+                 
+                 
+            
+
+            
+            
+                
+            
+                
+                Updating this record requires registration.
+
+    
+                
+                    (Account holders)
+                    
+                        
+                        
+                            
+                                Update this Record.
+                        
+                    
+
+                
+
+                
+                    
+                        Need an account?
+                         
+
+                    
+
+                
+
+                close
+            
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            This is an exospheric model of the solar wind with only protons and electrons 
+ (we defer the inclusion of heavy ions to upcoming versions of the code), with a 
+ non-monotonic total potential for the protons and with a Lorentzian (kappa) 
+ velocity distribution function (VDF) for the electrons. This code is developed 
+ for the coronal holes. 
+ 
+ Exospheric kinetic models assume that there is a sharp level called the 
+ exobase, separating a collision dominated region (where a fluid approximation 
+ is valid) from a region fully collisionless. In fact, there is a transition 
+ region where collisions between particles become less and less numerous when 
+ the distance to the Sun increases. 
+                        
+
+                    
+                    
+                
+            
+
+        
+    
+
+
+
+
+
+
+    
+    Related URL
+
+    
+            
+	
+
+        
+        
+
+        
+            
+                
+
+
+Link: 
+
+    
+        GET DATA
+        
+    
+    
+    
+
+    
+
+
+
+
+                
+            
+        
+
+        
+Description: 
+
+View Heliosphere Models Simulation Results. 
+
+
+
+        
+
+            
+                
+
+            
+
+            
+        
+
+        
+            
+                
+
+
+Link: 
+
+    
+        GET SERVICE
+        
+    
+    
+    
+
+    
+
+
+
+
+                
+            
+        
+
+        
+Description: 
+
+Request a run of the Exospheric Solar Wind Model. 
+
+
+
+        
+
+            
+
+            
+            
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+        Service Citation
+        
+        
+            	
+                
+                    
+                    
+                        
+                            Originators: 
+                            H. Lamy, V. Pierrard
+                        
+
+                    
+                    
+                        
+                            Title: 
+                            Exospheric Solar Wind Model
+                        
+
+                    
+                    
+                    
+                        
+                            Provider: 
+                            Community Coordinated Modeling Center
+                        
+
+                    
+                    
+                    
+                        
+                            URL: 
+                            
+                                
+                                    http://ccmc.gsfc.nasa.gov/models/modelinfo.php?model=Exospheric%20S...
+                            
+                        
+
+                    
+                    
+                    
+                
+                
+            
+        
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+        Service Keywords
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                                MODELS
+                            
+                            
+                                >SOLAR-ATMOSPHERE/SPACE-WEATHER MODELS
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+            
+            
+
+
+
+        
+    
+
+
+
+
+    
+        Science Keywords 
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            SUN-EARTH INTERACTIONS
+                            
+                            
+                            >SOLAR ENERGETIC PARTICLE FLUX
+                            
+                            
+                            >PROTON FLUX
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SUN-EARTH INTERACTIONS
+                            
+                            
+                            >IONOSPHERE/MAGNETOSPHERE DYNAMICS
+                            
+                            
+                            >SOLAR WIND
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                
+            
+
+
+        
+    
+
+
+
+
+
+    
+        ISO Topic Category 
+        	
+            
+                
+                
+                    
+                    
+                        
+                            GEOSCIENTIFIC INFORMATION
+                        
+                    
+                    
+
+                    
+                
+                
+            
+        
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+        
+            
+            	
+                
+                    
+                    
+                        
+                            Models
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Space Models
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            Solar Wind
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Electron Density
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Proton Density
+                    
+
+                    
+                
+            
+            
+                
+
+                
+                     
+            
+        
+
+
+        
+        
+
+
+
+
+
+    
+        Service Provider
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                                
+                                    NASA/GSFC/SED/HSD/GPL/CCMC
+                                    
+                                         >  
+                                        Community Coordinated Modeling Center, Geospace Physics Lab, Heliospheric Science Division, Science and Exploration Directorate, Goddard Space Flight Center, NASA
+                                    
+                                
+                           
+                            
+                                
+                                    
+                            
+                            
+
+                        
+                    
+                    
+                        
+                            Service Organization URL: 
+                        
+                        
+                            
+                                
+                                            http://ccmc.gsfc.nasa.gov/ 
+                            
+                        
+                        
+
+                    
+                    
+                        
+                    
+                    
+                    
+                        
+                            
+
+                            	Service Provider Personnel
+	
+                                        Name: 
+                                        
+                                            
+                                                MICHAEL
+                                                
+                                                HESSE
+                                            
+                                        
+                                        
+
+                                        
+                                            
+                                                Phone: 
+                                                
+                                                    301-286-8224
+                                                
+                                                
+
+                                            
+                                        
+                                        
+                                            
+                                                Fax: 
+                                                
+                                                    301-286-1648
+                                                
+                                                
+
+                                            
+                                        
+                                        
+                                            
+                                                
+                                                    Email: 
+                                                    
+                                                        Michael.Hesse at nasa.gov
+                                                    
+                                                    
+
+                                                
+                                            
+                                        
+                                        
+                                            
+                                                
+                                                    
+                                                        Contact Address: 
+
+                                                        
+                                                            
+                                                                
+                                                                    NASA 
+
+                                                                
+                                                                    Goddard Space Flight Center 
+
+                                                                
+                                                                    Mailstop 674.0 
+
+                                                                
+                                                            
+                                                        
+                                                    
+                                                    
+                                                        City: 
+                                                        
+                                                            Greenbelt
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Province or State: 
+                                                        
+                                                            MD
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Postal Code: 
+                                                        
+                                                            20771
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Country: 
+                                                        
+                                                            USA
+                                                        
+                                                        
+
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+  
+                            
+                        
+                    
+                    
+                    
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+    
+        Distribution Media
+        
+            
+            	
+                
+                    
+                    
+                        
+                            Distribution_Media:
+                            Online
+                        
+                        
+
+                    
+                    
+                    
+                    
+                    
+                    
+                
+                
+            
+
+
+        
+    
+
+
+
+
+
+    
+        Personnel
+        
+            
+            	
+                
+                    
+                    
+                        
+                            MARIA
+                            
+                            KUZNETSOVA 
+
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Role: 
+                                    TECHNICAL CONTACT
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Phone: 
+                                        301-286-9571
+                                
+                                
+
+                            
+                        
+                    
+                    
+                    
+                        
+                            
+                                
+                                    Email: 
+                                    Maria.M.Kuznetsova at nasa.gov
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    
+                                        Contact Address: 
+
+                                        
+                                            
+                                                NASA 
+
+                                            
+                                                Goddard Space Flight Center 
+
+                                            
+                                                Mailstop 674.0 
+
+                                            
+                                        
+                                    
+                                
+                                
+                                    
+                                        City: 
+                                        Greenbelt
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Province or State: 
+                                        MD
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Postal Code: 
+                                        20771
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Country: 
+                                        USA
+                                    
+                                    
+
+                                
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                        
+
+                    
+                
+                    
+                    
+                        
+                            TYLER
+                            B.
+                            STEVENS 
+
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Role: 
+                                    SERF AUTHOR
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Phone: 
+                                        (301) 614-6898
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Fax: 
+                                    301-614-5268
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Email: 
+                                    Tyler.B.Stevens at nasa.gov
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    
+                                        Contact Address: 
+
+                                        
+                                            
+                                                NASA Goddard Space Flight Center 
+
+                                            
+                                                Global Change Master Directory 
+
+                                            
+                                        
+                                    
+                                
+                                
+                                    
+                                        City: 
+                                        Greenbelt
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Province or State: 
+                                        MD
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Postal Code: 
+                                        20771
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Country: 
+                                        USA
+                                    
+                                    
+
+                                
+                            
+                        
+                    
+                    
+                    
+                
+                
+                    
+
+                    
+                        
+                
+            
+
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+
+
+
+
+
+    
+        Creation and Review Dates
+        	
+            
+                SERF Creation Date:
+                2006-08-10
+            
+            
+
+            
+                SERF Last Revision Date:
+                2008-06-04
+            
+            
+
+            
+        
+
+
+    
+
+    
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+    
+        Bookmark URL
+        Alternate URL
+    
+
+    
+
+
+
+
+	
+        
+            	
+                        
+                    	
+                        
+                            
+                    	
+                        
+                    	
+                        
+                            
+                                + Privacy Policy and Important Notices
+                        
+
+                    	
+                        
+                    	
+                        
+                            
+                    	
+                        
+                            Webmaster: 
+                            Monica Lyles
+                        
+
+                        
+                            Responsible NASA Official: 
+                            Dr. Stephen Wharton
+                        
+
+                        Last Updated:  February 2015
+
+                    
+	
+                        
+                    
+
+
+        
+
+    
+	
+                 
+
+            
+	
+                 
+
+            	
+                 
+
+            	
+                 
+
+            
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+

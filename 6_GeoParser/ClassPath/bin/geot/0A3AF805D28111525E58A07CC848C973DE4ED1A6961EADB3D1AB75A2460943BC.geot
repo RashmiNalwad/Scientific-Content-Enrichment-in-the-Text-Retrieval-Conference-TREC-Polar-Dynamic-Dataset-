@@ -1,0 +1,2364 @@
+
+ 
+
+    	
+                 
+
+            	
+                 
+
+            	
+                 
+
+            
+	
+                 
+
+            	
+                 
+
+            	
+                 
+
+            
+	
+        	
+                    
+                    	
+                                
+                            	
+                                  + Visit NASA.gov
+                            
+
+
+                
+
+
+    
+	
+        	
+                    
+                    
+                
+		
+                    
+                        Links 
+                    
+                    
+                    FAQ
+                    
+                    Contact Us
+                    
+                    Site Map
+                 
+
+
+    
+	
+
+
+		
+																			
+																			
+
+
+
+
+
+	
+                
+                    
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Data Analysis And Visualization
+	
+
+	
+		
+	
+		Data Management/Data Handling
+	
+
+	
+		
+	
+		Education/Outreach
+	
+
+	
+		
+	
+		Environmental Advisories
+	
+
+	
+		
+	
+		Hazards Management
+	
+
+	
+		
+	
+		Metadata Handling
+	
+
+	
+		
+	
+		Models
+	
+
+	
+		
+	
+		Reference And Information Services
+	
+
+	
+		
+	
+		Web Services
+	
+
+	
+	
+	
+	
+
+	
+		Earth Science Links
+	
+	
+
+	
+		Portal 
+      Collaborations 
+	
+
+	
+	
+		Questions?
+        
+
+
+
+                
+
+            	
+                 
+
+                 
+
+                
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        	
+                    Are you using a browser that doesn't support JavaScript or have you disabled JavaScript? 
+
+                    
+
+                    If you have disabled JavaScript, you must re-enable JavaScript to use
+                    this page.
+ Or you can view this record using the 
+                    Text Only Format .
+
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Record Search Query:
+    ServiceParameters>MODELS>HYDROLOGIC AND TERRESTRIAL WATER CYCLE MODELS
+
+
+
+
+
+
+
+
+
+
+    
+        
+            Automated Geospatial Watershed Assessment (AGWA)
+
+        
+        
+        
+            Entry ID: 
+            
+                USDA_AGWA
+            
+            
+
+        
+    
+
+
+
+
+
+
+
+
+    
+        
+            
+                
+            
+        
+    
+        
+            
+        
+    
+        
+            
+        
+    
+
+
+	
+            
+                [
+                
+                    
+                        Get Service
+                
+                ]
+            
+        	
+        
+             
+            
+                
+                
+                     [
+                     
+                         
+                             Update this Record
+                         
+                     
+                     ]
+                 
+                 
+            
+
+            
+            
+                
+            
+                
+                Updating this record requires registration.
+
+    
+                
+                    (Account holders)
+                    
+                        
+                        
+                            
+                                Update this Record.
+                        
+                    
+
+                
+
+                
+                    
+                        Need an account?
+                         
+
+                    
+
+                
+
+                close
+            
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            The Automated Geospatial Watershed Assessment tool is a GIS-based hydrologic 
+ modeling tool that was developed as an extension for ArcView 3X. 
+ 
+ Using digital data in combination with the automated functionality of AGWA 
+ greatly reduces the time required to use these two watershed models. Through a 
+ robust and intuitive interface the user selects an outlet from which  ... AGWA 
+ delineates and discretizes the watershed using the DEM. The watershed elements 
+ are then intersected with soil, land cover, and precipitation (uniform or 
+ distributed) data layers to derive the requisite model input parameters. The 
+ model is then run, and the results are imported back into AGWA for visual 
+ display. 
+ 
+ Model results that can be displayed in AGWA are shown in the table to the 
+ right. This option allows managers to identify problem areas where management 
+ activities can be focused, or to anticipate sensitive areas in association with 
+ planning efforts. 
+ 
+ AGWA is designed to evaluate relative change and can only provide qualitative 
+ estimates of runoff and erosion. It cannot provide reliable quantitative 
+ estimates of runoff and erosion without careful calibration. It is also 
+ subject to the assumptions and limitations of its component models, and should 
+ always be applied with these in mind. 
+ 
+ [Summary provided by the USDA.] 
+
+                        
+
+                    
+                    
+                
+            
+
+        
+    
+
+
+
+
+
+
+    
+    Related URL
+
+    
+            
+	
+
+        
+        
+
+        
+            
+                
+
+
+Link: 
+
+    
+        GET SERVICE
+         >
+            GET SOFTWARE PACKAGE
+        
+    
+    
+    
+
+    
+
+
+
+
+                
+            
+        
+
+        
+Description: 
+
+AGWA user registration and download page. 
+
+
+
+        
+        
+            
+
+            
+                
+
+            
+
+            
+        
+
+        
+            
+                
+
+
+Link: 
+
+    
+        GET RELATED SERVICE METADATA (SERF)
+        
+    
+    
+    
+
+    
+
+
+
+
+                
+            
+        
+
+        
+Description: 
+
+Soil and Water Assessment Tool. 
+
+
+
+        
+
+            
+                
+
+            
+
+            
+        
+
+        
+            
+                
+
+
+Link: 
+
+    
+        VIEW RELATED INFORMATION
+        
+    
+    
+    
+
+    
+
+
+
+
+                
+            
+        
+
+        
+Description: 
+
+AGWA fact sheet. 
+
+
+
+        
+
+            
+
+            
+            
+        
+
+        
+             
+        
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+        Service Citation
+        
+        
+            	
+                
+                    
+                    
+                        
+                            Originators: 
+                            USDA-ARS Southwest Watershed Research Center, U.S. Environmental Protection Agency
+                        
+
+                    
+                    
+                        
+                            Title: 
+                            Automated Geospatial Watershed Assessment (AGWA)
+                        
+
+                    
+                    
+                    
+                        
+                            Provider: 
+                            USDA-ARS Southwest Watershed Research Center
+                        
+
+                    
+                    
+                    
+                        
+                            URL: 
+                            
+                                
+                                    http://tucson.ars.ag.gov/agwa/
+                            
+                        
+
+                    
+                    
+                    
+                
+                
+            
+        
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+        Service Keywords
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                                ENVIRONMENTAL ADVISORIES
+                            
+                            
+                                >HYDROLOGICAL ADVISORIES
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                DATA ANALYSIS AND VISUALIZATION
+                            
+                            
+                                >GEOGRAPHIC INFORMATION SYSTEMS
+                            
+                            
+                                >DESKTOP GEOGRAPHIC INFORMATION SYSTEMS
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                                MODELS
+                            
+                            
+                                >COMPONENT PROCESS MODELS
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                MODELS
+                            
+                            
+                                >DIGITAL ELEVATION/DIGITAL TERRAIN MODELS
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                MODELS
+                            
+                            
+                                >SOCIAL AND ECONOMIC MODELS
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                MODELS
+                            
+                            
+                                >HYDROLOGIC AND TERRESTRIAL WATER CYCLE MODELS
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                MODELS
+                            
+                            
+                                >LAND SURFACE MODELS
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+            
+            
+                
+
+                
+                     
+            
+
+
+
+        
+    
+
+
+
+
+    
+        Science Keywords 
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            BIOSPHERE
+                            
+                            
+                            >TERRESTRIAL ECOSYSTEMS
+                            
+                            
+                            >WETLANDS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            HUMAN DIMENSIONS
+                            
+                            
+                            >ENVIRONMENTAL GOVERNANCE/MANAGEMENT
+                            
+                            
+                            >LAND MANAGEMENT
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >SURFACE WATER
+                            
+                            
+                            >DISCHARGE/FLOW
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >SURFACE WATER
+                            
+                            
+                            >DRAINAGE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >SURFACE WATER
+                            
+                            
+                            >FLOODS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >SURFACE WATER
+                            
+                            
+                            >HYDROPATTERN
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >SURFACE WATER
+                            
+                            
+                            >LAKES
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >SURFACE WATER
+                            
+                            
+                            >RIVERS/STREAMS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >SURFACE WATER
+                            
+                            
+                            >RUNOFF
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >SURFACE WATER
+                            
+                            
+                            >TOTAL SURFACE WATER
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >SURFACE WATER
+                            
+                            
+                            >WATER CHANNELS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >SURFACE WATER
+                            
+                            
+                            >WATER YIELD
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >SURFACE WATER
+                            
+                            
+                            >WATERSHED CHARACTERISTICS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >SURFACE WATER
+                            
+                            
+                            >WETLANDS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >EROSION/SEDIMENTATION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >LAND USE/LAND COVER
+                            
+                            
+                            >LAND COVER
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >TOPOGRAPHY
+                            
+                            
+                            >LANDFORMS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >TOPOGRAPHY
+                            
+                            
+                            >SURFACE ROUGHNESS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >TOPOGRAPHY
+                            
+                            
+                            >TOPOGRAPHIC EFFECTS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            AGRICULTURE
+                            
+                            
+                            >SOILS
+                            
+                            
+                            >SOIL EROSION
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            BIOSPHERE
+                            
+                            
+                            >AQUATIC ECOSYSTEMS
+                            
+                            
+                            >WETLANDS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                    
+            
+
+
+        
+    
+
+
+
+
+
+    
+        ISO Topic Category 
+        	
+            
+                
+                
+                    
+                    
+                        
+                            FARMING
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            BIOTA
+                        
+                    
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            ELEVATION
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            ENVIRONMENT
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOSCIENTIFIC INFORMATION
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            IMAGERY/BASE MAPS/EARTH COVER
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            INLAND WATERS
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            PLANNING CADASTRE
+                        
+                    
+                    
+
+                    
+                
+                
+                    
+
+                    
+                        
+                
+            
+        
+
+
+    
+
+
+
+
+
+    
+        Platform
+        
+            
+            	
+                
+                    
+                    
+                        
+                            FIELD SURVEYS
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            FIELD INVESTIGATION
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+           
+            
+
+
+
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+         Access Constraints
+        
+            Users must enter e-mail address and affiliation to download software. Registration is optional but preferred. 
+        
+    
+
+
+
+
+
+    
+        Use Constraints
+        
+            To use AGWA, you will need version 3.1 or later of ArcView and version 1.1 of 
+ the Spatial Analyst extension. AGWA works with the Windows 95, 98, 2000, NT, 
+ ME, and XP environments. Please note that AGWA does not have any technical 
+ support. 
+        
+    
+
+
+
+
+
+    
+        Ancillary Keywords
+        
+            
+            	
+                
+                    
+                    
+                        
+                            GIS
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Geographic Information Systems
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            ArcView
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Land Management
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Resource Management
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Kinematic Runoff and Erosion Model
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Soil and Water Assessment Tool
+                    
+
+                    
+                
+            
+            
+                
+
+                
+                     
+            
+        
+
+
+        
+        
+
+
+
+
+
+    
+        Service Provider
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                                
+                                    USDA/ARS/SWRC
+                                    
+                                         >  
+                                        Southwest Watershed Research Center,  Agricultural Research Service, U. S. Department of Agriculture
+                                    
+                                
+                           
+                            
+                                
+                                    
+                            
+                            
+
+                        
+                    
+                    
+                        
+                            Service Organization URL: 
+                        
+                        
+                            
+                                
+                                            http://www.tucson.ars.ag.gov/ 
+                            
+                        
+                        
+
+                    
+                    
+                        
+                    
+                    
+                    
+                        
+                            
+
+                            	Service Provider Personnel
+	
+                                        Name: 
+                                        
+                                            
+                                                SUSAN
+                                                
+                                                MORAN
+                                            
+                                        
+                                        
+
+                                        
+                                            
+                                                Phone: 
+                                                
+                                                    520-670-6381 ext. 171
+                                                
+                                                
+
+                                            
+                                        
+                                        
+                                            
+                                        
+                                        
+                                            
+                                                
+                                                    Email: 
+                                                    
+                                                        smoran at tucson.ars.ag.gov
+                                                    
+                                                    
+
+                                                
+                                            
+                                        
+                                        
+                                            
+                                                
+                                                    
+                                                        Contact Address: 
+
+                                                        
+                                                            
+                                                                
+                                                                    2000 E. Allen Road 
+
+                                                                
+                                                            
+                                                        
+                                                    
+                                                    
+                                                        City: 
+                                                        
+                                                            Tucson
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Province or State: 
+                                                        
+                                                            AZ
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Postal Code: 
+                                                        
+                                                            85719
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Country: 
+                                                        
+                                                            USA
+                                                        
+                                                        
+
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+  
+                            
+                        
+                    
+                    
+                    
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+    
+        Distribution Media
+        
+            
+            	
+                
+                    
+                    
+                        
+                            Distribution_Media:
+                            Online
+                        
+                        
+
+                    
+                    
+                    
+                    
+                        
+                            Fees:
+                            No fees
+                        
+                        
+
+                    
+                    
+                    
+                
+                
+            
+
+
+        
+    
+
+
+
+
+
+    
+        Personnel
+        
+            
+            	
+                
+                    
+                    
+                        
+                            TYLER
+                            B.
+                            STEVENS 
+
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Role: 
+                                    SERF AUTHOR
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Phone: 
+                                        (301) 614-6898
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Fax: 
+                                    301-614-5268
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Email: 
+                                    Tyler.B.Stevens at nasa.gov
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    
+                                        Contact Address: 
+
+                                        
+                                            
+                                                NASA Goddard Space Flight Center 
+
+                                            
+                                                Global Change Master Directory 
+
+                                            
+                                        
+                                    
+                                
+                                
+                                    
+                                        City: 
+                                        Greenbelt
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Province or State: 
+                                        MD
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Postal Code: 
+                                        20771
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Country: 
+                                        USA
+                                    
+                                    
+
+                                
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                        
+
+                    
+                
+                    
+                    
+                        
+                            MARIANO
+                            
+                            HERNANDEX 
+
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Role: 
+                                    TECHNICAL CONTACT
+                                
+                                
+
+                            
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+                                    Email: 
+                                    mhernandez at tucson.ars.ag.gov and
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    
+                                        Contact Address: 
+
+                                        
+                                            
+                                                USDA-ARS Southwest Watershed Research Center 
+
+                                            
+                                                2000 East Allen Road 
+
+                                            
+                                        
+                                    
+                                
+                                
+                                    
+                                        City: 
+                                        Tucson
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Province or State: 
+                                        AZ
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Postal Code: 
+                                        85719-1596
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Country: 
+                                        USA
+                                    
+                                    
+
+                                
+                            
+                        
+                    
+                    
+                    
+                        
+
+                    
+                
+                    
+                    
+                        
+                            DAVID
+                            C.
+                            GOODRICH 
+
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Role: 
+                                    TECHNICAL CONTACT
+                                
+                                
+
+                            
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+                                    Email: 
+                                    dgoodrich at tucson.ars.ag.gov
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    
+                                        Contact Address: 
+
+                                        
+                                            
+                                                USDA-ARS Southwest Watershed Research Center 
+
+                                            
+                                                2000 East Allen Road 
+
+                                            
+                                        
+                                    
+                                
+                                
+                                    
+                                        City: 
+                                        Tucson
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Province or State: 
+                                        AZ
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Postal Code: 
+                                        85719-1596
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Country: 
+                                        USA
+                                    
+                                    
+
+                                
+                            
+                        
+                    
+                    
+                    
+                        
+
+                    
+                
+                    
+                    
+                        
+                            WILLIAM
+                            G.
+                            KEPNER 
+
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Role: 
+                                    TECHNICAL CONTACT
+                                
+                                
+
+                            
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+                                    Email: 
+                                    kepner.william at epa.gov
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    
+                                        Contact Address: 
+
+                                        
+                                            
+                                                U.S. Environmental Protection Agency, Environmental Sciences Division 
+
+                                            
+                                                P.O. Box 93478 
+
+                                            
+                                        
+                                    
+                                
+                                
+                                    
+                                        City: 
+                                        Las Vegas
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Province or State: 
+                                        NV
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Postal Code: 
+                                        89193-3478
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Country: 
+                                        USA
+                                    
+                                    
+
+                                
+                            
+                        
+                    
+                    
+                    
+                        
+
+                    
+                
+                    
+                    
+                        
+                            DARIUS
+                            J.
+                            SEMMENS 
+
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Role: 
+                                    TECHNICAL CONTACT
+                                
+                                
+
+                            
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+                                    Email: 
+                                    semmens.darius at epa.gov
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    
+                                        Contact Address: 
+
+                                        
+                                            
+                                                U.S. Environmental Protection Agency, 
+
+                                            
+                                                Environmental Sciences Division 
+
+                                            
+                                                P.O. Box 93478 
+
+                                            
+                                        
+                                    
+                                
+                                
+                                    
+                                        City: 
+                                        Las Vegas
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Province or State: 
+                                        NV
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Postal Code: 
+                                        89193-3478
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Country: 
+                                        USA
+                                    
+                                    
+
+                                
+                            
+                        
+                    
+                    
+                    
+                
+                
+                    
+
+                    
+                        
+                
+            
+
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+
+
+
+
+
+    
+        Creation and Review Dates
+        	
+            
+                SERF Creation Date:
+                2004-10-29
+            
+            
+
+            
+                SERF Last Revision Date:
+                2011-04-13
+            
+            
+
+            
+        
+
+
+    
+
+    
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+    
+        Bookmark URL
+        Alternate URL
+    
+
+    
+
+
+
+
+	
+        
+            	
+                        
+                    	
+                        
+                            
+                    	
+                        
+                    	
+                        
+                            
+                                + Privacy Policy and Important Notices
+                        
+
+                    	
+                        
+                    	
+                        
+                            
+                    	
+                        
+                            Webmaster: 
+                            Monica Lyles
+                        
+
+                        
+                            Responsible NASA Official: 
+                            Dr. Stephen Wharton
+                        
+
+                        Last Updated:  February 2015
+
+                    
+	
+                        
+                    
+
+
+        
+
+    
+	
+                 
+
+            
+	
+                 
+
+            	
+                 
+
+            	
+                 
+
+            
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+

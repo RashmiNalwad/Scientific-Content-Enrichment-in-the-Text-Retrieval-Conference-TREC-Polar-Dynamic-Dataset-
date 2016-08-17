@@ -1,0 +1,888 @@
+
+
+
+
+	 
+        
+
+	
+            
+                	
+            
+                
+	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                
+
+
+
+
+
+        
+        	 
+                
+        
+                
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Agriculture
+	
+
+	
+		
+	
+		Atmosphere
+	
+
+	
+		
+	
+		Biological Classification
+	
+
+	
+		
+	
+		Biosphere
+	
+
+	
+		
+	
+		Climate Indicators
+	
+
+	
+		
+	
+		Cryosphere
+	
+
+	
+		
+	
+		Human Dimensions
+	
+
+	
+		
+	
+		Land Surface
+	
+
+	
+		
+	
+		Oceans
+	
+
+	
+		
+	
+		Paleoclimate
+	
+
+	
+		
+	
+		Solid Earth
+	
+
+	
+		
+	
+		Spectral/Engineering
+	
+
+	
+		
+	
+		Sun-Earth Interactions
+	
+
+	
+		
+	
+		Terrestrial Hydrosphere
+	
+
+	
+	
+
+	
+		
+Data Centers
+
+	
+		 
+Locations
+
+	
+		
+Instruments
+
+	
+		
+Platforms/Sources
+
+	
+		
+Projects
+
+
+
+
+
+
+
+                
+                
+                	
+                    	
+	
+	
+
+
+                    
+                    	
+                            	
+                            
+
+
+
+
+
+
+
+
+
+
+
+     
+    [ 
+    
+        
+            Return to Record
+         
+    ]
+
+
+
+
+
+	
+            
+
+
+
+
+
+
+
+
+
+Pine Island Glacier (Antarctica) velocities from Landsat7 images between 2001 and 2011
+
+      Federal Geographic Data Committee (FGDC) Metadata:
+
+      	Identification_Information
+	Data_Quality_Information
+	Spatial_Reference_Information
+	
+               Distribution_Information
+               
+	Metadata_Reference_Information
+
+
+         
+	Identification_Information:
+	
+            	Citation:
+	
+                  	Citation_Information:
+	
+                        	Originator: Warner, R. and Roberts, J.L.
+                           
+	Publication_Date: 20130712
+                           
+	Title: Pine Island Glacier (Antarctica) velocities from Landsat7 images between 2001 and 2011
+                           
+	Edition: 
+	Geospatial_Data_Presentation_Form: 
+	Series_Information: 
+	
+                              	Series_Name: CAASM Metadata
+                                 
+	Issue_Identification: 
+
+
+                           
+	Publication_Information: 
+	
+                              	Publication_Place: 
+	Publisher: Australian Antarctic Data Centre
+                                 
+
+
+                           
+	Other_Citation_Details: 
+	
+	Online_Linkage: https://data.aad.gov.au/aadc/metadata/metadata_redirect.cfm?md=/AMD/AU/pine_island_glacier_vel
+
+
+                     
+
+
+               
+	Description:
+	
+                  	Abstract:
+	
+                        
+                        Velocities for the Pine Island Glacier are derived using correlation analysis, using the IMCORR software package (Scambos
+                        and others, 1992) modified as discussed in Warner and Roberts (2013), applied to Landsat 7 ETM+ band 8 images for Path 233,
+                        Row 113,(15 m x 15 m pixels). Images are "Systematic Terrain Correction" (Level 1GT) products from the United States Geological
+                        Survey. A subset of these velocities was presented, and their significance discussed, in Warner and Roberts (2013).
+                        
+                        The velocities are presented in standard Polar Stereographic projection with a reference latitude of 71 south (PS71). 
+                        
+                        Parameters for the correlation analysis are a reference window of 64 x 64 pixels and a search window of 512 x 512 pixels.
+                        Displacements were measured with a 50 % overlap of reference windows. Velocities are binned onto a 1km x 1km grid using trimmed
+                        least squares. 
+                        
+                        Velocities are given for the epochs 
+                        13-Jan-2001 to 16-Nov-2002 
+                        16-Nov-2002 to 24-Jan-2005 
+                        24-Jan-2005 to 14-Jan-2007 
+                        14-Jan-2007 to 3-Nov-2009 
+                        3-Nov-2009 to 10-Feb-2011 
+                        
+                        Data for each epoch is presented in individual space-delimited text files, with the four columns being the Easting Position
+                        (PS71) of the centre of the 1km x 1km grid box in metres, Northing Position (PS71) of the centre of the 1km x 1km grid box
+                        in metres, Easting component of surface velocity in metres per year, Northing component of surface velocity in metres per
+                        year at the cell centre location. 
+                        
+                        - Easting (metres) 
+                        - Northing (metres) 
+                        - Easting velocity component  (metres per year) 
+                        - Northing velocity component (metres per year)
+                        
+                        
+                     
+	Purpose:
+	Not Available
+	Supplemental_Information:
+	 REFERENCE: 
+                        Add citation here OR in the subfields below.      Warner, R and Roberts J
+                        2013
+                        Pine Island Glacier (Antarctica) velocities from Landsat7 images between 2001 and 2011: FFT-based image correlation for images
+                        with data gaps
+                        Journal of Glaciology
+                        59
+                        215
+                        571-582
+                        doi:10.3189/2013JoG12J113
+                        
+                     
+	Supplemental_Information:
+	 REFERENCE: 
+                        Scambos, T. A., M. J. Dutkiewicz, J. C. Wilson and R. A. Bindschadler
+                        1992
+                        Application of image cross-correlation to the measurement of glacier velocity using satellite image data
+                        Remote Sensing of Environment
+                        42
+                        3
+                        177-186
+                        
+                     
+
+
+               
+	Time_Period_of_Content:
+	
+                  	Time_Period_Information:
+	
+                        	Range_of_Dates/Times:
+	
+                              	Beginning_Date: 20010113
+                                 
+	Ending_Date: 20110210
+                                 
+
+
+                           
+
+
+                     
+	Currentness_Reference:Unknown
+                     
+
+
+               
+	Status:
+	
+                  	Progress: Complete
+                     
+	Maintenance_and_Update_Frequency: As needed
+                     
+
+
+               
+	Spatial_Domain:
+	
+                  	Description_of_Geographic_Extent:
+	
+	Bounding_Coordinates:
+	
+                        	West_Bounding_Coordinate: -103.0
+                           
+	East_Bounding_Coordinate: -98.0
+                           
+	North_Bounding_Coordinate: -74.5
+                           
+	South_Bounding_Coordinate: -76.0
+                           
+
+
+                     
+
+
+               
+	Keywords:
+	
+                  	Theme:
+	
+                        	Theme_Keyword_Thesaurus: GCMD SCIENCE PARAMETERS
+                           
+	Theme_Keyword_Thesaurus: GCMD PLATFORM
+                           
+	Theme_Keyword_Thesaurus: ANCILLARY KEYWORDS
+                           
+	Theme_Keyword_Thesaurus: ISO TOPIC CATEGORY
+                           
+	Theme_Keyword_Thesaurus: DATA SET LANGUAGE
+                           
+	Theme_Keyword: EARTH SCIENCE > CLIMATE INDICATORS > CRYOSPHERIC INDICATORS > GLACIAL MEASUREMENTS
+                           
+	Theme_Keyword: EARTH SCIENCE > CLIMATE INDICATORS > CRYOSPHERIC INDICATORS > GLACIAL MEASUREMENTS > GLACIER MOTION/ICE SHEET MOTION
+                           
+	Theme_Keyword: EARTH SCIENCE > CRYOSPHERE > GLACIERS/ICE SHEETS > GLACIER MOTION/ICE SHEET MOTION
+                           
+	Theme_Keyword: EARTH SCIENCE > TERRESTRIAL HYDROSPHERE > GLACIERS/ICE SHEETS > GLACIER MOTION/ICE SHEET MOTION
+                           
+	Theme_Keyword: LANDSAT-7
+                           
+	Theme_Keyword: Ice Velocities
+                           
+	Theme_Keyword: CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                           
+	Theme_Keyword: ENGLISH
+                           
+
+
+                     
+	Place:
+	
+                        	Place_Keyword_Thesaurus: GCMD
+                           
+	Place_Keyword: CONTINENT > ANTARCTICA
+                           
+	Place_Keyword: GEOGRAPHIC REGION > POLAR
+                           
+
+
+                     
+
+
+               
+	Access_Constraints: 
+                  These data are publicly available from the provided URL.
+                  
+               
+	Use_Constraints:
+	
+                  This data set conforms to the PICCCBY Attribution License
+                  (http://creativecommons.org/licenses/by/3.0/).
+                  
+                  The generation of this data set is discussed in Warner RC and Roberts JL (2013). Please acknowledge the use of this data set
+                  by referencing the following citation:
+                  
+                  Warner RC and Roberts JL (2013) Pine Island Glacier (Antarctica) velocities from Landsat7 images between 2001 and 2011: FFT-based
+                  image correlation for images with data gaps. Journal of Glaciology, 59, 215, 571-582. (doi:10.3189/2013JoG12J113)
+                  
+               
+	Point_of_Contact:
+	
+                  	Contact_Information:
+	
+                        	Contact_Person_Primary:
+	
+                              	Contact_Person: ROLAND WARNER 
+                                 
+
+
+                           
+	Contact_Person_Primary:
+	
+                              	Contact_Person: JASON LEIGH ROBERTS 
+                                 
+
+
+                           
+	Contact_Position: INVESTIGATOR
+                           
+	Contact_Position: TECHNICAL CONTACT
+                           
+	Contact_Position: INVESTIGATOR
+                           
+	Contact_Position: TECHNICAL CONTACT
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: Australian Antarctic Division and 
+                                 
+	Address: Antarctic Climate and Ecosystems CRC 
+                                 
+	Address: Private Bag 80 
+                                 
+	City: Hobart
+                                 
+	State_or_Province: Tasmania
+                                 
+	Postal_Code: 7001
+                                 
+	Country: Australia
+                                 
+
+
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: Private Bag 80 
+                                 
+	City: Hobart
+                                 
+	State_or_Province: Tasmania
+                                 
+	Postal_Code: 7001
+                                 
+	Country: Australia
+                                 
+
+
+                           
+	Contact_Voice_Telephone: +61 3 6226 7878
+                           
+	Contact_Voice_Telephone: +61 3 62267693
+                           
+	Contact_Facsimile_Telephone: +61 3 6226 2902
+                           
+	Contact_Facsimile_Telephone: +61 3 6226 2902
+                           
+	Contact_Electronic_Mail_Address: Roland.Warner@utas.edu.au
+                           
+	Contact_Electronic_Mail_Address: Jason.Roberts@aad.gov.au
+                           
+
+
+                     
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Data_Quality_Information:
+	
+            	Attribute_Accuracy:
+	
+                  	Attribute_Accuracy_Report:
+	Not Available
+
+
+               
+	Logical_Consistency_Report:
+	Not Available
+	Completeness_Report:
+	Not Available
+	Lineage:
+
+	Process_Step:
+	
+                     	Process_Description:
+	Not Available
+	Process_Date: Unknown
+                        
+
+
+                  
+
+
+            
+
+
+         
+      Back to Top
+         
+	Spatial_Reference_Information:
+	
+            	Horizontal_Coordinate_System_Definition:
+	
+                  	Geographic:
+	
+                        	Latitude_Resolution: 1km
+                           
+	Longitude_Resolution: 1km
+                           
+	Geographic_Coordinate_Units: Decimal degrees
+                           
+
+
+                     
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Distribution_Information:
+	
+            	Distributor:
+	
+                  	Contact_Information:
+	
+                        	Contact_Organization_Primary:
+	
+                              	Contact_Organization: AU/AADC > Australian Antarctic Data Centre, Australia
+                                 
+	Contact_Person: DATA OFFICER AADC 
+                                 
+
+
+                           
+	Contact_Position: DATA CENTER CONTACT
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: Australian Antarctic Division 
+                                 
+	Address: 203 Channel Highway 
+                                 
+	City: Kingston
+                                 
+	State_or_Province: Tasmania
+                                 
+	Postal_Code: 7050
+                                 
+	Country: Australia
+                                 
+
+
+                           
+	Contact_Voice_Telephone: +61 3 6232 3244
+                           
+	Contact_Facsimile_Telephone: +61 3 6232 3351
+                           
+	Contact_Electronic_Mail_Address: metadata@aad.gov.au
+                           
+
+
+                     
+
+
+               
+	Resource_Description: pine_island_glacier_vel
+               
+	Distribution_Liability:
+	Not Available
+	Standard_Order_Process:
+	
+                  	Digital_Form:
+	
+                        	Digital_Transfer_Information:
+	
+                              	Format_Name: text
+                                 
+	Transfer_Size: 80 kb
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://data.aad.gov.au
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	DATA CENTER URL
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://data.aad.gov.au/aadc/portal/download_file.c...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          Download point for the data
+                                          
+                                       
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	https://secure3.aad.gov.au/proms/public/projects/r...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          Public information for ASAC project 2698
+                                          
+                                       
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://data.aad.gov.au/aadc/metadata/citation.cfm?...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          Citation reference for this metadata record and dataset
+                                          
+                                       
+
+
+                                 
+
+
+                           
+
+
+                     
+	Fees: Free
+                     
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Metadata_Reference_Information:
+	
+            	Metadata_Date: 20130712
+               
+	Metadata_Review_Date: 20140911
+               
+	Metadata_Contact:
+	
+                  	Contact_Information:
+	
+                        	Contact_Person_Primary:
+	
+                              	Contact_Person: JASON ANDERSON 
+                                 
+
+
+                           
+	Contact_Position: DIF AUTHOR
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: Antarctic CRC 
+                                 
+	Address: University of Tasmania 
+                                 
+	Address: Grosvenor St 
+                                 
+	City: Sandy Bay
+                                 
+	State_or_Province: Tasmania
+                                 
+	Postal_Code: 7005
+                                 
+	Country: Australia
+                                 
+
+
+                           
+	Contact_Electronic_Mail_Address: jason.anderson@utas.edu.au
+                           
+
+
+                     
+
+
+               
+	Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+               
+	Metadata_Standard_Version: FGDC-STD-001-1998
+               
+	Metadata_Time_Convention: local time
+               
+
+
+         
+
+Back to Top
+
+
+
+     
+    [ 
+    
+        
+            Return to Record
+         
+    ]
+
+
+
+
+                            
+                        
+                                        
+                    
+                               
+            
+                
+        
+
+
+	
+            
+                
+        	
+            
+                
+                    NASA Privacy Policy and Important Notices
+            
+
+            
+                Responsible NASA Official:  
+                
+                    Dr. Stephen Wharton
+
+                Webmaster:  
+                
+                    Monica Lyles
+                  ·  Contact 
+                
+                    GCMD User Support for assistance
+            
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+    
+

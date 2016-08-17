@@ -1,0 +1,1677 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        [Parameters: Topic='HUMAN DIMENSIONS', Term='ENVIRONMENTAL GOVERNANCE/MANAGEMENT', Variable_Level_1='LAND MANAGEMENT', Variable_Level_2='LAND USE CLASSES']
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+    
+        
+        
+            
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                Urban Landsat: Cities from Space
+            
+        
+
+        
+        
+            Entry ID:
+            
+                CIESIN_SEDAC_URBAN_LANDSAT
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+        
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            The Urban Landsat: Cities from Space dataset contains images for 66 urban areas and the raw, unerlying data for 28 of these places. Each image shows a Landsat false color composite in UTM projection. The R/G/B layers correspond to TM/ETM+ bands 7/4/2. Each pixel is 30x30 meters in area and most images are 30x30 km in area. A 2% linear stretch has been applied to the images. The Landsat data files  ... contain six reflected bands of calibrated exoatmospheric reflectance stored in ENVI band sequential (BSQ) format. Geographic coordinates are included in the header file. The data file contains 1000x1000x6 4 byte floating point numbers as indicated in the header. This dataset is distributed by the Socioeconomic Data and Applications Center (SEDAC) at Center for International Earth Science Information Network (CIESIN), Columbia University. 
+ 
+ The data in ENVI Band Sequential (BSQ) format and images in Portable Document Format (PDF) and Portable Network Graphics (PNG) formats are available from the NASA Socioeconomic Data and Applications Center (SEDAC). 
+    
+                        
+
+                    
+                    
+                        
+                            
+
+                            Purpose: 
+                            To serve a wide user community by providing composite Landsat images and raw data for urban areas that can be used in interdisciplinary studies of remote sensing and the environment.     
+                        
+
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Data download page. 
+                            
+
+                        
+			
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    REVERB
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Refine your granule search with ECHO's next generation Earth Science discovery tool 
+ 
+ (Reverb) using information from this record. 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET RELATED VISUALIZATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Images in PDF and PNG formats. 
+                            
+
+                        
+			
+                        
+                    
+		    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 90.0
+                                
+                            	 	
+                                
+                                    S: -55.0
+                                
+                            	 	
+                                
+                                    E: 180.0
+                                
+                            	 	
+                                
+                                    W: -180.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            Small, C.
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Title: 
+                            Urban Landsat: Cities from Space
+                        
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Release Place: 
+                            Palisades, NY
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            NASA Socioeconomic Data and Applications Center (SEDAC)
+                        
+
+                    
+                    
+                    
+                        
+                            Version: 
+                            1.00
+                        
+
+                    
+                    
+                    
+
+
+                    
+                    
+                    
+                        
+                            Data Presentation Form: 
+                            raster, map
+                        
+
+                    
+
+                    
+
+                    
+                       
+                          
+                               Dataset DOI: 
+                                
+                                
+                                 http://dx.doi.org/10.7927/H4SQ8XB1
+                                  
+                           
+
+                       
+                    
+                    
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1999-01-01
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        2003-01-01
+                    
+
+                
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > NORTHERN AFRICA
+                            
+                            
+                                > EGYPT
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > GHANA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > MALI
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > NIGERIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > WESTERN AFRICA
+                            
+                            
+                                > SENEGAL
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AFRICA
+                            
+                            
+                                > SOUTHERN AFRICA
+                            
+                            
+                                > SOUTH AFRICA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ASIA
+                            
+                            
+                                > SOUTHCENTRAL ASIA
+                            
+                            
+                                > AFGHANISTAN
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ASIA
+                            
+                            
+                                > EASTERN ASIA
+                            
+                            
+                                > CHINA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ASIA
+                            
+                            
+                                > SOUTHCENTRAL ASIA
+                            
+                            
+                                > INDIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ASIA
+                            
+                            
+                                > WESTERN ASIA
+                            
+                            
+                                > MIDDLE EAST
+                            
+                            
+                                > ISRAEL
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ASIA
+                            
+                            
+                                > EASTERN ASIA
+                            
+                            
+                                > JAPAN
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ASIA
+                            
+                            
+                                > WESTERN ASIA
+                            
+                            
+                                > MIDDLE EAST
+                            
+                            
+                                > JORDAN
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ASIA
+                            
+                            
+                                > EASTERN ASIA
+                            
+                            
+                                > NORTH KOREA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ASIA
+                            
+                            
+                                > WESTERN ASIA
+                            
+                            
+                                > MIDDLE EAST
+                            
+                            
+                                > LEBANON
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ASIA
+                            
+                            
+                                > SOUTHCENTRAL ASIA
+                            
+                            
+                                > NEPAL
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > EUROPE
+                            
+                            
+                                > EASTERN EUROPE
+                            
+                            
+                                > RUSSIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > INDIAN OCEAN
+                            
+                            
+                                > SINGAPORE
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ASIA
+                            
+                            
+                                > WESTERN ASIA
+                            
+                            
+                                > MIDDLE EAST
+                            
+                            
+                                > SYRIA
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ASIA
+                            
+                            
+                                > EASTERN ASIA
+                            
+                            
+                                > TAIWAN
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ASIA
+                            
+                            
+                                > SOUTHEASTERN ASIA
+                            
+                            
+                                > VIETNAM
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > AUSTRALIA/NEW ZEALAND
+                            
+                            
+                                > AUSTRALIA
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > NORTH AMERICA
+                            
+                            
+                                > CENTRAL AMERICA
+                            
+                            
+                                > COSTA RICA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > ATLANTIC OCEAN
+                            
+                            
+                                > NORTH ATLANTIC OCEAN
+                            
+                            
+                                > CARIBBEAN SEA
+                            
+                            
+                                > DOMINICAN REPUBLIC
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > NORTH AMERICA
+                            
+                            
+                                > CENTRAL AMERICA
+                            
+                            
+                                > EL SALVADOR
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > NORTH AMERICA
+                            
+                            
+                                > CENTRAL AMERICA
+                            
+                            
+                                > GUATEMALA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > ATLANTIC OCEAN
+                            
+                            
+                                > NORTH ATLANTIC OCEAN
+                            
+                            
+                                > CARIBBEAN SEA
+                            
+                            
+                                > HAITI
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > NORTH AMERICA
+                            
+                            
+                                > MEXICO
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > NORTH AMERICA
+                            
+                            
+                                > CENTRAL AMERICA
+                            
+                            
+                                > NICARAGUA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > EUROPE
+                            
+                            
+                                > WESTERN EUROPE
+                            
+                            
+                                > AUSTRIA
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > EUROPE
+                            
+                            
+                                > WESTERN EUROPE
+                            
+                            
+                                > FRANCE
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > EUROPE
+                            
+                            
+                                > SOUTHERN EUROPE
+                            
+                            
+                                > GREECE
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > EUROPE
+                            
+                            
+                                > SOUTHERN EUROPE
+                            
+                            
+                                > ITALY
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > EUROPE
+                            
+                            
+                                > WESTERN EUROPE
+                            
+                            
+                                > PORTUGAL
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > EUROPE
+                            
+                            
+                                > SOUTHERN EUROPE
+                            
+                            
+                                > SPAIN
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > EUROPE
+                            
+                            
+                                > NORTHERN EUROPE
+                            
+                            
+                                > BRITISH ISLES
+                            
+                            
+                                > UNITED KINGDOM
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > NORTH AMERICA
+                            
+                            
+                                > CANADA
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > NORTH AMERICA
+                            
+                            
+                                > UNITED STATES OF AMERICA
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > PACIFIC OCEAN
+                            
+                            
+                                > WESTERN PACIFIC OCEAN
+                            
+                            
+                                > PHILIPPINES
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > SOUTH AMERICA
+                            
+                            
+                                > BOLIVIA
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > SOUTH AMERICA
+                            
+                            
+                                > BRAZIL
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > SOUTH AMERICA
+                            
+                            
+                                > CHILE
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+

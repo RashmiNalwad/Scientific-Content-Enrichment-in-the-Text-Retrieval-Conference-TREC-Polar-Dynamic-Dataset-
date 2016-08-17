@@ -1,0 +1,58 @@
+X-no-archive: yes
+List-Id: <dorisreport@cls.fr>
+List-Help: <mailto:sympa@cls.fr?subject=help>
+List-Subscribe: <mailto:sympa@cls.fr?subject=subscribe%20dorisreport>
+List-Unsubscribe: <mailto:sympa@cls.fr?subject=unsubscribe%20dorisreport>
+List-Post: <mailto:dorisreport@cls.fr>
+List-Owner: <mailto:dorisreport-request@cls.fr>
+List-Archive: <http://listes.cls.fr/wws/arc/dorisreport>
+Subject: [DORISreport] No 1018 : SPOT5 - CY200 - DORIS Data delivery
+Content-type: multipart/mixed; boundary="----------=_1191842739-1997-0"
+X-Virus-Scanned: by amavisd-new at lepgsfc
+X-Spam-Status: No, hits=0.05 tagged_above=-100 required=2.5
+ tests=FORGED_RCVD_HELO
+X-Spam-Level: 
+
+
+------------=_1191842739-1997-0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain;
+	charset=us-ascii
+
+
+******************************************************************************
+dorisreport             08-Oct-2007 11:25:37 Message No 1018
+******************************************************************************
+
+
+Author: Denis HAUTESSERRES <denis.hautesserres@cnes.fr>
+Subject: SPOT5 - CY200 - DORIS Data delivery
+
+
+Satellite: SPOT5
+Cycle: 200
+From  September 08 2007 to September 17 2007
+
+Events       : None
+Missing data : None
+
+The POD team delivered data to SSALTO 's Data Server.
+These data will be automatically delivered to the IDS Data Centers.
+
+Best Regards,
+
+Denis
+
+
+
+------------=_1191842739-1997-0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain;
+	name=message.footer
+Content-Disposition: inline;
+	filename=message.footer
+
+Please do not reply directly to this message, but send 
+comments and suggestions to IDS.central.bureau@cls.fr
+------------=_1191842739-1997-0--
+

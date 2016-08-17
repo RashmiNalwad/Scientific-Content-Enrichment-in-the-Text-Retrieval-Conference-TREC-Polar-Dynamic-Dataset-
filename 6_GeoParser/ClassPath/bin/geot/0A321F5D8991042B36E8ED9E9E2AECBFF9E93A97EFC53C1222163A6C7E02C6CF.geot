@@ -1,0 +1,822 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only
+ Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Projects>S - U>SAFARI 2000
+
+
+
+	
+            
+
+
+	
+             
+
+
+
+
+
+
+
+
+
+SAFARI 2000 MISR LEVEL 2 DATA, SOUTHERN AFRICA, DRY SEASON 2000
+
+      Federal Geographic Data Committee (FGDC) Metadata:
+
+      	Identification_Information
+	Data_Quality_Information
+	Spatial_Reference_Information
+	
+               Distribution_Information
+               
+	Metadata_Reference_Information
+
+
+         
+	Identification_Information:
+	
+            	Citation:
+	
+                  	Citation_Information:
+	
+                        	Originator: DINER, D.J.
+                           
+	Publication_Date: 2008
+                           
+	Title: SAFARI 2000 MISR LEVEL 2 DATA, SOUTHERN AFRICA, DRY SEASON 2000
+                           
+	Edition: 
+	Geospatial_Data_Presentation_Form: Online Files
+                           
+	Series_Information: 
+	
+                              	Series_Name: 
+	Issue_Identification: 
+
+
+                           
+	Publication_Information: 
+	
+                              	Publication_Place: Oak Ridge, Tennessee, U.S.A.
+                                 
+	Publisher: Oak Ridge National Laboratory Distributed Active Archive Center
+                                 
+
+
+                           
+	Other_Citation_Details: 
+	
+	Online_Linkage: http://mercury.ornl.gov/ornldaac/#fq=fileID:885
+
+
+                     
+
+
+               
+	Description:
+	
+                  	Abstract:
+	
+                        
+                        MISR (Multi-angle Imaging SpectroRadiometer) views the sunlit Earth simultaneously at nine widely spaced and collects global
+                        images with high spatial detail in four colors at every angle. These images are carefully calibrated to provide accurate measures
+                        of the brightness, contrast, and color of reflected sunlight. The change in reflection at different view angles affords the
+                        means to distinguish different types of atmospheric particles (aerosols), cloud forms, and land surface covers. Combined with
+                        stereoscopic techniques, this enables construction of 3-dimensional models and more accurate estimates of the total amount
+                        of sunlight reflected by Earth's diverse environments.MISR was built for NASA by the Jet Propulsion Laboratory. It is part
+                        of NASA's Terra spacecraft, launched into a polar orbit around the Earth on December 18, 1999.The Southern African Fire Atmosphere
+                        Research Initiative (SAFARI) 2000 field campaign focused on the smoke and gases released into the environment of southern
+                        Africa by industrial, biological, and man-made sources such as biomass burning. The area of study and MISR path numbers include
+                        Botswana, Lesotho, Malawi, Mozambique, Namibia, South Africa, Swaziland, Zambia, and Zimbabwe. These MISR data cover the period
+                        August 12 through September 28, 2000.
+                        
+                        
+                     
+	Purpose:
+	Not Available
+	Supplemental_Information:
+	Not Available
+
+
+               
+	Time_Period_of_Content:
+	
+                  	Time_Period_Information:
+	
+                        	Range_of_Dates/Times:
+	
+                              	Beginning_Date: 20000812
+                                 
+	Ending_Date: 20000928
+                                 
+
+
+                           
+
+
+                     
+	Currentness_Reference:Unknown
+                     
+
+
+               
+	Status:
+	
+                  	Progress: Complete
+                     
+	Maintenance_and_Update_Frequency: As needed
+                     
+
+
+               
+	Spatial_Domain:
+	
+                  	Description_of_Geographic_Extent:
+	
+	Bounding_Coordinates:
+	
+                        	West_Bounding_Coordinate: 9.08
+                           
+	East_Bounding_Coordinate: 31.49
+                           
+	North_Bounding_Coordinate: -15.0
+                           
+	South_Bounding_Coordinate: -35.0
+                           
+
+
+                     
+
+
+               
+	Keywords:
+	
+                  	Theme:
+	
+                        	Theme_Keyword_Thesaurus: GCMD SCIENCE PARAMETERS
+                           
+	Theme_Keyword_Thesaurus: GCMD PLATFORM
+                           
+	Theme_Keyword_Thesaurus: GCMD INSTRUMENT
+                           
+	Theme_Keyword_Thesaurus: PROJECT
+                           
+	Theme_Keyword_Thesaurus: ANCILLARY KEYWORDS
+                           
+	Theme_Keyword_Thesaurus: ISO TOPIC CATEGORY
+                           
+	Theme_Keyword_Thesaurus: DATA SET LANGUAGE
+                           
+	Theme_Keyword: EARTH SCIENCE > LAND SURFACE > SURFACE RADIATIVE PROPERTIES > REFLECTANCE
+                           
+	Theme_Keyword: TERRA > EARTH OBSERVING SYSTEM, TERRA (AM-1)
+                           
+	Theme_Keyword: MISR > MULTI-ANGLE IMAGING SPECTRORADIOMETER
+                           
+	Theme_Keyword: ESIP > EARTH SCIENCE INFORMATION PARTNERS PROGRAM
+                           
+	Theme_Keyword: EOSDIS > EARTH OBSERVING SYSTEM DATA INFORMATION SYSTEM
+                           
+	Theme_Keyword: SAFARI 2000 > THE SOUTHERN AFRICAN REGIONAL SCIENCE INITIATIVE PROJECT
+                           
+	Theme_Keyword: Misr
+                           
+	Theme_Keyword: Terra
+                           
+	Theme_Keyword: Aerosols
+                           
+	Theme_Keyword: Safari 2000
+                           
+	Theme_Keyword: Reflectance
+                           
+	Theme_Keyword: Cloud Forms
+                           
+	Theme_Keyword: Land Surface
+                           
+	Theme_Keyword: CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                           
+	Theme_Keyword: GEOSCIENTIFIC INFORMATION
+                           
+	Theme_Keyword: ENGLISH
+                           
+
+
+                     
+	Place:
+	
+                        	Place_Keyword_Thesaurus: GCMD
+                           
+	Place_Keyword: CONTINENT > AFRICA > SOUTHERN AFRICA > SOUTH AFRICA
+                           
+
+
+                     
+
+
+               
+	Access_Constraints: Not Available
+               
+	Use_Constraints:
+	Not Available
+	Point_of_Contact:
+	
+                  	Contact_Information:
+	
+                        	Contact_Person_Primary:
+	
+                              	Contact_Person: DAVID, DR. J. DINER 
+                                 
+
+
+                           
+	Contact_Position: TECHNICAL CONTACT
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: Jet Propulsion Laboratory 
+                                 
+	Address: 4800 Oak Grove Drive 
+                                 
+	City: Pasadena
+                                 
+	State_or_Province: CA
+                                 
+	Postal_Code: 91109-8099
+                                 
+	Country: USA
+                                 
+
+
+                           
+	Contact_Voice_Telephone: 818-354-6319
+                           
+	Contact_Facsimile_Telephone: 818-393-4616
+                           
+	Contact_Electronic_Mail_Address: david.j.diner@nasa.gov
+                           
+
+
+                     
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Data_Quality_Information:
+	
+            	Attribute_Accuracy:
+	
+                  	Attribute_Accuracy_Report:
+	Not Available
+
+
+               
+	Logical_Consistency_Report:
+	Not Available
+	Completeness_Report:
+	Not Available
+	Lineage:
+
+	Process_Step:
+	
+                     	Process_Description:
+	Not Available
+	Process_Date: Unknown
+                        
+
+
+                  
+
+
+            
+
+
+         
+      Back to Top
+         
+	Spatial_Reference_Information:
+	
+            
+
+         
+
+Back to Top
+         
+	Distribution_Information:
+	
+            	Distributor:
+	
+                  	Contact_Information:
+	
+                        	Contact_Organization_Primary:
+	
+                              	Contact_Organization: ORNL_DAAC > THE OAK RIDGE NATIONAL LABORATORY (ORNL) DISTRIBUTED ACTIVE ARCHIVE CENTER (DAAC)
+                                 
+	Contact_Person: ORNL DAAC USER SERVICES OFFICE 
+                                 
+
+
+                           
+	Contact_Position: DATA CENTER CONTACT
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: ORNL DAAC User Services Office 
+                                 
+	Address: Oak Ridge National Laboratory 
+                                 
+	City: Oak Ridge
+                                 
+	State_or_Province: TN
+                                 
+	Postal_Code: 37831-6407
+                                 
+	Country: USA
+                                 
+
+
+                           
+	Contact_Voice_Telephone: (865) 574-7447
+                           
+	Contact_Electronic_Mail_Address: uso@daac.ornl.gov
+                           
+
+
+                     
+
+
+               
+	Resource_Description: 885
+               
+	Distribution_Liability:
+	Not Available
+	Standard_Order_Process:
+	
+                  	Digital_Form:
+	
+                        	Digital_Transfer_Information:
+	
+                              	Format_Name: Not Available
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://daac.ornl.gov/
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	DATA CENTER URL
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=885...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://daac.ornl.gov//S2K/guides/S2K_MISR_guide.ht...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          SAFARI 2000 MISR LEVEL 2 DATA, SOUTHERN AFRICA, DRY SEASON 2000
+                                          
+                                       
+
+
+                                 
+
+
+                           
+
+
+                     
+	Fees: Not Available
+                     
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Metadata_Reference_Information:
+	
+            	Metadata_Date: 20080627
+               
+	Metadata_Review_Date: 20120719
+               
+	Metadata_Contact:
+	
+                  	Contact_Information:
+	
+                        	Contact_Person_Primary:
+	
+                              	Contact_Person: ORNL DAAC USER SERVICES OFFICE 
+                                 
+
+
+                           
+	Contact_Position: DIF AUTHOR
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: ORNL DAAC User Services Office 
+                                 
+	Address: Oak Ridge National Laboratory 
+                                 
+	City: Oak Ridge
+                                 
+	State_or_Province: TN
+                                 
+	Postal_Code: 37831-6407
+                                 
+	Country: USA
+                                 
+
+
+                           
+	Contact_Voice_Telephone: (865) 574-7447
+                           
+	Contact_Electronic_Mail_Address: uso@daac.ornl.gov
+                           
+
+
+                     
+
+
+               
+	Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+               
+	Metadata_Standard_Version: FGDC-STD-001-1998
+               
+	Metadata_Time_Convention: local time
+               
+
+
+         
+
+Back to Top	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                              
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+        
+    
+
+
+    
+
+
+
+                    
+                    
+                
+
+            
+            
+
+        
+    
+    
+    
+
+    
+
+
+
+
+
+
+
+
+    
+        	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+   
+
+
+
+
+    
+        	
+            
+        
+            + 
+                NASA Privacy Policy and Important Notices 
+
+
+    
+
+    
+    
+        
+            
+                
+        
+
+        	
+                Webmaster:
+                Monica Lyles
+            
+	
+                Responsible NASA Official:
+                Dr. Stephen Wharton
+            
+	Last updated: February 2015
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,48 @@
+
+Detailed Description
+
+	
+
+	Color Key	Case pending	Case closed	Case reopened	QA note
+
+
+
+		
+Large Image
+
+
+
+
+
+
+	
+Case #:PM_MCD12_14190   Opening date:  07/09/14   Last update:  07/09/14 
+Status:  Pending
+
+
+ A bug has been identified in three of the five classification schemes (LAI, BGC, and PFT) released with the Collection 5.1 MCD12Q1 product for all years.  This relates only to the classes of cereal crops and broadleaf crops, which splits the IGBP (12) croplands class into two.  These classes are generated during an independent classification which labeled all croplands as cereal crops for all years 2001-2011 but not 2012.  The classifications for all years including 2012 are not correct and these two classes should not be used in the Collection 5.1 product.  The problem will be resolved in the Collection 6 version of the product.
+	
+
+
+
+
+
+
+
+
+
+
+
+Occurrence:  Collection 5.1, MCD12Q1, Land_Cover_Type_3(LAI), _4(BGC), _5(PFT) year 2001-2012 
+
+PGE: 
+
+
+
+
+
+	
+Large Image
+
+
+

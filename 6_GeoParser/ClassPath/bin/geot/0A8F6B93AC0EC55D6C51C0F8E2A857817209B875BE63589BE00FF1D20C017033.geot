@@ -1,0 +1,350 @@
+
+
+
+
+
+
+
+		
+			
+					
+										
+					
+						NEWS
+						News, features, & press releases
+					
+					
+						MISSIONS
+						Current, future, past missions, & launch dates
+					
+					
+						MULTIMEDIA
+						Images, videos, NASA TV, & more
+					
+					
+						CONNECT
+						Social media channels & NASA apps
+					
+					
+						ABOUT NASA
+						Leadership, organization, budget, careers, & more
+					
+					
+			
+			
+
+			
+
+			
+				blogs.nasa.gov
+
+				
+					
+					Share on email
+						Send
+					
+					
+						Share
+					
+				
+
+			
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+	
+		
+			Liquid Rocket Engines (J-2X, RS-25, general)
+
+			
+					
+
+		
+			Menu
+
+			Skip to content
+				Home
+
+
+
+		
+
+			
+
+	
+	
+		
+
+					
+				Tag Archives: ignition test
+
+
+						
+
+			
+	
+				
+			            
+						
+				J-2X Progress: The Burp Test
+			
+
+						
+			Posted on July 7, 2011 at 3:05 pm by wdgreene.
+			
+					
+
+				
+			
+
+
+On my very first home computer, I had a silly little program — made by the marketers for the Monty Python brand name I believe — that turned the keyboard into collection of funny or disgusting or borderline obscene simulated sounds of bodily functions.  Several keys triggered a variety of sneezing sounds.   Another set of keys activated a broad range of burping sounds.  Another set of keys set off sounds inappropriate for further discussion within a NASA blog.  And, of course, there were handful of sounds that simply left you scratching your head.  I guess that one should feel heartened by the notion that even at a time when the sterile realm of machines seem to be taking over our lives, we still revert to our childish fascination and amusement with the functions of our quirky bodies.  
+
+ 
+
+
+And so, in that light, I give to you the J-2X Burp Test.  No, that is of course not the official name.  The official name is the “J-2X Ignition Test” or, even more formally: Test A2J001.  That really rolls off the tongue doesn’t it?  
+
+
+Etymological dissection of “A2J001″
+     • “A2″ because the test is happening on NASA Stennis Space Center test stand A-2.
+     • “J” to distinguish this from 30 years of Space Shuttle Main Engine Testing data records related  
+        to test stand A-2.
+     • “001” because, well, it’s the first test
+
+
+
+
+
+The first test of the first J-2X development engine will have a duration of 1.9 seconds between the time that the engine receives a command to start and the time that the engine receives a command to shutdown.  That is not a long time.  It is, indeed, not a whole lot more than an extended, impolite belch considering that the engine is designed to ultimately roar for a full eight or ten minutes for full-duration tests.
+
+
+
+So, why do such a seemingly silly little test?  That’s a valid question and the answers back are just as valid.  We have a wide range of objectives for this test.  For example, this will be the first time that cryogenic propellants (liquid oxygen, liquid hydrogen) will have been loaded into the engine and the lowest reaches of the facility feedlines.  Remember, these fluids are so cold that they make metal shrink.  You have to design the engine and the facility to resist or accommodate this thermal stress.  And while you continuously check for leaks as you assemble the engine and the facility, nothing is ever quite like a good cryogenic chill for finding where seals might separate.  
+
+Also, during a chill test you want to make sure that you can get the engine cold.  I know that that sounds funny, but it is possible to have enough ambient heat going back into the metal of the hardware such that it overwhelms the capacity of the cold fluids to take it away.  Essentially what happens is the cryogenic fluids boil when they hit warmer metal.  Boil?  Like water in a pot on the stove?  Yes, but remember that liquid hydrogen boils at about 420 degrees below zero and liquid oxygen boils at about 300 degrees below zero (both Fahrenheit).  What you want is for the hardware to get so cold that the boiling stops.  This is accomplished by continuously flowing new, fresh, cold stuff through the hardware via a bleed line.  During the chill test, you monitor the conditions within the engine and of the fluid coming out of the bleed line.  When you get to a suitably cold, steady state situation, then you’ve successfully chilled the engine.
+
+
+
+Why is this important?  First, you run this test to make sure that you actually can chill the engine.  Not only do you design the engine to run, you have to design it to be able to get to this chilled state during a launch sequence.  Second, the engine needs to be chilled because if you have any boiling liquid in the pumps when it is time to start, that boiling represents voids in the fluid.  The movement of the pump will exacerbate these voids and potentially convert even more of the liquid into gas.  The pumps are not designed to pump gas and so the result is that the engine could go off mixture ratio, or it could fail to start, or it could even head rapidly towards a far more exciting failure situation.  Like a good martini, really chilled is really good.
+
+Next, after the long chill, like a long, filling meal, comes the … BURP … 
+
+The 1.9 ignition test will demonstrate: the use of the helium spin-start system, ignition of the augmented spark igniter and the main injector, and the functioning of the start continue logic software.  Now, explaining one at a time — 
+
+In your automobile, you’ve got an electric motor that, when you turn the key (or push a button these days in some fancy cars), spins the motor to life.  We’ve got essentially the same thing on the J-2X.  There are different ways that this could be accomplished, but one of the cleanest and simplest is to use the inherent functionality of the turbines and provide a burst of power in the form of high-pressure helium.  The helium flows through the turbines, spins up the pumps, and thereby builds pressure throughout the engine making it primed for the rest of the start sequence.  The important features that will be demonstrated with the planned short test is the careful timing of the sequence and the tailoring of the pressure profile supplied to the turbines to yield the desired pressure build up on the other end, in the pumps.
+
+
+
+The augmented spark igniter (ASI) is, effectively, a torch lit off by a pair of spark plugs.  This small hydrogen-oxygen torch resides in the center of the main injector and it is what lights off the propellants in the main chamber during the start sequence.  Just like you don’t start a campfire by holding a match against the biggest log in the pile, the ASI provides the kindling to get the main fire going.  The burp test will demonstrate the effective discharging of our high-tech spark plugs and achieve ignition of the ASI and the main chamber.  They will not be lit for long, but just long enough to characterize the process.
+
+
+
+Just like everything these days, the J-2X and the entire test facility element are run by software.  Streams of 1s and 0s are taking over everything.  And while J-2X does not have an exceptionally complex control system, there are a handful of absolutely critical feedback loops that must function properly.  The “start continue logic” is composed of a set of criteria that tell you, as the engine progresses through the start sequence, that it is okay to continue with the process.  Being not “okay” in this case means that you could be facing a catastrophic situation and that you must halt the engine starting process in order to ensure safety (of the engine, of the test stand, and, in flight, of the vehicle and crew).  Now, for this short test, it is extremely unlikely that we would be building up enough energy to damage much of anything even if things did go awry, but what is important is the demonstration of the closed loop of imposed software limits, measured parameters, the application of software logic, and the confirmation that all is well.  Considering that the engine and test facility is being entirely controlled by a group of people in a secured building that is hundreds of yards away, making sure that you’ve got complete control of the test facility and test article, and complete insight into what’s going on via instrumentation, is pretty darn important.
+
+ 
+
+So, that explains the strategy behind the first test of J-2X E10001.  What we will not be doing is lighting the gas generator.  That would be the next step in the start sequence: spin up the pumps, open the valves, light the main chamber, and then light the gas generator.  We will then be just one step away from ramping up to full power.  We’ll save that step for next test.  
+
+To be entirely frank, this first won’t be very impressive for uninvolved bystanders, it probably won’t even be as much fun for a lot of people as would be the silly/disgusting bodily function sounds on my very first computer, but for those of us down in details, this burp test is a vital full — dress rehearsal before the real fun begins of genuine, mainstage engine testing.  It represents yet another significant milestone on our path towards completing J-2X development.  Go J-2X!
+
+ 
+
+					
+
+		
+		
+			This entry was posted in Uncategorized and tagged A2J001, ignition test, J-2X rocket engine, Marshall Space Flight Center, Stennis Space Center, William Greene on July 7, 2011 by wdgreene.								
+	
+
+		
+		
+
+	
+
+
+			
+			Search this blog
+
+				
+					Search for:
+					
+					
+				
+
+			
+Archives
+			June 2014
+	March 2014
+	January 2014
+	December 2013
+	November 2013
+	October 2013
+	September 2013
+	August 2013
+	July 2013
+	June 2013
+	May 2013
+	January 2013
+	October 2012
+	September 2012
+	August 2012
+	July 2012
+	June 2012
+	May 2012
+	April 2012
+	March 2012
+	February 2012
+	December 2011
+	November 2011
+	October 2011
+	August 2011
+	July 2011
+	June 2011
+	May 2011
+	April 2011
+	March 2011
+	February 2011
+	January 2011
+	December 2010
+	November 2010
+
+
+Tags
+A-2 test stand
+Bill Greene
+burp test
+clamshell
+Direct Metal Laser Sintering
+E10001
+E10002
+engine
+Engine 10001
+engine E10001
+engine thrust
+gimbal bearing
+gimballing
+hydraulic actuators
+induced loads
+Interface Control Document
+J-2X
+J-2X rocket engine
+J2-X rocket engine
+load cells
+Main Combustion Chamber
+Main Combustion Element
+Main Fuel Valve
+Marshall Space Flight Center
+NASA
+Oxidizer Turbine Bypass Valve
+oxidizer turbopump
+powerpack
+Power Pack Assembly
+powerPack Assembly
+Pratt & Whitney Rocketdyne
+RL10 rocket engine
+rocket
+rocket engine
+RS-25
+space launch system
+Space Shuttle Main Engine
+SSME
+Stennis Space Center
+Test Stand A-2
+turbomachinery
+turbopump
+vehicle integration
+William D. Greene
+William Greene
+
+					Authors
+				wdgreene 
+
+								
+
+		
+
+	
+
+	
+	
+	
+	NASA Home
+	
+	NASA Official: Brian Dunbar
+	
+
+	
+		NASA Information on the American Recovery and Reinvestment Act of 2009
+	Budgets, Strategic Plans and Accountability Reports
+	Equal Employment Opportunity Data Posted Pursuant to the No Fear Act
+	Information-Dissemination Policies and Inventories
+
+
+	
+
+	
+		Freedom of Information Act
+	Privacy Policy & Important Notices
+	NASA Advisory Council
+	Inspector General Hotline
+	Office of the Inspector General
+	NASA Communications Policy
+
+
+	
+
+	
+		Contact NASA
+	Site Map
+	USA.gov
+	ExpectMore.gov
+	Open Government at NASA
+	Help and Preferences
+
+
+	
+
+	
+	
+
+	
+
+
+
+
+
+	
+		
+			Press f for fullscreen.
+		
+
+	
+
+	
+	
+
+	
+	
+	
+	
+
+
+
+
+		
+		
+
+		
+	

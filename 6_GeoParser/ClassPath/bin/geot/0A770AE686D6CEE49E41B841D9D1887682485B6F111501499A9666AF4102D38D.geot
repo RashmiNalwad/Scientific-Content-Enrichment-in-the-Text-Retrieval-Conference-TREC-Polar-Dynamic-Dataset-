@@ -1,0 +1,973 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only
+ Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords>ATMOSPHERE>ATMOSPHERIC ELECTRICITY
+
+
+
+	
+            
+
+
+	
+             
+
+
+
+
+
+
+
+
+
+LIS/OTD 0.5 Degree High Resolution Annual Climatology (HRAC)
+
+      Federal Geographic Data Committee (FGDC) Metadata:
+
+      	Identification_Information
+	Data_Quality_Information
+	Spatial_Reference_Information
+	
+               Distribution_Information
+               
+	Metadata_Reference_Information
+
+
+         
+	Identification_Information:
+	
+            	Citation:
+	
+                  	Citation_Information:
+	
+                        	Originator: Unknown
+                           
+	Publication_Date: Unknown
+                           
+	Title: LIS/OTD 0.5 Degree High Resolution Annual Climatology (HRAC)
+                           
+	Edition: 
+	Geospatial_Data_Presentation_Form: 
+	Series_Information: 
+	
+                              	Series_Name: 
+	Issue_Identification: 
+
+
+                           
+	Publication_Information: 
+	
+                              	Publication_Place: 
+	Publisher: 
+
+
+                           
+	Other_Citation_Details: 
+	
+	Online_Linkage: http://ghrc.nsstc.nasa.gov/
+
+
+                     
+
+
+               
+	Description:
+	
+                  	Abstract:
+	
+                        
+                        The product is a 0.5 deg x 0.5 deg gridded composite of total (IC+CG) lightning bulk production, expressed as a flash density
+                        (fl/km2/yr).  Climatologies from the OTD and LIS missions are included, as well as a combined OTD+LIS climatology and supporting
+                        base data (flash counts and viewing times).  Best-available detection efficiency corrections and instrument cross normalizations,
+                        as of the product generation date (09/01/06), have been applied.
+                        
+                        
+                     
+	Purpose:
+	Not Available
+	Supplemental_Information:
+	Not Available
+
+
+               
+	Time_Period_of_Content:
+	
+                  	Time_Period_Information:
+	
+                        	Range_of_Dates/Times:
+	
+                              	Beginning_Date: 19950504
+                                 
+	Ending_Date: 20141231
+                                 
+
+
+                           
+
+
+                     
+	Currentness_Reference:Unknown
+                     
+
+
+               
+	Status:
+	
+                  	Progress: Complete
+                     
+	Maintenance_and_Update_Frequency: As needed
+                     
+
+
+               
+	Spatial_Domain:
+	
+                  	Description_of_Geographic_Extent:
+	
+	Bounding_Coordinates:
+	
+                        	West_Bounding_Coordinate: -180.0
+                           
+	East_Bounding_Coordinate: 180.0
+                           
+	North_Bounding_Coordinate: 90.0
+                           
+	South_Bounding_Coordinate: -90.0
+                           
+
+
+                     
+
+
+               
+	Keywords:
+	
+                  	Theme:
+	
+                        	Theme_Keyword_Thesaurus: GCMD SCIENCE PARAMETERS
+                           
+	Theme_Keyword_Thesaurus: GCMD PLATFORM
+                           
+	Theme_Keyword_Thesaurus: GCMD INSTRUMENT
+                           
+	Theme_Keyword_Thesaurus: PROJECT
+                           
+	Theme_Keyword_Thesaurus: ANCILLARY KEYWORDS
+                           
+	Theme_Keyword_Thesaurus: ISO TOPIC CATEGORY
+                           
+	Theme_Keyword_Thesaurus: DATA SET LANGUAGE
+                           
+	Theme_Keyword: EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC ELECTRICITY > LIGHTNING
+                           
+	Theme_Keyword: MICROLAB-1 > OSC MICROLAB-1 SATELLITE
+                           
+	Theme_Keyword: TRMM > TROPICAL RAINFALL MEASURING MISSION
+                           
+	Theme_Keyword: LIS > LIGHTNING IMAGING SENSOR
+                           
+	Theme_Keyword: OTD > OPTICAL TRANSIENT DETECTOR
+                           
+	Theme_Keyword: EOSDIS > EARTH OBSERVING SYSTEM DATA INFORMATION SYSTEM
+                           
+	Theme_Keyword: ESIP > EARTH SCIENCE INFORMATION PARTNERS PROGRAM
+                           
+	Theme_Keyword: CWIC > CEOS WGISS INTEGRATED CATALOG
+                           
+	Theme_Keyword: LIS SCF > LIGHTNING IMAGING SENSOR SCIECE COMPUTING FACILITY
+                           
+	Theme_Keyword: Eosdis
+                           
+	Theme_Keyword: CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                           
+	Theme_Keyword: ENGLISH
+                           
+
+
+                     
+
+
+               
+	Access_Constraints: 
+                  none
+                  
+               
+	Use_Constraints:
+	Not Available
+	Point_of_Contact:
+	
+                  	Contact_Information:
+	
+                        	Contact_Person_Primary:
+	
+                              	Contact_Person: DANIEL CECIL 
+                                 
+
+
+                           
+	Contact_Position: INVESTIGATOR
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: Global Hydrology and Climate Center 
+                                 
+	Address: 320 Sparkman Dr 
+                                 
+	City: Huntsville
+                                 
+	State_or_Province: AL
+                                 
+	Postal_Code: 35805
+                                 
+	Country: USA
+                                 
+
+
+                           
+	Contact_Voice_Telephone: 256-961-7549
+                           
+	Contact_Electronic_Mail_Address: daniel.j.cecil@nasa.gov
+                           
+
+
+                     
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Data_Quality_Information:
+	
+            	Attribute_Accuracy:
+	
+                  	Attribute_Accuracy_Report:
+	Not Available
+
+
+               
+	Logical_Consistency_Report:
+	Not Available
+	Completeness_Report:
+	Not Available
+	Lineage:
+
+	Process_Step:
+	
+                     	Process_Description:
+	Not Available
+	Process_Date: Unknown
+                        
+
+
+                  
+
+
+            
+
+
+         
+      Back to Top
+         
+	Spatial_Reference_Information:
+	
+            
+
+         
+
+Back to Top
+         
+	Distribution_Information:
+	
+            	Distributor:
+	
+                  	Contact_Information:
+	
+                        	Contact_Organization_Primary:
+	
+                              	Contact_Organization: NASA/MSFC/GHRC > Global Hydrology Resource Center, Marshall Space Flight Center, NASA
+                                 
+	Contact_Person: GHRC USER SERVICES OFFICE 
+                                 
+
+
+                           
+	Contact_Position: DATA CENTER CONTACT
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: GHRC User Services Office 
+                                 
+	Address: Global Hydrology Resource Center (GHRC) 
+                                 
+	Address: 320 Sparkman Drive 
+                                 
+	City: Huntsville
+                                 
+	State_or_Province: AL
+                                 
+	Postal_Code: 35805
+                                 
+	Country: USA
+                                 
+
+
+                           
+	Contact_Voice_Telephone: 256-961-7932
+                           
+	Contact_Facsimile_Telephone: 256-961-7859
+                           
+	Contact_Electronic_Mail_Address: ghrcdaac@itsc.uah.edu
+                           
+
+
+                     
+
+
+               
+	Resource_Description: lohrac
+               
+	Distribution_Liability:
+	Not Available
+	Standard_Order_Process:
+	
+                  	Digital_Form:
+	
+                        	Digital_Transfer_Information:
+	
+                              	Format_Name: HDF
+                                 
+	Transfer_Size: 205 Mb
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://ghrc.nsstc.nasa.gov/
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	DATA CENTER URL
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://ghrc.nsstc.nasa.gov/hydro/details.pl?ds=loh...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://reverb.echo.nasa.gov/reverb/#utf8=%E2%9C%93...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          Refine your granule search with ECHO's next generation Earth Science discovery tool (Reverb) using information from this record.
+                                          
+                                       
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://lightning.nsstc.nasa.gov/data
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://ghrc.nsstc.nasa.gov/uso/ds_docs/lis_climato...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	ftp://ghrc.nsstc.nasa.gov/pub/doc/lis_climatology/...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://dx.doi.org/10.1016/j.atmosres.2012.06.028
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	ftp://ghrc.nsstc.nasa.gov/pub/doc/lis_climatology/...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	ftp://ghrc.nsstc.nasa.gov/pub/doc/lis_climatology/...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://dx.doi.org/10.5067/LIS/LIS-OTD/DATA301
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+
+
+                                 
+
+
+                           
+
+
+                     
+	Fees: None
+                     
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Metadata_Reference_Information:
+	
+            	Metadata_Date: 
+	Metadata_Review_Date: 20150130
+               
+	Metadata_Contact:
+	
+                  	Contact_Information:
+	
+                        	Contact_Person_Primary:
+	
+                              	Contact_Person: SHERRY HARRISON 
+                                 
+
+
+                           
+	Contact_Position: DIF AUTHOR
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: 320 Sparkman Dr. 
+                                 
+	City: Huntsville
+                                 
+	State_or_Province: AL
+                                 
+	Postal_Code: 35805
+                                 
+	Country: USA
+                                 
+
+
+                           
+	Contact_Voice_Telephone: 256-961-7973
+                           
+	Contact_Electronic_Mail_Address: ghrcdaac@itsc.uah.edu
+                           
+
+
+                     
+
+
+               
+	Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+               
+	Metadata_Standard_Version: FGDC-STD-001-1998
+               
+	Metadata_Time_Convention: local time
+               
+
+
+         
+
+Back to Top	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                              
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+        
+    
+
+
+    
+
+
+
+                    
+                    
+                
+
+            
+            
+
+        
+    
+    
+    
+
+    
+
+
+
+
+
+
+
+
+    
+        	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+   
+
+
+
+
+    
+        	
+            
+        
+            + 
+                NASA Privacy Policy and Important Notices 
+
+
+    
+
+    
+    
+        
+            
+                
+        
+
+        	
+                Webmaster:
+                Monica Lyles
+            
+	
+                Responsible NASA Official:
+                Dr. Stephen Wharton
+            
+	Last updated: February 2015
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+

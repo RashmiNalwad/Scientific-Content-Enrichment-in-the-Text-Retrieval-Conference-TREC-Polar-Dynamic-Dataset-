@@ -1,0 +1,851 @@
+
+
+  	Skip Navigation
+	User Sidebar
+
+
+
+ 
+
+
+  
+    
+  
+  
+  
+
+    
+
+
+
+
+  
+      
+      
+       
+
+
+
+	
+    
+
+ 
+
+	
+    
+    
+
+
+	
+	
+	
+	
+	
+		
+		
+			
+		
+		
+			
+		
+		
+
+			Home
+	Projects
+					Browse All
+
+
+			
+	Research Areas
+					
+    Atmospheric Composition
+  
+	
+    Weather
+  
+	
+    Climate Variability & Change
+  
+	
+    Water & Energy Cycles
+  
+	
+    Carbon Cycle & Ecosystems
+  
+	
+    Earth Surface & Interior
+  
+
+
+			
+	Resources
+					Browse All
+	Algorithms
+	Datasets
+	Publications
+	Other
+
+
+			
+	User Help
+					User Guide
+							Webpage
+	PDF, MS docx
+
+
+					
+	Help Center
+	NEX Facts
+	User Documentation
+
+
+
+			
+	Members
+					Browse All
+
+
+			
+	
+			
+				
+					Login
+						
+							Login: NASA/NDC
+
+						
+	Login: Non-NASA users
+	Register
+
+
+				
+			
+			
+	
+				
+				
+					
+					
+				
+
+				
+
+			
+
+ 
+
+		
+	
+		
+
+
+      
+
+
+    
+
+
+    
+    
+
+ 
+
+ 
+
+  
+    
+      
+  
+  
+  
+  
+    WELD - Web Enabled Landsat Data
+    
+  
+
+  
+
+
+      
+    
+
+
+    
+      
+        
+          
+	
+		
+	Home
+	
+    Resources
+	
+    Members 
+
+
+
+
+
+
+
+          
+
+                
+
+
+	
+
+	
+  
+	  
+	
+		
+        
+			
+				
+
+  
+    
+    
+  	  
+    
+    edit thumbnail
+    
+
+
+  	
+  	  Resources
+      
+    
+	
+     
+       
+
+       
+
+       
+
+       
+       1 Others
+       
+     
+    
+	
+  	  Related Research Areas
+      
+    
+	
+    
+     Carbon Cycle & Ecosystems
+    
+    
+
+
+
+
+
+
+  
+    Since January 2008, the U.S. Geological Survey has been providing free terrain-corrected and radiometrically calibrated Landsat data via the Internet. This revolutionary data policy provides the opportunity to use all the data in the U.S. Landsat archive and to consider the systematic utility of Landsat data for long-term large-area monitoring.
+
+The NASA funded Web-enabled Landsat Data (WELD) project is systematically generating 30m composited Landsat Enhanced Thematic Mapper Plus (ETM+) mosaics of the conterminous United States and Alaska from 2005 to 2012. The WELD products are developed specifically to provide consistent data that can be used to derive land cover as well as geophysical and biophysical products for regional assessment of surface dynamics and to study Earth system functioning.  The WELD products are free and are available via the internet.
+
+The WELD products are processed so that users do not need to apply the equations and spectral calibration coefficients and solar information to convert the ETM+ digital numbers to reflectance and brightness temperature, and successive products are defined in the same coordinate system and align precisely, making them simple to use for multi-temporal applications. They provide the first instance of continental-scale science-quality Landsat data with a level of pre-processing comparable to the NASA MODIS land products.
+
+Funded by NASA NNH06ZDA001N Making Earth System data records for Use in Research Environments (MEASURES).
+
+
+
+WELD WEB SITE: http://globalmonitoring.sdstate.edu/projects/weld/
+
+GeoTIFF format WELD products are available in user defined regions via the What You See Is What You Get (WYSIWYG) WELD Internet distribution interface at http://weld.cr.usgs.gov
+
+HDF tiled WELD products are available via anonymous FTP at ftp://weldftp.cr.usgs.gov/
+
+    
+  
+
+  
+
+
+
+
+  
+
+
+
+									
+			
+		
+
+        
+
+		
+			
+  
+
+Tags
+
+
+  
+    	Everyone's Tags	
+         
+       
+
+
+  
+
+
+
+  
+
+
+
+
+  
+  Popular Resources
+
+  
+    
+    
+      
+
+
+  
+    	
+  
+  
+  
+    
+      
+        
+            
+      
+    
+  
+
+
+  
+
+
+  
+    
+      
+        
+           Web Sites
+           
+           
+             
+           
+        
+      
+
+   
+
+    Other,
+    
+      WELD - Web Enabled Landsat Data
+    
+     - 3 years, 11 months ago
+   
+
+
+      
+        WELD WEB SITE: http://globalmonitoring.sdstate.edu/projects/weld/ GeoTIFF format WELD products are available in user defined regions via the What You See Is What You Get (WYSIWYG) WELD ...
+      
+
+      
+      
+        
+      
+
+      
+      
+        
+      
+    
+    
+ 
+  
+
+
+
+
+
+  
+
+
+
+ 
+    
+     
+  
+ 
+  Discussions
+
+  
+  
+
+
+
+
+
+
+
+
+
+  	
+      
+        
+          
+          
+          
+        
+      
+
+
+      
+        
+          David Roy, 3 years, 11 months
+          
+
+          
+            
+Currently attempting to prototype GLOBAL WELD processing on the NEX.
+
+                  
+        
+
+      
+
+
+      
+
+    
+
+
+  
+
+
+
+
+
+
+    
+
+
+  
+  
+  
+
+	
+	
+
+
+        
+
+
+        
+          
+  
+
+
+  
+
+  Project Highlight
+
+  
+    
+      9 members / 1 resources
+
+      Started: Mar 18, 2011
+
+      Last Activity: Mar 18, 2011
+
+    
+
+        
+    Admin:
+
+    	david-roy
+
+       
+     
+  
+
+
+
+  
+
+  What can I do on this project?
+  	Any registered users can join
+	Anybody can view this project
+	Any registered users can leave comments
+	Anybody can view comments
+
+
+
+
+  
+
+   
+    
+      New Member
+
+      
+        	
+  
+  
+   
+    
+  
+
+  
+    
+      Stacie Doman Bennett
+    
+  
+
+
+	Joined 1 year, 8 months ago
+
+
+      
+
+    
+
+    
+
+  
+
+
+
+  Related Projects
+
+  
+    	
+      
+         
+          
+        
+      
+
+      
+      
+        Estimation of Regional CO2 ...
+        1 members
+
+                     
+      
+
+    
+	
+      
+         
+         
+        
+      
+
+      
+      
+        Understanding And Predicting Continental-Scale ...
+        4 members
+
+                     
+      
+
+    
+	
+      
+         
+          
+        
+      
+
+      
+      
+        Advanced Remote Sensing to ...
+        3 members
+
+                     
+      
+
+    
+
+
+  
+
+
+
+
+
+  
+
+
+  Need help?
+
+  Visit our help center
+
+
+
+
+        
+ 
+      
+
+    
+
+    
+  
+
+  People in This Project Are Also In
+
+  prev
+   
+    
+      	
+  
+     
+                        
+       
+     
+
+     
+                    
+  
+    Anomaly Detection and Analysis Framework for ...
+  
+
+  
+
+	
+  
+     
+                        
+       
+     
+
+     
+                    
+  
+    Terrestrial Observation and Prediction System...
+  
+
+  
+
+	
+  
+     
+                        
+       
+     
+
+     
+                    
+  
+    Global Data Set of Leaf Area Index Derived Fr...
+  
+
+  
+
+	
+  
+     
+     
+       
+     
+
+     
+                    
+  
+    TOPS: Extending access to NASA data and model...
+  
+
+  
+
+
+
+          	
+  
+     
+                        
+       
+     
+
+     
+                    
+  
+    Terrestrial Biomass Pilot Product: Estimating...
+  
+
+  
+
+	
+  
+     
+                        
+       
+     
+
+     
+                    
+  
+    Distributed Anomaly Detection for Vertically ...
+  
+
+  
+
+	
+  
+     
+                        
+       
+     
+
+     
+                    
+  
+    Distributed Nearest Neighbors Algorithm
+  
+
+  
+
+	
+  
+     
+                        
+       
+     
+
+     
+                    
+  
+    Gaussian Process Regression for Virtual Sensors
+  
+
+  
+
+
+
+          	
+  
+     
+                        
+       
+     
+
+     
+                    
+  
+    Interpretation of Satellite-measured Greennes...
+  
+
+  
+
+	
+  
+     
+                        
+       
+     
+
+     
+                    
+  
+    NEX Documentation Project
+  
+
+  
+
+	
+  
+     
+                        
+       
+     
+
+     
+                    
+  
+    2012 Summer Short Course for Earth System Mod...
+  
+
+  
+
+	
+  
+     
+                        
+       
+     
+
+     
+                    
+  
+    NEX Facts
+  
+
+  
+
+
+
+          
+
+    
+
+  
+
+  next
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+  
+    
+  
+    
+    Home >    
+    
+
+  
+
+
+  
+
+  	About NEX
+	Help Center
+	Contact Us
+	Report Abuse
+
+
+
+  	Privacy Policy and Notices
+	Terms and Conditions
+
+
+
+  	Responsible NASA official: Ramakrishna Nemani
+
+
+  
+
+
+
+
+  
+
+  
+
+
+
+

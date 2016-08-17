@@ -1,0 +1,3 @@
+1)	Install Beautiful Soup 4.4.1. Beautiful Soup is a Python library designed for quick turnaround projects like screen-scraping. Beautiful Soup provides a few simple methods and Pythonic idioms for navigating, searching, and modifying a parse tree: a toolkit for dissecting a document and extracting what we need.
+2) The package grobid.src.main contains Scholar.java. This code extracts all the related publications based on particular author, and based on the title of the publication. This takes TEI Metadata extracted by grobid as input and provides extracted related publications as output.
+===========================================================================================================================

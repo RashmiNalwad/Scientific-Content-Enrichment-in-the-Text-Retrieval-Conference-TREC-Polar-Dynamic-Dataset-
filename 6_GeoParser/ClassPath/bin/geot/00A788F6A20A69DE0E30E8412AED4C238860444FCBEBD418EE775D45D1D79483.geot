@@ -1,0 +1,491 @@
+
+        
+                    
+            
+                NASA
+                Earth Observatory
+                	Home
+	Images
+	Global Maps
+	Features
+	News & Notes
+
+
+
+                
+                    
+                                        
+                    
+
+                
+
+            
+
+        
+
+
+        
+
+            
+
+                
+
+                    
+                        
+                        
+                                                
+                            
+                                
+Home / Blogs / Notes from the Field  /  A Line of Snow in a Cold Spring Shower
+                                
+
+
+                        
+
+
+
+
+
+    
+
+    
+        
+            A Line of Snow in a Cold Spring Shower
+
+            May 2nd, 2013  by Walt Petersen
+                
+            
+
+    
+    
+    
+       
+    
+    
+
+
+
+            
+
+
+            
+                Our forecasters at Iowa State, and I believe via the National Weather Service, are calling this a “once in a career storm.” The heavy snow in central Iowa—really, almost on top of us right now, is the reason. We ran NPOL all night long with the D3R radar in cold rain that started around 2 a.m. I awoke to some ice pellets this morning around 5 a.m. in my hotel room and then wind-driven rain. The wind has been blowing a steady 25 to 30 mph.
+
+We had some funny things happen with the antenna last night. Wind stopped it a few times in big gusts; it is a big 28-foot “sail” after all, and then we had some miscommunication between the antenna controller and the software that controls scanning. The radar scientist on duty, Dr. Timothy Lang, came up with a good work-around. His solution was to run constant “PPI volumes,” which basically do a full 360 degree sweep at several elevation angles. This enabled us to keep collecting good data and to do it at our sub-3 minute cycle time. We set that time as the outside limit on how frequently we wanted to fully sample the rainfall field around us.
+
+We got the antenna situation repaired this morning, and I was able to go back into alternate rain scan vs. range-height scanning mode with the D3R, so that we sample both the rain field and the structure of the precipitation with height at very high resolution along our ray of disdrometers and rain gauges that stretch in a line toward Iowa City.
+
+May 2, 2013. A radar image similar to what you’d see in a weather report. Precipitation appears in colors ranging from light rain (blue to green) to heavier precipitation (yellow to red). Credit: NPOL radar / NASA
+
+
+One thing that is really impressive is the change in precipitation type, and the rapid drop in the height of the freezing level we are seeing as one moves west of the radar. This is illustrated nicely in the dual-polarimetric data that the radar collects. The first image (above) shows an example of the radar reflectivity field that we saw around 15:15 UTC (or 10:15 local time). This variable is typically what your TV Meteorologist shows you on the evening newscast. Notice the band of higher reflectivity just to the west of the radar that indicates heavier rain.
+
+Now the second image (below) shows a variable called the “correlation coefficient” or, RHOHV. This variable takes the signal at both the horizontal and vertical polarizations and computes their correlation at each range sample along all the rays. It is a sensitive measure of the degree to which you have a mixture of liquid and frozen precipitation particles in a given sample volume.
+
+May 2, 2013. This radar image combines two measurements to show what the mixture of liquid and ice is in the precipitation. Bright pink is liquid rain. Yellow to red shows that snow and ice are mixed with the rain. The line of this rain-snow mix stretches from the southwest (bottom left) to the northeast (top right) of the NPOL radar. Credit: NPOL radar / NASA
+
+
+Raindrops are usually very highly correlated and values will typically exceed 0.98 or so. However, when you get a mixture of snow and rain, the correlation drops rapidly. You can see this rapid drop in correlation to the west of the radar along the narrow line yellowish to orange colors (embedded in the solid pinkish colors of high RHOHV) that extend in a line from southwest of the radar up to the northeast of the radar. That is where the infamous rain-snow line is located in Central Iowa. We await the arrival of that line over NPOL—though it is only progressing eastward very slowly.
+
+Dave Wolff is a radar scientist at NASA Wallops. He is monitoring the radar data inside the science trailer on site at Traer, Iowa. Credit: Walt Petersen / NASA
+
+
+Dave Wolff (above), my companion Radar Scientist this week, and also from NASA Wallops, has done a great job of getting some of our NPOL imagery online in real time, so that is a big help to the field operations. It seems that most of the equipment and networking is working- a testament to the hard work several of these folks are putting in.
+
+I must say though, right now I am most anxiously awaiting a hot cup of coffee which one of our Radar Engineers has graciously offered to grab for me on his lunch run.
+
+From May 1 to June 15, NASA and Iowa Flood Center scientists from the University of Iowa will measure rainfall in eastern Iowa with ground instruments and satellites as part of a field campaign called Iowa Flood Studies (IFloodS). They will evaluate the accuracy of flood forecasting models and precipitation measurements from space with data they collect. Walt Petersen, a scientist based at NASA’s Wallops Flight Facility, is the Ground Validation Scientist for the Global Precipitation Measurement (GPM) mission.
+
+
+                
+                
+                    
+                        This entry was posted
+                        on Thursday, May 2nd, 2013 at 5:21 pm                        and is filed under Iowa Flood Studies.
+                        You can follow any responses to this entry through the RSS 2.0 feed.
+
+                            Both comments and pings are currently closed.
+
+
+                    
+                
+
+
+            
+
+
+        
+
+
+    
+
+
+
+    6 Responses to “A Line of Snow in a Cold Spring Shower”
+
+
+    
+        
+
+        
+
+    
+
+
+    	
+				
+				
+						Dorian Janney says:		
+
+		
+		
+			May 3, 2013 at 12:23 pm		
+
+
+		This is really interesting stuff- fun to “be with you” as you explain the ins and outs of data collection.  Thanks for making time to write this up!
+
+
+		
+				
+
+		
+	
+				
+				
+						Jim in IA says:		
+
+		
+		
+			May 3, 2013 at 2:06 pm		
+
+
+		I am enjoying this series of posts. I learned something about the dual polarization radar and correlation coef.
+
+Thanks for the posts… Jim
+
+
+		
+				
+
+			
+				
+				
+						Richard Ma says:		
+
+		
+		
+			May 29, 2013 at 10:36 am		
+
+
+		Nice post series.
+
+The most interested part I learnt from these post is the determination of mixture of raindrop-showflakes with correlation coefficient among the particles.  But how it works? multiple-particales comparisons?
+
+
+		
+				
+
+			
+				
+				
+						Walt Petersen says:		
+
+		
+		
+			May 31, 2013 at 9:14 am		
+
+
+		Richard,
+
+The correlation coefficient that the radar measures is essentially a correlation between the horizontally polarized and vertically polarized returns.  For a collection of uniformly-shaped rain drops, you can imagine that the correlation between the two returns will almost always be very close to one (in fact, it is typically 0.98 or better).  However, if you now through a mixture of particle types, sizes and shapes into the pulse volume, the correlation between the two returns decreases because the scattering at the two polarizations gets more complex when interacting with different particle shapes and phases (e.g., liquid water….frozen/snow etc.).  So, what we see is a marked decrease in the correlation coefficient where the mixture occurs.  The decrease is especially pronounced when there are both liquid and frozen particles (e.g., melting snow, or snow mixed with rain, wet hail etc.).  
+
+Hope that helps,
+
+Walt
+
+
+		
+				
+
+		
+
+
+
+
+
+
+	
+				
+				
+						Michael says:		
+
+		
+		
+			May 4, 2013 at 3:37 pm		
+
+
+		How are the different types of precipitate detected ?  Do they reflect different wave-length differently ?  Is this the result of a fourier-analysis ?
+
+And what are the artefacts at North-West by West on the map ?
+
+sincerely Michael
+
+
+		
+				
+
+		
+	
+				
+				
+						Walt Petersen says:		
+
+		
+		
+			May 8, 2013 at 1:30 pm		
+
+
+		Hi Folks- thanks for the nice comments and the questions.  Let’s see If I can address Michael’s question.
+
+1.  Detecting precip:  Each pulse of microwave radiation we send out is scattered by the volume of rain, snow or ice we are looking at.  The “volume” of each pulse is determined by the beam width of the radar (about 1 Degree) adn the lenght of the pulse we transmit (about 120 meters).  At a range of roughly 60 km, the pulse volume is out 1000 m wide by 120 m deep.  So, there are huge numbers of precpitation particles in that single volume.  In order to make sure we have a really good representation of the scattering from all those precipitation particles in the volume, we then collect about 60 different pulses from that one volume, and then repeat that for every pulse volume along an individual ray out to about 150 km from the radar.  The radiation scattered back to the radar by the precipitation in that volume does indeed “reflect” differently depending on wavelength- and we use that information to say something more specific about both the size and type of precipitation.  The processing of the data does sometimes invovle Fourier Transforms, but we also use a technique based on Autocorrelation (Pulse Pair Processing).  You can google those for more info (too much to include in here).
+
+The “artifacts” to the north and west that I *think* you are referring to are missing regions where the low-level beams are blocked by a clump of trees located northwest of the radar.  We just can’t see through them…………………..
+
+Hope that addresses your questions.
+
+Walt P.
+
+
+		
+				
+
+		
+
+
+
+    
+        
+
+        
+
+    
+
+    
+
+
+
+    
+    
+
+
+
+
+
+
+
+Notes from the Field
+
+
+	« Waiting for the Rain near Traer, Iowa
+	Spring Data Collection Features a Winter Mix »
+
+
+
+
+
+
+
+
+                            
+
+
+                        
+
+                        
+
+                    
+
+
+                
+
+
+                
+
+
+
+Notes from the Field
+
+
+	Browse by Expedition
+	Operation IceBridge: Antarctic 2014
+
+	Hurricane and Severe Storm Sentinel (HS3) 2014
+
+	NASA in Alaska 2014
+
+	Ship-Aircraft Bio-Optical Research (SABOR)
+
+	LARGE (The Langley Aerosol Research Group Experiment) 2014
+
+	South Pacific Bio-optics Cruise 2014
+
+	GPM in Japan, the Road to Launch
+
+	Operation IceBridge: Antarctic 2013
+
+	Greenland Surface Melt Study 2013
+
+	Iowa Flood Studies
+
+	Greenland Aquifer Expedition
+
+	Landsat 8 Launch 2013
+
+	Salinity Processes in the Upper Ocean Regional Study (SPURS)
+
+	Siberia 2012 – Embenchime River Expedition
+
+	Soil Moisture Active Passive (SMAP)
+
+	Pine Island Glacier 2011
+
+	SEAT: Satellite Era Accumulation Traverse
+
+	Eco3D: Exploring the Third Dimension of Forest Carbon
+
+	Real-time Observations of Greenland's Under-ice Environment (ROGUE)
+
+	Operation IceBridge: Arctic 2011
+
+	MABEL: Spring 2011
+
+	The Western Siberia Expedition 2010
+
+	Urban Aerosols: Who CARES?
+
+	Global Hawk Pacific (GLOPAC)
+
+	The Uphill Road to Measuring Snow
+
+	North Woods, Maine 2009
+
+	Journey to Galapagos
+
+	Expedition to Siberia 2007
+	Siberia 2008 Kotuykan River Expedition
+
+
+
+	Browse by Date
+	February 2015
+	January 2015
+	December 2014
+	November 2014
+	October 2014
+	September 2014
+	August 2014
+	July 2014
+	May 2014
+	April 2014
+	March 2014
+	February 2014
+	January 2014
+	December 2013
+	November 2013
+	October 2013
+	June 2013
+	May 2013
+	April 2013
+	March 2013
+	February 2013
+	October 2012
+	September 2012
+	August 2012
+	July 2012
+	June 2012
+	May 2012
+	February 2012
+	January 2012
+	December 2011
+	November 2011
+	October 2011
+	September 2011
+	August 2011
+	May 2011
+	April 2011
+	March 2011
+	February 2011
+	August 2010
+	July 2010
+	June 2010
+	April 2010
+	March 2010
+	February 2010
+	September 2009
+	August 2009
+	July 2009
+
+
+
+
+
+
+	 RSS
+	Entries (RSS)
+	Comments (RSS)
+
+
+
+
+                    
+                        Subscribe Today
+                        
+                        
+                        
+
+                    
+
+                
+
+
+                
+
+
+            
+
+
+        
+
+
+        
+            
+                
+                    
+                    
+                    
+                    
+                
+ 
+                
+                    Subscribe Today
+                
+              
+                
+                    	Feeds
+	Contact Us
+	About the Earth Observatory
+	Image Use Policy
+	Privacy Policy & Important Notices
+
+
+                    The Earth Observatory is part of the EOS Project Science Office located at NASA Goddard Space Flight Center
+
+                    webmaster: Paul Przyborski | NASA official: Charles Ichoku
+                
+ 
+            
+ 
+        
+ 
+
+    

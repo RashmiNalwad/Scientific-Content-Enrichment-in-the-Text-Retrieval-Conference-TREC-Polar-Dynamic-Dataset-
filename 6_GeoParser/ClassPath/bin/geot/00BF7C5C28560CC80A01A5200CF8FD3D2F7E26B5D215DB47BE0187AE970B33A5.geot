@@ -1,0 +1,2159 @@
+
+
+
+
+	 
+        
+
+	
+            
+                	
+            
+                
+	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                
+
+
+
+
+
+        
+        	 
+                
+        
+                
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Agriculture
+	
+
+	
+		
+	
+		Atmosphere
+	
+
+	
+		
+	
+		Biological Classification
+	
+
+	
+		
+	
+		Biosphere
+	
+
+	
+		
+	
+		Climate Indicators
+	
+
+	
+		
+	
+		Cryosphere
+	
+
+	
+		
+	
+		Human Dimensions
+	
+
+	
+		
+	
+		Land Surface
+	
+
+	
+		
+	
+		Oceans
+	
+
+	
+		
+	
+		Paleoclimate
+	
+
+	
+		
+	
+		Solid Earth
+	
+
+	
+		
+	
+		Spectral/Engineering
+	
+
+	
+		
+	
+		Sun-Earth Interactions
+	
+
+	
+		
+	
+		Terrestrial Hydrosphere
+	
+
+	
+	
+
+	
+		
+Data Centers
+
+	
+		 
+Locations
+
+	
+		
+Instruments
+
+	
+		
+Platforms/Sources
+
+	
+		
+Projects
+
+
+
+
+
+
+
+                
+                
+                	
+                    	
+	
+	
+
+
+                    
+                    	
+                            	
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+Record Search Query:
+Science Keywords>LAND SURFACE>LAND TEMPERATURE>LAND SURFACE TEMPERATURE
+
+
+	
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        
+            
+                MODIS/Aqua Land Surface Temperature/Emissivity 5-Min L2 Swath 1km V041
+            
+        
+
+        
+        
+            Entry ID:
+            
+                MYD11_L241
+            
+            
+
+            
+
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+        
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                
+                    
+                    
+                        Update this Record
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+        
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            The MODIS/Aqua version-041 (V41) products use a modified version-4 (V4) LST algorithm and version-5 (V5) data inputs. The V41 products primarily address underestimation problems in the V5 Climate Modeling Grid (CMG) products. Recent validation activities reveal that the V5 CMG products underestimate LSTs up to 6K especially in desert and semi-arid regions. The production date for this collection  ... starts from MODIS/Aqua data acquisition date 2007-001. This beginning date is driven by the availability of the MODIS V5 data inputs (level-1B radiance data, geolocation data, cloud mask, atmospheric profiles, and land and snow cover data). 
+ 
+ The MODIS/Aqua V41 level-2 LST/E data (Short name: MYD11_L2) incorporate 1-km pixels, which are produced daily at 5-minute increments using the generalized split-window LST algorithm. This algorithm is optimally used to separate ranges of atmospheric column water vapor and lower boundary air surface temperatures into tractable sub-ranges. The surface emissivities in bands 31 and 32 are estimated from land cover types. 
+ 
+ The V41 MYD11_L2 data set comprises swath data obtained in 5-minute sensor collection periods, and includes the following Science Data Set (SDS) layers: LST, quality control assessment, error estimates, bands 31 and 32 emissivities, zenith angle of the pixel view, observation time, and the geographic coordinates for every five scan lines and samples. Produced daily, MYD11_L2 is an unprojected level-2 data set, which provides the input for the level-3 products. 
+ 
+ The V41 Aqua/MODIS LST/E products, including MYD11_L2 are validated to Stage-1. Further details regarding MODIS land product validation for the LST/E products is available from the following URL: http://landval.gsfc.nasa.gov/ProductStatus.php?ProductID=MYD11 
+ 
+ The V41 MYD11_L2 product’s acquisition range started January 1, 2007 (2007-001) and will continue until the V6 reprocessing completes in late 2010. The V41 LST products from 2007-001 will remain consistent with similar products from V4, and hence are amenable to combine them in a time series analysis. Users should exercise caution, and not mix the V4.x (i.e., V4 and V41) and V5 LST products in their analysis. 
+ 
+ V041 Data Set Characteristics: 
+ Area: ~2330 km x 2000 km lat/long 
+ Image Dimensions: 2030 x 1354 rows/columns 
+ File Size: ~26 MB 
+ Resolution: 1000 meters 
+ Projection: None (swath data) 
+ Data Format: HDF-EOS 
+ Science Data Sets (SDS HDF Layers): 9 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+    
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    REVERB
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Interface to search, discover, and access EOS data products, and invoke available data services. 
+                            
+
+                        
+                        
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    ON-LINE ARCHIVE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                LP DAAC Data Pool provides direct access to all currently available MODIS products and the ability to download them via HTTP. 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                USGS EarthExplorer (EE) provides users the ability to query, search and order archived ASTER and MODIS products available from the LP DAAC. Registered users of EE have access to additional features than guest users. 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                 > 
+                                                    LANCE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Near real-time (NRT) data are available from MODAPS for certain Aqua and Terra MODIS L0, L1, L2, L2G, and L3 products. Whereas the standard MODIS forward processing acquires 2-hour L0 files for Aqua and Terra from EDOS within 7-8 hours of real time, LANCE-MODIS acquires session-based L0 files from EDOS and the end of the session is available within 10-30 minutes after real time. 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                The Land Processes Distributed Active Archive Center (LP DAAC) is one of several discipline-specific data centers within the NASA Earth Observing System Data and Information System (EOSDIS). The LP DAAC Web page provides information about available data products, services, documentation, order interfaces, and tools. 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                The MODIS Land home page is maintained through NASA's Goddard Space Flight Center and documents various aspects of the land component of the MODIS mission. 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Detailed product descriptions and additional information including links for data access, user guides, and customer support, etc. 
+                            
+
+                        
+                        
+                        
+                    
+                    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 81.0
+                                
+                            	 	
+                                
+                                    S: -81.0
+                                
+                            	 	
+                                
+                                    E: 180.0
+                                
+                            	 	
+                                
+                                    W: -180.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            Land Processes Distributed Active Archive Center (LP DAAC)
+                        
+
+                    
+
+                    
+                        
+                            Dataset Title: 
+                            MODIS/Aqua Land Surface Temperature/Emissivity 5-Min L2 Swath 1km V041
+                        
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Release Place: 
+                            Sioux Falls, South Dakota, USA
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            U.S. Geological Survey
+                        
+
+                    
+
+                    
+
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        https://lpdaac.usgs.gov
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        2007-01-01
+                    
+
+                
+                
+                
+                
+            
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > GLOBAL
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Data Resolution
+
+        
+        
+        
+            
+            
+
+            
+                Latitude Resolution:
+                1 km
+                
+
+            
+
+            
+                Longitude Resolution:
+                1 km
+                
+
+            
+
+            
+                Horizontal Resolution Range:
+                1 km - < 10 km or approximately .01 degree - < .09 degree
+                
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+                
+
+                
+                
+
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                LAND SURFACE
+                            
+                            
+                                >
+                                LAND TEMPERATURE
+                            
+                            
+                                >
+                                LAND SURFACE TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                LAND SURFACE
+                            
+                            
+                                >
+                                SURFACE RADIATIVE PROPERTIES
+                            
+                            
+                                >
+                                EMISSIVITY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOSCIENTIFIC INFORMATION
+                        
+                    
+
+                    
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    AQUA
+                                    
+                                        >
+                                        Earth Observing System, AQUA
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+                        
+                    
+                    
+                
+
+
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            MODIS
+                            
+                                >
+                                Moderate-Resolution Imaging Spectroradiometer
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+                
+            
+            
+        
+
+
+    
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CWIC
+                            
+                                >
+                                CEOS WGISS Integrated Catalog
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            EOSDIS
+                            
+                                >
+                                Earth Observing System Data Information System
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            ESIP
+                            
+                                >
+                                Earth Science Information Partners Program
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Quality
+        
+            For more information on potential sensor-related anomalies, consult the following URL: http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/newPage.cgi?fileName=... 
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Access Constraints
+        
+            None 
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+    
+    Use Constraints
+    
+        None 
+    
+    
+    
+        
+         
+        
+    
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            IMAGERY
+                    
+
+                    
+                
+                    
+                    
+                        
+                            DAAC
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            LP DAAC
+                    
+
+                    
+                
+                    
+                    
+                        
+                            EOSDIS
+                    
+
+                    
+                
+                    
+                    
+                        
+                            USGS/EROS
+                    
+
+                    
+                
+                    
+                    
+                        
+                            ESIP
+                    
+
+                    
+                
+                    
+                    
+                        
+                            USGS
+                    
+
+                    
+                
+                    
+                    
+                        
+                            LPDAAC
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Near Real Time (NRT)
+                    
+
+                    
+                
+                    
+                    
+                        
+                            LANCE
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            IN WORK
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        USGS/EROS
+                    
+                
+
+                
+                
+            
+            
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Land Processes Distributed Active Archive Center
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            https://lpdaac.usgs.gov/
+
+                        
+                    
+                    
+                    
+                        
+                            Dataset ID: 
+                            MYD11_L2 
+
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    
+                                                    
+                                                    LP DAAC USER SERVICES
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            (Toll Free) (866) 573-3222
+                                                        
+
+                                                    
+                                                        
+                                                            Phone: 
+                                                            (605) 594-6116
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            (605) 594-6963
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            LPDAAC at usgs.gov
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        LP DAAC User Services
+
+                                                                    
+                                                                        U.S. Geological Survey (USGS)
+
+                                                                    
+                                                                        Earth Resources Observation and Science (EROS) Center
+
+                                                                    
+                                                                        47914 252nd Street
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Sioux Falls
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                SD
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                57198-0001
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    HTTP
+                
+
+            
+            
+            
+                
+                    Distribution Size: 
+                    ~6 MB compressed (V005)
+                
+
+            
+            
+            
+                
+                    Distribution Format: 
+                    HDF-EOS
+                
+
+            
+            
+            
+            
+            
+                
+                
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        
+                        
+                        LP DAAC USER SERVICES
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                (Toll Free) (866) 573-3222
+                            
+
+                        
+                            
+                                Phone: 
+                                (605) 594-6116
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                (605) 594-6963
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                LPDAAC at usgs.gov
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                LP DAAC User Services
+
+                                            
+                                                U.S. Geological Survey (USGS)
+
+                                            
+                                                Earth Resources Observation and Science (EROS) Center
+
+                                            
+                                                47914 252nd Street
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Sioux Falls
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    SD
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    57198-0001
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+            
+            
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            Moderate Resolution Imaging Spectroradiometer (MODIS) publications written by the MODIS Science Team: [available online at http://modis.gsfc.nasa.gov/sci_team/pubs/] 
+ 
+ National Aeronautics and Space Administration, 2000, MODIS data products catalog (EOS AM platform): [Greenbelt, Maryland], Goddard Space Flight Center, http://modis.gsfc.nasa.gov/data/dataprod/index.php. 
+ 
+ National Aeronautics and Space Administration, 2000, EOS Reference Handbook, a Guide to NASA's Earth Science Enterprise and the Earth Observing System: Greenbelt, Maryland, Goddard Space Flight Center, 256 p. [available online in pdf format at http://eospso.gsfc.nasa.gov/sites/default/files/publications/data_p...]. 
+
+        
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+            
+                DIF Creation Date:
+                2010-06-21
+            
+
+        
+        
+            
+                Last DIF Revision Date:
+                2015-02-13
+            
+
+        
+        
+    
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                 Reformat as ISO 19115 document
+            
+        
+    
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+
+        
+
+
+
+
+
+
+                            
+
+                    
+                    
+                
+
+        
+        
+
+
+	
+            
+                
+        	
+            
+                
+                    NASA Privacy Policy and Important Notices
+            
+
+            
+                Responsible NASA Official:  
+                
+                    Dr. Stephen Wharton
+
+                Webmaster:  
+                
+                    Monica Lyles
+                  ·  Contact 
+                
+                    GCMD User Support for assistance
+            
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+
+

@@ -1,0 +1,2695 @@
+
+
+
+
+	 
+        
+
+	
+            
+                	
+            
+                
+	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                
+
+
+
+
+
+        
+        	 
+                
+        
+                
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Agriculture
+	
+
+	
+		
+	
+		Atmosphere
+	
+
+	
+		
+	
+		Biological Classification
+	
+
+	
+		
+	
+		Biosphere
+	
+
+	
+		
+	
+		Climate Indicators
+	
+
+	
+		
+	
+		Cryosphere
+	
+
+	
+		
+	
+		Human Dimensions
+	
+
+	
+		
+	
+		Land Surface
+	
+
+	
+		
+	
+		Oceans
+	
+
+	
+		
+	
+		Paleoclimate
+	
+
+	
+		
+	
+		Solid Earth
+	
+
+	
+		
+	
+		Spectral/Engineering
+	
+
+	
+		
+	
+		Sun-Earth Interactions
+	
+
+	
+		
+	
+		Terrestrial Hydrosphere
+	
+
+	
+	
+
+	
+		
+Data Centers
+
+	
+		 
+Locations
+
+	
+		
+Instruments
+
+	
+		
+Platforms/Sources
+
+	
+		
+Projects
+
+
+
+
+
+
+
+                
+                
+                	
+                    	
+	
+	
+
+
+                    
+                    	
+                            	
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+Record Search Query:
+Projects>S - U>TOGA
+
+
+	
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        
+            
+                Dropsonde Data Collected During the TOGA COARE Intensive ObservingPeriod (IOP) from the NASA DC-8 and NOAA P3
+            
+        
+
+        
+        
+            Entry ID:
+            
+                COARE_lsa_dropsondes
+            
+            
+
+            
+
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+        
+            
+        
+         
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+               
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                
+                    
+                    
+                        Update this Record
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+        
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            The TOGA COARE Data Information System distributes all TOGA COARE 
+ information. 
+ 
+ WWW: http://www.ncdc.noaa.gov/coare/ 
+ FTP: ftp://tcdm.coare.ucar.edu/ 
+ 
+ Dropsonde data are available from the UCAR/JOSS CODIAC system through 
+ the WWW (World Wide Web)/CODIAC interface at 
+  ... http://www.joss.ucar.edu/ 
+ 
+ TOGA COARE was a multidisciplinary, international research effort that 
+ investigated the scientific phenomena associated with the interaction 
+ between the atmosphere and the ocean in the warm pool region of the 
+ western Pacific. The field experiment phase of the program took place 
+ from 1 November 1992 through 28 February 1993 and involved the 
+ deployment of oceanographic ships and buoys, several ship and land 
+ based Doppler radars, multiple low and high level aircraft equipped 
+ with Doppler radar and other airborne sensors, as well as a variety of 
+ surface based instruments for in situ observations. 
+ 
+ Two LOD2 dropsonde data systems each were installed on the NASA DC8 
+ and on one of the NOAA P3s. Overall 110 LOD2 (Omega) dropsondes were 
+ deployed during TOGA COARE, 30 dropsondes from the NOAA P3 and 80 from 
+ the NASA DC8. 
+ 
+ The NCAR Lightweight Omega Digital Dropsonde (LOD2) contains an Omega 
+ receiver, a 400 MHz transmitter and a microprocesser which processes 
+ and formats thermodynamic data from sensors for transmission to the 
+ aircraft. The aircraft portion of the dropwindsonde system consists 
+ of a 400 MHz telemetry receiver, a thermodynamic data processor, an 
+ onboard 486 PC, and a Trimble Mini Omega (TMO) Model 8402 navigator. 
+ 
+ The dropwindsonde system measures thermodynamic parameters (pressure, 
+ temperature, humidity), horizontal wind, and position. 
+ 
+ An Omega sounding initiated from an altitude of 40,000 ft (12.2 km) 
+ typically takes about 35 to 27 minutes before it splashes into the 
+ ocean and ceases transmission. Nominal sonde descent velocities are 
+ about 12 to 13 m/sec at high altitude and 5 to 6 m/sec at the surface. 
+ In TOGA COARE, the drop rate was usually irregular. 
+ 
+ SUMMARY OF DROPSONDE FLIGHTS: (number of LOD2 soundings in parentheses) 
+ 
+ P3: 
+ 6 Nov (2), 14 Nov (1), 19 Nov (3), 12 Dec (1), 13 Dec (3), 15 Dec (1) 
+ 6 Feb (4), 9 Feb (1), 19 Feb (2), 21 Feb (1), 23 Feb (2) 
+ 
+ 
+ DC8: 
+ 6 Jan (1), 11 Jan (2), 12 Jan (3), 18 Jan (4), 19 Jan (5), 26 Jan (4), 
+ 1 Feb (3), 4 Feb (14), 6 Feb (11), 8 Feb (5), 10 Feb (5), 17 Feb (6), 
+ 20 Feb (4), 21 Feb (1), 22 Feb (4), 23 Feb (4), 24 Feb (1) 
+ 
+ For each individual drop, three different ASCII files were produced. Each 
+ file has a header section identifying the data file type as 
+ "raw thermodynamic data", "ten-second" data and "interpolated data". 
+ The header section also provides information regarding the particular 
+ drop and its processing. 
+ 
+ For a detailed description of the instrument, the data, etc., request 
+ the hard-copy report "TOGA COARE Dropsonde Data Report", from the TOGA 
+ COARE International Project Office. 
+ 
+ Please contact Dean Lauritsen or Erik Miller for further questions. 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+    
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: 20.0
+                                
+                            	 	
+                                
+                                    S: -20.0
+                                
+                            	 	
+                                
+                                    E: 180.0
+                                
+                            	 	
+                                
+                                    W: 130.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1992-11-01
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        1993-02-28
+                    
+
+                
+                
+                
+            
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > SOUTHERN OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > PACIFIC OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > EQUATORIAL
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > POLAR
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            VERTICAL LOCATION
+                            
+                                > BOUNDARY LAYER
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            VERTICAL LOCATION
+                            
+                                > TROPOSPHERE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+                    
+                
+                
+                    
+
+                    
+                        
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC CHEMISTRY
+                            
+                            
+                                >
+                                TRACE GASES/TRACE SPECIES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC PRESSURE
+                            
+                            
+                                >
+                                ATMOSPHERIC PRESSURE MEASUREMENTS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC TEMPERATURE
+                            
+                            
+                                >
+                                AIR TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC WATER VAPOR
+                            
+                            
+                                >
+                                HUMIDITY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC WATER VAPOR
+                            
+                            
+                                >
+                                WATER VAPOR
+                            
+                            
+                            
+                            
+                                >
+                                HUMIDITY
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC WINDS
+                            
+                            
+                                >
+                                CONVECTION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC WINDS
+                            
+                            
+                                >
+                                SURFACE WINDS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC WINDS
+                            
+                            
+                                >
+                                UPPER LEVEL WINDS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                PRECIPITATION
+                            
+                            
+                                >
+                                PRECIPITATION AMOUNT
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN WINDS
+                            
+                            
+                                >
+                                SURFACE WINDS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEANS
+                        
+                    
+
+                    
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    DC-8
+                                    
+                                        >
+                                        Douglas DC-8
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+                        
+                    
+                    
+                
+
+
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            DROPSONDES
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+                
+            
+            
+        
+
+
+    
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        Project
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            TOGA COARE
+                            
+                                >
+                                TOGA Coupled Ocean Atmosphere Response Experiment
+                            
+                        
+                    
+                    
+                        
+                            
+                    
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            ATMOSPHERIC CIRCULATION
+                    
+
+                    
+                
+                    
+                    
+                        
+                            ATMOSPHERIC EXPERIMENT
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            COARE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            CONVECTION
+                    
+
+                    
+                
+                    
+                    
+                        
+                            CONVECTIVE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            DC-8
+                    
+
+                    
+                
+                    
+                    
+                        
+                            DC8
+                    
+
+                    
+                
+                    
+                    
+                        
+                            DIGITAL DROPSONDE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            FTP
+                    
+
+                    
+                
+                    
+                    
+                        
+                            HORIZONTAL WIND
+                    
+
+                    
+                
+                    
+                    
+                        
+                            HUMIDITY
+                    
+
+                    
+                
+                    
+                    
+                        
+                            IDN_NODE GSFC/TCIPO
+                    
+
+                    
+                
+                    
+                    
+                        
+                            IFA
+                    
+
+                    
+                
+                    
+                    
+                        
+                            INTENSIVE FLUX ARRAY
+                    
+
+                    
+                
+                    
+                    
+                        
+                            INTENSIVE OBSERVING PERIOD
+                    
+
+                    
+                
+                    
+                    
+                        
+                            IOP
+                    
+
+                    
+                
+                    
+                    
+                        
+                            LARGE SCALE DOMAIN
+                    
+
+                    
+                
+                    
+                    
+                        
+                            LARGE-SCALE CIRCULATION
+                    
+
+                    
+                
+                    
+                    
+                        
+                            LOD2
+                    
+
+                    
+                
+                    
+                    
+                        
+                            LSA
+                    
+
+                    
+                
+                    
+                    
+                        
+                            MESOSCALE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            METEOROLOGY
+                    
+
+                    
+                
+                    
+                    
+                        
+                            N42RF
+                    
+
+                    
+                
+                    
+                    
+                        
+                            NOAA P3
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OMEGA
+                    
+
+                    
+                
+                    
+                    
+                        
+                            P-3
+                    
+
+                    
+                
+                    
+                    
+                        
+                            POSITION
+                    
+
+                    
+                
+                    
+                    
+                        
+                            PRESSURE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            SOUNDING
+                    
+
+                    
+                
+                    
+                    
+                        
+                            TEMPERATURE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            TOGA
+                    
+
+                    
+                
+                    
+                    
+                        
+                            TOGA COARE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            UPPER-AIR
+                    
+
+                    
+                
+                    
+                    
+                        
+                            WARM POOL
+                    
+
+                    
+                
+                    
+                    
+                        
+                            WESTERN PACIFIC OCEAN
+                    
+
+                    
+                
+                    
+                    
+                        
+                            WWW
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        TCIPO
+                    
+                
+
+                
+                
+            
+            
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                TOGA COARE Data Information System, NESDIS, NOAA, U.S. Department of Commerce
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://www.ncdc.noaa.gov/oa/coare/
+
+                        
+                    
+                    
+                    
+                        
+                            Dataset ID: 
+                            convection_mesoscale/dropsonde 
+
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    DAVID
+                                                    P.
+                                                    SMITH
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            828-271-4053
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            828-271-4022
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            David.P.Smith at noaa.gov
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        National Climatic Data Center
+
+                                                                    
+                                                                        Federal Building
+
+                                                                    
+                                                                        151 Patton Avenue
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                ASHEVILLE
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                NC
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                28801-5001
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+                        
+
+                    
+                    
+                
+                    
+                    
+                        
+                            
+                            
+                                Joint Office for Science Support, University Corporation for Atmospheric Research
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://www.joss.ucar.edu/
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    JAMES
+                                                    
+                                                    MOORE
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            (303) 497-8635
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            (303) 497-8158
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            jmoore at ncar.ucar.edu
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        UCAR/Joint Office For Science Support (JOSS)
+
+                                                                    
+                                                                        P.O. Box 3000
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Boulder
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                CO
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                80307
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+                
+
+                
+                     
+                
+            
+
+  
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    online ftp (compressed, tar)
+                
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        BRIGITTE
+                        G.
+                        BAEUERLE
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                (303) 497-2061
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                baeuerle at ucar.edu
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                UCAR/TOGA COARE International Project Office
+
+                                            
+                                                3300 Mitchell Lane, Suite 380
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Boulder
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    CO
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    80301
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        MICHAEL
+                        
+                        GARSTANG
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                (804) 979-3571
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Department of Environmental Sciences
+
+                                            
+                                                University of Virginia
+
+                                            
+                                                Clark Hall
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Charlottesville
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    VA
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    22901
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        DEAN
+                        
+                        LAURITSEN
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                (303) 497-8772
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                lauritsn at ncar.ucar.edu
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                NCAR/ATD
+
+                                            
+                                                P.O. Box 3000
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Boulder
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    CO
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    80307
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        ED
+                        
+                        ZIPSER
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                (409) 862-4171
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                (409) 862-4466
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                zipser at ariel.tamu.edu
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Department of Meteorology
+
+                                            
+                                                Texas A&M University
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    College Station
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    TX
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    77843-3150
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+            
+            
+            
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            E. Miller, TOGA COARE Dropsonde Data Report, August 1993. 
+ 
+ Scientific Plan for the TOGA Coupled Ocean-Atmosphere Response 
+ Experiment, WCRP Publications Series, No. 3 Addendum, World Climate 
+ Research Programme. 
+ 
+ TOGA COARE Operations Plan, Working Version September 1992, TOGA COARE 
+  ... International Project Office. 
+ 
+ TOGA COARE Intensive Observing Period Operations Summary, TOGA COARE 
+ International Project Office, University Corporation for Atmospheric 
+ Research. 
+ 
+ Summary Report of the TOGA COARE International Data Workshop, 
+ Toulouse, France, 2 - 11 August 1994, TOGA COARE International Project 
+ Office, University Corporation for Atmospheric Research, 170 pages. 
+
+        
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+        
+            
+                Last DIF Revision Date:
+                2009-05-11
+            
+
+        
+        
+    
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                 Reformat as ISO 19115 document
+            
+        
+    
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+
+        
+
+
+
+
+
+
+                            
+
+                    
+                    
+                
+
+        
+        
+
+
+	
+            
+                
+        	
+            
+                
+                    NASA Privacy Policy and Important Notices
+            
+
+            
+                Responsible NASA Official:  
+                
+                    Dr. Stephen Wharton
+
+                Webmaster:  
+                
+                    Monica Lyles
+                  ·  Contact 
+                
+                    GCMD User Support for assistance
+            
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+
+

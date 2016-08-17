@@ -1,0 +1,991 @@
+
+
+
+
+	 
+        
+
+	
+            
+                	
+            
+                
+	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                
+
+
+
+
+
+        
+        	 
+                
+        
+                
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Agriculture
+	
+
+	
+		
+	
+		Atmosphere
+	
+
+	
+		
+	
+		Biological Classification
+	
+
+	
+		
+	
+		Biosphere
+	
+
+	
+		
+	
+		Climate Indicators
+	
+
+	
+		
+	
+		Cryosphere
+	
+
+	
+		
+	
+		Human Dimensions
+	
+
+	
+		
+	
+		Land Surface
+	
+
+	
+		
+	
+		Oceans
+	
+
+	
+		
+	
+		Paleoclimate
+	
+
+	
+		
+	
+		Solid Earth
+	
+
+	
+		
+	
+		Spectral/Engineering
+	
+
+	
+		
+	
+		Sun-Earth Interactions
+	
+
+	
+		
+	
+		Terrestrial Hydrosphere
+	
+
+	
+	
+
+	
+		
+Data Centers
+
+	
+		 
+Locations
+
+	
+		
+Instruments
+
+	
+		
+Platforms/Sources
+
+	
+		
+Projects
+
+
+
+
+
+
+
+                
+                
+                	
+                    	
+	
+	
+
+
+                    
+                    	
+                            	
+                            
+
+
+
+
+
+
+
+
+
+
+
+     
+    [ 
+    
+        
+            Return to Record
+         
+    ]
+
+
+
+
+
+	
+            
+
+
+
+
+
+
+
+
+
+Seabird by-catch in longline fisheries
+
+      Federal Geographic Data Committee (FGDC) Metadata:
+
+      	Identification_Information
+	Data_Quality_Information
+	Spatial_Reference_Information
+	
+               Distribution_Information
+               
+	Metadata_Reference_Information
+
+
+         
+	Identification_Information:
+	
+            	Citation:
+	
+                  	Citation_Information:
+	
+                        	Originator: Unknown
+                           
+	Publication_Date: Unknown
+                           
+	Title: Seabird by-catch in longline fisheries
+                           
+
+
+                     
+
+
+               
+	Description:
+	
+                  	Abstract:
+	
+                        
+                        Metadata record for data from ASAC Project 2295
+                        See the link below for public details on this project.
+                        
+                        ---- Public Summary from Project ----
+                        Longline fisheries represent a serious threat to the survival of Southern Ocean albatrosses and petrels. During line setting
+                        operations seabirds become entangled with baited hooks and are drawn underwater and drown. In the past 10-20 years populations
+                        of some species have decreased at an alarming rate and some species are considered to be threatened with extinction. The Antarctic
+                        Divisions seabird by-catch program is attempting to minimise mortality in longline fisheries by a multi-faceted approach involving
+                        mitigation research on fishing vessels, research on seabirds and initiatives of a semi-political nature.
+                        
+                        We chartered F/V Assassin for three days to trial a series of line weighting regimes under fishing conditions experienced
+                        in the east coast tuna fishery. Sink rates of lines with 52 combinations of swivel weight, bait type and bottom length were
+                        recorded.
+                        
+                        In Mooloolaba they don't use leaded swivels. Therefore it is an unweighted snood.
+                        
+                        Files
+                        Tuncurry_order_of_sets.xls
+                        Assassin TDR metadata.xls
+                        indicate the factors tested in the experiment, and the order in which they were undertaken.  The Tuncurry_order_of_sets.xls
+                        file is the order in which the snoods (numbered by regime code) were put out during each line set. Should be read in conjunction
+                        with the metadata file. The D1, D2, D3 numbers denote the end of a working day when we downloaded the data from the day's
+                        line sets (4 on day 1, 6 on day 2, 5 on day 3).
+                        
+                        Files
+                        assassin summary means.xls
+                        assassin summary seconds to depth for analysis.xls
+                        assassin_means_to_depth.xls
+                        Assassin_time_to_depth_graphs.xls are files summarising the sink rates.
+                        
+                        The folder
+                        Final_data_files
+                        contains all the raw time depth recorder files.
+                        
+                        The fields in these datasets are:
+                        
+                        Bait type YT - yellowtail, SM - slimy mackerel, SQ - squid, SA - Saury,
+                        LYT - Live Yellow Tail, LSM - Live Slimy Mackerel, DYT - Dead Yellowtail,
+                        DSM - Dead Slimy Mackerel, DSQ - Dead Squid, DSQ + light/Sau - Dead Squid plus lightstik/Saury, DSQ + light - Dead Squid plus
+                        lightstik
+                        
+                        Bait life status (D - dead, L - live)
+                        
+                        Swivel weight (grams)
+                        
+                        Bottom length (metres)
+                        
+                        Number (n)
+                        
+                        Standard Deviation
+                        
+                        Time to depth (seconds)
+                        
+                        Light stik
+                        
+                        Side (SB - Starboard, P - Port)
+                        
+                        Day
+                        
+                        Replicate
+                        
+                        Regime (codes are the number of the snood (just a way to keep a track of the treatments))
+                        
+                        Depth (metres)
+                        
+                        TDR
+                        
+                        Time Depth Recorder (number in each shot represent the individual time depth recorder number that was attached to the snood
+                        just near the hook)
+                        
+                        Taken from the 2008-2009 Progress Report:
+                        Progress against objectives:
+                        We have consolidated two research streams for pelagic longline fisheries. One is to conduct "conventional" mitigation research,
+                        principally focussing on methods to expedite gear sink rates, and the other is to develop an underwater bait delivery system
+                        for tuna and swordfish gear. Both streams are dealt with below.
+                        
+                        The conventional research focuses on operational aspects of gear, and at this stage does not involve seabird avoidance research
+                        (this will come later).
+                        
+                        In the last 12 months I have a) completed a designed experiment on a chartered tuna vessel off Mooloolaba, Queensland, examining
+                        the effect of mainline tension (created by use of a line shooter) on the sink rate of baited hooks in the shallow depth ranges;
+                        b) a designed experiment in Coquimbo, Chile (as part of Birdlife Internationals Albatross Task Force) examining the effect
+                        on initial sink rates of the five branch line deployment methods used by tuna vessels in the southern hemisphere, and c) completed
+                        five weeks in Mooloolaba with a chartered fishing vessel and in collaboration with DeBrett's Seafoods and Amerro Engineering,
+                        on the R&D of the underwater setting machine.
+                        
+                        Taken from the 2009/2010 Progress Report:
+                        
+                        In the past 12 months research work has focussed on:
+                        
+                        a) the development of the underwater bait setting capsule,
+                        b) the effects of propeller turbulence on the sink rates of baited tuna hooks, 
+                        c) the effect of improved line weighting on the catch rates of fish taxa.
+                        
+                        We have made considerable progress with the underwater setting machine and are intending to complete a "proof-of-concept"
+                        experiment with the device in Uruguay this winter/spring. Project "b" was completed on two vessels (one in Chile and one in
+                        Australia, as opportunities arose) and a paper was submitted to the Seabird Bycatch Working Group meeting of ACAP in April
+                        2010. Part "c" above was completed in January 2010 and has morphed into a second trial that may show more promise that the
+                        first. When that trial has been completed the work will be written up for publication.
+                        
+                        Taken from the 2010/2011 Progress Report:
+                        
+                        Public summary of the season progress:
+                        Line weighting trials: A trial was completed on the effects of seabird friendly (fast sinking) tuna branch lines on the catch
+                        rates of target and non-target fish. No effects on catch rates were detected, clearing the way for test on effectivenes in
+                        deterring seabirds. Out of this trial grew a second study, involving weights placed at the hook. This trial probably has more
+                        promise than the first, and is currently underway in the Australian tuna fishery.
+                        
+                        Underwater setter: A prototype version was tested experimentally off Uruguay in the spring of 2010. The experiment revealed
+                        the potential of underwater setting to near-eliminate seabird interactions. We are currenly finessing the technology with
+                        a view to returning to Uruguay (with the finished product) in autumn 2012 to complete the experiment.
+                        
+                        
+                     
+	Purpose:
+	Not Available
+	Supplemental_Information:
+	 REFERENCE: 
+                        GRAHAM ROBERTSON, STEVEN G. CANDY and BARBARA WIENECKE
+                        2010
+                        Effect of line shooter and mainline tension on the sink rates of pelagic longlines and implications for seabird interactions.
+                        AQUATIC CONSERVATION: MARINE AND FRESHWATER ECOSYSTEMS
+                        DOI: 10.1002/aqc.1100
+                        
+                     
+
+
+               
+	Time_Period_of_Content:
+	
+                  	Time_Period_Information:
+	
+                        	Range_of_Dates/Times:
+	
+                              	Beginning_Date: 20050412
+                                 
+	Ending_Date: 20050415
+                                 
+
+
+                           
+
+
+                     
+	Currentness_Reference:Unknown
+                     
+
+
+               
+	Time_Period_of_Content:
+	
+                  	Time_Period_Information:
+	
+                        	Range_of_Dates/Times:
+	
+                              	Beginning_Date: 20010930
+                                 
+	Ending_Date: 20110331
+                                 
+
+
+                           
+
+
+                     
+	Currentness_Reference:Unknown
+                     
+
+
+               
+	Status:
+	
+                  	Progress: Complete
+                     
+	Maintenance_and_Update_Frequency: As needed
+                     
+
+
+               
+	Spatial_Domain:
+	
+                  	Description_of_Geographic_Extent:
+	
+	Bounding_Coordinates:
+	
+                        	West_Bounding_Coordinate: 153.118
+                           
+	East_Bounding_Coordinate: 158.0
+                           
+	North_Bounding_Coordinate: -25.0
+                           
+	South_Bounding_Coordinate: -28.0
+                           
+
+
+                     
+
+
+               
+	Keywords:
+	
+                  	Theme:
+	
+                        	Theme_Keyword_Thesaurus: GCMD SCIENCE PARAMETERS
+                           
+	Theme_Keyword_Thesaurus: GCMD PLATFORM
+                           
+	Theme_Keyword_Thesaurus: ANCILLARY KEYWORDS
+                           
+	Theme_Keyword_Thesaurus: ISO TOPIC CATEGORY
+                           
+	Theme_Keyword_Thesaurus: DATA SET LANGUAGE
+                           
+	Theme_Keyword: EARTH SCIENCE > AGRICULTURE > AGRICULTURAL AQUATIC SCIENCES > FISHERIES
+                           
+	Theme_Keyword: EARTH SCIENCE > OCEANS > AQUATIC SCIENCES > FISHERIES
+                           
+	Theme_Keyword: EARTH SCIENCE > BIOLOGICAL CLASSIFICATION > ANIMALS/VERTEBRATES > BIRDS
+                           
+	Theme_Keyword: EARTH SCIENCE > BIOLOGICAL CLASSIFICATION > ANIMALS/VERTEBRATES
+                           
+	Theme_Keyword: EARTH SCIENCE > BIOSPHERE > AQUATIC ECOSYSTEMS > PELAGIC HABITAT
+                           
+	Theme_Keyword: SHIPS
+                           
+	Theme_Keyword: Bait Life Status
+                           
+	Theme_Keyword: Bait Type
+                           
+	Theme_Keyword: Bottom Length
+                           
+	Theme_Keyword: Day
+                           
+	Theme_Keyword: Depth
+                           
+	Theme_Keyword: East Coast Tuna Fishery
+                           
+	Theme_Keyword: Fisheries
+                           
+	Theme_Keyword: Illegal Fishing
+                           
+	Theme_Keyword: Light Stik
+                           
+	Theme_Keyword: Line Weighting
+                           
+	Theme_Keyword: Longline
+                           
+	Theme_Keyword: Number
+                           
+	Theme_Keyword: Pelagic
+                           
+	Theme_Keyword: Regime
+                           
+	Theme_Keyword: Replicate
+                           
+	Theme_Keyword: Side
+                           
+	Theme_Keyword: Southern Ocean
+                           
+	Theme_Keyword: Standard Deviation
+                           
+	Theme_Keyword: Swivel Weight
+                           
+	Theme_Keyword: Tdr
+                           
+	Theme_Keyword: Time Depth Recorder
+                           
+	Theme_Keyword: Time To Depth
+                           
+	Theme_Keyword: BIOTA
+                           
+	Theme_Keyword: OCEANS
+                           
+	Theme_Keyword: ENGLISH
+                           
+
+
+                     
+	Place:
+	
+                        	Place_Keyword_Thesaurus: GCMD
+                           
+	Place_Keyword: OCEAN > PACIFIC OCEAN
+                           
+
+
+                     
+
+
+               
+	Access_Constraints: 
+                  These data are not publicly available. Contact Graham Robertson to access.
+                  
+               
+	Use_Constraints:
+	
+                  This data set conforms to the PICCCBY Attribution License
+                  (http://creativecommons.org/licenses/by/3.0/).
+                  
+                  Please follow instructions listed in the citation reference provided at http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2295
+                  when using these data.
+                  
+               
+	Point_of_Contact:
+	
+                  	Contact_Information:
+	
+                        	Contact_Person_Primary:
+	
+                              	Contact_Person: GRAHAM ROBERTSON 
+                                 
+
+
+                           
+	Contact_Person_Primary:
+	
+                              	Contact_Person: KIERAN LAWTON 
+                                 
+
+
+                           
+	Contact_Position: INVESTIGATOR
+                           
+	Contact_Position: TECHNICAL CONTACT
+                           
+	Contact_Position: DIF AUTHOR
+                           
+	Contact_Position: TECHNICAL CONTACT
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: Australian Antarctic Division 
+                                 
+	Address: 203 Channel Highway 
+                                 
+	City: Kingston
+                                 
+	State_or_Province: Tasmania
+                                 
+	Postal_Code: 7050
+                                 
+	Country: Australia
+                                 
+
+
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: Aspect Ecology 
+                                 
+	Address: 20 Menuggana Road 
+                                 
+	City: Fern Tree
+                                 
+	State_or_Province: Tasmania
+                                 
+	Postal_Code: 7054
+                                 
+	Country: Australia
+                                 
+
+
+                           
+	Contact_Voice_Telephone: +61 3 6232 3337
+                           
+	Contact_Facsimile_Telephone: +61 3 6232 3349
+                           
+	Contact_Electronic_Mail_Address: graham.robertson@aad.gov.au
+                           
+	Contact_Electronic_Mail_Address: Kieran.Lawton@ozemail.com.au
+                           
+
+
+                     
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Data_Quality_Information:
+	
+            	Attribute_Accuracy:
+	
+                  	Attribute_Accuracy_Report:
+	
+                        The experiment tested 52 combinations of swivel weight, bait type and bottom length. During the experiment practical constraints
+                        meant that data were not always collected in a logical series.  The data are good, but is not easy to interpret without talking
+                        to those that undertook the experiment.
+                        
+                        The values provided in spatial coverage are approximate only.
+                        
+                     
+
+
+               
+	Logical_Consistency_Report:
+	Not Available
+	Completeness_Report:
+	Not Available
+	Lineage:
+
+	Process_Step:
+	
+                     	Process_Description:
+	Not Available
+	Process_Date: Unknown
+                        
+
+
+                  
+
+
+            
+
+
+         
+      Back to Top
+         
+	Spatial_Reference_Information:
+	
+            
+
+         
+
+Back to Top
+         
+	Distribution_Information:
+	
+            	Distributor:
+	
+                  	Contact_Information:
+	
+                        	Contact_Organization_Primary:
+	
+                              	Contact_Organization: AU/AADC > Australian Antarctic Data Centre, Australia
+                                 
+	Contact_Person: DATA OFFICER AADC 
+                                 
+
+
+                           
+	Contact_Position: DATA CENTER CONTACT
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: Australian Antarctic Division 
+                                 
+	Address: 203 Channel Highway 
+                                 
+	City: Kingston
+                                 
+	State_or_Province: Tasmania
+                                 
+	Postal_Code: 7050
+                                 
+	Country: Australia
+                                 
+
+
+                           
+	Contact_Voice_Telephone: +61 3 6232 3244
+                           
+	Contact_Facsimile_Telephone: +61 3 6232 3351
+                           
+	Contact_Electronic_Mail_Address: metadata@aad.gov.au
+                           
+
+
+                     
+
+
+               
+	Resource_Description: ASAC_2295
+               
+	Distribution_Liability:
+	Not Available
+	Standard_Order_Process:
+	
+                  	Digital_Form:
+	
+                        	Digital_Transfer_Information:
+	
+                              	Format_Name: excel
+                                 
+	Transfer_Size: 107,596 kb
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://data.aad.gov.au
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	DATA CENTER URL
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://data.aad.gov.au/aadc/portal/download_file.c...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          Download point for the data - excel spreadsheets
+                                          
+                                       
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	https://secure3.aad.gov.au/proms/public/projects/r...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          Public information for ASAC project 2295
+                                          
+                                       
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://data.aad.gov.au/aadc/metadata/citation.cfm?...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          Citation reference for this metadata record and dataset
+                                          
+                                       
+
+
+                                 
+
+
+                           
+
+
+                     
+	Fees: Free
+                     
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Metadata_Reference_Information:
+	
+            	Metadata_Date: 20020702
+               
+	Metadata_Review_Date: 20140829
+               
+	Metadata_Contact:
+	
+                  	Contact_Information:
+	
+                        	Contact_Person_Primary:
+	
+                              	Contact_Person: GRAHAM ROBERTSON 
+                                 
+
+
+                           
+	Contact_Position: INVESTIGATOR
+                           
+	Contact_Position: TECHNICAL CONTACT
+                           
+	Contact_Position: DIF AUTHOR
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: Australian Antarctic Division 
+                                 
+	Address: 203 Channel Highway 
+                                 
+	City: Kingston
+                                 
+	State_or_Province: Tasmania
+                                 
+	Postal_Code: 7050
+                                 
+	Country: Australia
+                                 
+
+
+                           
+	Contact_Voice_Telephone: +61 3 6232 3337
+                           
+	Contact_Facsimile_Telephone: +61 3 6232 3349
+                           
+	Contact_Electronic_Mail_Address: graham.robertson@aad.gov.au
+                           
+
+
+                     
+
+
+               
+	Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+               
+	Metadata_Standard_Version: FGDC-STD-001-1998
+               
+	Metadata_Time_Convention: local time
+               
+
+
+         
+
+Back to Top
+
+
+
+     
+    [ 
+    
+        
+            Return to Record
+         
+    ]
+
+
+
+
+                            
+                        
+                                        
+                    
+                               
+            
+                
+        
+
+
+	
+            
+                
+        	
+            
+                
+                    NASA Privacy Policy and Important Notices
+            
+
+            
+                Responsible NASA Official:  
+                
+                    Dr. Stephen Wharton
+
+                Webmaster:  
+                
+                    Monica Lyles
+                  ·  Contact 
+                
+                    GCMD User Support for assistance
+            
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+    
+

@@ -1,0 +1,107 @@
+
+    <div class="buttonRow">
+        <a href="javascript:doClose();">Close This Window</a>
+    </div>
+    <div class="curved">
+        <b class="b1"></b><b class="b2"></b><b class="b3"></b><b class="b4"></b>
+        <div class="boxcontent">
+            <div class="supplementalHeader">
+
+
+<!--Supplemental Icon ====================================================== -->
+
+
+<!-- Name =========================================================== -->
+<div>
+    <span class="field">Platform:</span>
+    <span class="textrecord">
+        <strong>
+            Earth Observation Satellites
+            
+            <br>
+        </strong>
+    </span>
+</div>
+
+<div>
+    <div style="display:none;" id="moreinfo" align="left">
+        <span class="textrecord">
+            
+                <span class="field">Platform Category:</span>
+                Earth Observation Satellites
+            
+            <br>
+            
+            
+        </span>
+    </div>
+    <a onclick="shoh('moreinfo');">
+        <img src="default/images/more.gif" alt="View entire text" name="imgmoreinfo" align="absbottom" border="0">
+    </a><br>
+</div>
+
+            </div>
+            <br style="clear:both">
+            <div class="supplementalBody">
+
+
+<!-- Synonymous Platform Name ========================================== -->
+
+
+
+<!-- Platform Associated Instruments ===================================== -->
+
+
+<!-- Orbit ======================================================================== -->
+
+
+<!-- Related Data Sets ===================================================== -->
+<div class="field">Related Data Sets</div>
+<div class="textrecord">
+    
+        There are no related records to this platform.
+    
+    
+</div>
+
+<!-- Description =========================================================== -->
+
+<div class="field">Description</div>
+<div class="textrecord">
+    Earth observation satellites are satellites specifically designed to observe Earth from orbit, similar to spy satellites but intended for non-military uses such as environmental monitoring, meteorology, map making etc. <br> <br> Source: Wikipedia, <a href="RedirectAction.do?target=Gze2Qau6n2Ob5k9OvazzuPZJhDNw%2BJXdZunUju3tnJBsynl%2B%2BuB4He6wxPRZPJXL%2Fq%2FhYs8%2FGyO3%0D%0AkN4mnv%2FYjQ%3D%3D" target="_blank">http://en.wikipedia.org/wiki/Earth_observation_satellite</a> 
+</div>
+
+
+<!-- Online Resource ======================================================= -->
+
+
+
+<!-- Platform Logistics ===================================================== -->
+
+
+            </div>
+        </div>
+        <b class="b4"></b><b class="b3"></b><b class="b2"></b><b class="b1"></b>
+    </div>
+
+    <!-- BEGIN: Use this section to set page specific variables for the NetTracker Page Tag -->
+    <script language="JavaScript">
+    // var NTPT_PGEXTRA = '';
+    // var NTPT_PGREFTOP = false;
+    // var NTPT_NOINITIALTAG = false;
+    </script>
+    <!-- END: Use this section to set page specific variables for the NetTracker Page Tag -->
+    
+    <!-- BEGIN: NetTracker Page Tag -->
+    <!-- Copyright 2004 Sane Solutions, LLC.  All rights reserved. -->
+    <script language="JavaScript" src="/ntpagetag.js"></script>
+    <noscript>
+    <img src="http://ws1.ems.eosdis.nasa.gov/images/ntpagetag.gif?js=0" height="1" width="1" border="0" hspace="0" vspace="0" alt="">
+    </noscript>
+    <!-- END: NetTracker Page Tag -->
+
+    <div class="buttonRow">
+        <a href="javascript:doClose();">Close This Window</a>
+    </div>
+
+

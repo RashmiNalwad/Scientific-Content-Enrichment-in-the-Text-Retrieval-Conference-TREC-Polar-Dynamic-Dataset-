@@ -1,0 +1,926 @@
+
+
+
+
+	 
+        
+
+	
+            
+                	
+            
+                
+	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                
+
+
+
+
+
+        
+        	 
+                
+        
+                
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Agriculture
+	
+
+	
+		
+	
+		Atmosphere
+	
+
+	
+		
+	
+		Biological Classification
+	
+
+	
+		
+	
+		Biosphere
+	
+
+	
+		
+	
+		Climate Indicators
+	
+
+	
+		
+	
+		Cryosphere
+	
+
+	
+		
+	
+		Human Dimensions
+	
+
+	
+		
+	
+		Land Surface
+	
+
+	
+		
+	
+		Oceans
+	
+
+	
+		
+	
+		Paleoclimate
+	
+
+	
+		
+	
+		Solid Earth
+	
+
+	
+		
+	
+		Spectral/Engineering
+	
+
+	
+		
+	
+		Sun-Earth Interactions
+	
+
+	
+		
+	
+		Terrestrial Hydrosphere
+	
+
+	
+	
+
+	
+		
+Data Centers
+
+	
+		 
+Locations
+
+	
+		
+Instruments
+
+	
+		
+Platforms/Sources
+
+	
+		
+Projects
+
+
+
+
+
+
+
+                
+                
+                	
+                    	
+	
+	
+
+
+                    
+                    	
+                            	
+                            
+
+
+
+
+
+
+
+
+
+
+
+     
+    [ 
+    
+        
+            Return to Record
+         
+    ]
+
+
+
+
+
+	
+            
+
+
+
+
+
+
+
+
+
+The Australian Antarctic Geodetic Network
+
+      Federal Geographic Data Committee (FGDC) Metadata:
+
+      	Identification_Information
+	Data_Quality_Information
+	Spatial_Reference_Information
+	
+               Distribution_Information
+               
+	Metadata_Reference_Information
+
+
+         
+	Identification_Information:
+	
+            	Citation:
+	
+                  	Citation_Information:
+	
+                        	Originator: Johnston, G.M.
+                           
+	Publication_Date: 19991007
+                           
+	Title: The Australian Antarctic Geodetic Network
+                           
+	Edition: 
+	Geospatial_Data_Presentation_Form: 
+	Series_Information: 
+	
+                              	Series_Name: CAASM Metadata
+                                 
+	Issue_Identification: 
+
+
+                           
+	Publication_Information: 
+	
+                              	Publication_Place: 
+	Publisher: Geoscience Australia
+                                 
+
+
+                           
+	Other_Citation_Details: 
+	
+	Online_Linkage: https://data.aad.gov.au/aadc/metadata/metadata_redirect.cfm?md=/AMD/AU/AAGN
+
+
+                     
+
+
+               
+	Description:
+	
+                  	Abstract:
+	
+                        
+                        The Australian Antarctic Geodetic Network (AAGN) consists of geodetic positions (latitudes and longitudes) of permanent survey
+                        marks on stable rock. The positions are computed from a network of older conventional geodetic survey observations (angles
+                        and distances) and more recent high precision GPS measurements. All observations have been adjusted in terms of the global
+                        coordinate system (the International Terrestrial Reference Frame) which is compatible with WGS84 for most practical applications.
+                        The information held includes:
+                        
+                        Geodetic positions:
+                        Unique station identifier,
+                        Station name(s),
+                        Station Type (e.g. trig station, bench mark, permanent tracking station),
+                        Station coordinates (e.g. latitude and longitude and height),
+                        Coordinate datum (e.g. ITRF, WGS84 or astronomical),
+                        Coordinate epoch (e.g. 1998.0),
+                        Coordinate accuracy,
+                        
+                        Related Site details:
+                        Mark type (e.g. stainless steel pin in rock),
+                        Status of mark (e.g. found, disturbed, destroyed),
+                        Site description,
+                        Allied information (e.g. photographs or sketches).
+                        
+                        Optical levelling connections from permanent GPS reference stations to tide gauges are also available.
+                        
+                        This work is part of ASAC project 1159 (ASAC_1159).
+                        
+                        A copy of a presentation detailing geodesy work undertaken as part of PCMEGA is available for download.
+                        
+                        
+                     
+	Purpose:
+	Not Available
+	Supplemental_Information:
+	Not Available
+
+
+               
+	Time_Period_of_Content:
+	
+                  	Time_Period_Information:
+	
+                        	Range_of_Dates/Times:
+	
+                              	Beginning_Date: 19540101
+                                 
+	Ending_Date: Unknown
+                                 
+
+
+                           
+
+
+                     
+	Currentness_Reference:Unknown
+                     
+
+
+               
+	Status:
+	
+                  	Progress: In Work
+                     
+	Maintenance_and_Update_Frequency: As needed
+                     
+
+
+               
+	Spatial_Domain:
+	
+                  	Description_of_Geographic_Extent:
+	
+	Bounding_Coordinates:
+	
+                        	West_Bounding_Coordinate: 45.0
+                           
+	East_Bounding_Coordinate: 160.0
+                           
+	North_Bounding_Coordinate: -60.0
+                           
+	South_Bounding_Coordinate: -90.0
+                           
+
+
+                     
+
+
+               
+	Keywords:
+	
+                  	Theme:
+	
+                        	Theme_Keyword_Thesaurus: GCMD SCIENCE PARAMETERS
+                           
+	Theme_Keyword_Thesaurus: ANCILLARY KEYWORDS
+                           
+	Theme_Keyword_Thesaurus: ISO TOPIC CATEGORY
+                           
+	Theme_Keyword_Thesaurus: DATA SET LANGUAGE
+                           
+	Theme_Keyword: EARTH SCIENCE > SOLID EARTH > GRAVITY/GRAVITATIONAL FIELD > CRUSTAL MOTION
+                           
+	Theme_Keyword: Pcmega
+                           
+	Theme_Keyword: Geodesy
+                           
+	Theme_Keyword: GEOSCIENTIFIC INFORMATION
+                           
+	Theme_Keyword: ENGLISH
+                           
+
+
+                     
+	Place:
+	
+                        	Place_Keyword_Thesaurus: GCMD
+                           
+	Place_Keyword: CONTINENT > ANTARCTICA
+                           
+	Place_Keyword: GEOGRAPHIC REGION > POLAR
+                           
+
+
+                     
+
+
+               
+	Access_Constraints: 
+                  These data are publicly available for download from the provided URL.
+                  
+               
+	Use_Constraints:
+	
+                  This data set conforms to the PICCCBY Attribution License
+                  (http://creativecommons.org/licenses/by/3.0/).
+                  
+                  Please follow instructions listed in the citation reference provided at http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=AAGN
+                  when using these data.
+                  
+               
+	Point_of_Contact:
+	
+                  	Contact_Information:
+	
+                        	Contact_Person_Primary:
+	
+                              	Contact_Person: GARY MICHAEL JOHNSTON 
+                                 
+
+
+                           
+	Contact_Position: INVESTIGATOR
+                           
+	Contact_Position: TECHNICAL CONTACT
+                           
+	Contact_Position: DIF AUTHOR
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: Geodetic Operations 
+                                 
+	Address: Geoscience Australia Earth Monitoring Group (GEM) 
+                                 
+	Address: Geoscience Australia 
+                                 
+	Address: GPO Box 378 
+                                 
+	City: Canberra
+                                 
+	State_or_Province: Australian Capital Territory
+                                 
+	Postal_Code: 2601
+                                 
+	Country: Australia
+                                 
+
+
+                           
+	Contact_Voice_Telephone: +61 2 6249 9049
+                           
+	Contact_Facsimile_Telephone: +61 2 6249 9929
+                           
+	Contact_Electronic_Mail_Address: gary.johnston@ga.gov.au
+                           
+
+
+                     
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Data_Quality_Information:
+	
+            	Attribute_Accuracy:
+	
+                  	Attribute_Accuracy_Report:
+	
+                        Because the AAGN only includes geodetic sites on stable rock, the coverage is limited to such areas. In addition, the majority
+                        of the network is from Mawson to the South Prince Charles Mountains, west to Enderby Land and a spur to Davis. There are other
+                        small quantities of control in the coastal regions of the AAT and at Casey and Commonwealth Bay. The AAGN is an accumulation
+                        of geodetic survey observations since 1954. They have regularly been adjusted to provide positions on a variety of datums,
+                        but the latest ITRF positions supersede all previous positions for these sites. All the geodetic sites in the AAGN are uniquely
+                        linked to other attributes in a relational database. The accuracy of the positions depends on the vintage, type and geometric
+                        position of the observations used. It varies from metres for older observations in difficult areas, to centimetres for positions
+                        derived from modern, well configured GPS.
+                        
+                     
+
+
+               
+	Logical_Consistency_Report:
+	Not Available
+	Completeness_Report:
+	Not Available
+	Lineage:
+
+	Process_Step:
+	
+                     	Process_Description:
+	Not Available
+	Process_Date: Unknown
+                        
+
+
+                  
+
+
+            
+
+
+         
+      Back to Top
+         
+	Spatial_Reference_Information:
+	
+            
+
+         
+
+Back to Top
+         
+	Distribution_Information:
+	
+            	Distributor:
+	
+                  	Contact_Information:
+	
+                        	Contact_Organization_Primary:
+	
+                              	Contact_Organization: AU/AADC > Australian Antarctic Data Centre, Australia
+                                 
+	Contact_Person: DATA OFFICER AADC 
+                                 
+
+
+                           
+	Contact_Position: DATA CENTER CONTACT
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: Australian Antarctic Division 
+                                 
+	Address: 203 Channel Highway 
+                                 
+	City: Kingston
+                                 
+	State_or_Province: Tasmania
+                                 
+	Postal_Code: 7050
+                                 
+	Country: Australia
+                                 
+
+
+                           
+	Contact_Voice_Telephone: +61 3 6232 3244
+                           
+	Contact_Facsimile_Telephone: +61 3 6232 3351
+                           
+	Contact_Electronic_Mail_Address: metadata@aad.gov.au
+                           
+
+
+                     
+
+
+               
+	Distributor:
+	
+                  	Contact_Information:
+	
+                        	Contact_Organization_Primary:
+	
+                              	Contact_Organization: AU/GA > Geoscience Australia, Australia
+                                 
+	Contact_Person: GARY MICHAEL JOHNSTON 
+                                 
+
+
+                           
+	Contact_Position: DATA CENTER CONTACT
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: Geodetic Operations 
+                                 
+	Address: Geoscience Australia Earth Monitoring Group (GEM) 
+                                 
+	Address: Geoscience Australia 
+                                 
+	Address: GPO Box 378 
+                                 
+	City: Canberra
+                                 
+	State_or_Province: Australian Capital Territory
+                                 
+	Postal_Code: 2601
+                                 
+	Country: Australia
+                                 
+
+
+                           
+	Contact_Voice_Telephone: +61 2 6249 9049
+                           
+	Contact_Facsimile_Telephone: +61 2 6249 9929
+                           
+	Contact_Electronic_Mail_Address: gary.johnston@ga.gov.au
+                           
+
+
+                     
+
+
+               
+	Resource_Description: AAGN
+               
+	Distribution_Liability:
+	Not Available
+	Standard_Order_Process:
+	
+                  	Digital_Form:
+	
+                        	Digital_Transfer_Information:
+	
+                              	Format_Name: pdf
+                                 
+	Transfer_Size: 10 MB
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://data.aad.gov.au
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	DATA CENTER URL
+
+
+                                 
+	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://www.ga.gov.au/
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	DATA CENTER URL
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	https://secure3.aad.gov.au/proms/public/projects/r...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          Public information for ASAC project 1159
+                                          
+                                       
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://www.ga.gov.au/geodesy/antarc/index.jsp
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          Geodetic positions and related information, of permanent survey marks on stable rock.
+                                          
+                                       
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://data.aad.gov.au/aadc/portal/download_file.c...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          Download the PCMEGA presentation
+                                          
+                                       
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://data.aad.gov.au/aadc/metadata/citation.cfm?...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          Citation reference for this metadata record and dataset
+                                          
+                                       
+
+
+                                 
+
+
+                           
+
+
+                     
+	Fees: Free
+                     
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Metadata_Reference_Information:
+	
+            	Metadata_Date: 19991007
+               
+	Metadata_Review_Date: 20140922
+               
+	Metadata_Contact:
+	
+                  	Contact_Information:
+	
+                        	Contact_Person_Primary:
+	
+                              	Contact_Person: GARY MICHAEL JOHNSTON 
+                                 
+
+
+                           
+	Contact_Position: INVESTIGATOR
+                           
+	Contact_Position: TECHNICAL CONTACT
+                           
+	Contact_Position: DIF AUTHOR
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: Geodetic Operations 
+                                 
+	Address: Geoscience Australia Earth Monitoring Group (GEM) 
+                                 
+	Address: Geoscience Australia 
+                                 
+	Address: GPO Box 378 
+                                 
+	City: Canberra
+                                 
+	State_or_Province: Australian Capital Territory
+                                 
+	Postal_Code: 2601
+                                 
+	Country: Australia
+                                 
+
+
+                           
+	Contact_Voice_Telephone: +61 2 6249 9049
+                           
+	Contact_Facsimile_Telephone: +61 2 6249 9929
+                           
+	Contact_Electronic_Mail_Address: gary.johnston@ga.gov.au
+                           
+
+
+                     
+
+
+               
+	Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+               
+	Metadata_Standard_Version: FGDC-STD-001-1998
+               
+	Metadata_Time_Convention: local time
+               
+
+
+         
+
+Back to Top
+
+
+
+     
+    [ 
+    
+        
+            Return to Record
+         
+    ]
+
+
+
+
+                            
+                        
+                                        
+                    
+                               
+            
+                
+        
+
+
+	
+            
+                
+        	
+            
+                
+                    NASA Privacy Policy and Important Notices
+            
+
+            
+                Responsible NASA Official:  
+                
+                    Dr. Stephen Wharton
+
+                Webmaster:  
+                
+                    Monica Lyles
+                  ·  Contact 
+                
+                    GCMD User Support for assistance
+            
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+    
+

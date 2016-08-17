@@ -1,0 +1,551 @@
+
+    
+
+      
+        
+
+
+
+
+
+   
+      
+  Skip to content. |
+
+  Skip to navigation
+
+
+
+
+
+
+    
+
+        
+
+
+
+    
+
+
+
+    
+        
+            Advanced Search…
+        
+    
+
+
+
+
+
+
+
+      
+
+
+
+
+   
+
+ 
+
+
+  	GES DISC Home
+      	About Us
+	GES DISC Data Policy
+	Data Holdings
+	Publications
+	News
+	FAQ
+	More...
+ 	      	Image Gallery
+	Science Focus
+
+
+	    
+
+
+    
+	Data Services
+      	Analyze Data with Giovanni
+	Search for Data with Mirador
+	Simple Subset Wizard
+	Data Cookbook
+	More...
+ 	    	GDS
+	NetCDF
+	OGC Web Map Server
+	OPeNDAP
+
+
+      
+
+
+	Science Portals
+      	Atmos Composition
+	Hydrology
+	Precipitation
+	Ozone
+	MAIRS
+	More...
+ 	  	Aerosols
+	Agriculture
+	Air Quality
+	Geomorphology
+	Virtual Globes
+	Hurricanes
+	Malaria Modeling
+	NEESPI
+	Oceans
+	YOTC
+
+
+        
+
+				
+    
+	Mission Portals
+      	A-Train
+	AIRS
+	Aura
+	GPM
+	Modeling
+	MEaSUREs
+	OCO-2
+	SORCE
+	TRMM
+	More...
+    	Nimbus
+
+
+	
+
+
+
+
+	
+      	
+
+
+    
+
+
+
+
+
+
+
+     
+	
+	  
+	
+
+     
+
+
+
+
+
+Personal tools
+
+
+
+
+
+
+
+    
+
+
+      
+
+
+
+
+      
+
+
+      	
+	      
+	
+     		
+
+		You are here: GES DISC Home
+		
+                   
+		   
+		
+		
+		
+		Featured Items
+		
+                   
+                   
+		
+		
+		
+		
+		
+		
+		
+		April dust storm surges through China from the Taklimakan Desert
+		
+		
+
+		
+		  
+							
+		    
+                    
+
+		    
+		     
+		     
+                     						
+                     
+
+    	Info
+	
+
+
+
+
+
+
+
+
+
+						
+      
+
+							
+         
+            
+
+            
+               
+               
+    
+
+        
+
+        
+            
+        
+            April dust storm surges through China from the Taklimakan Desert
+        
+    
+        
+
+
+
+        
+
+        
+            
+        
+            2014 dust outbreak moves from the Tibetan Plateau to the Pacific coast
+        
+    
+        
+
+
+        
+
+
+
+        
+            
+               
+            
+            
+              
+        
+            Image acquired by MODIS-Terra on April 23, 2014, as a massive dust storm covered much of China. 
+        
+    
+            
+
+        
+
+
+        
+        	
+      	
+
+
+        
+
+        
+            In late April 2014, a powerful storm churned the surface of China’s vast ocean of sand called the Taklimakan Desert and surged eastward, creating what the National Aeronautics and Space Administration (NASA) Earth Observatory called “China’s Great Wall of Dust” (Fig. 1).
+   
+ Figure 1. The Moderate Resolution Imaging Spectroradiometer (MODIS) on the Terra satellite acquired this image of the dust storm on April 23, 2014.  Click to see the larger image from which this image was derived.  
+  
+ The air itself turned brown and orange in much of China, creating difficult conditions, darkness during daylight hours, and low visibility (Fig. 2).
+  
+ 
+  
+ Figure 2. A solitary man walks through the dust storm. (Image courtesy Xinhuanet.com)
+  
+  
+ The NASA Goddard Earth Sciences Data and Information Services Center (GES DISC) provides a number of near-real-time (NRT) data products from the Atmospheric Infrared Sounder (AIRS) instrument on the Aqua satellite. These NRT products can be visualized with the GES DISC AIRS NRT Data MapViewer service. The “AIRS Dust Score” is one of the AIRS NRT products, whose numerical scale is a qualitative representation of the presence of dust in the atmosphere. Figure 3 shows the daily dust score product on the AIRS NRT MapViewer.
+
+  
+ 
+  
+ Figure 3. A snapshot image of the daily AIRS Dust Score product on the AIRS NRT MapViewer. This snapshot shows a global image of the AIRS Dust Score on April 25, 2014.  (Click to see larger version of the image.)
+  
+  
+ The AIRS NRT products are also fed to the NASA Earth Observing System Data and Information System (EOSDIS) Land Atmosphere Near real-time Capability for EOS (LANCE). They can be viewed and overlain with data products from other instruments and satellites in Worldview, an EOSDIS tool that allows one to interactively browse global, full-resolution, satellite imagery and then download the underlying data.
+ Figure 4 is an animation of the AIRS Dust Score from April 20 to 27, 2014, captured in LANCE Worldview. The background is the true color corrected reflectance from the Moderate Resolution Imaging Spectroradiometer on the Terra satellite (MODIS/Terra). We can see that the dust storm originated in the Taklimakan Desert. As a strong frontal system came in and moved eastward, the turbulence lifted the dust into the air and created the dusty atmospheric conditions that beset much of China on April 24 and 25 and persisted in some regions into April 26 and 27. A MODIS/Terra image of the Taklimakan Desert acquired on April 24 shows dust suspended over much of the desert basin. These conditions persisted in the Taklimakan Desert at least through April 27.
+  
+  
+  
+  
+ Figure 4. Animation of the AIRS Dust Score from April 20 to 27, 2014.  The orbital gores in the image background are due to the scanning swath coverage of the MODIS/Terra instrument. 
+  
+ Springtime dust storms are common events in China, originating when strong weather fronts move through the Taklimakan and Gobi Deserts. The links below show NASA satellite images of other strong dust storms, including one that carried dust across the Pacific to the western United States. 
+
+ 	SeaWiFS observes transport of Asian dust over the Pacific Ocean
+	China dust over the Pacific
+
+  
+  
+ The global impact of dust from Asian desert dust storms is an important source of nutrients, particularly iron, to the Pacific Ocean itself. Periodic dust storms provide this vital micronutrient to ocean waters, enhancing phytoplankton productivity. Research has shown that if the dust storms interact with sulfur dioxide (SO2) aerosols generated by coal-burning power plants in China, the iron in the dust can be converted to a more soluble form that is more readily available to the phytoplankton.
+ Dust Storm Surprise: Pollution Can Convert Airborne Iron into Soluble Form Required for Phytoplankton Growth
+  
+ NASA-funded teacher workshops have used dust in the Earth's environment as the basis for understanding satellite remote sensing, climate change caused by human activities, and the interconnections between the atmosphere, land, and oceans in Earth's weather and climate processes.
+  
+ DUST:  A Model for Effectively Teaching Global Climate Change Concepts  (Hampton University)
+  
+  
+ 
+ Questions or comments? Email the NASA GES DISC Help Desk: gsfc-help-disc@lists.nasa.gov
+  
+  
+
+
+
+
+        
+
+
+        
+    
+        
+            
+        
+    
+
+
+
+        
+
+
+     
+        Bookmark & Share:
+
+        	
+                
+                    
+                     
+                    Facebook
+                
+            
+	
+                
+                    
+                     
+                    Twitter
+                
+            
+	
+                
+                    
+                     
+                    Del.icio.us
+                
+            
+	
+                
+                    
+                     
+                    Digg
+                
+            
+	
+                
+                    
+                     
+                    Reddit
+                
+            
+	
+                
+                    
+                     
+                    Furl
+                
+            
+	
+                
+                    
+                     
+                    NewsVine
+                
+            
+	
+                
+                    
+                     
+                    Google Bookmarks
+                
+            
+
+
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    Document Actions
+
+
+    	
+            
+                   
+                   
+            
+        
+	
+            
+                   
+                   
+            
+        
+	
+            
+                   
+                   
+            
+        
+
+
+    
+
+    
+
+
+
+
+
+    
+
+
+
+
+    
+
+
+            
+
+         
+							
+         
+            
+    
+
+
+
+
+         
+
+							
+         
+         
+							
+      
+
+
+
+			
+
+	         
+
+
+	
+			
+         
+        
+         
+      
+   
+   
+
+      
+
+      
+
+      
+      
+
+      
+
+        
+
+
+    
+        
+	    	+ Contact Us: GES DISC Help Desk
+	+ NASA Official: Steven Kempler
+
+
+
+	
+
+	
+        
+	    
+
+NASA Privacy Policy and Important Notices
+
+
+Last updated: May 15, 2014 10:12 AM ET
+
+
+
+
+
+
+
+
+
+
+  		 		 
+ 		 		 		 		  		   		 		 		
+  		
+
+
+
+
+      
+
+      
+
+    
+
+
+

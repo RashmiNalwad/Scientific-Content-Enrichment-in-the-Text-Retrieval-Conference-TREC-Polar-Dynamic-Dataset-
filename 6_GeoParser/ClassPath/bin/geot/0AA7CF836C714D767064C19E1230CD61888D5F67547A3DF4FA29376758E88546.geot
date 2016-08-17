@@ -1,0 +1,2541 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        [Parameters: Topic='BIOLOGICAL CLASSIFICATION', Term='PROTISTS']
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                Diatom, and associated data from grid samples collected in Brown Bay
+            
+        
+
+        
+        
+            Entry ID:
+            
+                Diatoms_bbg
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+        
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            Sediment samples were collected from nine points along 3 parallel transects within the contaminated Brown Bay. The diatom spreadsheet (diatom_data) contains both initial diatom counts and the relative abundance of benthic species. The abbreviation used to identify species are explained in the separate file called sp_list. Metal, Total Purgeable Hydrocarbons (TPH), and grain-size data are all  ... presented as separate files. 
+ 
+ This work was completed as part of ASAC project 1130 (ASAC_1130) and project 2201 (ASAC_2201). 
+ 
+ Public summary from project 1130: 
+ 
+ Algal mats grow on sea floor in most shallow marine environments. They are thought to contribute more than half of the total primary production in many of these areas, making them a critical food source for invertebrates and some fish. We will establish how important they are in Antarctic marine environments and determine the effects of local sewerage and tip-site pollution. We will also investigate the impact on the algal mats of the additional UV radiation which results from the ozone hole. 
+ 
+ Public summary from project 2201: 
+ 
+ As a signatory to the Protocol on Environmental Protection to the Antarctic Treaty Australia is committed to comprehensive protection of the Antarctic environment. This protocol requires that activities in the Antarctic shall be planned and conducted on the basis of information sufficient to make prior assessments of, and informed judgements about, their possible impacts on the Antarctic environment. Most of our activities in the Antarctic occur along the narrow fringe of ice-free rock adjacent to the sea and many of our activities have the potential to cause environmental harm to marine life. The Antarctic seas support the most complex and biologically diverse plant and animal communities of the region. However, very little is known about them and there is certainly not sufficient known to make informed judgements about possible environmental impacts 
+ 
+ The animals and plants of the sea-bed are widely accepted as being the most appropriate part of the marine ecosystem for indicating disturbance caused by local sources. Attached sea-bed organisms have a fixed spatial relationship with a given place so they must either endure conditions or die. Once lost from a site recolonisation takes some time, as a consequence the structure of sea-bed communities reflect not only present conditions but they can also integrate conditions in the past. In contrast, fish and planktonic organisms can move freely so their site of capture does not indicate a long residence time at that location. Because sea-bed communities are particularly diverse they contain species with widely differing life strategies, as a result different species can have very different levels of tolerance to stress; this leads to a range of subtle changes in community structure as a response to gradually increasing disturbance, rather than an all or nothing response. 
+ 
+ This project will examine sea-bed communities near our stations to determine how seriously they are affected by human activities. This information will be used to set priorities for improving operational procedures to reduce the risk of further environmental damage. 
+ 
+ The fields in this dataset are: 
+ 
+ bbg_lat spreadsheet 
+ 
+ Site 
+ Latitude 
+ Longitude 
+ Easting 
+ Northing 
+ 
+ Diatoms spreadsheet 
+ 
+ Species 
+ Site 
+ Abundance 
+ Transect 
+ 
+ Metals Spreadsheet 
+ 
+ Sample 
+ Antimony 
+ Arsenic 
+ Cadmium 
+ Chromium 
+ Copper 
+ Iron 
+ Lead 
+ Manganese 
+ Mercury 
+ Nickel 
+ Silver 
+ Tin 
+ Zinc 
+ Total Organic Carbon 
+ Easting 
+ Northing 
+ 
+ TPH Spreadsheet 
+ Site 
+ Total Purgeable Hydrocarbons 
+ Fraction of Purgeable Hydrocarbons 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Download point for the data 
+                            
+
+                        
+			
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Public information for ASAC project 1130 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Public information for ASAC project 2201 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Citation reference for this metadata record and dataset 
+                            
+
+                        
+			
+                        
+                    
+		    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: -66.0
+                                
+                            	 	
+                                
+                                    S: -66.5
+                                
+                            	 	
+                                
+                                    E: 110.5
+                                
+                            	 	
+                                
+                                    W: 110.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Parent DIF 
+
+        
+        
+            This data set description is a member of a collection. The
+            collection is described in
+
+            
+                
+                    
+                        ASAC_2201
+
+                    
+                
+                
+
+            
+        
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1998-09-01
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        1998-12-31
+                    
+
+                
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ANTARCTICA
+                            
+                            
+                            
+                            
+                            
+                                > Windmill Islands
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > POLAR
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                PROTISTS
+                            
+                            
+                                >
+                                DIATOMS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                PLANTS
+                            
+                            
+                                >
+                                MICROALGAE
+                            
+                            
+                                >
+                                DIATOMS
+                            
+                            
+                            
+                        
+                    
+                    
+                    
+
+		    
+                        
+                	
+		
+                    
+                    
+                        
+                            
+                                BIOSPHERE
+                            
+                            
+                                >
+                                AQUATIC ECOSYSTEMS
+                            
+                            
+                                >
+                                BENTHIC HABITAT
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOSPHERE
+                            
+                            
+                                >
+                                AQUATIC ECOSYSTEMS
+                            
+                            
+                                >
+                                COASTAL HABITAT
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOSPHERE
+                            
+                            
+                                >
+                                ECOLOGICAL DYNAMICS
+                            
+                            
+                                >
+                                COMMUNITY DYNAMICS
+                            
+                            
+                                >
+                                COMMUNITY STRUCTURE
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            BIOTA
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEANS
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    FIELD SURVEYS
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+		    
+                
+
+
+    
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Access Constraints
+        
+            These data are publicly available for download from the URL given below. 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Use Constraints
+        
+            This data set conforms to the PICCCBY Attribution License 
+ (http://creativecommons.org/licenses/by/3.0/). 
+ 
+ Please follow instructions listed in the citation reference provided at http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=Diatoms_bbg when using these data. 
+ 
+ Please also contact the investigator when using these data. 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            ABUNDANCE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ANTARCTICA
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            ANTIMONY
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ARSENIC
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CADMIUM
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CHROMIUM
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTAMINANTS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            COPPER
+                    
+
+		    
+                
+                    
+                    
+                        
+                            DIATOMS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            EASTING
+                    
+
+		    
+                
+                    
+                    
+                        
+                            IRON
+                    
+
+		    
+                
+                    
+                    
+                        
+                            LATITUDE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            LEAD
+                    
+
+		    
+                
+                    
+                    
+                        
+                            LONGITUDE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            MANGANESE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            MARINE BAYS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            MERCURY
+                    
+
+		    
+                
+                    
+                    
+                        
+                            NICKEL
+                    
+
+		    
+                
+                    
+                    
+                        
+                            NORTHING
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SAMPLE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SILVER
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SITE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SPECIES
+                    
+
+		    
+                
+                    
+                    
+                        
+                            TIN
+                    
+
+		    
+                
+                    
+                    
+                        
+                            TOTAL ORGANIC CARBON
+                    
+
+		    
+                
+                    
+                    
+                        
+                            TOTAL PURGEABLE HYDROCARBONS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            TPH
+                    
+
+		    
+                
+                    
+                    
+                        
+                            TRANSECTS
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ZINC
+                    
+
+		    
+                
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            COMPLETE
+        
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Australian Antarctic Data Centre, Australia
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://data.aad.gov.au
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    DATA OFFICER
+                                                    
+                                                    AADC
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            +61 3 6232 3244
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            +61 3 6232 3351
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            metadata at aad.gov.au
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        Australian Antarctic Division
+
+                                                                    
+                                                                        203 Channel Highway
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Kingston
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                Tasmania
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                7050
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                Australia
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    HTTP
+                
+
+            
+            
+            
+                
+                    Distribution Size: 
+                    74 kb
+                
+
+            
+            
+            
+                
+                    Distribution Format: 
+                    excel
+                
+
+            
+            
+            
+                
+                    Fees: 
+                    free
+                
+
+            
+
+            
+                
+                
+                
+		
+            
+        
+
+    
+
+
+ 
+          
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        MARTIN
+                        J.
+                        RIDDLE
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6232 3573
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +61 3 6232 3351
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                martin.riddle at aad.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Australian Antarctic Division
+
+                                            
+                                                203 Channel Highway
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Kingston
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7050
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                 
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        JONATHAN
+                        SEAN
+                        STARK
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6232 3589
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +61 3 6232 3158
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                jonny.stark at aad.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Australian Antarctic Division
+
+                                            
+                                                203 Channel Highway
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Kingston
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7050
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        LAURA
+                        KAY
+                        CUNNINGHAM
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                laura.cunningham at aad.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Australian Antarctic Division
+
+                                            
+                                                203 Channel Highway
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Kingston
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7050
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+            
+             
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            Cunningham, L., Stark, J.S., Snape, I., McMinn, A., Riddle, M.J. (2003), Effects of metal and petroleium hydrocarbon contamination on benthic diatom communities near Casey Station, Antarctica: An experimental approach, Journal of Phycology, 39, 490-503 
+
+        
+    
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Extended Metadata Properties
+
+        
+            
+            (Click to view more)
+        
+
+        
+            
+
+            
+
+            
+                Extended Metadata Properties From GCMD
+
+                metadata.extraction_date: 2015-02-21 13:37:44
+metadata.keyword_version: 8.0
+metadata.uuid: 05b274c1-2e70-4216-9d42-eb966bff89ac
+
+            
+        
+
+    
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+            
+                DIF Creation Date:
+                2003-06-13
+            
+
+        
+        
+            
+                Last DIF Revision Date:
+                2014-09-11
+            
+
+        
+        
+    
+
+ 
+ 
+
+             
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                Reformat as ISO 19115 document
+            
+        
+    
+
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                              
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+        
+
+
+
+
+
+    
+
+
+
+
+                    
+                    
+                
+
+            
+
+            
+
+        
+
+    
+
+    
+    
+
+    
+
+
+
+
+
+
+
+
+    
+        	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+   
+
+
+
+
+    
+        	
+            
+        
+            + 
+                NASA Privacy Policy and Important Notices 
+
+
+    
+
+    
+    
+        
+            
+                
+        
+
+        	
+                Webmaster:
+                Monica Lyles
+            
+	
+                Responsible NASA Official:
+                Dr. Stephen Wharton
+            
+	Last updated: February 2015
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+

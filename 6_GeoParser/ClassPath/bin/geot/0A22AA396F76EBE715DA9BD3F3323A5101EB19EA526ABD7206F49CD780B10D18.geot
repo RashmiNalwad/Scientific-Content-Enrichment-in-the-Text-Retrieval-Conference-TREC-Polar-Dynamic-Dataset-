@@ -1,0 +1,2442 @@
+
+
+
+
+	 
+        
+
+	
+            
+                	
+            
+                
+	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                
+
+
+
+
+
+        
+        	 
+                
+        
+                
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Agriculture
+	
+
+	
+		
+	
+		Atmosphere
+	
+
+	
+		
+	
+		Biological Classification
+	
+
+	
+		
+	
+		Biosphere
+	
+
+	
+		
+	
+		Climate Indicators
+	
+
+	
+		
+	
+		Cryosphere
+	
+
+	
+		
+	
+		Human Dimensions
+	
+
+	
+		
+	
+		Land Surface
+	
+
+	
+		
+	
+		Oceans
+	
+
+	
+		
+	
+		Paleoclimate
+	
+
+	
+		
+	
+		Solid Earth
+	
+
+	
+		
+	
+		Spectral/Engineering
+	
+
+	
+		
+	
+		Sun-Earth Interactions
+	
+
+	
+		
+	
+		Terrestrial Hydrosphere
+	
+
+	
+	
+
+	
+		
+Data Centers
+
+	
+		 
+Locations
+
+	
+		
+Instruments
+
+	
+		
+Platforms/Sources
+
+	
+		
+Projects
+
+
+
+
+
+
+
+                
+                
+                	
+                    	
+	
+	
+
+
+                    
+                    	
+                            	
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Record Search Query:
+Science Keywords>CRYOSPHERE
+
+
+
+
+	
+
+
+
+	
+
+Vulnerability of shallow Antarctic invertebrate-dominated ecosystems
+
+
+
+
+
+
+Entry ID: 
+
+ASAC_2201_vulnerability
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+        
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+                
+                    
+                    
+                 
+            
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                
+                    
+                    
+                        Update this Record
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+    Summary
+
+
+    
+
+    
+    	
+
+    
+        
+            Abstract: 
+            Human impacts threaten not only species, but also entire ecosystems. Ecosystems under stress can collapse or transition into different states, potentially reducing biodiversity at a variety of scales. Here we examine the vulnerability of shallow invertebrate-dominated ecosystems on polar seabeds, which may be threatened for several reasons. These unique communities consist of dark-adapted animals that rely on almost year-round sea-ice cover to create low-light shallow marine environments. Climate change is likely to cause early sea-ice break-out in some parts of Antarctica, which will dramatically increase the amount of light reaching the seabed. This will potentially result in ecological regime shifts, where invertebrate-dominated communities are replaced by macroalgal beds. Habitat for these endemic invertebrate ecosystems is globally rare, and the fragmented nature of their distribution along Antarctic coast increases their sensitivity to change. At the same time, human activities in Antarctica are concentrated in areas where these habitats occur, compounding potential impacts. While there are clear mechanisms for these threats, lack of knowledge about the current spatial distribution of these ecosystems makes it difficult to predict the extent of ecosystem loss, and the potential for recovery. In this paper we describe shallow ice-covered ecosystems, their association with the environment, and the reasons for their vulnerability. We estimate their spatial distribution around Antarctica using sea-ice and bathymetric data, and apply the IUCN Red List of Ecosystems criteria to formally assess their vulnerability. We conclude that shallow ice-covered ecosystems should be considered near threatened to vulnerable in places, although the magnitude of risk is spatially variable.
+
+This dataset comprises two files. Both are provided in netCDF format in polar stereographic project (see nc file for projection details).
+
+light_budget_6km.nc : this gives the estimated annual light budget (in mol photons/m^2/year) at the surface of the water column, having been adjusted for sea ice cover (see paper for details). This is calculated on the 6.25km grid associated with the sea ice concentration data.
+
+benthic_light_500m.nc : this gives the estimated annual light budget (in mol photons/m^2/year) at the sea floor, having been further adjusted for water depth. It is provided on a 500m grid (as per the IBCSO bathymetry used). Areas deeper than 200m are given no-data values, and areas outside of the coverage of the sea ice grid are assigned a value of -999. See paper for details.
+        
+
+    
+
+    
+
+    
+
+
+
+      
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related URL
+
+
+	
+
+
+
+
+    
+    
+
+
+Link: 
+
+
+
+GET DATA
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+Description: 
+
+Download the data 
+
+
+
+  
+   
+
+
+
+  
+
+
+
+
+    
+    
+
+
+Link: 
+
+
+
+VIEW PROJECT HOME PAGE
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+Description: 
+
+Public information for ASAC project 2201 
+
+
+
+  
+   
+
+
+
+  
+
+
+
+
+    
+    
+
+
+Link: 
+
+
+
+VIEW RELATED INFORMATION
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+Description: 
+
+Citation reference for this metadata record and dataset 
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+Geographic Coverage
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+
+	
+
+	 	N: -62.0
+	S: -75.0
+	 	E: 180.0
+	 	W: -180.0
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Data Set Citation
+ 
+ 
+  	
+     
+      Dataset Originator/Creator: 
+       Clark, G.F., Raymond, B., Riddle, M.J., Stark, J.S. and Johnston, E.L.
+       
+
+     
+
+     
+     Dataset Title: 
+      Vulnerability of shallow Antarctic invertebrate-dominated ecosystems
+      
+
+     
+
+     
+     Dataset Series Name: 
+      CAASM Metadata
+      
+
+     
+
+     
+     Dataset Release Date: 
+      2015-02-28
+      
+
+     
+
+     
+
+     
+     Dataset Publisher: 
+      Australian Antarctic Data Centre
+      
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+     Dataset DOI: 
+      doi:10.4225/15/54975848E97E1
+      
+
+     
+
+     
+         Online Resource: 
+         
+             
+                
+                    https://data.aad.gov.au/aadc/metadata/metadata_redirect.cfm?md=/AMD...
+                
+             
+         
+
+     
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Temporal Coverage 
+
+
+
+	
+   Start Date: 
+    2002-10-01
+   
+	Stop Date: 
+    2011-03-31
+   
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Location Keywords
+
+
+	
+
+
+
+
+
+CONTINENT
+
+
+> ANTARCTICA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OCEAN
+
+
+> SOUTHERN OCEAN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GEOGRAPHIC REGION
+
+
+> POLAR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Science Keywords 
+
+
+
+
+	
+  
+    
+        OCEANS
+    
+    
+        >SEA ICE
+    
+    
+
+        >ICE GROWTH/MELT
+        
+        
+        
+        
+  
+
+
+  
+       [Definition]
+    
+  
+
+
+
+
+
+
+	
+  
+    
+        BIOLOGICAL CLASSIFICATION
+    
+    
+        >ANIMALS/INVERTEBRATES
+    
+    
+
+        >CNIDARIANS
+        
+        
+        >HYDROZOANS
+        
+        
+        
+  
+
+
+  
+
+
+
+
+
+
+	
+  
+    
+        BIOLOGICAL CLASSIFICATION
+    
+    
+        >ANIMALS/INVERTEBRATES
+    
+    
+
+        >BRYOZOANS/MOSS ANIMALS
+        
+        
+        
+        
+  
+
+
+  
+
+
+
+
+
+
+	
+  
+    
+        BIOLOGICAL CLASSIFICATION
+    
+    
+        >ANIMALS/INVERTEBRATES
+    
+    
+
+        >ECHINODERMS
+        
+        
+        
+        
+  
+
+
+  
+       [Definition]
+    
+  
+
+
+
+
+
+
+	
+  
+    
+        BIOLOGICAL CLASSIFICATION
+    
+    
+        >ANIMALS/INVERTEBRATES
+    
+    
+
+        >ECHINODERMS
+        
+        
+        >SEA URCHINS
+        
+        
+        
+  
+
+
+  
+
+
+
+
+
+
+	
+  
+    
+        BIOLOGICAL CLASSIFICATION
+    
+    
+        >ANIMALS/INVERTEBRATES
+    
+    
+
+        >ARTHROPODS
+        
+        
+        >CRUSTACEANS
+        
+        
+        >AMPHIPODS
+        
+        
+  
+
+
+  
+
+
+
+
+
+
+	
+  
+    
+        BIOLOGICAL CLASSIFICATION
+    
+    
+        >ANIMALS/INVERTEBRATES
+    
+    
+
+        >ARTHROPODS
+        
+        
+        >CRUSTACEANS
+        
+        
+        >ISOPODS
+        
+        
+  
+
+
+  
+
+
+
+
+
+
+	
+  
+    
+        BIOLOGICAL CLASSIFICATION
+    
+    
+        >ANIMALS/INVERTEBRATES
+    
+    
+
+        >ARTHROPODS
+        
+        
+        >CRUSTACEANS
+        
+        
+        >OSTRACODS
+        
+        
+  
+
+
+  
+
+
+
+
+
+
+	
+  
+    
+        BIOLOGICAL CLASSIFICATION
+    
+    
+        >ANIMALS/INVERTEBRATES
+    
+    
+
+        >MOLLUSKS
+        
+        
+        >BIVALVES
+        
+        
+        
+  
+
+
+  
+
+
+
+
+
+
+	
+  
+    
+        BIOLOGICAL CLASSIFICATION
+    
+    
+        >ANIMALS/INVERTEBRATES
+    
+    
+
+        
+        
+        
+  
+
+
+  
+       [Definition]
+    
+  
+
+
+
+
+
+
+	
+  
+    
+        CRYOSPHERE
+    
+    
+        >SEA ICE
+    
+    
+
+        >ICE GROWTH/MELT
+        
+        
+        
+        
+  
+
+
+  
+       [Definition]
+    
+  
+
+
+
+
+
+
+	
+  
+    
+        BIOSPHERE
+    
+    
+        >ECOLOGICAL DYNAMICS
+    
+    
+
+        >COMMUNITY DYNAMICS
+        
+        
+        >COMMUNITY STRUCTURE
+        
+        
+        
+  
+
+
+  
+       [Definition]
+    
+  
+
+
+
+
+
+
+	
+  
+    
+        BIOSPHERE
+    
+    
+        >AQUATIC ECOSYSTEMS
+    
+    
+
+        >BENTHIC HABITAT
+        
+        
+        
+        
+  
+
+
+  
+       [Definition]
+    
+  
+
+
+
+
+
+
+	
+  
+    
+        BIOLOGICAL CLASSIFICATION
+    
+    
+        >PLANTS
+    
+    
+
+        >MACROALGAE (SEAWEEDS)
+        
+        
+        
+        
+  
+
+
+  
+       [Definition]
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ISO Topic Category 
+
+	
+
+
+
+
+
+
+  
+     BIOTA
+  
+
+
+
+
+
+
+
+  
+     ENVIRONMENT
+  
+
+
+
+
+
+
+
+  
+     OCEANS
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quality
+
+	
+
+We applied the IUCN Red List criteria for ecosystems version 2.0 to assess the conservation status of these ecosystems.
+ 
+ The extent of potential sessile macroinvertebrate habitat around Antarctica was estimated using circum-Antarctic bathymetric and sea-ice concentration data.
+ 
+ These results were then merged projected onto with the bathymetric griddata (i.e. to a spatial resolution of 500m) and merged with the depth data.
+ 
+ We extracted occurrence data from the database 'Antarctic macrobenthic communities: a compilation of circumpolar information'.
+ 
+ For more information see the final publication. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Access Constraints
+
+	
+
+These data are not yet publicly available. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use Constraints
+
+	
+
+This data set conforms to the PICCCBY Attribution License
+ (http://creativecommons.org/licenses/by/3.0/).
+ 
+ When citing this dataset, please cite the referenced publication:
+ 
+ Clark GF, Raymond B, Riddle MJ, Stark JS, Johnston EL (in press) Vulnerability of shallow Antarctic invertebrate-dominated ecosystems. Austral Ecology 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Keywords
+
+
+
+	
+
+Vulnerability
+
+
+
+
+
+	
+
+Invertebrates
+
+
+
+
+
+	
+
+Shallow
+
+
+
+
+
+	
+
+Ecosystems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data Set Progress
+
+	
+COMPLETE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Originating Center
+
+
+
+	
+
+Australian Antarctic Division
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+       Data Center
+
+
+   
+    
+    	
+      
+      
+      
+      
+      Australian Antarctic Data Centre, Australia
+      
+       
+      
+          [Information]
+    
+
+
+
+   
+   
+   Data Center URL: 
+   http://data.aad.gov.au
+
+   
+   
+
+   
+   
+   
+
+
+   
+   
+   
+   
+	Data Center Personnel
+	
+     Name: 
+     
+        DATA OFFICER
+        
+        AADC
+
+     
+
+     
+     
+     
+     Phone: 
+      +61 3 6232 3244
+     
+
+     
+     
+     
+
+
+     
+     
+     
+     Fax: 
+     +61 3 6232 3351
+     
+
+     
+     
+     
+
+     
+     
+     
+     Email: 
+     metadata at aad.gov.au
+     
+
+     
+     
+     
+
+
+     
+     
+
+     
+
+     
+     Contact Address: 
+
+
+     
+     
+     Australian Antarctic Division
+
+     
+     203 Channel Highway
+
+     
+     
+     
+
+     
+     City: 
+     Kingston
+     
+
+     
+
+     
+     Province or State: 
+     Tasmania
+     
+     
+
+     
+
+     
+     Postal Code: 
+     7050
+     
+
+     
+
+     
+     Country: 
+     Australia
+     
+
+     
+     
+     
+     
+   
+
+  
+
+   
+
+   
+   
+   
+
+
+  
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Distribution
+
+
+
+	
+
+
+Distribution_Media: 
+HTTP
+
+
+
+
+
+Distribution_Size: 
+4 MB
+
+
+
+
+
+Distribution_Format: 
+NetCDF
+
+
+
+
+
+Fees: 
+Free
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personnel
+
+
+
+	
+
+    GRAEME
+    F.
+    CLARK 
+
+
+
+
+
+
+Role: 
+INVESTIGATOR
+ 
+
+
+Role: 
+TECHNICAL CONTACT
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email: 
+g.clark at unsw.edu.au
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Address: 
+
+
+
+School of Biological, Earth and Environmental Sciences 
+
+
+University of New South Wales 
+
+
+
+
+
+
+
+City: 
+Sydney
+
+
+
+
+Province or State: 
+NSW
+
+
+
+
+Postal Code: 
+2052
+
+
+
+
+Country: 
+Australia
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+	
+
+    BEN
+    
+    RAYMOND 
+
+
+
+
+
+
+Role: 
+INVESTIGATOR
+ 
+
+
+
+
+
+
+
+
+Phone: 
++61 3 6232 3336
+
+
+
+
+
+
+
+
+
+Fax: 
++61 3 6283 2336
+
+
+
+
+
+
+
+
+
+
+Email: 
+ben.raymond at aad.gov.au
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Address: 
+
+
+
+Australian Antarctic Division 
+
+
+203 Channel Highway 
+
+
+
+
+
+
+
+City: 
+Kingston
+
+
+
+
+Province or State: 
+Tasmania
+
+
+
+
+Postal Code: 
+7050
+
+
+
+
+Country: 
+Australia
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+	
+
+    MARTIN
+    J.
+    RIDDLE 
+
+
+
+
+
+
+Role: 
+INVESTIGATOR
+ 
+
+
+
+
+
+
+
+
+Phone: 
++61 3 6232 3573
+
+
+
+
+
+
+
+
+
+Fax: 
++61 3 6232 3351
+
+
+
+
+
+
+
+
+
+
+Email: 
+martin.riddle at aad.gov.au
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Address: 
+
+
+
+Australian Antarctic Division 
+
+
+203 Channel Highway 
+
+
+
+
+
+
+
+City: 
+Kingston
+
+
+
+
+Province or State: 
+Tasmania
+
+
+
+
+Postal Code: 
+7050
+
+
+
+
+Country: 
+Australia
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+	
+
+    JONATHAN
+    SEAN
+    STARK 
+
+
+
+
+
+
+Role: 
+INVESTIGATOR
+ 
+
+
+
+
+
+
+
+
+Phone: 
++61 3 6232 3589
+
+
+
+
+
+
+
+
+
+Fax: 
++61 3 6232 3158
+
+
+
+
+
+
+
+
+
+
+Email: 
+jonny.stark at aad.gov.au
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Address: 
+
+
+
+Australian Antarctic Division 
+
+
+203 Channel Highway 
+
+
+
+
+
+
+
+City: 
+Kingston
+
+
+
+
+Province or State: 
+Tasmania
+
+
+
+
+Postal Code: 
+7050
+
+
+
+
+Country: 
+Australia
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+	
+
+    EMMA
+    L.
+    JOHNSTON 
+
+
+
+
+
+
+Role: 
+INVESTIGATOR
+ 
+
+
+
+
+
+
+
+
+Phone: 
++61 2 9385 1825
+
+
+
+
+
+
+
+
+
+
+
+
+Email: 
+e.johnston at unsw.edu.au
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Address: 
+
+
+
+School Of Biological Sciences 
+
+
+University Of New South Wales 
+
+
+
+
+
+
+
+City: 
+Sydney
+
+
+
+
+Province or State: 
+NSW
+
+
+
+
+Postal Code: 
+2052
+
+
+
+
+Country: 
+Australia
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+	
+
+    DAVE
+    J.
+    CONNELL 
+
+
+
+
+
+
+Role: 
+DIF AUTHOR
+ 
+
+
+
+
+
+
+
+
+Phone: 
++61 3 6232 3244
+
+
+
+
+
+
+
+
+
+Fax: 
++61 3 6232 3351
+
+
+
+
+
+
+
+
+
+
+Email: 
+dave.connell at aad.gov.au
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Address: 
+
+
+
+Australian Antarctic Division 
+
+
+203 Channel Highway 
+
+
+
+
+
+
+
+City: 
+Kingston
+
+
+
+
+Province or State: 
+Tasmania
+
+
+
+
+Postal Code: 
+7050
+
+
+
+
+Country: 
+Australia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Creation and Review Dates
+
+	
+
+
+DIF Creation Date:
+2014-12-18
+
+
+
+
+
+Last DIF Revision Date:
+2014-12-22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+	
+  Reformat as FGDC document
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                
+                    
+                    
+                        Update this Record
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+

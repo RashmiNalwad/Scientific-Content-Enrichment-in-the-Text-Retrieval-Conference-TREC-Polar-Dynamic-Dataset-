@@ -1,0 +1,2703 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        [Parent_DIF='BROKE-West']
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+            
+        
+    
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                Marine mammal acoustic survey data from sonobuoy deployments on the BROKE-WEST Survey
+            
+        
+
+        
+        
+            Entry ID:
+            
+                BROKE-West_mm_acoustics
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+        
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            Data Acquisition: 
+ 
+ DIFAR (DIrectional Fixing And Ranging) 53D sonobuoys were deployed every 30 minutes of longitude during each of the north-south sampling transects as part of the acoustic survey for marine mammals. Sonobuoys were also deployed opportunistically when large numbers of whales (in particular minke whales) were sighted. Additionally, on the initial E-W transect (#12) sonobouys were  ... deployed prior to the majority of CTD stations. 
+ 
+ The VHF receiving system for the sonobuoys aboard the ship began with a 6 element YAGI antenna mounted atop the ship's mast. The sonobuoy's VHF signal output from the YAGI was amplified through an Advanced Receiver Research VHF amplifier and received on ICOM PCR-1000 VHF receivers modified to improve low frequency audio output. The audio signal passed through a low pass anti-alias filter (National Instruments analogue bessel SCXI module) and was recorded onto a laptop through a National Instruments E-series (model 6062E) sound card at a sampling rate of 48kHz. Difar sonobuoys have an effective audio response up to 2.5kHz before the low-pass filter roll-off starts. DIFAR bearing information is carried on 7.5 and 15kHz carrier frequencies. 
+ 
+ Once sonobuoys were deployed, recordings were made for at least 70 minutes unless the sonobuoy failed or the signal was lost. During recordings at CTD stations, recordings were typically made for the length of time it took to complete the CTD (4 or more hours). 
+ 
+ Data Processing: 
+ 
+ Signals were monitored in real-time during acquisition using Ishmael software (Dave Mellinger, http://www.pmel.noaa.gov/vents/acoustics/whales/ishmael/index.html ). A scrolling spectrogram (FFT size: 16384 samples, overlap: 50%, frequency range displayed: 0-1000 Hz, time scaling: 5 sec/cm) was monitored in real-time. Sounds of interest were clipped and the time and description were logged in the sonobuoy deployment data logs. Bearings to sounds were attained with a modified version of DiFarV (Mark McDonald, http://www.whaleacoustics.com ). Note that bearings to the ship noise given by DifarV are ~180 degrees off for an as yet undetermined reason (potentially deep cold water propagation effects), but the bearings to whale sounds and other sounds of interest are thought to be correct. This appears to be the case with a series of light bulb calibration tests I did, suggesting that bearings to other sounds are in fact, correct. 
+ 
+ After acquisition, recordings were also post-processed in Ishmael with two further passes, one examining 0-2.5kHz, and another monitoring 0-1kHz again, to ensure as many marine mammal sounds as possible were identified. Clips were also re-examined when necessary to ensure species were correctly identified. 
+ 
+ In instances when apparently multiple whales were calling, calculated bearings were used to determine whether the sounds came from different bearings, and hence, different whales. 
+ 
+ Dataset Format: 
+ 
+ The dataset description is in an excel workbook, with a summary sheet at the front. The summary sheet has a single line summarising each sonobuoy deployment. The sonobuoy deployment data log sheets are separated by days when the deployment began. Each is marked by date - eg 01.10 is the 10th of January. Each deployment has an initial entry and the following rows are a running log of the sonobuoy recording session. The data sheets and the summary sheet are in the following format with column headers from left to right: 
+ 
+ Observer(real time/post-processing)Summary of the sounds that occurred within the sample (70 minutes) 
+ Total recording length (in minutes) 
+ Date 
+ UTC time of deployment 
+ Initial latitude (decimal degrees) 
+ Initial Longitude (decimal degrees) 
+ Depth setting of sonobuoy hydrophone (90, 120, or 300m) 
+ National Instruments sound card gain (0, 5, or 10 times) 
+ Ship heading (true degrees) 
+ Ship speed (knots) 
+ Distance of deployment from CTD location (if applicable) 
+ UTC time of events (applies mainly to log of events in sonobuoy deployment data log) 
+ Species or sound description (applies mainly to sonobuoy deployment data log) 
+ Comments 
+ Sonobuoy type 
+ 
+ Raw data files are stored on a series of external hard drives. 
+ 
+ This work was completed as part of ASAC projects 2655 and 2679 (ASAC_2655, ASAC_2679). 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Download point for the data - Summary Acoustic Data 
+                            
+
+                        
+			
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Request the full dataset? 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Public information for ASAC project 2655 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Public information for ASAC project 2679 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Public information for ASAC project 2683 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Ishmael Software page 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                DIFARV page 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Citation reference for this metadata record and dataset 
+                            
+
+                        
+			
+                        
+                    
+		    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: -36.58
+                                
+                            	 	
+                                
+                                    S: -69.12
+                                
+                            	 	
+                                
+                                    E: 103.71
+                                
+                            	 	
+                                
+                                    W: 29.98
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+                        
+                            Dataset Originator/Creator: 
+                            Gedamke, J. and Robinson, S.
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Title: 
+                            Marine mammal acoustic survey data from sonobuoy deployments on the BROKE-WEST Survey
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Series Name: 
+                            CAASM Metadata
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Release Date: 
+                            2014-08-21
+                         
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            Australian Antarctic Data Centre
+                        
+
+                    
+                    
+                    
+                    
+                    
+
+
+                    
+                    
+                    
+
+                    
+
+                    
+                       
+                          
+                               Dataset DOI: 
+                                
+                                
+                                 doi:10.4225/15/53F54E16A74A1
+                                  
+                           
+
+                       
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        https://data.aad.gov.au/aadc/metadata/metadata_redirect.cfm?md=/AMD...
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Parent DIF 
+
+        
+        
+            This data set description is a member of a collection. The
+            collection is described in
+
+            
+                
+                    
+                        BROKE-West
+
+                    
+                
+                    
+                        ASAC_2683
+
+                    
+                
+                
+
+            
+        
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        2006-01-04
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        2006-02-28
+                    
+
+                
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > SOUTHERN OCEAN
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ANTARCTICA
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > POLAR
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                ANIMALS/VERTEBRATES
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                ANIMALS/VERTEBRATES
+                            
+                            
+                                >
+                                MAMMALS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+                        
+                	
+		
+                    
+                    
+                        
+                            
+                                BIOSPHERE
+                            
+                            
+                                >
+                                AQUATIC ECOSYSTEMS
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOSPHERE
+                            
+                            
+                                >
+                                ECOLOGICAL DYNAMICS
+                            
+                            
+                                >
+                                ECOSYSTEM FUNCTIONS
+                            
+                            
+                                >
+                                BIOMASS DYNAMICS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN ACOUSTICS
+                            
+                            
+                                >
+                                AMBIENT NOISE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                ANIMALS/VERTEBRATES
+                            
+                            
+                                >
+                                MAMMALS
+                            
+                            
+                                >
+                                CETACEANS
+                            
+                            
+                                >
+                                BALEEN WHALES
+                            
+                            
+                        
+                    
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                ANIMALS/VERTEBRATES
+                            
+                            
+                                >
+                                MAMMALS
+                            
+                            
+                                >
+                                CETACEANS
+                            
+                            
+                                >
+                                TOOTHED WHALES
+                            
+                            
+                        
+                    
+                    
+                    
+
+		    
+		
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                ANIMALS/VERTEBRATES
+                            
+                            
+                                >
+                                MAMMALS
+                            
+                            
+                                >
+                                CARNIVORES
+                            
+                            
+                                >
+                                SEALS/SEA LIONS/WALRUSES
+                            
+                            
+                        
+                    
+                    
+                    
+
+		    
+		
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            BIOTA
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            OCEANS
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    SHIPS
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+                        
+                            
+                                
+                                    R/V AA
+                                    
+                                        >
+                                        R/V Aurora Australis
+                                    
+                                
+                            
+                        
+                        
+
+			
+                    
+		    
+                
+
+
+    
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            SONOBUOYS
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+	    
+        
+
+
+    
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Quality
+        
+            Sonobuoy recordings are calibrated for sound pressure level according to the standard sonobuoy frequency response specifications, and the recording gain on the receiving instruments. Recording gain is noted in the data log. 
+ 
+ Recordings made from sonobuoys deployed prior to CTD stations usually had a fair amount of vessel noise throughout as the sonobuoy was typically deployed between  ... 3-6 nautical miles from the stations. Sonobuoys deployed during standard survey mode had a large amount of vessel noise initially, but this decreased rapidly as the ship moved away from the sonobuoy permitting clean recordings for the vast majority of sonobuoy recordings. The exception to this was when sonobuoys were deployed when the ship was in 'ice-breaking' mode. This increased the amount of vessel noise greatly throughout most of recordings. 
+ 
+ Data_Resolution 
+ Sonobuoys were deployed approximately every 30 minutes of latitude along N-S transects separated by 5 degrees of longitude, as well as opportunistically when whales were sighted. During the initial E-W transect (#12) across the top of the survey area, sonobuoys were deployed prior to most CTD sampling stations. 
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Access Constraints
+        
+            A summary dataset is available for download from the provided URL, but owing to the size of the main dataset, it will be made available on an FTP server on request. 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Use Constraints
+        
+            This data set conforms to the PICCCBY Attribution License 
+ (http://creativecommons.org/licenses/by/3.0/). 
+ 
+ Please follow instructions listed in the citation reference provided at http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=BROKE-We... when using these data. 
+ 
+ Please also contact the investigator when using these data. 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            SONOBUOY
+                    
+
+		    
+                
+                    
+                    
+                        
+                            ACOUSTIC SURVEY
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            WHALE
+                    
+
+		    
+                
+                    
+                    
+                        
+                            SEAL
+                    
+
+		    
+                
+                    
+                    
+                        
+                            DISTRIBUTION
+                    
+
+		    
+                
+                    
+                    
+                        
+                            MARINE MAMMAL
+                    
+
+		    
+                
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            COMPLETE
+        
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        Australian Antarctic Division
+                    
+                
+
+                
+            
+	    
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Australian Antarctic Data Centre, Australia
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://data.aad.gov.au
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    DATA OFFICER
+                                                    
+                                                    AADC
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            +61 3 6232 3244
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            +61 3 6232 3351
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            metadata at aad.gov.au
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        Australian Antarctic Division
+
+                                                                    
+                                                                        203 Channel Highway
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Kingston
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                Tasmania
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                7050
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                Australia
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    HTTP
+                
+
+            
+            
+            
+                
+                    Distribution Size: 
+                    181 kb
+                
+
+            
+            
+            
+                
+                    Distribution Format: 
+                    excel
+                
+
+            
+            
+            
+                
+                    Fees: 
+                    free
+                
+
+            
+
+            
+                
+                
+                    
+
+                
+                
+            
+            
+                
+                    Distribution Media: 
+                    FTP
+                
+
+            
+            
+            
+                
+                    Distribution Size: 
+                    67 GB
+                
+
+            
+            
+            
+                
+                    Distribution Format: 
+                    audio files
+                
+
+            
+            
+            
+                
+                    Fees: 
+                    free
+                
+
+            
+
+            
+                
+                
+                
+		
+            
+        
+
+    
+
+
+ 
+          
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        JASON
+                        
+                        GEDAMKE
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6232 3153
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +61 3 6232 3449
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                jason.gedamke at aad.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Australian Antarctic Division
+
+                                            
+                                                203 Channel Highway
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Kingston
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7050
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                 
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        SARAH
+                        
+                        ROBINSON
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3  6232 3122
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                sarah.robinson at aad.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Australian Antarctic Division
+
+                                            
+                                                203 Channel Highway
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Kingston
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7050
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+            
+             
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Extended Metadata Properties
+
+        
+            
+            (Click to view more)
+        
+
+        
+            
+
+            
+
+            
+                Extended Metadata Properties From GCMD
+
+                metadata.extraction_date: 2015-02-15 02:25:59
+metadata.keyword_version: 8.0
+metadata.uuid: 82175973-e81a-4721-937c-7cddc15f6897
+
+            
+        
+
+    
+
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+            
+                DIF Creation Date:
+                2007-01-08
+            
+
+        
+        
+            
+                Last DIF Revision Date:
+                2014-09-11
+            
+
+        
+        
+    
+
+ 
+ 
+
+             
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                Reformat as ISO 19115 document
+            
+        
+    
+
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                              
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+        
+
+
+
+
+
+    
+
+
+
+
+                    
+                    
+                
+
+            
+
+            
+
+        
+
+    
+
+    
+    
+
+    
+
+
+
+
+
+
+
+
+    
+        	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+   
+
+
+
+
+    
+        	
+            
+        
+            + 
+                NASA Privacy Policy and Important Notices 
+
+
+    
+
+    
+    
+        
+            
+                
+        
+
+        	
+                Webmaster:
+                Monica Lyles
+            
+	
+                Responsible NASA Official:
+                Dr. Stephen Wharton
+            
+	Last updated: February 2015
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+

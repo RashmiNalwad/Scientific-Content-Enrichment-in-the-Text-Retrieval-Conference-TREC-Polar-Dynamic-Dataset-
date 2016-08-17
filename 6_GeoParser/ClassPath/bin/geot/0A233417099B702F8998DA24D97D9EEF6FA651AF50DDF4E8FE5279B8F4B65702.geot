@@ -1,0 +1,350 @@
+
+
+
+******************************************************************************
+dorisreport             14-Feb-2013 04:11:48 Message No 3241
+******************************************************************************
+
+
+Author: WILLIS Pascal <willis@ambrym.step.univ-paris-diderot.fr>
+Subject: IGN/JPL DORIS Report for week 1722 = 13006
+
+
+==============================================================
+Summary report for weekly DORIS IGN/JPL Analysis solution
+GPS week number: 1722 
+from 06-01-2013 to 12-01-2013
+DORIS name (using day of start): 13006
+Days of year: from 2013/6 to 2013/12
+==============================================================
+
+Author: Pascal Willis 
+
+1) Contacts
+===========
+
+Email    pascal.willis@ign.fr
+Phone    +33-1-4427-2484
+FAX      +33-1-4427-7340
+
+2) Products
+===========
+
+All the following products are available at the CDDIS data center
+
+    ftp cddis.gsfc.nasa.gov
+
+ weekly sinex in free-network
+     pub/doris/products/sinex_series/ignwd/ign13006wd08.snx.Z
+
+ weekly sinex in ITRF2008   
+     pub/doris/products/sinex_series/ignwd/ign13006wd10.snx.Z
+
+ geocenter series in ITRF2008
+     pub/doris/products/geoc/ign11wd01.geoc.Z
+
+ Earth Orientation Parameters time series in ITRF2008 
+     pub/doris/products/eop/ign11wd01.eop.Z
+
+3) Analysis Strategy
+====================
+
+The DORIS data have been processed using the Gipsy/Oasis software
+from the Jet Propulsion Laboratory
+
+Suggestions on which solutions should be used or not can be found in
+
+        pub/doris/products/sinex_series/ign.snx.readme
+
+Complete description files can be found at CDDIS at
+
+ weekly sinex in free-network
+	pub/doris/products/sinex_series/ignwd/ignwd08.snx.dsc
+
+ weekly sinex in ITRF2008 
+        pub/doris/products/sinex_series/ignwd/ignwd10.snx.dsc
+
+ geocenter series in ITRF2008 
+	pub/doris/products/geoc/ign11wd01.geoc.dsc
+
+Earth Orientation Parameters time series in ITRF2008 
+	pub/doris/products/eop/ign11wd01.eop.dsc
+
+For references, the following papers are recommended :
+
+  Willis, P., Y.E. Bar-Sever, G. Tavernier (2005), DORIS as a potential part
+  of a Global Geodetic Observing System, J. Geodyn., 40(4-5), 494-501,
+  DOI: 10.1016/j.jog.2005.06.011 
+
+  Willis, P., Boucher, C., Fagard, H., Goginddass, M.L. (2010), Contributions 
+  of the French Institut Geographique National (IGN) to the International  
+  DORIS Service, Adv. Space Res., 45(12), 1470-1480 
+  DOI: 10.1016/j.asr.2009.09.019
+
+Changes in data processing:
+
+ #week 1568:  goa-test.2010.03.25b
+   Use Bulletin-A as a priori instead of Bulletin-B
+ #week 1574:  goa-test.2010.03.31e
+   Same executable but with /DEV scripts (all official version)
+ #week 1579: goa-test.2010.04.28a
+   Same executable without any DEV scripts
+ #week 1580: goa-test.2010.05.25h
+   Major change affecting solar array orientation for SPOT5 after Jan 2008
+   see details in Gobinddass et al., Adv. Space Res., 2009
+ #week 1597: goa-test.2010.09.20c
+   More recent version, close to future 6.0 official version for tests
+ #week 1599: goa-test.2010.05.25h
+   Back to previous test version
+ #week 1606: goa-6.0 
+   Latest JPL official version
+ #week 1487: goa-test-2011.03.17b
+   Including Jason-2 and Cryosat-2 data
+   deleting stations in the South Atlantic Anomaly (SAA) for SPOT-5
+   reprocessing done for weeks:  736-738 + 955-995 + 1124-1131 + 1487-1619
+ #week 1632: goa-test-2011.05.11b
+   Minor change (deleting unecessary files)
+ #week 1649: correct bug in estimating CRYOSAT2 drag
+   Estimating every hour in the multi-satellite mode
+   (instead of previously once per day)
+   also estimate CONST_L terms for TOPEX and JASON2 every 8 hours
+   (instead of previously once per day)
+ #week 1656: goa-test.2011.09.27c
+   Minor change: do not use DEV scripts anymore
+ #week 1698: goa-test.2012.09.11a  
+   Correct bug related to satellite phase center corrections
+ #week 1720: goa.test.2013.01.25a
+   Correct bug when handling files doris_break.nml to handle station
+   discontinuities and also SAA_definitions.txt file to handle
+   stations and satellites affected by the South Atlantic Anomaly effect
+ 
+4) Global Statistics
+====================
+
+GPS week number 1722            from 06-01-2013 to 12-01-2013
+
+Total number of stations   = 44
+
+Total number of satellites = 4
+
+Combinations (daily to weekly) CHI2 / DOF = 3.58
+
+the following satellites were used in the combination
+ 
+2013 6 cryosat2 jason2 spot4 spot5
+2013 7 cryosat2 jason2 spot4 spot5
+2013 8 cryosat2 jason2 spot4 spot5
+2013 9 cryosat2 jason2 spot4 spot5
+2013 10 cryosat2 jason2 spot4 spot5
+2013 11 cryosat2 jason2 spot4 spot5
+2013 12 cryosat2 jason2 spot4 spot5
+
+The following table only counts DORIS data that have passed
+CNES preprocesing step
+
+Individual daily DORIS statistics
+
+   Day       total_obs  rejected   valid_obs  %_rejected
+--------------------------------------------------------
+06-01-2013     37099       147        36952        0.4
+07-01-2013     37233        70        37163        0.2
+08-01-2013     36231        56        36175        0.2
+09-01-2013     34473        71        34402        0.2
+10-01-2013     36950       105        36845        0.3
+11-01-2013     37019        98        36921        0.3
+12-01-2013     37065        76        36989        0.2
+ 
+5) Individual Statistics per satellite
+======================================
+
+The following table includes all data that have been kept in 
+the solution (after pre and post-processing)
+
+5.1) Number of observations per satellite
+-----------------------------------------
+
+            day1    day2    day3    day4    day5    day6    day7
+-----------------------------------------------------------------
+CRYOSAT2    8494    8845    8301    7394    8664    8852    8729 
+JASON2     15918   16131   15807   15150   15929   15863   15795 
+SPOT4       4424    4477    4547    4575    4642    4241    4557 
+SPOT5       8116    7710    7520    7283    7610    7965    7908 
+ 
+5.2) Doppler residuals per satellite in mm/s
+--------------------------------------------
+ 
+           day1    day2    day3    day4    day5    day6    day7
+---------------------------------------------------------------
+CRYOSAT2   0.452   0.432   0.415   0.423   0.441   0.459   0.440 
+JASON2     0.417   0.394   0.407   0.401   0.404   0.404   0.394 
+SPOT4      0.440   0.441   0.425   0.438   0.464   0.433   0.453 
+SPOT5      0.413   0.413   0.395   0.422   0.446   0.413   0.411 
+
+6) Individual Statistics per station
+======================================
+
+6.1) Stations given in sinex solutions
+--------------------------------------
+
+The following table includes all DORIS data
+that were used to generate the weekly DORIS sinex solutions
+
+o = station after a break in the DORIS time series
+
+           day1    day2    day3    day4    day5    day6    day7
+---------------------------------------------------------------
+ADGB       1435    1382    1346    1325    1367    1424    1372  
+AMVB        679     876     669     830     782     798     794  
+ARFB        652     502     581     537     544     559     537  
+ASEB        505     535     364     399     476     490     436  
+BADB       1099     973    1077    1050    1002     981     942  
+BEMB       2063    2110    1422     296    1993    2033    2092  
+CADB        560     514     651     456     482     656     568  
+CHAB       1012    1059    1080    1073    1031    1076    1033  
+CIDB        552     575     526     553     572     618     482  
+COBB       1325    1243    1363    1347    1345    1294    1214  
+CRQB        851     951     853     847     752     940     931  
+DIOB        660     671     674     635     689     663     735  
+DJIB        617     580     607     629     628     566     597  
+EASB        627     652     721     581     614     668     675  
+EVEB o      403     489     469     415     431     477     403  
+FUUB        521     425     476     533     497     556     463  
+GRFB        778     850     941     941     864     766     893  
+HBMB        702     646     763     792     740     699     752  
+HEMB        562     549     620     567     498     548     541  
+KETB       1027    1021     998     942    1024    1116     955  
+KOLB        737     697     765     756     783     748     690  
+KRBB       1026    1054    1095    1087    1027     968    1090  
+KRWB        378     450     433     417     391     455     413  
+LICB        553     522     536     565     523     453     582  
+MANB o      636     596     543     610     642     538     601  
+MEUB       1068    1041    1009    1167    1093    1061    1125  
+MIAB        654     683     531     733     729     655     732  
+MSPB        791     772     819     804     803     749     818  
+NOXB        676     688     641     514     598     662     691  
+PAUB        570     599     582     684     654     624     586  
+PDMB o      714     802     818     701     784     802     767  
+REUB        652     599     543     651     615     593     508  
+REZB       1158    1114    1145    1222    1092    1053    1125  
+RIMB        376     517     501     504     523     539     476  
+RIRB       1251    1079    1148    1072    1120    1091    1047  
+ROVB       1440    1501    1311    1573    1483    1301    1564  
+SALB        609     654     613     498     580     559     537  
+SANB o      678     700     625     687     608     661     766  
+SPJB       1824    1937    1784    1861    1841    1859    1754  
+STJB o       42      14      25       0      18      10     425  
+SYPB       1569    1523    1554    1408    1613    1580    1454  
+THUB       1816    1842    1819    1897    1716    1896    1631  
+TLSB        968    1006    1027     928    1034    1008    1001  
+YASB        745     708     652     737     768     728     773  
+ 
+6.2) stations rejected from solution
+------------------------------------
+ 
+all available stations were processed and given in the output sinex solutions
+ 
+6.3) statistics per station and per satellite (stations in sinex)
+------------------------------------------------------------------------
+ 
+     CRYOSAT2   JASON2    SPOT4    SPOT5 
+----------------------------------------- 
+ADGB     2603     3911        0     3137 
+AMVB     1143     2604      632     1049 
+ARFB      837     1826      437      812 
+ASEB      665     1373      454      713 
+BADB     1373     3518      921     1312 
+BEMB     4348     2611     1759     3291 
+CADB      778     1675      635      799 
+CHAB     1226     3604     1223     1311 
+CIDB      589     1724      700      865 
+COBB     1590     4126     1683     1732 
+CRQB     1268     3617      387      853 
+DIOB     1061     2554      294      818 
+DJIB      761     1872      702      889 
+EASB      771     1962      905      900 
+EVEB      583     1435      416      653 
+FUUB      569     1534      541      827 
+GRFB     1211     2989      679     1154 
+HBMB      973     2156     1051      914 
+HEMB      911     1982      185      807 
+KETB     1357     3837      717     1172 
+KOLB     1000     2260      946      970 
+KRBB     1510     3681      672     1484 
+KRWB      653     1118      580      586 
+LICB      671     1634      594      835 
+MANB      679     1897      670      920 
+MEUB     1830     3669      389     1676 
+MIAB      863     2317      478     1059 
+MSPB     1109     2685      655     1107 
+NOXB      900     2065      544      961 
+PAUB      656     1779      944      920 
+PDMB     1101     2792      415     1080 
+REUB      931     2116      277      837 
+REZB     2108     3691      508     1602 
+RIMB      531     1773      245      887 
+RIRB     1671     3756      774     1607 
+ROVB     2712     3693      908     2860 
+SALB      941     1719      618      772 
+SANB      990     2308      371     1056 
+SPJB     5096     2782     1787     3195 
+STJB      200      124       78      132 
+SYPB     2841     3674     1132     3054 
+THUB     4612     2840     1696     3469 
+TLSB     1186     3261     1271     1254 
+YASB      964     2343      676     1128 
+ 
+6.4) statistics per station and per satellite (deleted stations)
+-----------------------------------------------------------------------
+ 
+     CRYOSAT2   JASON2    SPOT4    SPOT5 
+------------------------------------- 
+
+7) External Comparisons
+=======================
+
+(for information)
+
+7.1) Stations coordinates
+-------------------------
+
+Looking at the transformation results
+
+Comparing with solution tf_110726a at epoch of observations
+
+Weekly DORIS residuals in mm
+
+        N    E    V
+-------------------
+WRMS 11.9 11.6 13.8
+
+7.2) Geocenter estimation
+--------------------------
+
+Geocenter estimation as provided by 7-parameter transformation to tf_110726a
+
+TX =    2.0 +-   1.8 mm
+TY =  -17.1 +-   1.5 mm
+TZ =    0.3 +-   1.4 mm
+ 
+7.3) Scale factor
+-----------------
+ 
+Scale factor / ITRF2008 using reference tf_110726a
+  
+S  =    2.4 +-   0.2 ppb
+ 
+7.4) Earth Orientation Parameters
+---------------------------------
+
+External comparison with JPL/GPS EOP values
+
+number of days compared    X_POLE_RMS (mas)       Y_POLE_RMS (mas)
+------------------------------------------------------------------
+           7                     0.27                   0.49
+ 
+==============================================================
+
+
+Please do not reply directly to this message, but send 
+comments and suggestions to IDS.central.bureau@cls.fr
+

@@ -1,0 +1,373 @@
+
+	  
+    Jump to Navigation
+  
+
+    
+
+  
+
+    
+
+          
+        Login with URS!
+      
+
+              
+    
+        
+    
+  
+
+                		
+		
+		  	Home
+	About EOSDIS	ESDIS Project
+	Performance
+	Science System Description
+	Interfaces
+	Requirements
+	News
+	Internal Account Request
+
+
+	Data	Data Tools
+	Data Centers
+	Near Real-Time Data
+	Standards and References
+
+
+	Our Community	Community Data System Programs
+	ESDSWG
+	Data Systems Communities
+
+
+	User Resources	Outreach Products
+	Webinars and Tutorials
+	Data In Action
+	Related URLs
+
+
+	Labs	Worldview
+	ECC
+
+
+	Wiki
+	Register
+
+		
+
+
+  
+
+
+ 
+  
+
+                		
+		
+		  
+      Search Google Appliance
+
+    
+  Enter the terms you wish to search for. 
+ 
+
+
+
+
+
+  
+
+
+
+
+		
+
+
+  
+
+
+   
+
+    
+
+  
+ 
+  
+  
+  
+  
+
+    
+      
+      
+      
+          
+    
+ 
+		
+		
+		
+		
+		  	      
+        
+          
+              
+    
+  
+
+                		
+		
+		   Return to All Articles
+ 		
+
+
+  
+
+
+ 
+  
+
+  
+
+              About the Articles
+
+              
+    
+       These articles arose from research that used data from NASA Earth Observing System Data and Information System (EOSDIS) data centers. To inquire about re-use of articles or imagery, please contact us at nsidc@nsidc.org.
+ 
+     
+
+
+  
+
+
+ 
+  
+
+                		
+		
+		  Discover Data & Services
+Data and Service Access Client
+Earthdata Search (Beta)
+Data and Service Access Client
+Reverb
+Dataset Directory
+GCMD
+Search & Order Tools
+EOSDIS Data Service Directory
+
+
+
+
+		
+
+
+  
+
+
+   
+
+          
+
+        
+      
+      	
+            You are here
+Home » User Resources » Sensing Our Planet
+            
+            
+      
+      
+            Ice Happens
+
+      
+
+
+      
+            
+
+      
+			  
+    
+  
+
+                		
+		
+		  
+	
+    
+    
+    		    
+    
+  	
+  	   by Annette Varani
+Published in 1995
+Ice, like time, fundamentally expresses change.
+	New radar techniques track ice pack features and map an unusual ice type.
+	About Alaska SAR Facility (ASF)
+	Download PDF
+
+
+
+By its nature, ice sublimely reflects surrounding conditions. Climatologists know that the measure of the world's ice, in all its many dimensions and forms, is a measure of current environmental realities as well as of those frozen over time.
+Yet consider: the bulk of ice on this planet is in removed, inaccessible areas, for the most part probably forming in the dark, in weather that's far below freezing. Until the advent of satellite remote sensing, the polar night, cloud cover and temperature extremes presented significant barriers, and as a result, polar regions and other outlying areas are poorly modeled. Even with the evolution of passive remote sensing technologies, some ice characteristics remained impossible to gauge. Now, that's beginning to change.
+Subtle surface changes hitherto impossible to map are now detectable with the use of the first European Remote Sensing Satellite (ERS-1) Synthetic Aperture Radar (SAR) data distributed by the Alaska SAR Facility (ASF) DAAC. In particular, two 1995 studies focusing on very different transmutations of ice demonstrate the versatility of the data and suggest that SAR may have wide application in future work.
+Research scientist Shusun Li and colleagues at the Geophysical Institute at the University of Alaska in Fairbanks developed a technique using SAR interferometry to track the extent of stream icings near the junction of the Ivishak and the Echooka rivers in the northern Brooks Range, Alaska.
+As ice layers form on rivers and grow thicker, the water underneath is put under increasing pressure, which forces the stream to seek cracks and finally break its ice cover and overflow the frozen surface. Layer upon layer, the overflow refreezes. In Alaska and other high latitude areas, overflow ice, or aufeis, can grow to several meters in a season. It creates structural engineering problems and its uncertain surface presents hazards for construction crews. On the other hand, like glaciers, melting aufeis steadies flow through dry seasons, regulating water supply often into late summer.
+For purposes of construction planning or resource management, it's valuable to know where and to what degree aufeis is forming. Past mapping efforts based on Landsat visible- and near-infrared-band imagery have been successful but limited to cloud-free days in lighted seasons. SAR works independent of solar illumination and is capable of seeing through clouds.
+"The ERS-1 SAR data provide very high spatial resolution and contain a lot of detail. Images contain amplitude and phase information, which is important to interferometry work," Li says.
+"The principles of satellite SAR interferometry have been known a long time, but they didn't attract attention until two years ago, when they were applied to problems in Earth tectonics," Li says. "Our study of aufeis allowed us to investigate the potential of many different aspects of the new technology."
+Detecting change with interferometry is a matter of comparison, a technique measuring phase difference between orbits. "For science, we need two acquisitions from the same area, either taken from two antennas simultaneously, or by one antenna on subsequent satellite passes. The ERS-1 is a one-antenna system on a multi-day repeat cycle. We used images acquired three days apart to work with pairs of single-look complex images."
+The team constructed a time series of 12 interferograms, each containing three maps, including backscatter change, phase difference and coherence maps. Overflow and refreezing of water on aufeis surfaces cause changes in signal amplitude (backscatter). Phase difference is a pixel by pixel depiction of difference between two compared images. Coherence measures the degree to which the other two components change in a spatially random fashion.
+The 80-day high resolution aufeis mapping generated by the research team compares favorably with previous studies. "We are quite sure that this method does give us accurate measurement," Li says.
+The ability of SAR to reveal surface change across large, and largely inaccessible areas is also key to a new technique that derives sea ice thickness in winter.
+"There are no large-scale observations of sea ice thickness," says Ronald Kwok, a research scientist specializing in radar remote sensing at the Jet Propulsion Laboratory.
+Until now, sea ice thickness measurements have been limited to analysis of data from submarine sonars or moored, upward-looking sonars. Knowing sea ice thickness is important to climatologists since thickness affects the compressive strength of the ice and its rate of growth. As sea ice thickens with age, salt drains from it into the ocean mixed layer, affecting the heat and salinity balances. In the role of insulator, thicker, older ice regulates heat flux more effectively than does thin, young ice. Ice exported through the Fram Strait modulates the magnitude of the overturning of water masses in the northern Atlantic. Therefore, climate researchers postulate that sustained changes in sea ice amounts would have major consequences for Northern Hemisphere climate because of impacts to global thermohaline circulation patterns.
+Kwok and his colleagues used RADARSAT SAR data and an innovative Lagrangian procedure to track features in the winter ice pack. Lagrangian observation methods differ from Eularian methods (where observations of a moving surface are taken through a fixed grid) in that surface points within a grid are identified and followed, such that the grid cells move and deform along with the surface below. The Lagrangian procedure allowed the researchers to monitor changes identified in images sampled in three-day intervals.
+An ice classification algorithm computed multi-year ice in each cell and labeled residual ice areas as first-year ice. Then as leads opened and froze, the team was able to identify young ice, and track it through the time series. Using the relationship between ice age and ice thickness that relies on the number of freezing degree days, the researchers were able to derive the thickness of the young ice.
+Since RADARSAT SAR covers the Arctic Ocean every seven days, the researchers are considering the possibility of deriving ice age and thickness basin-wide. Discoveries about ice kinematics and mechanics are yet to be expected from continued examination of lead systems and orientation afforded by the data, Kwok says. Already, scrutiny of high resolution SAR data is fostering a new appreciation among researchers for the unceasing change that characterizes ice behavior.
+Reference(s)
+Kwok, R., D. A. Rothrock, H. L. Stern, and G. F. Cunningham. 1995. Determination of the age distribution of sea ice from Lagrangian observations of ice motion. IEEE Transactions on Geoscience and Remote Sensing. 33(2):392-400.
+Li, S. C. Benson and L. Shapiro. 1995. Aufeis in the Ivishak River mapped from satellite radar inter-ferometery. Delivered at the Fall Meeting American Geophysical Union, Dec. 11-14, San Francisco.
+ 
+
+
+  	
+
+  	
+      	
+    	    
+
+	          
+	
+ 
+
+ 
+
+		
+
+
+  
+
+
+   
+
+			 
+		  	
+		  	 
+		  
+
+		  
+		  
+        
+
+		
+
+		
+
+
+        
+      
+
+    
+ 
+
+  
+ 
+
+  
+
+    
+  
+
+ 
+
+	
+        
+    
+  
+
+                		
+		
+		  
+  
+	
+	  	
+	
+
+
+	Sensing Our Planet
+	News
+	Events
+	Acronyms
+	Library
+	Connect
+	Standards
+	Contact Us
+
+
+
+
+		
+
+
+  
+
+
+ 
+  
+
+                		
+		
+		  
+	
+
+	
+
+
+
+
+	
+		NASA Privacy Statement, Disclaimer, and Accessibility Certification
+	NASA Data & Information Policy
+	NASA Communications Policy
+	Freedom of Information Act
+	USA.gov
+
+
+
+	
+		NASA Official: Kevin Murphy
+	Website Inquiries
+
+
+
+
+		
+
+
+  
+
+
+   
+
+    
+ 
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+

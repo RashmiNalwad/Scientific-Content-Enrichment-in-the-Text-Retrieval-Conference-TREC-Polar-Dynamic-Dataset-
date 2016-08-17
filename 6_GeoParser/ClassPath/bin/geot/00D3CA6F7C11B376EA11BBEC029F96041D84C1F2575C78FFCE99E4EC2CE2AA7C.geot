@@ -1,0 +1,80 @@
+
+Validation of AMSR-E and 
+  AMSU/HSB Level 1 Brightness Temperatures 
+
+and Level 2 Cloud and Precipitation 
+  Parameters at High Latitudes
+
+ 
+
+PI: Ralf Bennartz
+
+  Institution: University of Wisconsin-Madison
+
+  Atmospheric and Oceanic Sciences
+
+  1225 W. Dayton St.
+
+  Madison, WI 53706
+
+  Phone: 608-265-2249
+
+  FAX: 608-262-0166
+
+  Email: bennartz@aos.wisc.edu
+
+
+
+  Co-investigators: 
+
+  - Grant W. Petty, University of Wisconsin, Madison, Wisconsin
+
+  - Daniel B. Michelson, Swedish Meteorological and Hydrological Institute, Norrkoping, 
+  Sweden
+
+
+
+EOS Team: AMSR-E 
+
+NASA EOS-PSO funding through FY02: $163,101
+
+ABSTRACT 
+
+The project aims at validating AMSR-E and AMSU/HSB products at high latitudes 
+  (50-70 degrees north). Validation will be done on retrieved. The validation 
+  will focus on the Baltic region, thus covering a high latitude area, which complements 
+  existing validation efforts in the mid-latitudes and tropics. As validation 
+  datasets, operational radiosounding and surface reports, as well as output of 
+  an operational mesoscale model (HIRLAM, run at SMHI), will be available. For 
+  precipitation retrieval validation we will use the unique, high-density gauge-calibrated 
+  radar dataset collected and provided by the Baltic Sea Experiment?s (BALTEX) 
+  Radar Data Centre (BRDC). BRDC is operated by the Swedish Meteorological and 
+  Hydrological Institute (SMHI). BRDC aims at collecting data from as many radars 
+  and gauges in or proximate to the Baltic region as possible, deriving and archiving 
+  homogenous data sets. During the Main Observational Phase (October 1999-February 
+  2002), data will be available from 25 radars in six countries covering the entire 
+  Baltic region every 15 minutes. 
+
+  A number of distinct AMSR-E and AMSU/HSB products will be validated. Here we 
+  list the different parameters that will be validated. 
+
+1. Level 1 Beam pointing accuracy of AMSU/HSB, AMSR-E. We will assess the accuracy 
+  of the navigation of AMSU, HSB, and AMSR-E 
+
+  2. Level 2 of AMSR-E cloud liquid water. We will validate AMSR-E cloud liquid 
+  water retrievals using MODIS as a reference for cloud-free areas. 
+
+3. Level 2 Accuracy of AMSR-E and precipitation algorithm over land. The validation 
+  of precipitation products will involve standard statistical comparison of gauge-calibrated 
+  radar data with the precipitation retrievals as well as forward modeling based 
+  on NWP and radar data. 
+
+4. Level 2 Accuracy of AMSR-E precipitation algorithm over water. The profiling 
+  algorithm proposed for AMSR-E will be validated for high latitudes via comparison 
+  with three-dimensional radar volume scans. 
+
+5. Level 2 Accuracy of AMSU/HSB precipitation. AMSU/HSB precipitation screening 
+  and retrieval will be assessed for high latitudes. 
+
+
+

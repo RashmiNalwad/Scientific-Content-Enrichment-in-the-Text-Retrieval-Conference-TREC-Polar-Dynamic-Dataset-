@@ -1,0 +1,3955 @@
+
+ 
+
+    	
+                 
+
+            	
+                 
+
+            	
+                 
+
+            
+	
+                 
+
+            	
+                 
+
+            	
+                 
+
+            
+	
+        	
+                    
+                    	
+                                
+                            	
+                                  + Visit NASA.gov
+                            
+
+
+                
+
+
+    
+	
+        	
+                    
+                    
+                
+		
+                    
+                        Links 
+                    
+                    
+                    FAQ
+                    
+                    Contact Us
+                    
+                    Site Map
+                 
+
+
+    
+	
+
+
+		
+																			
+																			
+
+
+
+
+
+	
+                
+                    
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Data Analysis And Visualization
+	
+
+	
+		
+	
+		Data Management/Data Handling
+	
+
+	
+		
+	
+		Education/Outreach
+	
+
+	
+		
+	
+		Environmental Advisories
+	
+
+	
+		
+	
+		Hazards Management
+	
+
+	
+		
+	
+		Metadata Handling
+	
+
+	
+		
+	
+		Models
+	
+
+	
+		
+	
+		Reference And Information Services
+	
+
+	
+		
+	
+		Web Services
+	
+
+	
+	
+	
+	
+
+	
+		Earth Science Links
+	
+	
+
+	
+		Portal 
+      Collaborations 
+	
+
+	
+	
+		Questions?
+        
+
+
+
+                
+
+            	
+                 
+
+                 
+
+                
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        	
+                    Are you using a browser that doesn't support JavaScript or have you disabled JavaScript? 
+
+                    
+
+                    If you have disabled JavaScript, you must re-enable JavaScript to use
+                    this page.
+ Or you can view this record using the 
+                    Text Only Format .
+
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Record Search Query:
+    ServiceParameters>DATA MANAGEMENT/DATA HANDLING>MEDIA TRANSFER/DATA RESCUE
+
+
+
+
+
+
+
+
+
+
+    
+        
+            Data Wrangler - An Interactive Tool for Data Cleaning and Transformation
+
+        
+        
+        
+            Entry ID: 
+            
+                STANFORD_VIS_WRANGLER
+            
+            
+
+        
+    
+
+
+
+
+
+
+
+
+    
+        
+            
+                
+            
+        
+    
+        
+            
+        
+    
+
+
+	
+            
+                [
+                
+                    
+                        Get Service
+                
+                ]
+            
+        	
+        
+             
+            
+                
+                
+                     [
+                     
+                         
+                             Update this Record
+                         
+                     
+                     ]
+                 
+                 
+            
+
+            
+            
+                
+            
+                
+                Updating this record requires registration.
+
+    
+                
+                    (Account holders)
+                    
+                        
+                        
+                            
+                                Update this Record.
+                        
+                    
+
+                
+
+                
+                    
+                        Need an account?
+                         
+
+                    
+
+                
+
+                close
+            
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            Though data analysis tools continue to improve, analysts still expend an inordinate amount of time and effort manipulating data and assessing data quality issues. Such "data wrangling" regularly involves reformatting data values or layout, correcting erroneous or missing values, and integrating multiple data sources. These transforms are often difficult to specify and difficult to reuse across  ... analysis tasks, teams, and tools. In response, we introduce Wrangler, an interactive system for creating data transformations. Wrangler combines direct manipulation of visualized data with automatic inference of relevant transforms, enabling analysts to iteratively explore the space of applicable operations and preview their effects. Wrangler leverages semantic data types (e.g., geographic locations, dates, classification codes) to aid validation and type conversion. Interactive histories support review, refinement, and annotation of transformation scripts. User study results show that Wrangler significantly reduces specification time and promotes the use of robust, auditable transforms instead of manual editing. 
+ 
+ [Summary provided by Stanford University.] 
+
+                        
+
+                    
+                    
+                
+            
+
+        
+    
+
+
+
+
+
+
+    
+    Related URL
+
+    
+            
+	
+
+        
+        
+
+        
+            
+                
+
+
+Link: 
+
+    
+        GET SERVICE
+        
+    
+    
+    
+
+    
+
+
+
+
+                
+            
+        
+
+        
+Description: 
+
+Access Data Wrangler. 
+
+
+
+        
+
+            
+                
+
+            
+
+            
+        
+
+        
+            
+                
+
+
+Link: 
+
+    
+        VIEW RELATED INFORMATION
+        
+    
+    
+    
+
+    
+
+
+
+
+                
+            
+        
+
+        
+Description: 
+
+Access the Data Wrangler research paper. 
+
+
+
+        
+
+            
+
+            
+            
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+        Service Citation
+        
+        
+            	
+                
+                    
+                    
+                        
+                            Originators: 
+                            Sean Kandel, Andreas Paepcke, Joseph Hellerstein, Jeffrey Heer
+                        
+
+                    
+                    
+                        
+                            Title: 
+                            Data Wrangler - An Interactive Tool for Data Cleaning and Transformation
+                        
+
+                    
+                    
+                        
+                            Release_Date: 
+                            2011
+                        
+
+                    
+                    
+                        
+                            Provider: 
+                            Stanford University
+                        
+
+                    
+                    
+                    
+                        
+                            URL: 
+                            
+                                
+                                    http://vis.stanford.edu/papers/wrangler
+                            
+                        
+
+                    
+                    
+                    
+                
+                
+            
+        
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+        Service Keywords
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                                DATA ANALYSIS AND VISUALIZATION
+                            
+                            
+                                >STATISTICAL APPLICATIONS
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                DATA ANALYSIS AND VISUALIZATION
+                            
+                            
+                                >VISUALIZATION/IMAGE PROCESSING
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                                DATA MANAGEMENT/DATA HANDLING
+                            
+                            
+                                >ARCHIVING
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                DATA MANAGEMENT/DATA HANDLING
+                            
+                            
+                                >CATALOGING
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                DATA MANAGEMENT/DATA HANDLING
+                            
+                            
+                                >DATA INTEROPERABILITY
+                            
+                            
+                                >DATA REFORMATTING
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                DATA MANAGEMENT/DATA HANDLING
+                            
+                            
+                                >SUBSETTING/SUPERSETTING
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                DATA MANAGEMENT/DATA HANDLING
+                            
+                            
+                                >TRANSFORMATION/CONVERSION
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                DATA MANAGEMENT/DATA HANDLING
+                            
+                            
+                                >MEDIA TRANSFER/DATA RESCUE
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                DATA MANAGEMENT/DATA HANDLING
+                            
+                            
+                                >DATA COMPRESSION
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                DATA MANAGEMENT/DATA HANDLING
+                            
+                            
+                                >DATA DELIVERY
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+                    
+                    
+                        
+                            
+                                DATA MANAGEMENT/DATA HANDLING
+                            
+                            
+                                >DATA NETWORKING/DATA TRANSFER TOOLS
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+            
+            
+                
+
+                
+                     
+            
+
+
+
+        
+    
+
+
+
+
+    
+        Science Keywords 
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            AGRICULTURE
+                            
+                            
+                            >AGRICULTURAL AQUATIC SCIENCES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            AGRICULTURE
+                            
+                            
+                            >AGRICULTURAL CHEMICALS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                            AGRICULTURE
+                            
+                            
+                            >AGRICULTURAL ENGINEERING
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            AGRICULTURE
+                            
+                            
+                            >AGRICULTURAL PLANT SCIENCE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            AGRICULTURE
+                            
+                            
+                            >ANIMAL COMMODITIES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            AGRICULTURE
+                            
+                            
+                            >ANIMAL SCIENCE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            AGRICULTURE
+                            
+                            
+                            >FEED PRODUCTS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            AGRICULTURE
+                            
+                            
+                            >FOOD SCIENCE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            AGRICULTURE
+                            
+                            
+                            >FOREST SCIENCE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            AGRICULTURE
+                            
+                            
+                            >PLANT COMMODITIES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            AGRICULTURE
+                            
+                            
+                            >SOILS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >AEROSOLS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >AIR QUALITY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ALTITUDE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC CHEMISTRY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC ELECTRICITY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC PHENOMENA
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC WATER VAPOR
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC WINDS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >CLOUDS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >PRECIPITATION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC RADIATION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            BIOSPHERE
+                            
+                            
+                            >ECOLOGICAL DYNAMICS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            BIOSPHERE
+                            
+                            
+                            >TERRESTRIAL ECOSYSTEMS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            BIOSPHERE
+                            
+                            
+                            >VEGETATION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            CRYOSPHERE
+                            
+                            
+                            >SEA ICE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            CRYOSPHERE
+                            
+                            
+                            >SNOW/ICE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            HUMAN DIMENSIONS
+                            
+                            
+                            >SOCIAL BEHAVIOR
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            HUMAN DIMENSIONS
+                            
+                            
+                            >BOUNDARIES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            HUMAN DIMENSIONS
+                            
+                            
+                            >ECONOMIC RESOURCES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            HUMAN DIMENSIONS
+                            
+                            
+                            >ENVIRONMENTAL IMPACTS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            HUMAN DIMENSIONS
+                            
+                            
+                            >PUBLIC HEALTH
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            HUMAN DIMENSIONS
+                            
+                            
+                            >INFRASTRUCTURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            HUMAN DIMENSIONS
+                            
+                            
+                            >ENVIRONMENTAL GOVERNANCE/MANAGEMENT
+                            
+                            
+                            >LAND MANAGEMENT
+                            
+                            
+                            >LAND USE/LAND COVER CLASSIFICATION
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            HUMAN DIMENSIONS
+                            
+                            
+                            >NATURAL HAZARDS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            HUMAN DIMENSIONS
+                            
+                            
+                            >POPULATION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >GROUND WATER
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >SNOW/ICE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >SURFACE WATER
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >WATER QUALITY/WATER CHEMISTRY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >EROSION/SEDIMENTATION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >GEOMORPHOLOGY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >LAND TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >LAND USE/LAND COVER
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >LANDSCAPE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >SOILS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >SURFACE RADIATIVE PROPERTIES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >TOPOGRAPHY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >BATHYMETRY/SEAFLOOR TOPOGRAPHY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >COASTAL PROCESSES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >MARINE ENVIRONMENT MONITORING
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >MARINE GEOPHYSICS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >MARINE SEDIMENTS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >OCEAN ACOUSTICS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >OCEAN CHEMISTRY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >OCEAN CIRCULATION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >OCEAN HEAT BUDGET
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >OCEAN OPTICS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >OCEAN PRESSURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >OCEAN TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >OCEAN WAVES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >OCEAN WINDS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >SALINITY/DENSITY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >SEA ICE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >TIDES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >WATER QUALITY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            PALEOCLIMATE
+                            
+                            
+                            >ICE CORE RECORDS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            PALEOCLIMATE
+                            
+                            
+                            >LAND RECORDS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            PALEOCLIMATE
+                            
+                            
+                            >OCEAN/LAKE RECORDS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SPECTRAL/ENGINEERING
+                            
+                            
+                            >INFRARED WAVELENGTHS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SPECTRAL/ENGINEERING
+                            
+                            
+                            >MICROWAVE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SPECTRAL/ENGINEERING
+                            
+                            
+                            >PLATFORM CHARACTERISTICS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SPECTRAL/ENGINEERING
+                            
+                            
+                            >RADAR
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SPECTRAL/ENGINEERING
+                            
+                            
+                            >SENSOR CHARACTERISTICS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SPECTRAL/ENGINEERING
+                            
+                            
+                            >ULTRAVIOLET WAVELENGTHS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SPECTRAL/ENGINEERING
+                            
+                            
+                            >VISIBLE WAVELENGTHS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SUN-EARTH INTERACTIONS
+                            
+                            
+                            >SOLAR ACTIVITY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SOLID EARTH
+                            
+                            
+                            >GEOCHEMISTRY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SOLID EARTH
+                            
+                            
+                            >GRAVITY/GRAVITATIONAL FIELD
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SOLID EARTH
+                            
+                            
+                            >GEOMAGNETISM
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SOLID EARTH
+                            
+                            
+                            >GEOMORPHIC LANDFORMS/PROCESSES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SOLID EARTH
+                            
+                            
+                            >GEOTHERMAL DYNAMICS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SOLID EARTH
+                            
+                            
+                            >EARTH GASES/LIQUIDS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SOLID EARTH
+                            
+                            
+                            >ROCKS/MINERALS/CRYSTALS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SOLID EARTH
+                            
+                            
+                            >TECTONICS
+                            
+                            
+                            >EARTHQUAKES
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SOLID EARTH
+                            
+                            
+                            >TECTONICS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SOLID EARTH
+                            
+                            
+                            >TECTONICS
+                            
+                            
+                            >VOLCANIC ACTIVITY
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >SEA SURFACE TOPOGRAPHY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >MARINE VOLCANISM
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            ATMOSPHERE
+                            
+                            
+                            >ATMOSPHERIC PRESSURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SPECTRAL/ENGINEERING
+                            
+                            
+                            >GAMMA RAY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SPECTRAL/ENGINEERING
+                            
+                            
+                            >RADIO WAVE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            CRYOSPHERE
+                            
+                            
+                            >FROZEN GROUND
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            LAND SURFACE
+                            
+                            
+                            >FROZEN GROUND
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            OCEANS
+                            
+                            
+                            >AQUATIC SCIENCES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            CLIMATE INDICATORS
+                            
+                            
+                            >ATMOSPHERIC/OCEAN INDICATORS
+                            
+                            
+                            >HUMIDITY INDICES
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            CLIMATE INDICATORS
+                            
+                            
+                            >ATMOSPHERIC/OCEAN INDICATORS
+                            
+                            
+                            >TELECONNECTIONS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SPECTRAL/ENGINEERING
+                            
+                            
+                            >X-RAY
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            CRYOSPHERE
+                            
+                            
+                            >GLACIERS/ICE SHEETS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >GLACIERS/ICE SHEETS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            HUMAN DIMENSIONS
+                            
+                            
+                            >HABITAT CONVERSION/FRAGMENTATION
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            PALEOCLIMATE
+                            
+                            
+                            >PALEOCLIMATE RECONSTRUCTIONS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SUN-EARTH INTERACTIONS
+                            
+                            
+                            >IONOSPHERE/MAGNETOSPHERE DYNAMICS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SUN-EARTH INTERACTIONS
+                            
+                            
+                            >SOLAR ENERGETIC PARTICLE FLUX
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SUN-EARTH INTERACTIONS
+                            
+                            
+                            >SOLAR ENERGETIC PARTICLE PROPERTIES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            BIOLOGICAL CLASSIFICATION
+                            
+                            
+                            >ANIMALS/VERTEBRATES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            BIOLOGICAL CLASSIFICATION
+                            
+                            
+                            >ANIMALS/INVERTEBRATES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            BIOLOGICAL CLASSIFICATION
+                            
+                            
+                            >PROTISTS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            BIOLOGICAL CLASSIFICATION
+                            
+                            
+                            >BACTERIA/ARCHAEA
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            BIOLOGICAL CLASSIFICATION
+                            
+                            
+                            >FUNGI
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            BIOLOGICAL CLASSIFICATION
+                            
+                            
+                            >PLANTS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            BIOLOGICAL CLASSIFICATION
+                            
+                            
+                            >VIRUSES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            BIOSPHERE
+                            
+                            
+                            >AQUATIC ECOSYSTEMS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                            SPECTRAL/ENGINEERING
+                            
+                            
+                            >LIDAR
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                    
+            
+
+
+        
+    
+
+
+
+
+
+    
+        ISO Topic Category 
+        	
+            
+                
+                
+                    
+                    
+                        
+                            FARMING
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            BIOTA
+                        
+                    
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            BOUNDARIES
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            ECONOMY
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            ELEVATION
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            ENVIRONMENT
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOSCIENTIFIC INFORMATION
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            HEALTH
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            IMAGERY/BASE MAPS/EARTH COVER
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            INLAND WATERS
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEANS
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            PLANNING CADASTRE
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            SOCIETY
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            STRUCTURE
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            TRANSPORTATION
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            UTILITIES/COMMUNICATIONS
+                        
+                    
+                    
+
+                    
+                
+                
+                    
+
+                    
+                        
+                
+            
+        
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+         Access Constraints
+        
+            None 
+        
+    
+
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+        
+            
+            	
+                
+                    
+                    
+                        
+                            Data Analysis
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Data Visualization
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Data Transformations
+                    
+
+                    
+                
+                    
+                    
+                        
+                            Data Cleaning
+                    
+
+                    
+                
+            
+            
+        
+
+
+        
+        
+
+
+
+
+
+    
+        Service Provider
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                                
+                                    STANFORD-U/CS/VIS
+                                    
+                                         >  
+                                        Human-Computer Interaction & Visualization Group, Computer Science Department, Stanford University
+                                    
+                                
+                           
+                            
+                                
+                                    
+                            
+                            
+
+                        
+                    
+                    
+                        
+                            Service Organization URL: 
+                        
+                        
+                            
+                                
+                                            http://vis.stanford.edu/ 
+                            
+                        
+                        
+
+                    
+                    
+                        
+                    
+                    
+                    
+                        
+                            
+
+                            	Service Provider Personnel
+	
+                                        Name: 
+                                        
+                                            
+                                                JEFFREY
+                                                MICHAEL
+                                                HEER
+                                            
+                                        
+                                        
+
+                                        
+                                            
+                                                Phone: 
+                                                
+                                                    650-723-0033
+                                                
+                                                
+
+                                            
+                                        
+                                        
+                                            
+                                        
+                                        
+                                            
+                                                
+                                                    Email: 
+                                                    
+                                                        jheer at cs.stanford.edu
+                                                    
+                                                    
+
+                                                
+                                            
+                                        
+                                        
+                                            
+                                                
+                                                    
+                                                        Contact Address: 
+
+                                                        
+                                                            
+                                                                
+                                                                    375 Gates Hall (3B Wing) 
+
+                                                                
+                                                            
+                                                        
+                                                    
+                                                    
+                                                        City: 
+                                                        
+                                                            Stanford
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Province or State: 
+                                                        
+                                                            CA
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Postal Code: 
+                                                        
+                                                            94305-9035
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Country: 
+                                                        
+                                                            USA
+                                                        
+                                                        
+
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+  
+                            
+                        
+                    
+                    
+                    
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+    
+        Distribution Media
+        
+            
+            	
+                
+                    
+                    
+                        
+                            Distribution_Media:
+                            Online
+                        
+                        
+
+                    
+                    
+                    
+                    
+                        
+                            Fees:
+                            No fees
+                        
+                        
+
+                    
+                    
+                    
+                
+                
+            
+
+
+        
+    
+
+
+
+
+
+    
+        Personnel
+        
+            
+            	
+                
+                    
+                    
+                        
+                            JEFFREY
+                            MICHAEL
+                            HEER 
+
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Role: 
+                                    TECHNICAL CONTACT
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Phone: 
+                                        650-723-0033
+                                
+                                
+
+                            
+                        
+                    
+                    
+                    
+                        
+                            
+                                
+                                    Email: 
+                                    jheer at cs.stanford.edu
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    
+                                        Contact Address: 
+
+                                        
+                                            
+                                                375 Gates Hall (3B Wing) 
+
+                                            
+                                        
+                                    
+                                
+                                
+                                    
+                                        City: 
+                                        Stanford
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Province or State: 
+                                        CA
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Postal Code: 
+                                        94305-9035
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Country: 
+                                        USA
+                                    
+                                    
+
+                                
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                        
+
+                    
+                
+                    
+                    
+                        
+                            TYLER
+                            B.
+                            STEVENS 
+
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Role: 
+                                    SERF AUTHOR
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Phone: 
+                                        (301) 614-6898
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Fax: 
+                                    301-614-5268
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Email: 
+                                    Tyler.B.Stevens at nasa.gov
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    
+                                        Contact Address: 
+
+                                        
+                                            
+                                                NASA Goddard Space Flight Center 
+
+                                            
+                                                Global Change Master Directory 
+
+                                            
+                                        
+                                    
+                                
+                                
+                                    
+                                        City: 
+                                        Greenbelt
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Province or State: 
+                                        MD
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Postal Code: 
+                                        20771
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Country: 
+                                        USA
+                                    
+                                    
+
+                                
+                            
+                        
+                    
+                    
+                    
+                
+                
+                    
+
+                    
+                        
+                
+            
+
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+
+
+
+
+
+    
+        Creation and Review Dates
+        	
+            
+                SERF Creation Date:
+                2011-06-02
+            
+            
+
+            
+                SERF Last Revision Date:
+                2011-06-06
+            
+            
+
+            
+        
+
+
+    
+
+    
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+    
+        Bookmark URL
+        Alternate URL
+    
+
+    
+
+
+
+
+	
+        
+            	
+                        
+                    	
+                        
+                            
+                    	
+                        
+                    	
+                        
+                            
+                                + Privacy Policy and Important Notices
+                        
+
+                    	
+                        
+                    	
+                        
+                            
+                    	
+                        
+                            Webmaster: 
+                            Monica Lyles
+                        
+
+                        
+                            Responsible NASA Official: 
+                            Dr. Stephen Wharton
+                        
+
+                        Last Updated:  February 2015
+
+                    
+	
+                        
+                    
+
+
+        
+
+    
+	
+                 
+
+            
+	
+                 
+
+            	
+                 
+
+            	
+                 
+
+            
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+

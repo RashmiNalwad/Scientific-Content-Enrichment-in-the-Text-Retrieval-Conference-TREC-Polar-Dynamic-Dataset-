@@ -1,0 +1,6 @@
+Tag: Unified Metadata Model
+	UMM-G - Granule Metadata Model
+This document provides information documenting the Granule Metadata Model to be used by the NASA Earth Science community. This model takes into account existing granule metadata formats in use by this community. Catalogs built to search and discover granule-based Earth Science data provided by NASA should use this model as a guide for implementing search and discovery. Data providers should use this model as a guide to be used during metadata generation.
+	UMM-C -  Collection Metadata Model
+This document describes the Collection Metadata Model to be used by the NASA Earth Science community. This model takes into account existing collection metadata formats in use by this community. Catalogs built to search and discover collection-based Earth Science data provided by NASA should use this model as a guide for implementing search and discovery. Data providers should use this model as a guide to be used during metadata generation.
+

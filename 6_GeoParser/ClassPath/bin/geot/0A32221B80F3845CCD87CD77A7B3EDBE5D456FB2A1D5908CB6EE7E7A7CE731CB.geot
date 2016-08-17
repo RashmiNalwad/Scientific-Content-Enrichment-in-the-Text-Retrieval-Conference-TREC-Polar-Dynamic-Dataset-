@@ -1,0 +1,31 @@
+Documentation Errors in the Last Version Of the HDF-EOS User's Guide:
+
+The following 3 errors were found in the HDF-EOS User's Guide by Bob 
+Wells (thanks for your diligence, Bob). They have been fixed and will 
+be seen in their corrected form in the next version (which will be 
+released with SCF Toolkit 5.2.7 and HDF-EOS 2.7).
+
+The 3 errors, as Bob pointed them out, were:
+
+> > [Page] 2-63 SWdefvrtregion
+> > The array 'freq' is not declared (or assigned in the Fortran example)
+
+Fix: The array 'freq', will be declared in the next version of the 
+document.
+
+> > [Page] 2-67 SWextractperiod
+> > 'datbuf' is used for 'buffer'
+> > 'swid'   is used for 'swathid' (C)
+> > The 'swathid' argument is apparently missing from Fortran 'swextper'
+
+Fix: The 'swathid' argument will be declared, in the identified 
+location, in the next version of the document.
+
+> > 2-94 SWupdateidxmap
+> > 'index' is used for 'indexin'
+> > 'index_region' is used for 'indexout'
+> > The Fortran declaration of 'swupimap' is missing the 'indices' 
+> > argument.
+
+Fix: The declaration of 'swupimap' will have the correct 'indices' 
+argument in the next version of the document.

@@ -1,0 +1,277 @@
+
+  
+  
+    
+    
+      
+      
+      
+      
+    
+
+    					
+  
+
+  
+
+  
+  
+  
+    
+    
+      
+      
+        
+        	HomeWelcome
+	Fermi GBM ▼Fermi Gamma-ray
+Burst Monitor
+            	About
+	Instrument
+	Science ▶
+									Gamma-ray Bursts
+	Earth Occultation
+	Pulsars
+	Magnetars
+	Terrestrial Gamma-Ray Flashes
+
+
+							
+	Collaborators
+	Publications ▶
+                	GBM Instrument Papers
+	Gamma-Ray Bursts
+	Magnetars
+	Pulsars
+	Earth Occultation/Galactic Astronomy Papers
+	Terrestrial Gamma-Ray Flashes
+	Solar Flares
+	Other Publications
+
+
+              
+	Image Gallery
+	Older Public Resources
+	Fermi Science Support Center Data Access
+
+
+          
+	BATSE ▼Burst And Transient
+Source Experiment
+            	About
+	Instrument
+              
+	Telemetry Features
+              
+	GRBs
+              
+	Occultation
+              
+	Pulsars
+              
+	Solar Flares
+              
+	TGFs
+              
+	Tools
+              
+	Meetings
+            
+
+
+          
+	Personnel ▼Meet the team
+            	Personnel List
+              
+	Meet the Team
+              
+	Old Group Photo
+            
+
+
+          
+	Websites ▼Other NASA Websites
+            	NSSTC
+	Colliquia
+	NASA Science
+	MSFC Home
+	NASA Home
+
+
+          
+
+
+        
+      
+
+      
+    
+
+    
+  
+
+  
+
+
+
+  
+  
+    
+    
+      
+      
+        BATSE
+        Miscellenous Data Manipulation Tools
+      
+
+      
+      
+      
+    
+
+General Purpose Tools
+ 
+
+Convert TJD to/from
+   Month, Day, Year
+
+
+
+   Convert Seconds of Day to/from Hours, Minutes, Seconds
+
+
+
+Tools for BATSE Data
+
+
+
+
+Download BATSE FITS data files  
+
+
+A utility to aid in downloading BATSE trigger FITS files from
+the Compton Observatory Science Support Center.
+
+
+
+BATSE trigger lookup table  
+
+
+A lookup table to convert BATSE trigger numbers to 
+the standard event name format.
+
+
+
+
+BATSE Gamma-Ray Burst Data
+
+
+
+
+3-D Gamma Ray Burst Light
+Curves
+
+
+rmfit,
+the group's spectral analysis 
+software, is available for download at the Fermi Science Support Center (FSSC).
+The software uses IDL and Fortran, and is available as a binary
+distribution (FGST-rmfit_ver33pr7.tar.gz, for linux) or to be compiled
+from source (FGST_DIY-rmfit_ver33pr7.tar.gz, linux or Mac).  A tutorial
+(vc_rmfit_tutorial.pdf) is also provided.
+
+
+BATSE GRB Catalogs Reference: A table of the 
+dates and contents of the published BATSE Burst Catalogs.
+
+
+
+Browser Add-On Viewers
+
+Unix
+
+Apple Quicktime
+
+
+VRML
+
+
+Windows / MacOS
+
+Apple Quicktime
+
+VRML
+
+
+      
+
+      
+      Modification date:
+      
+      03 Feb, 2014
+
+      
+
+Author: Robert S. Mallozzi
+
+Responsible Manager: Steve Elrod
+
+Site Curator: Valerie Connaughton
+
+ 
+    
+
+    
+  
+
+  
+
+
+
+
+
+	
+	
+		
+			
+				Websites
+
+					NSSTC
+	Colliquia
+	NASA Science
+	MSFC Home
+	NASA Home
+
+
+			
+	
+				About
+
+         The Space Sciences Laboratory at NASA's Marshall Space Flight Center sponsors this web site. The mission of Space Sciences at Marshall is to plan, coordinate, direct, and conduct original and supporting theoretical, experimental, and observational research in a number of research areas, including astrophysics, microgravity science, and Earth science. Please see science.nasa.gov for more information. Please read our WWW Policy and the NASA Web Privacy Policy and Important Notices.
+
+			
+
+
+		
+	
+
+	
+
+
+
+
+
+
+
+	
+	
+		
+
+		
+
+	
+
+	
+
+
+
+

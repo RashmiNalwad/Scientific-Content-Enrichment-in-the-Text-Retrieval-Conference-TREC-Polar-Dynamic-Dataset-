@@ -1,0 +1,820 @@
+
+
+
+
+	 
+        
+
+	
+            
+                	
+            
+                
+	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                
+
+
+
+
+
+        
+        	 
+                
+        
+                
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Agriculture
+	
+
+	
+		
+	
+		Atmosphere
+	
+
+	
+		
+	
+		Biological Classification
+	
+
+	
+		
+	
+		Biosphere
+	
+
+	
+		
+	
+		Climate Indicators
+	
+
+	
+		
+	
+		Cryosphere
+	
+
+	
+		
+	
+		Human Dimensions
+	
+
+	
+		
+	
+		Land Surface
+	
+
+	
+		
+	
+		Oceans
+	
+
+	
+		
+	
+		Paleoclimate
+	
+
+	
+		
+	
+		Solid Earth
+	
+
+	
+		
+	
+		Spectral/Engineering
+	
+
+	
+		
+	
+		Sun-Earth Interactions
+	
+
+	
+		
+	
+		Terrestrial Hydrosphere
+	
+
+	
+	
+
+	
+		
+Data Centers
+
+	
+		 
+Locations
+
+	
+		
+Instruments
+
+	
+		
+Platforms/Sources
+
+	
+		
+Projects
+
+
+
+
+
+
+
+                
+                
+                	
+                    	
+	
+	
+
+
+                    
+                    	
+                            	
+                            
+
+
+
+
+
+
+
+
+
+
+
+     
+    [ 
+    
+        
+            Return to Record
+         
+    ]
+
+
+
+
+
+	
+            
+
+
+
+
+
+
+
+
+
+Biology report from Wilkes Station, 1962-1963
+
+      Federal Geographic Data Committee (FGDC) Metadata:
+
+      	Identification_Information
+	Data_Quality_Information
+	Spatial_Reference_Information
+	
+               Distribution_Information
+               
+	Metadata_Reference_Information
+
+
+         
+	Identification_Information:
+	
+            	Citation:
+	
+                  	Citation_Information:
+	
+                        	Originator: Connell, D.J.
+                           
+	Publication_Date: 20150206
+                           
+	Title: Biology report from Wilkes Station, 1962-1963
+                           
+	Edition: 
+	Geospatial_Data_Presentation_Form: 
+	Series_Information: 
+	
+                              	Series_Name: CAASM Metadata
+                                 
+	Issue_Identification: 
+
+
+                           
+	Publication_Information: 
+	
+                              	Publication_Place: 
+	Publisher: Australian Antarctic Data Centre
+                                 
+
+
+                           
+	Other_Citation_Details: 
+	
+	Online_Linkage: https://data.aad.gov.au/aadc/metadata/metadata_redirect.cfm?md=/AMD/AU/Biology_Log_Wilkes_1962_1963
+
+
+                     
+
+
+               
+	Description:
+	
+                  	Abstract:
+	
+                        
+                        This file contains logs, papers and a report on biological observations at Wilkes station in 1962-1963.
+                        
+                        Adelie penguins
+                        Emperor penguins
+                        Silver-grey petrels
+                        Antarctic petrels
+                        Cape pigeons
+                        Giant petrels
+                        Skuas
+                        Snow petrels
+                        Wilson's storm petrels
+                        Weddell seals
+                        Leopard seals
+                        Elephant seals
+                        Ross seals
+                        Killer whales
+                        
+                        The hard copy of the map has been archived by the Australian Antarctic Division library.
+                        
+                        
+                     
+	Purpose:
+	Not Available
+	Supplemental_Information:
+	Not Available
+
+
+               
+	Time_Period_of_Content:
+	
+                  	Time_Period_Information:
+	
+                        	Range_of_Dates/Times:
+	
+                              	Beginning_Date: 19620101
+                                 
+	Ending_Date: 19631231
+                                 
+
+
+                           
+
+
+                     
+	Currentness_Reference:Unknown
+                     
+
+
+               
+	Status:
+	
+                  	Progress: Complete
+                     
+	Maintenance_and_Update_Frequency: As needed
+                     
+
+
+               
+	Spatial_Domain:
+	
+                  	Description_of_Geographic_Extent:
+	
+	Bounding_Coordinates:
+	
+                        	West_Bounding_Coordinate: 110.0
+                           
+	East_Bounding_Coordinate: 111.0
+                           
+	North_Bounding_Coordinate: -66.0
+                           
+	South_Bounding_Coordinate: -67.0
+                           
+
+
+                     
+
+
+               
+	Keywords:
+	
+                  	Theme:
+	
+                        	Theme_Keyword_Thesaurus: GCMD SCIENCE PARAMETERS
+                           
+	Theme_Keyword_Thesaurus: GCMD PLATFORM
+                           
+	Theme_Keyword_Thesaurus: ANCILLARY KEYWORDS
+                           
+	Theme_Keyword_Thesaurus: ISO TOPIC CATEGORY
+                           
+	Theme_Keyword_Thesaurus: DATA SET LANGUAGE
+                           
+	Theme_Keyword: EARTH SCIENCE > BIOLOGICAL CLASSIFICATION > ANIMALS/VERTEBRATES > BIRDS
+                           
+	Theme_Keyword: EARTH SCIENCE > BIOLOGICAL CLASSIFICATION > ANIMALS/VERTEBRATES > BIRDS > ALBATROSSES/PETRELS AND ALLIES
+                           
+	Theme_Keyword: EARTH SCIENCE > BIOLOGICAL CLASSIFICATION > ANIMALS/VERTEBRATES > BIRDS > PENGUINS
+                           
+	Theme_Keyword: EARTH SCIENCE > BIOLOGICAL CLASSIFICATION > ANIMALS/VERTEBRATES > MAMMALS > CARNIVORES > SEALS/SEA LIONS/WALRUSES
+                           
+	Theme_Keyword: EARTH SCIENCE > BIOLOGICAL CLASSIFICATION > ANIMALS/VERTEBRATES > MAMMALS > CETACEANS > TOOTHED WHALES
+                           
+	Theme_Keyword: FIELD INVESTIGATION
+                           
+	Theme_Keyword: FIELD SURVEYS
+                           
+	Theme_Keyword: Wilkes
+                           
+	Theme_Keyword: Adelie Penguins
+                           
+	Theme_Keyword: Emperor Penguins
+                           
+	Theme_Keyword: Silver-grey Petrels
+                           
+	Theme_Keyword: Antarctic Petrels
+                           
+	Theme_Keyword: Cape Pigeons
+                           
+	Theme_Keyword: Giant Petrels
+                           
+	Theme_Keyword: Skuas
+                           
+	Theme_Keyword: Snow Petrels
+                           
+	Theme_Keyword: Wilson's Storm Petrels
+                           
+	Theme_Keyword: Weddell Seals
+                           
+	Theme_Keyword: Leopard Seals
+                           
+	Theme_Keyword: Elephant Seals
+                           
+	Theme_Keyword: Ross Seals
+                           
+	Theme_Keyword: Killer Whales
+                           
+	Theme_Keyword: BIOTA
+                           
+	Theme_Keyword: OCEANS
+                           
+	Theme_Keyword: ENGLISH
+                           
+
+
+                     
+	Place:
+	
+                        	Place_Keyword_Thesaurus: GCMD
+                           
+	Place_Keyword: CONTINENT > ANTARCTICA
+                           
+	Place_Keyword: OCEAN > SOUTHERN OCEAN
+                           
+	Place_Keyword: GEOGRAPHIC REGION > POLAR
+                           
+
+
+                     
+
+
+               
+	Access_Constraints: 
+                  This log is available for download from the provided URL.
+                  
+               
+	Use_Constraints:
+	
+                  This data set conforms to the PICCCBY Attribution License (http://creativecommons.org/licenses/by/3.0/).
+                  
+                  Please follow instructions listed in the citation reference provided at http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=Biology_Log_Wilkes_1962_1963
+                  when using these data.
+                  
+               
+	Point_of_Contact:
+	
+                  	Contact_Information:
+	
+                        	Contact_Person_Primary:
+	
+                              	Contact_Person: DAVE J. CONNELL 
+                                 
+
+
+                           
+	Contact_Position: INVESTIGATOR
+                           
+	Contact_Position: TECHNICAL CONTACT
+                           
+	Contact_Position: DIF AUTHOR
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: Australian Antarctic Division 
+                                 
+	Address: 203 Channel Highway 
+                                 
+	City: Kingston
+                                 
+	State_or_Province: Tasmania
+                                 
+	Postal_Code: 7050
+                                 
+	Country: Australia
+                                 
+
+
+                           
+	Contact_Voice_Telephone: +61 3 6232 3244
+                           
+	Contact_Facsimile_Telephone: +61 3 6232 3351
+                           
+	Contact_Electronic_Mail_Address: dave.connell@aad.gov.au
+                           
+
+
+                     
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Data_Quality_Information:
+	
+            	Attribute_Accuracy:
+	
+                  	Attribute_Accuracy_Report:
+	
+                        Some of the scanned text may be very faint.
+                        
+                     
+
+
+               
+	Logical_Consistency_Report:
+	Not Available
+	Completeness_Report:
+	Not Available
+	Lineage:
+
+	Process_Step:
+	
+                     	Process_Description:
+	Not Available
+	Process_Date: Unknown
+                        
+
+
+                  
+
+
+            
+
+
+         
+      Back to Top
+         
+	Spatial_Reference_Information:
+	
+            
+
+         
+
+Back to Top
+         
+	Distribution_Information:
+	
+            	Distributor:
+	
+                  	Contact_Information:
+	
+                        	Contact_Organization_Primary:
+	
+                              	Contact_Organization: AU/AADC > Australian Antarctic Data Centre, Australia
+                                 
+	Contact_Person: DATA OFFICER AADC 
+                                 
+
+
+                           
+	Contact_Position: DATA CENTER CONTACT
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: Australian Antarctic Division 
+                                 
+	Address: 203 Channel Highway 
+                                 
+	City: Kingston
+                                 
+	State_or_Province: Tasmania
+                                 
+	Postal_Code: 7050
+                                 
+	Country: Australia
+                                 
+
+
+                           
+	Contact_Voice_Telephone: +61 3 6232 3244
+                           
+	Contact_Facsimile_Telephone: +61 3 6232 3351
+                           
+	Contact_Electronic_Mail_Address: metadata@aad.gov.au
+                           
+
+
+                     
+
+
+               
+	Resource_Description: Biology_Log_Wilkes_1962_1963
+               
+	Distribution_Liability:
+	Not Available
+	Standard_Order_Process:
+	
+                  	Digital_Form:
+	
+                        	Digital_Transfer_Information:
+	
+                              	Format_Name: PDF
+                                 
+	Transfer_Size: 40.4 MB
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://data.aad.gov.au
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	DATA CENTER URL
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://data.aad.gov.au/aadc/portal/download_file.c...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          Download point for the log
+                                          
+                                       
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://data.aad.gov.au/aadc/metadata/citation.cfm?...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          Citation reference for this metadata record and dataset
+                                          
+                                       
+
+
+                                 
+
+
+                           
+
+
+                     
+	Fees: Free
+                     
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Metadata_Reference_Information:
+	
+            	Metadata_Date: 20150205
+               
+	Metadata_Review_Date: 20150210
+               
+	Metadata_Contact:
+	
+                  	Contact_Information:
+	
+                        	Contact_Person_Primary:
+	
+                              	Contact_Person: DAVE J. CONNELL 
+                                 
+
+
+                           
+	Contact_Position: INVESTIGATOR
+                           
+	Contact_Position: TECHNICAL CONTACT
+                           
+	Contact_Position: DIF AUTHOR
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: Australian Antarctic Division 
+                                 
+	Address: 203 Channel Highway 
+                                 
+	City: Kingston
+                                 
+	State_or_Province: Tasmania
+                                 
+	Postal_Code: 7050
+                                 
+	Country: Australia
+                                 
+
+
+                           
+	Contact_Voice_Telephone: +61 3 6232 3244
+                           
+	Contact_Facsimile_Telephone: +61 3 6232 3351
+                           
+	Contact_Electronic_Mail_Address: dave.connell@aad.gov.au
+                           
+
+
+                     
+
+
+               
+	Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+               
+	Metadata_Standard_Version: FGDC-STD-001-1998
+               
+	Metadata_Time_Convention: local time
+               
+
+
+         
+
+Back to Top
+
+
+
+     
+    [ 
+    
+        
+            Return to Record
+         
+    ]
+
+
+
+
+                            
+                        
+                                        
+                    
+                               
+            
+                
+        
+
+
+	
+            
+                
+        	
+            
+                
+                    NASA Privacy Policy and Important Notices
+            
+
+            
+                Responsible NASA Official:  
+                
+                    Dr. Stephen Wharton
+
+                Webmaster:  
+                
+                    Monica Lyles
+                  ·  Contact 
+                
+                    GCMD User Support for assistance
+            
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+    
+

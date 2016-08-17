@@ -1,0 +1,130 @@
+
+Global Browse of MODIS Atmosphere
+
+
+
+
+
+	
+Select a Satellite/Collection:
+
+Aqua, Collection 6
+
+Terra, Collection 6
+
+Aqua, Collection 5
+
+Terra, Collection 5
+
+	
+
+
+
+
+    Enter the dates:
+
+    
+    Start date
+
+    
+    End date
+
+    (Format: YYYYDDD)
+
+
+       
+	
+  
+  Calendars:
+
+
+  
+  
+
+
+
+
+
+
+
+Images Availability:
+	Collection 6, Aqua:	2002185 - 2002365   2003001 - 2003365   2004001 - 2004366   2005001 - 2005365   2006001 - 2006365   2007001 - 2007365   2008001 - 2008366   2009001 - 2009365   2010001 - 2010365   2011001 - 2011365   2012001 - 2012366   2013001 - 2013365   2014001 - 2014365   2015001 - 2015046   
+	Collection 6, Terra:	2000055 - 2000366   2001001 - 2001365   2002001 - 2002365   2003001 - 2003365   2004001 - 2004366   2005001 - 2005365   2006001 - 2006365   2007001 - 2007365   2008001 - 2008366   2009001 - 2009365   2010001 - 2010359   2014335 - 2014365   2015001 - 2015048   
+	Collection 5, Aqua:	2011269 - 2011365   2012001 - 2012366   2013001 - 2013365   2014001 - 2014365   2015001 - 2015046   
+	Collection 5, Terra:	2011269 - 2011365   2012001 - 2012366   2013001 - 2013365   2014001 - 2014365   2015001 - 2015048   
+
+
+Aqua, Collection 6
+
+	
+Julian
+day	 	RGB True Color Image
+MYD09	RGB False Color Image
+MYD09	Cloud Fraction from Cloud Mask
+MYD06_L2	Cloud Top Temperature
+MYD06_L2	Cloud Top Pressure
+MYD06_L2	Cloud Optical Thickness
+MYD06_L2	Cloud Effective Radius
+MYD06_L2	Cloud Phase Infrared
+MYD06_L2	Cirrus Reflectance
+MYD06_L2	Aerosol Optical Depth Land and Ocean
+MYD04_L2	Deep Blue Aerosol Optical Depth 550 Land
+MYD04_L2	Total Ozone Burden
+MYD07_L2	Skin Temperature
+MYD07_L2	Lifted Index
+MYD07_L2	Water Vapor
+MYD07_L2	Water Vapor Near Infrared
+MYD05_L2
+	2015
+046
+02/15		Not Available	Not Available														
+	2015
+045
+02/14		Not Available	Not Available														
+	2015
+044
+02/13		Not Available	Not Available														
+	2015
+043
+02/12		Not Available	Not Available														
+	2015
+042
+02/11		Not Available	Not Available														
+	2015
+041
+02/10		Not Available	Not Available														
+	2015
+040
+02/09		Not Available	Not Available														
+	2015
+039
+02/08		Not Available	Not Available														
+	2015
+038
+02/07		Not Available	Not Available														
+	2015
+037
+02/06		Not Available	Not Available														
+	2015
+036
+02/05		Not Available	Not Available														
+	
+Julian
+day	 	RGB True Color Image
+MYD09	RGB False Color Image
+MYD09	Cloud Fraction from Cloud Mask
+MYD06_L2	Cloud Top Temperature
+MYD06_L2	Cloud Top Pressure
+MYD06_L2	Cloud Optical Thickness
+MYD06_L2	Cloud Effective Radius
+MYD06_L2	Cloud Phase Infrared
+MYD06_L2	Cirrus Reflectance
+MYD06_L2	Aerosol Optical Depth Land and Ocean
+MYD04_L2	Deep Blue Aerosol Optical Depth 550 Land
+MYD04_L2	Total Ozone Burden
+MYD07_L2	Skin Temperature
+MYD07_L2	Lifted Index
+MYD07_L2	Water Vapor
+MYD07_L2	Water Vapor Near Infrared
+MYD05_L2
+

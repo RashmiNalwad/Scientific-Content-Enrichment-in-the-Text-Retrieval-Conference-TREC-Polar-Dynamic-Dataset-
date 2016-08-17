@@ -1,0 +1,917 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only
+ Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Projects>P - R>PACIOOS
+
+
+
+	
+            
+
+
+	
+             
+
+
+
+
+
+
+
+
+
+Distance to Nearest Coastline: 0.01-Degree Grid: Ocean
+
+      Federal Geographic Data Committee (FGDC) Metadata:
+
+      	Identification_Information
+	Data_Quality_Information
+	Spatial_Reference_Information
+	
+               Distribution_Information
+               
+	Metadata_Reference_Information
+
+
+         
+	Identification_Information:
+	
+            	Citation:
+	
+                  	Citation_Information:
+	
+                        	Originator: NASA Goddard Space Flight Center (GSFC) Ocean Color Group
+                           
+	Publication_Date: Unknown
+                           
+	Title: Distance to Nearest Coastline: 0.01-Degree Grid: Ocean
+                           
+	Edition: 
+	Geospatial_Data_Presentation_Form: OPeNDAP
+                           
+	Series_Information: 
+	
+                              	Series_Name: 
+	Issue_Identification: 
+
+
+                           
+	Publication_Information: 
+	
+                              	Publication_Place: 
+	Publisher: 
+
+
+                           
+	Other_Citation_Details: 
+	
+	Online_Linkage: http://pacioos.org
+
+
+                     
+
+
+               
+	Description:
+	
+                  	Abstract:
+	
+                        
+                        A global data set of ocean distances from the nearest coastline. NASA's Ocean Color Group generated this data set using the
+                        Generic Mapping Tools (GMT) software package. Distances were computed with GMT using its intermediate-resolution coastline
+                        and then gridded globally at a spatial resolution of 0.04 degrees. Bilinear interpolation was then applied to increase the
+                        spatial resolution to 0.01 degrees. There is an uncertainty of up to 1 km in the computed distance at any given point.
+                        PacIOOS provides timely, reliable, and accurate ocean information to support a safe, clean, productive ocean and resilient
+                        coastal zone in the U.S. Pacific Islands region.
+                        
+                        
+                     
+	Purpose:
+	Not Available
+	Supplemental_Information:
+	Not Available
+
+
+               
+	Time_Period_of_Content:
+	
+                  	Time_Period_Information:
+	
+                        	Range_of_Dates/Times:
+	
+                              	Beginning_Date: 20090601
+                                 
+	Ending_Date: 20090601
+                                 
+
+
+                           
+
+
+                     
+	Currentness_Reference:Unknown
+                     
+
+
+               
+	Status:
+	
+                  	Progress: Complete
+                     
+	Maintenance_and_Update_Frequency: As needed
+                     
+
+
+               
+	Spatial_Domain:
+	
+                  	Description_of_Geographic_Extent:
+	
+	Bounding_Coordinates:
+	
+                        	West_Bounding_Coordinate: -180.0
+                           
+	East_Bounding_Coordinate: 179.99
+                           
+	North_Bounding_Coordinate: 90.0
+                           
+	South_Bounding_Coordinate: -89.99
+                           
+
+
+                     
+
+
+               
+	Keywords:
+	
+                  	Theme:
+	
+                        	Theme_Keyword_Thesaurus: GCMD SCIENCE PARAMETERS
+                           
+	Theme_Keyword_Thesaurus: PROJECT
+                           
+	Theme_Keyword_Thesaurus: ANCILLARY KEYWORDS
+                           
+	Theme_Keyword_Thesaurus: ISO TOPIC CATEGORY
+                           
+	Theme_Keyword: EARTH SCIENCE > OCEANS > COASTAL PROCESSES > SHORELINES
+                           
+	Theme_Keyword: PACIOOS > PACIFIC ISLANDS OCEAN OBSERVING SYSTEM
+                           
+	Theme_Keyword: Latitude
+                           
+	Theme_Keyword: Longitude
+                           
+	Theme_Keyword: CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                           
+
+
+                     
+	Place:
+	
+                        	Place_Keyword_Thesaurus: GCMD
+                           
+	Place_Keyword: GEOGRAPHIC REGION > GLOBAL
+                           
+
+
+                     
+
+
+               
+	Access_Constraints: Not Available
+               
+	Use_Constraints:
+	
+                  The data may be used and redistributed for free but is not intended for legal use, since it may contain inaccuracies. Neither
+                  the data Contributor, University of Hawaii, PacIOOS, NOAA, State of Hawaii nor the United States Government, nor any of their
+                  employees or contractors, makes any warranty, express or implied, including warranties of merchantability and fitness for
+                  a particular purpose, or assumes any legal liability for the accuracy, completeness, or usefulness, of this information.
+                  
+               
+	Point_of_Contact:
+	
+                  	Contact_Information:
+	
+                        	Contact_Person_Primary:
+	
+                              	Contact_Person: DR. RICHARD P. STUMPF 
+                                 
+
+
+                           
+	Contact_Position: TECHNICAL CONTACT
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+
+
+                           
+	Contact_Electronic_Mail_Address: richard.stumpf@noaa.gov
+                           
+
+
+                     
+
+
+               
+	Browse_Graphic:
+	
+                  	Browse_Graphic_File_Name: http://pacioos.org/metadata/browse/dist2coast_1deg_ocean.png
+	Browse_Graphic_File_Description:
+	
+                        Sample image.
+                        
+                     
+	Browse_Graphic_File_Type: 
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Data_Quality_Information:
+	
+            	Attribute_Accuracy:
+	
+                  	Attribute_Accuracy_Report:
+	Not Available
+
+
+               
+	Logical_Consistency_Report:
+	Not Available
+	Completeness_Report:
+	Not Available
+	Lineage:
+
+	Process_Step:
+	
+                     	Process_Description:
+	Not Available
+	Process_Date: Unknown
+                        
+
+
+                  
+
+
+            
+
+
+         
+      Back to Top
+         
+	Spatial_Reference_Information:
+	
+            
+
+         
+
+Back to Top
+         
+	Distribution_Information:
+	
+            	Distributor:
+	
+                  	Contact_Information:
+	
+                        	Contact_Organization_Primary:
+	
+                              	Contact_Organization: PacIOOS > Pacific Islands Ocean Observing System
+                                 
+	Contact_Person: PACIOOS DATA CENTER CONTACT 
+                                 
+
+
+                           
+	Contact_Position: DATA CENTER CONTACT
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+
+
+                           
+	Contact_Electronic_Mail_Address: jimp@pacioos.org
+                           
+
+
+                     
+
+
+               
+	Resource_Description: dist2coast_1deg_ocean
+               
+	Distribution_Liability:
+	Not Available
+	Standard_Order_Process:
+	
+                  	Digital_Form:
+	
+                        	Digital_Transfer_Information:
+	
+                              	Format_Name: Not Available
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://pacioos.org
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	DATA CENTER URL
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://oos.soest.hawaii.edu/thredds/idd/dist2coast...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          THREDDS Catalog. This URL provides a catalog page for this dataset within THREDDS Data Server (TDS).
+                                          
+                                       
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://oos.soest.hawaii.edu/thredds/dodsC/dist2coa...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          File Information. This URL provides a standard OPeNDAP html interface for selecting data from this dataset. Change the extension
+                                          to .info for a description of the dataset.
+                                          
+                                       
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://pacioos.org/voyager/index.html?b=-85.200475...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          PacIOOS Voyager (Google Maps API). This URL provides a viewer for this dataset.
+                                          
+                                       
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://oos.soest.hawaii.edu/thredds/dodsC/dist2coa...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          OPeNDAP. THREDDS OPeNDAP
+                                          
+                                       
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://oos.soest.hawaii.edu/thredds/wcs/dist2coast...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          OGC-WCS. Open Geospatial Consortium Web Coverage Service (WCS)
+                                          
+                                       
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://oos.soest.hawaii.edu/thredds/wms/dist2coast...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          OGC-WMS. Open Geospatial Consortium Web Map Service (WMS)
+                                          
+                                       
+
+
+                                 
+
+
+                           
+	Digital_Transfer_Option:
+	
+                              	Online_Option:
+	
+                                    	Computer_Contact_Information:
+	
+                                          	Network_Address:
+	
+                                                	Network_Resource_Name:
+                                                         
+	http://oos.soest.hawaii.edu/thredds/ncss/grid/dist...
+
+
+                                             
+
+
+                                       
+	Access_Instructions:
+	
+                                          THREDDS_NetCDF_Subset. THREDDS NetCDF Subset Service
+                                          
+                                       
+
+
+                                 
+
+
+                           
+
+
+                     
+	Fees: Not Available
+                     
+
+
+               
+
+
+         
+
+Back to Top
+         
+	Metadata_Reference_Information:
+	
+            	Metadata_Date: 20150203
+               
+	Metadata_Review_Date: 20150209
+               
+	Metadata_Contact:
+	
+                  	Contact_Information:
+	
+                        	Contact_Person_Primary:
+	
+                              	Contact_Person: GCMD User Support Office
+                                 
+	Contact_Organization: NASA Global Change Master Directory
+                                 
+
+
+                           
+	Contact_Address:
+	
+                              	Address_Type: Mailing and Physical Address
+                                 
+	Address: Not Available
+                                 
+	City: Lanham
+                                 
+	State_or_Province: MD
+                                 
+	Postal_Code: 20706
+                                 
+	Country: USA
+                                 
+
+
+                           
+	Contact_Voice_Telephone: Not Available
+                           
+	Contact_Electronic_Mail_Address: gcmduso@gcmd.gsfc.nasa.gov
+                           
+
+
+                     
+
+
+               
+	Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+               
+	Metadata_Standard_Version: FGDC-STD-001-1998
+               
+	Metadata_Time_Convention: local time
+               
+
+
+         
+
+Back to Top	 
+         
+             
+                 [
+                 
+                     
+                         Update this Record
+                 
+                 ]
+             
+         
+     
+	
+         
+        
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                              
+                
+                
+                    
+                    
+                        Update this Record.
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+        
+    
+
+
+    
+
+
+
+                    
+                    
+                
+
+            
+            
+
+        
+    
+    
+    
+
+    
+
+
+
+
+
+
+
+
+    
+        	Search
+	Collaborate
+	Portals
+	Contact Us
+
+
+   
+
+
+
+
+    
+        	
+            
+        
+            + 
+                NASA Privacy Policy and Important Notices 
+
+
+    
+
+    
+    
+        
+            
+                
+        
+
+        	
+                Webmaster:
+                Monica Lyles
+            
+	
+                Responsible NASA Official:
+                Dr. Stephen Wharton
+            
+	Last updated: February 2015
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,264 @@
+
+            
+            	
+    Instrument: 
+    
+        CIPS
+    
+
+    
+
+	
+        
+            
+                Instrument Category:
+
+                Earth Remote Sensing Instruments
+
+                Instrument Class:
+                Passive Remote Sensing
+
+                 
+                    Instrument Type:
+                    Photon/Optical Detectors
+
+                              
+                
+                    Instrument Subtype:
+                    Cameras
+
+                
+            
+        
+
+        
+            
+    
+
+
+            	
+
+
+    
+
+    Associated Platforms
+
+    
+    
+    
+        
+       
+           AIM
+
+       
+
+
+	
+    
+    
+    
+
+
+
+
+
+
+
+    
+
+    Spectral/Frequency Information
+
+    
+        
+            
+            
+                
+                
+                    Wavelength Keyword:  
+                    Near Infrared
+
+                
+                
+                
+    
+                
+                    Spectral/Frequency Resolution:  
+                    2.5 Km
+
+                
+		
+                
+            
+	    
+        
+    
+
+
+
+
+
+Related Data Sets 
+
+
+    
+        
+            View all records related to this instrument
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    Description
+
+    
+         
+            
+            
+                The CIPS instrument is a panoramic UV (265 nm) nadir imager that views in the nadir and off-nadir direction and images the polar atmosphere at a variety of angles in order to determine cloud presence, provide the spatial morphology of the cloud and constrain the parameters of the cloud particle distribution. The instrument consists of a 2x2 array of cameras operating in a 10 nm passband centered at 265 nm, each with an overlapping FOV, and a resolution (at the nadir) of 2.5 km. The total FOV is 80 deg x 120 deg, centered at the sub-satellite point, with the 120 deg axis along the orbit track. Because of slant viewing at the edges of the FOV, the worst spatial resolution is about 6.4 km, adequate for identifying the larger-scale NLC "bands." The near-polar orbit will cause the observation swaths to overlap at latitudes higher than about 70 deg, so that nearly the entire polar cap will be mapped with 15-orbit per day coverage. For the first time a synoptic morphology of cloud evolution throughout the entire season, and in both hemispheres, will be achieved. 
+
+
+		
+            
+                 
+
+
+		
+            
+                 CIPS provides: 
+
+
+		
+            
+                 · Panoramic nadir imaging with a 120º x 80º field-of-view (1140 x 960 km) 
+
+
+		
+            
+                 · Scattered radiances from Polar Mesospheric Clouds near 83 km altitude to derive PMC morphology and constrain cloud particle size information. 
+
+
+		
+            
+                 · Rayleigh scattering from the background near 50 km altitude to measure gravity wave activity 
+
+
+		
+            
+                 · Multiple exposures of individual cloud elements to measure scattering phase function and detect spatial scales to approximately 2.5 km 
+
+
+		
+            
+                 · Measurements of the ultraviolet band pass (265 ± 5 nm) which maximizes the cloud contrast. 
+
+
+		
+            
+                 
+
+
+		
+            
+                 [Source: CIPS Instrument Description on the Laboratory for Atmospheric and Space Physics (LASP) Home Page http://lasp.colorado.edu/aim/ ] 
+
+
+		
+            
+	    
+        
+    
+
+
+
+
+    
+
+    Online Resources 
+
+
+    
+        
+        
+            
+                
+                    
+                     
+                    http://www.nasa.gov/mission_pages/aim/
+
+		    
+                
+                    
+                     
+                    http://aim.hamptonu.edu/instrmt/cips.html
+
+		    
+                
+                    
+                     
+                    http://lasp.colorado.edu/aim/
+
+		    
+                
+		
+            
+        
+    
+
+
+
+
+    
+
+    Instrument Logistics
+
+    
+        
+            
+            
+                
+                
+                
+                
+                
+                    Instrument Owner:
+                    
+                        
+                            NASA
+
+                        
+                    
+                
+
+		
+                
+            
+	    
+        
+    
+
+
+                    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+

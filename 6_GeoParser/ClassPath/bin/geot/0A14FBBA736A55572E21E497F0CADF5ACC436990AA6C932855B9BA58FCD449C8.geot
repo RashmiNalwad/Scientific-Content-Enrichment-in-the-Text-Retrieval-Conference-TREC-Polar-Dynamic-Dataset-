@@ -1,0 +1,1794 @@
+
+
+
+    
+        
+            Skip to Main Content Navigation (press 3)
+        
+    
+
+    
+
+
+
+
+ 
+
+    
+        	FAQ
+	Site Map
+	Contact Us
+
+
+    
+
+
+    
+        
+
+        
+            
+                
+                    
+            
+
+        
+
+    
+
+    
+        
+            
+                Home
+                Search GCMD
+                Learn about GCMD
+                Portals
+                Collaborate
+            
+
+        
+
+    
+
+    
+    
+        
+            
+            
+                
+                
+                    Data Sets
+                
+
+                
+                    Services / Tools
+                
+
+                
+                    Ancillary Descriptions
+                
+
+            
+
+            
+                
+
+                
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Locations>VERTICAL LOCATION>MESOSPHERE
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+    
+        
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                Davis Medium Frequency Middle Atmosphere Radar Winds
+            
+        
+
+        
+        
+            Entry ID:
+            
+                Davis_MFSA_Radar
+            
+            
+
+            
+
+        
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+	
+
+        
+
+            
+                
+                    
+                    
+                        
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+                
+                    
+                    
+
+
+		  
+
+                 
+            
+        
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+
+        
+
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                        
+                
+                
+                    
+                    
+                        Update this Record.
+                
+        
+               
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+                
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            This dataset contains wind speed and direction in the middle atmosphere above Davis, Antarctica. The experiment runs continuously. Data are collected and stored every two minutes (excluding downtime for maintenance and data transfer) for heights in the range 64km to 102km at 2km intervals. Analysis of the source data yields parameters describing the strength and character of the radar echo and,  ... when certain acceptance criteria are met, the wind speed. The requirement to meet acceptance criteria results in a data rate that may be less than the sampling rate. 
+ 
+ Data from 1994 to 2012 are currently held. 
+ 
+ The dataset is the output of (Australian) Antarctic Science Advisory Committee project number 674. The data set is Standalone. MFSA stands for Medium Frequency Spaced Array. 
+ 
+ Project objectives: 
+ Dynamical coupling processes in the Antarctic middle atmosphere continue to challenge both our understanding of the region and our ability to predict the environment's response to rising greenhouse gas concentrations. The Davis MF radar was amongst the first instruments in Antarctica to investigate the dynamics of the mesosphere/lower thermosphere (MLT), a region that is now the subject of increasing scrutiny. Continued operation of the Davis MF radar at a time of increased observation of the MLT from the ground and space allows investigations of dynamical coupling to continue in greater detail than has previously been possible. 
+ 
+ MF radars measure winds in the MLT (~50-110 km) with good height and time resolution. Their ability to run continuously makes them ideal instruments to undertake long-term studies of the meteorology and climate in this region. This project will build on the highly successful program we have already undertaken to study the dynamics of the polar MLT by combining observations with the network of radars that has developed in Antarctica in the past decade. Upgrades and additions to MF radars at other Antarctic sites (Syowa, Rothera, Halley Bay and Scott Base) provide a radar network that rivals that now available in the Arctic. We propose to continue and extend this internationally collaborative research. 
+ 
+ The past decade has also seen a significant increase in the scientific infrastructure to study the MLT at Davis itself. We propose to use this expanded instrumentation to make studies on a local scale that have not previously been possible. These new investigations will complement the observations made with the planned Syowa MST radar, with radar networks in the Antarctic and Arctic and with satellite studies of the polar MLT. 
+ 
+ Taken from the 2008-2009 Progress Report: 
+ Progress against objectives: 
+ Combining observations from radars in the Antarctic MF radar network: 
+ With the aid of radars at four Antarctic stations, a study has been carried out that relates short-time scale variations in the global wave field to the semidurnal tide above Antarctica. Modelling and theoretical studies suggest that Westward propagating wave one (W1) and wave 3 (W3) tidal products could be produced through interactions between the migrating (Westward wave 2) semidiurnal tide and planetary waves in the northern stratosphere. This study has verified these predictions by identifying both W1 and W3 source regions, and has explained their differing latitudinal extent. 
+ 
+ Tidal results from the four Antarctic MF radars have also contributed to space-based studies of the polar mesosphere. The Aeronomy of Ice in the Mesosphere (AIM) project makes observations of mesospheric ice clouds at almost the same local time each day. Our tidal results have provided insight into the dynamical state of the atmosphere around their observations. These data have been provided for presentation at recent AIM working group meetings. 
+ 
+ Contributed to experiments carried out using other infrastructure at Davis and beyond: 
+ The Davis MF radar is able to provide excellent information on the state of the winds in the mesosphere and lower thermosphere. These have made significant contributions to studies of Polar Mesosphere Summer Echoes (PMSE) carried out by our collaborators using the Davis MST radar. 
+ 
+ A study of a proposed interhemispheric coupling mechanism is underway. This compares the modulating effect of the global planetary wave field to a response in the summer MLT. 
+ 
+ Davis MF radar winds continue to be provided to the NASA TIMED satellite mission through the ground-based instrument part of that project. 
+ 
+ This project has contributed to six category one publications in the 2008/2009 year. 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+
+        
+    
+
+
+                      
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Download page for Australian Antarctic Data Centre 
+                            
+
+                        
+			
+                            
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW PROJECT HOME PAGE
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Public information for ASAC project 674 
+                            
+
+                        
+			
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                VIEW RELATED INFORMATION
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Citation reference for this metadata record and dataset 
+                            
+
+                        
+			
+                        
+                    
+		    
+                        
+
+                        
+                             
+                    
+                
+
+
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+        
+        
+        
+            	 	
+                                
+                                    N: -68.0
+                                
+                            	 	
+                                
+                                    S: -69.0
+                                
+                            	 	
+                                
+                                    E: 79.0
+                                
+                            	 	
+                                
+                                    W: 78.0
+                                
+                            
+
+
+        
+        
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1994-04-14
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        2012-06-30
+                    
+
+                
+        	
+                
+            
+	    
+        
+
+    
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            CONTINENT
+                            
+                                > ANTARCTICA
+                            
+                            
+                            
+                            
+                            
+                                > Davis
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            GEOGRAPHIC REGION
+                            
+                                > POLAR
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            VERTICAL LOCATION
+                            
+                                > MESOSPHERE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+                    
+                    
+                        
+                            VERTICAL LOCATION
+                            
+                                > STRATOSPHERE
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+
+		    
+                
+		
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                ATMOSPHERE
+                            
+                            
+                                >
+                                ATMOSPHERIC WINDS
+                            
+                            
+                                >
+                                UPPER LEVEL WINDS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+		    
+		
+		
+            
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+		    
+                
+		
+            
+        
+
+    
+
+
+           
+            
+            
+            
+
+
+
+
+
+
+
+
+    Platform
+
+    
+        
+        	
+                    
+                        
+                            
+                                
+                                    FIXED OBSERVATION STATIONS
+                                    
+                                
+                            
+                        
+                            
+                        
+                        
+
+			
+                    
+		    
+                
+
+
+    
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+    Instrument
+
+    
+        
+        	
+            
+                
+                    
+                        
+                            RADAR
+                            
+                                >
+                                Radio Detection and Ranging
+                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+
+		 
+            
+	    
+        
+
+
+    
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Quality
+        
+            Data analysis may or may not yield a full set of attributes. Data acceptance rates vary with height. The radar runs continuously with the exception of time taken to remove data from the system: approx 10min per week. Source data consists of digitised and coherently averaged measurements of the in phase and in quadrature signal levels for each of the three receiving antennas and for each range  ... that is sampled. The source data are collected for the first 102.4 seconds of each 2 minute interval that the radar is operational. The source data are analysed using Full Correlation Analysis to produce winds and a number of parameters describing the radar echoes. All data are labelled with height and time. The radar produces an average wind for the region described by the geographical polygon. 
+ 
+ Polarisation of the 2001 data are considered questionable. 
+ 
+ Taken from the 2008-2009 Progress Report: 
+ Field work: 
+ The converted shipping container that housed the MFSA radar electronics at Davis had aged to the point of needing replacement. 
+ AAD funds were successfully sought to replace it and a new container was prepared for use (in Australia), shipped to Davis and installed during the 2008/2009 season. The changeover occured with great efficiency (Thanks to the electronics engineers at Davis and the trades group) and very little data was lost in the process. 
+ 
+ During hut replacement, some disused cables were removed from the site. 
+ 
+ Ongoing problems with the MF radar acquisition PC (due to increased CPU load) and with the installation of a previously supplied replacement (due to a subtle incompatibility with a serial interface card) were resolved with the purchase and installation of new rack mounted PCs. Virus checking software on the Acquisition PC had grown to the point that data acquisitions would fail under the increased load. The replacement of this PC has resolved this problem, the system acquires data at full capacity and we have returned to the state where a drop in replacement is available if needed. 
+ 
+ Laboratory activity/analysis: 
+ An investigation of the short-term variations in polar MLT tidal amplitudes for wavenumbers from zero to three has been carried out. A search for the source regions of these tidal products has identified the northern stratosphere (as predicted by models) and has explained the difference in the source region latitudinal distribution for the wave numbers considered. These results have been accepted for publication in Geophysical Research Letters. 
+ 
+ Our ability to resolve tidal wavenumbers over Antarctica (using the Antarctic MF radar network) has allowed us to calculate the horizontal flux of horizontal momentum in the polar MLT. Early indications are that the divergence of this quantity is non-zero. If this result is verified, it will identify a source of momentum for the region not previously considered to be significant. 
+ 
+ Studies are underway that will test recent theories of interhemispheric coupling between the northern stratosphere and the southern polar MLT. These use both our series of wind observations from the Davis MF radar and global observations of the wind and temperature. The latter have been assimilated into a model representation of the troposphere and stratosphere and allow the extraction of large-scale wind and wave variations in those regions. These are thought to modulate the propagation of gravity waves into the stratosphere and mesosphere. The circulation driven (or altered) by these waves then affects the state of the MLT. The Davis MF radar has operated for almost 15 years. This long data set will allow us to investigate interhemispheric coupling over a long time base. 
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Access Constraints
+        
+            Binary data stored in format as defined in 'Atmospheric Radar Systems MF 3 Channel Radar Systems' Software Reference manual V3.2 was collected until 02:46UT on 5 Jan 1998. Binary data stored in 'FCA' format has been collected since 9 Jan 1998. A section describing the Full Correlation Analysis (FCA) format is included in 'ATRAD Radar System Software Reference Manual' V1.0. 
+ 
+ Currently data from 1994-2012 are available. These data are too large to be downloaded, and are available upon request to the Australian Antarctic Data Centre. 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Use Constraints
+        
+            This data set conforms to the PICCCBY Attribution License 
+ (http://creativecommons.org/licenses/by/3.0/). 
+ 
+ Please follow instructions listed in the citation reference provided at http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=Davis_MF... when using these data. 
+ 
+ Please also contact the investigator when using these data. 
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            MFSA
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Medium Frequency Spaced Array
+                    
+
+		    
+                        
+                    
+                
+                    
+                    
+                        
+                            RADAR
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Winds
+                    
+
+		    
+                
+                    
+                    
+                        
+                            Middle Atmosphere
+                    
+
+		    
+                
+		
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+    
+        Data Set Progress
+
+        
+            COMPLETE
+        
+
+    
+
+
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        Australian Antarctic Division
+                    
+                
+
+                
+            
+	    
+        
+    
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                Australian Antarctic Data Centre, Australia
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://data.aad.gov.au
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    DATA OFFICER
+                                                    
+                                                    AADC
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            +61 3 6232 3244
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            +61 3 6232 3351
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            metadata at aad.gov.au
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        Australian Antarctic Division
+
+                                                                    
+                                                                        203 Channel Highway
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Kingston
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                Tasmania
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                7050
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                Australia
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    DVD
+                
+
+            
+            
+            
+                
+                    Distribution Size: 
+                    11.7 GB
+                
+
+            
+            
+            
+            
+            
+                
+                    Fees: 
+                    free
+                
+
+            
+
+            
+                
+                
+                
+		
+            
+        
+
+    
+
+
+ 
+          
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        ROBERT
+                        A.
+                        VINCENT
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 8 8303 6125
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                rvincent at physics.adelaide.edu.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                University of Adelaide
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                
+                 
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        DAMIAN
+                        J.
+                        MURPHY
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                TECHNICAL CONTACT
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6232 3359
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +61 3 6232 3496
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                damian.murphy at aad.gov.au
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                203 Channel Highway
+
+                                            
+                                                Australian Antarctic Division
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Kingston
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    Tasmania
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    7050
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    Australia
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        DAVE
+                        J.
+                        CONNELL
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                DIF AUTHOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                +61 3 6232 3244
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                +61 3 6232 3351
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                dave.connell at aad.gov.au
+               
+
+
+
+
+
+
+
+
+
+
+

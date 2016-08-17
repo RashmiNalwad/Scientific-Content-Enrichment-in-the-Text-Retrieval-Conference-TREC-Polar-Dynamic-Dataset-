@@ -1,0 +1,22 @@
+$(document).ready(function() {
+
+    $('#OpenIDLoginPanel').hide();
+    $('#password-clear').show();
+    $('#password-password').hide();
+    //$("body select").msDropDown();
+
+    $('#password-clear').focus(function() {
+        $('#password-clear').hide();
+        $('#password-password').show();
+        $('#password-password').focus();
+    });
+    $('#password-password').blur(function() {
+        if ($('#password-password').val() == '') {
+            $('#password-clear').show();
+            $('#password-password').hide();
+        }
+    });
+    var cb = document.getElementById('chUseOID');
+    if (cb && cb.checked)
+        useOpenIDCheckedChanged(cb);
+});

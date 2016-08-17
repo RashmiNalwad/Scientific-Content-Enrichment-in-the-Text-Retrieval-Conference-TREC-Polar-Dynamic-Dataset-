@@ -1,0 +1,92 @@
+var _timeoutIntervalMilis;
+var _confirmIntervalMilis;
+var _sessionBumpUrl;
+
+var homeURL = "/home";
+
+var timeoutIntervalId;
+var confirmIntervalId;
+
+function ajaxLoadDoc(url)
+{
+	var xmlhttp;
+    
+    if (window.XMLHttpRequest)
+    {// code for IE7+, Firefox, Chrome, Opera, Safari
+        xmlhttp=new XMLHttpRequest();
+    }
+    else
+    {// code for IE6, IE5
+        xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+    }
+    
+    xmlhttp.onreadystatechange = function()
+    {
+        if (xmlhttp.readyState==4 && xmlhttp.status==200)
+        {
+        	//alert("Your session has been extended.");
+        }
+    };
+    
+    var timestamp = new Date();
+    
+    var uri = "";
+    
+    // Append date to url (so the browser doesn't cache the call)
+    if (url.indexOf("?") > 0)
+    {
+        uri = url + '&'; 
+	}
+	else
+	{
+		uri = url + '?';
+    }    						
+    
+    uri += 'timestamp=' + (timestamp * 1);
+    
+    xmlhttp.open("GET", uri, true);
+    xmlhttp.send();
+}
+
+function preventTimeout()
+{
+	clearIntervals();
+	
+	document.getElementById("sessionConfirmDiv").style.display = "none";
+	
+	ajaxLoadDoc(_sessionBumpUrl);
+	
+	setIntervals();
+}
+	
+function confirmStayAlive()
+{
+	document.getElementById("sessionConfirmDiv").style.display = "block";
+}
+
+function timeout()
+{
+	window.location = homeURL;
+}
+
+function clearIntervals()
+{
+	clearTimeout(timeoutIntervalId);
+	clearTimeout(confirmIntervalId);
+}
+
+function setIntervals()
+{
+	timeoutIntervalId = setInterval(function(){timeout();}, _timeoutIntervalMilis);
+    confirmIntervalId = setInterval(function(){confirmStayAlive();}, _confirmIntervalMilis);
+}
+
+function timeoutSetup(timeoutIntervalMilis, confirmIntervalMilis, sessionBumpUrl)
+{
+	_timeoutIntervalMilis = timeoutIntervalMilis;
+	_confirmIntervalMilis = confirmIntervalMilis;
+	_sessionBumpUrl = sessionBumpUrl;
+	
+	clearIntervals();
+	setIntervals();
+}

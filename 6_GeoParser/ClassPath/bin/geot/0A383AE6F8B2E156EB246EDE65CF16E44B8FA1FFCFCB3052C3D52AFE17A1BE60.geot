@@ -1,0 +1,1283 @@
+
+ 
+
+    	
+                 
+
+            	
+                 
+
+            	
+                 
+
+            
+	
+                 
+
+            	
+                 
+
+            	
+                 
+
+            
+	
+        	
+                    
+                    	
+                                
+                            	
+                                  + Visit NASA.gov
+                            
+
+
+                
+
+
+    
+	
+        	
+                    
+                    
+                
+		
+                    
+                        Links 
+                    
+                    
+                    FAQ
+                    
+                    Contact Us
+                    
+                    Site Map
+                 
+
+
+    
+	
+
+
+		
+																			
+																			
+
+
+
+
+
+	
+                
+                    
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Data Analysis And Visualization
+	
+
+	
+		
+	
+		Data Management/Data Handling
+	
+
+	
+		
+	
+		Education/Outreach
+	
+
+	
+		
+	
+		Environmental Advisories
+	
+
+	
+		
+	
+		Hazards Management
+	
+
+	
+		
+	
+		Metadata Handling
+	
+
+	
+		
+	
+		Models
+	
+
+	
+		
+	
+		Reference And Information Services
+	
+
+	
+		
+	
+		Web Services
+	
+
+	
+	
+	
+	
+
+	
+		Earth Science Links
+	
+	
+
+	
+		Portal 
+      Collaborations 
+	
+
+	
+	
+		Questions?
+        
+
+
+
+                
+
+            	
+                 
+
+                 
+
+                
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        	
+                    Are you using a browser that doesn't support JavaScript or have you disabled JavaScript? 
+
+                    
+
+                    If you have disabled JavaScript, you must re-enable JavaScript to use
+                    this page.
+ Or you can view this record using the 
+                    Text Only Format .
+
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Record Search Query:
+    ServiceParameters>MODELS>COMPONENT PROCESS MODELS
+
+
+
+
+
+
+
+
+
+
+    
+        
+            BIOMOC - A Multispecies Solute-Transport Model with Biodegradation
+
+        
+        
+        
+            Entry ID: 
+            
+                USGS_BIOMOC
+            
+            
+
+        
+    
+
+
+
+
+
+
+
+
+    
+        
+            
+                
+            
+        
+    
+        
+            
+        
+    
+
+
+	
+            
+                [
+                
+                    
+                        Get Service
+                
+                ]
+            
+        	
+        
+             
+            
+                
+                
+                     [
+                     
+                         
+                             Update this Record
+                         
+                     
+                     ]
+                 
+                 
+            
+
+            
+            
+                
+            
+                
+                Updating this record requires registration.
+
+    
+                
+                    (Account holders)
+                    
+                        
+                        
+                            
+                                Update this Record.
+                        
+                    
+
+                
+
+                
+                    
+                        Need an account?
+                         
+
+                    
+
+                
+
+                close
+            
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            BIOMOC is a two-dimensional model that can simulate the transport 
+ and biotransformation of multiple reacting solutes. The program is 
+ general and flexible, allowing for any combination of biodegradation 
+ processes. A number of expressions for biological transformation 
+ rates have been included as options in the code. These include 
+ single, multiple, and minimum  ... Monod kinetics and competitive, 
+ noncompetitive, and Haldane inhibition. The kinetic parameters can 
+ be formulated to simulate zero-order or first-order approximations 
+ of biodegradation rates. The growth and decay of several microbial 
+ populations performing the transformations is also accounted for. 
+ The microbial growth can be disabled, limited by biomass inhibition, 
+ or limited by the availability of a specified nutrient. 
+ 
+ [Summary provided by the USGS.] 
+
+                        
+
+                    
+                    
+                
+            
+
+        
+    
+
+
+
+
+
+
+    
+    Related URL
+
+    
+            
+	
+
+        
+        
+
+        
+            
+                
+
+
+Link: 
+
+    
+        GET SERVICE
+         >
+            GET SOFTWARE PACKAGE
+        
+    
+    
+    
+
+    
+
+
+
+
+                
+            
+        
+
+        
+Description: 
+
+Download BIOMOC software. 
+
+
+
+        
+
+            
+                
+
+            
+
+            
+        
+
+        
+            
+                
+
+
+Link: 
+
+    
+        VIEW RELATED INFORMATION
+         >
+            USER'S GUIDE
+        
+    
+    
+    
+
+    
+
+
+
+
+                
+            
+        
+
+        
+Description: 
+
+BIOMOC user guide. 
+
+
+
+        
+
+            
+
+            
+            
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+        Service Citation
+        
+        
+            	
+                
+                    
+                    
+                        
+                            Originators: 
+                            Essaid, H.I., and Bekins, B.A
+                        
+
+                    
+                    
+                        
+                            Title: 
+                            BIOMOC - A Multispecies Solute-Transport Model with Biodegradation
+                        
+
+                    
+                    
+                        
+                            Release_Date: 
+                            1997
+                        
+
+                    
+                    
+                        
+                            Provider: 
+                            U.S. Geological Survey
+                        
+
+                    
+                    
+                    
+                        
+                            URL: 
+                            
+                                
+                                    http://water.usgs.gov/software/BIOMOC/
+                            
+                        
+
+                    
+                    
+                    
+                
+                
+            
+        
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+        Service Keywords
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                                MODELS
+                            
+                            
+                                >COMPONENT PROCESS MODELS
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                    
+ 
+                    
+                
+            
+            
+
+
+
+        
+    
+
+
+
+
+    
+        Science Keywords 
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            TERRESTRIAL HYDROSPHERE
+                            
+                            
+                            >WATER QUALITY/WATER CHEMISTRY
+                            
+                            
+                            >DISSOLVED SOLIDS
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+
+                    
+                
+                
+            
+
+
+        
+    
+
+
+
+
+
+    
+        ISO Topic Category 
+        	
+            
+                
+                
+                    
+                    
+                        
+                            INLAND WATERS
+                        
+                    
+                    
+
+                    
+                
+                
+            
+        
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+        
+            
+            	
+                
+                    
+                    
+                        
+                            Models
+                    
+
+                    
+                
+                    
+                    
+                        
+                            solute-transport
+                    
+
+                    
+                
+                    
+                    
+                        
+                            biodegradation
+                    
+
+                    
+                
+            
+            
+        
+
+
+        
+        
+
+
+
+
+
+    
+        Service Provider
+        
+            
+            	
+                
+                    
+                    
+                        
+                            
+                                
+                                    DOI/USGS/WRD/OSW
+                                    
+                                         >  
+                                        Office of Surface Water, Water Resource Division, USGS, U.S. Department of the Interior
+                                    
+                                
+                           
+                            
+                                
+                                    
+                            
+                            
+
+                        
+                    
+                    
+                        
+                            Service Organization URL: 
+                        
+                        
+                            
+                                
+                                            http://water.usgs.gov/osw/ 
+                            
+                        
+                        
+
+                    
+                    
+                        
+                    
+                    
+                    
+                        
+                            
+
+                            	Service Provider Personnel
+	
+                                        Name: 
+                                        
+                                            
+                                                WATER RESOURCES
+                                                
+                                                U.S. GEOLOGICAL SURVEY
+                                            
+                                        
+                                        
+
+                                        
+                                            
+                                        
+                                        
+                                            
+                                        
+                                        
+                                            
+                                                
+                                                    Email: 
+                                                    
+                                                        h2osoft at usgs.gov
+                                                    
+                                                    
+
+                                                
+                                            
+                                        
+                                        
+                                            
+                                                
+                                                    
+                                                        Contact Address: 
+
+                                                        
+                                                            
+                                                                
+                                                                    U.S.G.S. 
+
+                                                                
+                                                                    Hydrologic Analysis Software Support Program 
+
+                                                                
+                                                                    437 National Center 
+
+                                                                
+                                                            
+                                                        
+                                                    
+                                                    
+                                                        City: 
+                                                        
+                                                            Reston
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Province or State: 
+                                                        
+                                                            VA
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Postal Code: 
+                                                        
+                                                            20192
+                                                        
+                                                        
+
+                                                    
+                                                    
+                                                        Country: 
+                                                        
+                                                            USA
+                                                        
+                                                        
+
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+  
+                            
+                        
+                    
+                    
+                    
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+    
+        Distribution Media
+        
+            
+            	
+                
+                    
+                    
+                        
+                            Distribution_Media:
+                            Online
+                        
+                        
+
+                    
+                    
+                    
+                    
+                        
+                            Fees:
+                            No fees
+                        
+                        
+
+                    
+                    
+                    
+                
+                
+            
+
+
+        
+    
+
+
+
+
+
+    
+        Personnel
+        
+            
+            	
+                
+                    
+                    
+                        
+                            HEDEFF
+                            
+                            ESSAID 
+
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Role: 
+                                    TECHNICAL CONTACT
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Phone: 
+                                        650-329-4581
+                                
+                                
+
+                            
+                        
+                    
+                    
+                    
+                        
+                            
+                                
+                                    Email: 
+                                    hiessaid at usgs.gov
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    
+                                        Contact Address: 
+
+                                        
+                                            
+                                                U.S. Geological Survey 
+
+                                            
+                                                345 Middlefield Rd, MS 496 
+
+                                            
+                                        
+                                    
+                                
+                                
+                                    
+                                        City: 
+                                        Menlo Park
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Province or State: 
+                                        CA
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Postal Code: 
+                                        94025
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Country: 
+                                        USA
+                                    
+                                    
+
+                                
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+                        
+
+                    
+                
+                    
+                    
+                        
+                            TYLER
+                            B.
+                            STEVENS 
+
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Role: 
+                                    SERF AUTHOR
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Phone: 
+                                        (301) 614-6898
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Fax: 
+                                    301-614-5268
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    Email: 
+                                    Tyler.B.Stevens at nasa.gov
+                                
+                                
+
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                    
+                                        Contact Address: 
+
+                                        
+                                            
+                                                NASA Goddard Space Flight Center 
+
+                                            
+                                                Global Change Master Directory 
+
+                                            
+                                        
+                                    
+                                
+                                
+                                    
+                                        City: 
+                                        Greenbelt
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Province or State: 
+                                        MD
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Postal Code: 
+                                        20771
+                                    
+                                    
+
+                                
+                                
+                                    
+                                        Country: 
+                                        USA
+                                    
+                                    
+
+                                
+                            
+                        
+                    
+                    
+                    
+                
+                
+                    
+
+                    
+                        
+                
+            
+
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+
+
+
+
+
+    
+        Creation and Review Dates
+        	
+            
+                SERF Creation Date:
+                2012-01-13
+            
+            
+
+            
+                SERF Last Revision Date:
+                2015-01-28
+            
+            
+
+            
+        
+
+
+    
+
+    
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+    
+        Bookmark URL
+        Alternate URL
+    
+
+    
+
+
+
+
+	
+        
+            	
+                        
+                    	
+                        
+                            
+                    	
+                        
+                    	
+                        
+                            
+                                + Privacy Policy and Important Notices
+                        
+
+                    	
+                        
+                    	
+                        
+                            
+                    	
+                        
+                            Webmaster: 
+                            Monica Lyles
+                        
+
+                        
+                            Responsible NASA Official: 
+                            Dr. Stephen Wharton
+                        
+
+                        Last Updated:  February 2015
+
+                    
+	
+                        
+                    
+
+
+        
+
+    
+	
+                 
+
+            
+	
+                 
+
+            	
+                 
+
+            	
+                 
+
+            
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+

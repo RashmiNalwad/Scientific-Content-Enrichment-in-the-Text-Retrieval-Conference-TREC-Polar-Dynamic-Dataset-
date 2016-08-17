@@ -1,0 +1,358 @@
+
+
+
+
+
+
+
+		
+			
+					
+										
+					
+						NEWS
+						News, features, & press releases
+					
+					
+						MISSIONS
+						Current, future, past missions, & launch dates
+					
+					
+						MULTIMEDIA
+						Images, videos, NASA TV, & more
+					
+					
+						CONNECT
+						Social media channels & NASA apps
+					
+					
+						ABOUT NASA
+						Leadership, organization, budget, careers, & more
+					
+					
+			
+			
+
+			
+
+			
+				blogs.nasa.gov
+
+				
+					
+					Share on email
+						Send
+					
+					
+						Share
+					
+				
+
+			
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+	
+		
+			Liquid Rocket Engines (J-2X, RS-25, general)
+
+			
+					
+
+		
+			Menu
+
+			Skip to content
+				Home
+
+
+
+		
+
+			
+
+	
+	
+		
+
+					
+				Tag Archives: thrust take-out structure
+
+
+						
+
+			
+	
+				
+			            
+						
+				LEO Progress: J-2X to Test Stand A1
+			
+
+						
+			Posted on June 18, 2013 at 9:40 am by wdgreene.
+			
+							
+					9 Replies				
+
+					
+
+				
+			“Nothing behind me, everything ahead of me, as is ever so on the road.”
+
+– Jack Kerouac, On the Road
+
+Recently, J-2X development engine 10002 was on the road.  If you remember, E10002 went through a six-test series on test stand A2 that began in February and finished up in April.  The next planned phase of E10002 testing is on test stand A1.  In between these series, the engine was back in the assembly area of NASA Stennis Space Center Building 9101.
+
+
+
+This respite between test series allowed for a complete series of inspections of the engine hardware.  This is vital piece of the learning process for engine development.  The basic truth is that a rocket engine is just darn tough on itself when it fires.  The reason that we test and test and test is to make sure that our design can stand up to the recurring brutal conditions.  The chance to look for the effects of that testing through detailed inspections away from the test stand is an opportunity to collect a great deal of useful information.
+
+Also, even before the engine arrived at the assembly area, the stub nozzle extension was removed.  This was done while the engine was still installed in the test stand.  Remember, the testing on test stand A2 was performed with a passive diffuser and so we were able to use an instrumented stub nozzle extension to examine the nozzle thermal environments.  On A1, there will be no diffuser.  We’ll be firing straight into the ambient Mississippi afternoon and so we’ll not have any nozzle extension attached.  The other change made to the engine — this one made while in the assembly area — was that we swapped out the flexible inlet ducts so that we can use our specially instrumented ducts for the gimbal testing on A1.  These ducts will provide a great deal of unique data when we gimbal the engine and force the inlet ducts to twist and bend and they are designed to do.
+
+Below is my favorite picture from the recent assembly activities for E10002 back in Building 9101.
+
+
+
+“FOE” stands for “foreign object elimination.”  I love this picture because it is a demonstration of how dedicated and meticulous are our assembly techs and how much basic integrity they bring to their job every single day.  In the rocket engine business we tend to be fanatics about foreign objects (i.e., random debris of unknown origin) hanging around.  The reason for this is that if you spend enough time in the business, you will eventually have a story of what happens when trash gets into the engine.  The rocket in question might be an amazingly powerful beast pumping out five hundred pounds of propellant per second generating 300,000 pounds of thrust, but all it takes is one bit of junk in the wrong place to destroy the whole thing in fractions of a second.
+
+In the picture above is a small nut that was found in the periphery of the assembly area.  Shoot, if this was my garage you’d be lucky to find a clean patch not strewn with various bits of stuff like nuts, bolts, wads of duct tape, old hunks of sandpaper, that lost pair of pliers, a “Huey Lewis and the News” cassette, or, well, who knows what.  But the rocket engine assembly area is NOT my garage (thank goodness).  When something is found like a stray nut in the picture above, that sets off an investigation.  Where did it come from?  How did it get loose?  What procedure allowed this nut to escape control?  This is serious stuff.  Yet, just think about how easy it would have been for a tech to see that stray nut, pick it up, and stick it in his pocket.  They could have avoided the whole minor investigation thing entirely.  But that’s not what they did and that is not what they do.  Because they know that if they do not show the necessary integrity and methodical approach to continue to learn and perfect our procedures, then the next stray nut could be lodged where it could do terrible damage.
+
+Here are the techs moving E10002 out of its assembly bay and unpacking it for transport.
+
+
+
+And a couple more pictures of the process in Building 9101.
+
+
+
+Here’s the engine ready for the road, then being lifted up the side of the test stand, and then sitting in the porch area while sitting on the engine vertical installer.  I really enjoy the pictures of the engine trucking about sunny NASA SSC.  That picture was the inspiration for including the Jack Kerouac quote at the beginning of the article.  It’s bright and shiny and full of so much thrill and promise.
+
+
+
+All of this should look reasonably familiar.  It is the process that we follow, more or less, whenever we take an engine out to the stand.  Getting the engine into and out of A1 is a bit easier since you don’t have to deal with moving the diffuser out of the way, but they’re really quite similar.  The slightly different flavor that we’ve got for this testing is the addition of the thrust vector control system.  In the picture below you can see where these hang.  The engine mounts up with the gimbal bearing to the stout, yellow thrust take-out structure.
+
+
+
+The two hydraulic actuators are also attached to the thrust take-out structure but slightly outboard and at 90 degrees apart.  These actuators are what will swing the engine around as if we were steering a vehicle.  Here, below, is another, closer view of the thrust take-out structure and the actuators.
+
+
+
+In the picture below, E10002 is mounted up to the thrust take-out structure.  The gimbal bearing is the shiny object towards which the arrow is pointing.  If you look over to the right side of the picture, you can see one of the “scissors ducts,” i.e., the flexible propellant inlet ducts.
+
+
+
+The next picture shows one of the hydraulic actuators hooked up to the engine.  As you can see the tolerances are awfully tight.  That’s an important vehicle integration consideration.  If this was a vehicle stage rather than a test stand to which we were attaching the engine, the thrust structure and the actuators would be the responsibility of the stage manufacturer.  Making sure that the stage and the engine can work together in such close quarters takes a great deal of vigilance between the two teams.
+
+
+
+So, you’re probably asking yourself, to what do these actuators connect on the engine?  That’s a very good question.  It certainly isn’t obvious from the assembly pictures.  The actuators connect to the forward manifold of the main combustion chamber (MCC).  Below is a computer model of the MCC with the two actuator attachment points shown.
+
+
+
+The MCC is really the heart of the whole engine, the sturdy framework stuck right in the middle, so it makes sense that when you want to push the engine around, this is what you’d have to push.  This final picture below of the engine completely mounted into the stand.  Again, it’s amazing to think about that whole thing being able to move about and not having one component run into another component or the actuators or the stand.  It is quite the integration miracle.
+
+
+
+Testing for E10002 on test stand A1 will commence in June.  So, if all goes well, for the next J-2X update, I’ll be able to link in a video of the engine firing and twisting about.
+
+BTW, NASA is in the process of swapping software used for posting blog articles and comments and such.  As part of this process, they have to shut down the capability to accept input comments for a short time, specifically the first two weeks of July 2013.  Sorry about that.  But after that, it ought to be up and running as normal.
+
+					
+
+		
+		
+			This entry was posted in Uncategorized and tagged E10002, FOE, gimbal bearing, hydraulic actuators, J2-X rocket engine, Main Combustion Chamber, Marshall Space Flight Center, NASA, Stennis Space Center, thrust take-out structure on June 18, 2013 by wdgreene.								
+	
+
+		
+		
+
+	
+
+
+			
+			Search this blog
+
+				
+					Search for:
+					
+					
+				
+
+			
+Archives
+			June 2014
+	March 2014
+	January 2014
+	December 2013
+	November 2013
+	October 2013
+	September 2013
+	August 2013
+	July 2013
+	June 2013
+	May 2013
+	January 2013
+	October 2012
+	September 2012
+	August 2012
+	July 2012
+	June 2012
+	May 2012
+	April 2012
+	March 2012
+	February 2012
+	December 2011
+	November 2011
+	October 2011
+	August 2011
+	July 2011
+	June 2011
+	May 2011
+	April 2011
+	March 2011
+	February 2011
+	January 2011
+	December 2010
+	November 2010
+
+
+Tags
+A-2 test stand
+Bill Greene
+burp test
+clamshell
+Direct Metal Laser Sintering
+E10001
+E10002
+engine
+Engine 10001
+engine E10001
+engine thrust
+gimbal bearing
+gimballing
+hydraulic actuators
+induced loads
+Interface Control Document
+J-2X
+J-2X rocket engine
+J2-X rocket engine
+load cells
+Main Combustion Chamber
+Main Combustion Element
+Main Fuel Valve
+Marshall Space Flight Center
+NASA
+Oxidizer Turbine Bypass Valve
+oxidizer turbopump
+powerpack
+Power Pack Assembly
+powerPack Assembly
+Pratt & Whitney Rocketdyne
+RL10 rocket engine
+rocket
+rocket engine
+RS-25
+space launch system
+Space Shuttle Main Engine
+SSME
+Stennis Space Center
+Test Stand A-2
+turbomachinery
+turbopump
+vehicle integration
+William D. Greene
+William Greene
+
+					Authors
+				wdgreene 
+
+								
+
+		
+
+	
+
+	
+	
+	
+	NASA Home
+	
+	NASA Official: Brian Dunbar
+	
+
+	
+		NASA Information on the American Recovery and Reinvestment Act of 2009
+	Budgets, Strategic Plans and Accountability Reports
+	Equal Employment Opportunity Data Posted Pursuant to the No Fear Act
+	Information-Dissemination Policies and Inventories
+
+
+	
+
+	
+		Freedom of Information Act
+	Privacy Policy & Important Notices
+	NASA Advisory Council
+	Inspector General Hotline
+	Office of the Inspector General
+	NASA Communications Policy
+
+
+	
+
+	
+		Contact NASA
+	Site Map
+	USA.gov
+	ExpectMore.gov
+	Open Government at NASA
+	Help and Preferences
+
+
+	
+
+	
+	
+
+	
+
+
+
+
+
+	
+		
+			Press f for fullscreen.
+		
+
+	
+
+	
+	
+
+	
+	
+	
+	
+
+
+
+
+		
+		
+
+		
+	

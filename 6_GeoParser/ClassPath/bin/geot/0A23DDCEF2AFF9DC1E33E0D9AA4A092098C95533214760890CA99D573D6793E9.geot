@@ -1,0 +1,2543 @@
+
+
+
+
+	 
+        
+
+	
+            
+                	
+            
+                
+	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                	
+            
+                
+
+
+
+
+
+        
+        	 
+                
+        
+                
+
+
+
+
+
+
+		
+	
+	
+		
+	
+		Agriculture
+	
+
+	
+		
+	
+		Atmosphere
+	
+
+	
+		
+	
+		Biological Classification
+	
+
+	
+		
+	
+		Biosphere
+	
+
+	
+		
+	
+		Climate Indicators
+	
+
+	
+		
+	
+		Cryosphere
+	
+
+	
+		
+	
+		Human Dimensions
+	
+
+	
+		
+	
+		Land Surface
+	
+
+	
+		
+	
+		Oceans
+	
+
+	
+		
+	
+		Paleoclimate
+	
+
+	
+		
+	
+		Solid Earth
+	
+
+	
+		
+	
+		Spectral/Engineering
+	
+
+	
+		
+	
+		Sun-Earth Interactions
+	
+
+	
+		
+	
+		Terrestrial Hydrosphere
+	
+
+	
+	
+
+	
+		
+Data Centers
+
+	
+		 
+Locations
+
+	
+		
+Instruments
+
+	
+		
+Platforms/Sources
+
+	
+		
+Projects
+
+
+
+
+
+
+
+                
+                
+                	
+                    	
+	
+	
+
+
+                    
+                    	
+                            	
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Are you using a browser that doesn't support JavaScript or have you disabled JavaScript?
+
+        
+
+        If you have disabled JavaScript, you must re-enable JavaScript to use this page.
+
+        Or you can view this record using the 
+        Text Only Format.
+    
+
+
+
+
+
+Record Search Query:
+Science Keywords>OCEANS>OCEAN CHEMISTRY>OXYGEN
+
+
+	
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        
+            
+                Equatorial Pacific Coral Paleoclimate Data
+            
+        
+
+        
+        
+            Entry ID:
+            
+                EARTH_OCEAN_NGDC_PALEO_CORAL1
+            
+            
+
+            
+
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+	 
+    
+        
+        
+        
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+                
+                    
+                    
+                        
+                    
+                 
+            
+        
+          
+        
+            [
+            
+                
+                    Get Data
+            
+            ]
+            
+         
+        
+             
+            
+                
+            
+                
+                    [
+                    
+                        
+                            Update this Record
+                        
+                        ]
+                    
+                
+                
+
+            
+    
+    
+	
+         
+           
+        
+           
+
+            Updating this record requires registration.
+
+            
+            
+                (Account holders)
+                
+                
+                
+                    
+                    
+                        Update this Record
+                
+                
+                
+                
+
+            
+
+            
+                
+                    Need an account?
+                     
+
+                
+
+            
+
+            close
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        
+            This data set description is a member of a collection.
+
+            
+                Click to see members of this collection.
+            
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Summary
+
+        
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            Abstract: 
+                            A set of Coral Data from the Pacific relevant to paleoclimate studies is 
+ available via FTP from the World Data Center for Paleoclimatology at NCDC in 
+ Boulder, Colorado USA. See below for access instructions. 
+ 
+ This data sheds light on the temporal variability of the equatorial Pacific 
+ upwelling, the Southern Oscillation, and the trade winds. The data provides 
+ past sea surface temperatures.  ... Paleoclimate indicators used include coral 
+ species, geochemical indicators, isotope ratios, and cation ratios. 
+ 
+ The data sets comprising this data set are contained in the following 
+ files : 
+ 1. ptapitt.dat 
+ Site: Punta Pitt, Isla San Cristobal, Galapagos Islands, Ecuador (0 40'S, 89 
+ 10'W). Water depth 14m. Coral species Pavona clavus. Time span: 1936-1982.5 
+ at quarterly resolution (missing data from 1950) File contains data presented 
+ by Shen et al. (1992a). Table includes d18O, d13C, Cd/Ca, Mn/Ca, and Ba/Ca data 
+ from a 2m coral head and, for comparison, SST records from Academy Bay 
+ (Galapagos; 0 40'S, 90 20'W) and Puerto Chicama (Peru; 8 S, 80 W). 
+ 
+ 2. TARAWA1.DAT 
+ Site: Tarawa Atoll, Republic of Kiribati (1 N, 172 E). Water depth: 2- 
+ 4m. 
+ Coral species Hydnophora microconos. Time span: 1959-79 at 
+ monthly resolution. 
+ File contains stable isotope data presented by Cole and Fairbanks 
+ (1990) and Mn/Ca data presented by Shen et al. (1992b). 
+ 
+ 3. GALAPBA.DAT 
+ Site: Punta Pitt, Isla San Cristobal, Galapagos Islands, Ecuador (0 
+ 40'S, 89 10'W). 
+ Water depth 14m. Coral species Pavona clavus. Time span: 1963-82 
+ at quarterly resolution. File contains Ba/Ca data (in mmol/mol) 
+ presented by Lea et al. (1989). 
+ 
+ Coral data can be accessed using the Coral Search Engine: 
+ http://www.ncdc.noaa.gov/paleo/ftp-coral.html 
+ 
+ NOTE: PLEASE CITE ORIGINAL REFERENCES WHEN USING THIS DATA! 
+    
+                        
+
+                    
+                    
+                
+            
+
+            
+    
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+        Related URL
+        
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Access to coral data and information 
+                            
+
+                        
+                        
+                        
+                            
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        Link: 
+                                        
+                                            
+                                                GET DATA
+                                                
+                                            
+                                            
+                                        
+                                    
+
+                                
+                            
+                        
+                        
+                            
+                                Description: 
+                                Coral Data Search Engine 
+                            
+
+                        
+                        
+                        
+                    
+                    
+                
+
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+            
+            
+        
+            
+            
+            
+            
+        
+    
+
+
+
+    Geographic Coverage
+
+
+    
+        
+            
+                
+            
+        
+            
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                
+
+                
+            
+
+            
+            
+                Spatial coordinates   
+            
+
+            
+            
+                
+                    
+                
+                
+            
+        
+        
+        
+            	
+                            1.
+                        	 	
+                                
+                                    N: -0.0
+                                
+                            	 	
+                                
+                                    S: -8.0
+                                
+                            	 	
+                                
+                                    E: -79.0
+                                
+                            	 	
+                                
+                                    W: -91.0
+                                
+                            	
+                             
+                            
+                                
+                        
+
+
+        
+            	
+                            2.
+                        	 	
+                                
+                                    N: 2.0
+                                
+                            	 	
+                                
+                                    S: 0.0
+                                
+                            	 	
+                                
+                                    E: 173.0
+                                
+                            	 	
+                                
+                                    W: 171.0
+                                
+                            	
+                             
+                            
+                                
+                        
+
+
+        
+        
+
+ 
+        
+
+    
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Set Citation
+        
+        
+            
+                
+                    
+                    
+
+                    
+                        
+                            Dataset Title: 
+                            Corals and Sclerosponges
+                        
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        
+                            Dataset Release Place: 
+                            Boulder, CO
+                        
+
+                    
+                    
+                    
+                        
+                            Dataset Publisher: 
+                            NOAA/NCDC Paleoclimatology Program
+                        
+
+                    
+
+                    
+
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        
+                            Online Resource: 
+                            
+                                
+                                    
+                                        http://www.ncdc.noaa.gov/paleo/corals.html
+                                
+                            
+                            
+
+                    
+
+                    
+                    
+                
+                
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    Temporal Coverage 
+
+    
+        
+        
+            
+                
+                
+                    
+                        Start Date: 
+                        1936-01-01
+                    
+
+                
+                
+                    
+                        Stop Date: 
+                        1982-12-31
+                    
+
+                
+                
+                
+            
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Location Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > PACIFIC OCEAN
+                            
+                            
+                            
+                            
+                            
+                                > EQUATORIAL ISLANDS
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > PACIFIC OCEAN
+                            
+                            
+                                > CENTRAL PACIFIC OCEAN
+                            
+                            
+                                > KIRIBATI
+                            
+                            
+                            
+                                > TARAWA
+                            
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEAN
+                            
+                                > PACIFIC OCEAN
+                            
+                            
+                                > EASTERN PACIFIC OCEAN
+                            
+                            
+                                > GALAPAGOS ISLANDS
+                            
+                            
+                            
+                                > ISLA SAN CRISTOBAL - PUNTA PITT
+                            
+                        
+                    
+
+                    
+                
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Science Keywords 
+
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+                                TERRESTRIAL HYDROSPHERE
+                            
+                            
+                                >
+                                WATER QUALITY/WATER CHEMISTRY
+                            
+                            
+                                >
+                                STABLE ISOTOPES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                CARBON
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                OXYGEN
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CHEMISTRY
+                            
+                            
+                                >
+                                STABLE ISOTOPES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN CIRCULATION
+                            
+                            
+                                >
+                                UPWELLING/DOWNWELLING
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                OCEANS
+                            
+                            
+                                >
+                                OCEAN TEMPERATURE
+                            
+                            
+                                >
+                                SEA SURFACE TEMPERATURE
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                PALEOCLIMATE
+                            
+                            
+                                >
+                                OCEAN/LAKE RECORDS
+                            
+                            
+                                >
+                                CORAL DEPOSITS
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                PALEOCLIMATE
+                            
+                            
+                                >
+                                OCEAN/LAKE RECORDS
+                            
+                            
+                                >
+                                ISOTOPES
+                            
+                            
+                            
+                            
+                                >
+                                CARBON ISOTOPES
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                PALEOCLIMATE
+                            
+                            
+                                >
+                                OCEAN/LAKE RECORDS
+                            
+                            
+                                >
+                                OXYGEN ISOTOPES
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                ANIMALS/INVERTEBRATES
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                BIOLOGICAL CLASSIFICATION
+                            
+                            
+                                >
+                                ANIMALS/INVERTEBRATES
+                            
+                            
+                                >
+                                CNIDARIANS
+                            
+                            
+                            
+                            
+                                >
+                                CORALS
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                BIOSPHERE
+                            
+                            
+                                >
+                                AQUATIC ECOSYSTEMS
+                            
+                            
+                                >
+                                BENTHIC HABITAT
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                BIOSPHERE
+                            
+                            
+                                >
+                                AQUATIC ECOSYSTEMS
+                            
+                            
+                                >
+                                REEF HABITAT
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                    
+                    
+                        
+                            
+                                BIOSPHERE
+                            
+                            
+                                >
+                                AQUATIC ECOSYSTEMS
+                            
+                            
+                                >
+                                MARINE HABITAT
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+    
+        ISO Topic Category 
+
+        
+            
+                
+                
+                    
+                    
+                        
+                            BIOTA
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            CLIMATOLOGY/METEOROLOGY/ATMOSPHERE
+                        
+                    
+
+                    
+                    
+                    
+                
+                    
+                    
+                        
+                            ENVIRONMENT
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOSCIENTIFIC INFORMATION
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            INLAND WATERS
+                        
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OCEANS
+                        
+                    
+
+                    
+                
+                
+                    
+
+                    
+                        
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Ancillary Keywords
+
+        
+            
+            
+                
+                    
+                    
+                        
+                            BARIUM
+                    
+
+                    
+                
+                    
+                    
+                        
+                            CADMIUM
+                    
+
+                    
+                        
+                    
+                
+                    
+                    
+                        
+                            CALCIUM
+                    
+
+                    
+                
+                    
+                    
+                        
+                            CORAL
+                    
+
+                    
+                
+                    
+                    
+                        
+                            ECUADOR
+                    
+
+                    
+                
+                    
+                    
+                        
+                            EQUATORIAL
+                    
+
+                    
+                
+                    
+                    
+                        
+                            EQUATORIAL ISLANDS
+                    
+
+                    
+                
+                    
+                    
+                        
+                            FTP
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GALAPAGOS
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GALAPAGOS ISLANDS
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOCHEMICAL INDICATORS
+                    
+
+                    
+                
+                    
+                    
+                        
+                            GEOCHEMISTRY
+                    
+
+                    
+                
+                    
+                    
+                        
+                            HYDNOPHORA MICROCONUS
+                    
+
+                    
+                
+                    
+                    
+                        
+                            IDN_NODE GSFC/NGDC
+                    
+
+                    
+                
+                    
+                    
+                        
+                            IDN_NODE GSFC/NOAA/NESDIS/NGDC
+                    
+
+                    
+                
+                    
+                    
+                        
+                            MANGANESE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            MARINE GEOLOGY
+                    
+
+                    
+                
+                    
+                    
+                        
+                            NGDC
+                    
+
+                    
+                
+                    
+                    
+                        
+                            NOAA/NESDIS/NGDC
+                    
+
+                    
+                
+                    
+                    
+                        
+                            OXYGEN ISOTOPES
+                    
+
+                    
+                
+                    
+                    
+                        
+                            PALEOCLIMATE
+                    
+
+                    
+                
+                    
+                    
+                        
+                            PAVONA CLAVUS
+                    
+
+                    
+                
+                    
+                    
+                        
+                            PERU
+                    
+
+                    
+                
+                    
+                    
+                        
+                            SEA SURFACE TEMPERATURES
+                    
+
+                    
+                
+                    
+                    
+                        
+                            SOUTHERN OSCILLATION
+                    
+
+                    
+                
+                    
+                    
+                        
+                            SST
+                    
+
+                    
+                
+                    
+                    
+                        
+                            TARAWA
+                    
+
+                    
+                
+                    
+                    
+                        
+                            TARAWA ISLAND
+                    
+
+                    
+                
+                    
+                    
+                        
+                            TRADE WINDS
+                    
+
+                    
+                
+                    
+                    
+                        
+                            UPWELLING
+                    
+
+                    
+                
+                
+                    
+
+                    
+                         
+                
+            
+
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Originating Center
+
+        
+            
+            
+                
+                
+                    
+                        NOAA/NESDIS/NGDC
+                    
+                
+
+                
+                
+            
+            
+        
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data Center
+
+        
+            
+            
+            	
+                
+                    
+                    
+                        
+                            
+                            
+                                World Data Center for Paleoclimatology, Boulder
+                            
+                        
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    
+                        
+                            Data Center URL: 
+                            http://www.ncdc.noaa.gov/paleo/
+
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+
+                                	Data Center Personnel
+	
+                                            
+                                                Name: 
+                                                
+                                                    
+                                                    
+                                                    WDC/PALEOCLIMATOLOGY, BOULDER
+                                                
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            Phone: 
+                                                            +1 (303) 497-6160
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Fax: 
+                                                            +1 (303) 497-6513
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Email: 
+                                                            paleo at noaa.gov
+                                                        
+
+                                                    
+                                                
+                                            
+                                            
+                                            
+                                                
+                                                    
+                                                        
+                                                            Contact Address: 
+
+                                                            
+                                                                
+                                                                    
+                                                                        World Data Center for Paleoclimatology
+
+                                                                    
+                                                                        NOAA/NCDC Code E/GCx3
+
+                                                                    
+                                                                        325 Broadway
+
+                                                                    
+                                                                
+
+                                                            
+                                                        
+                    
+                                                        
+                                                            
+                                                                City: 
+                                                                Boulder
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Province or State: 
+                                                                CO
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Postal Code: 
+                                                                80303
+                                                            
+
+                                                        
+                                                        
+                                                        
+                                                            
+                                                                Country: 
+                                                                USA
+                                                            
+
+                                                        
+                                                    
+                                                
+                                            
+                                        
+
+
+  
+                                
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+  
+        
+    
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+    
+        Distribution
+
+        
+        
+        
+        
+            
+            
+            
+                
+                    Distribution Media: 
+                    online - available via anonymous FTP
+                
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+                
+                
+            
+        
+
+    
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+    Personnel
+
+    
+        
+        
+            
+                
+                
+                    
+                        JULIA
+                        E.
+                        COLE
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                (303) 492-0595
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                (303) 492-6388
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Department of Geosciences
+
+                                            
+                                                University of Arizona
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Tucson
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    AZ
+                                
+
+                            
+                            
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                    
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        DAVID
+                        W.
+                        LEA
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                (805) 893-8665
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                (805) 893-2314
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Email: 
+                                lea at magic.ucsb.edu
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                            
+                                
+                                    Contact Address: 
+
+                                    
+                                        
+                                            
+                                                Department of Geological Sciences and Marine Science Institute
+
+                                            
+                                                University of California
+
+                                            
+                                        
+
+                                    
+                                
+
+                            
+                            
+                            
+                                
+                                    City: 
+                                    Santa Barbara
+                                
+
+                            
+                            
+                            
+                                
+                                    Province or State: 
+                                    CA
+                                
+
+                            
+                            
+                            
+                                
+                                    Postal Code: 
+                                    93106
+                                
+
+                            
+                            
+                            
+                                
+                                    Country: 
+                                    USA
+                                
+
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+                    
+
+                
+            
+                
+                
+                    
+                        GLEN
+                        T.
+                        SHEN
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                                Role: 
+                                INVESTIGATOR
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Phone: 
+                                (206) 543-3151
+                            
+
+                        
+                    
+                
+                
+                
+                    
+                        
+                            
+                                Fax: 
+                                (206) 685-3351
+                            
+
+                        
+                    
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                
+                
+                
+                
+                
+            
+            
+            
+                
+
+                
+            
+        
+
+    
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+        Publications/References
+
+        
+            Cole, J. E., and R. G. Fairbanks, The Southern Oscillation recorded in the 
+ oxygen isotopes of corals from Tarawa Atoll, Paleoceanography, 5, 669-683, 
+ 1990. 
+
+Lea, D.W., G.T. Shen, and E.A. Boyle, Coralline barium records temporal 
+ variability in equatorial Pacific upwelling, Nature, 340, 373-376. 
+
+Shen, G. T., J. E. Cole, D. W. Lea, L. J. Linn, T. A. McConnaughey, and R. G. Fairbanks, Surface ocean variability at Galapagos from 1936-1982: Calibration of geochemical tracers in corals, Paleoceanography, 7, 563-588, 1992a. 
+
+Shen, G. T., L. J. Linn, T. M. Campbell, J. E. Cole, and R. G. Fairbanks, A 
+ chemical indicator of trade wind reversal in corals from the western tropical Pacific, Journal of Geophysical Research, 97, 12,689-12,698, 1992b. 
+
+NOAA Product Information Catalog. 1988. Washington, DC: US Dept. of 
+ Commerce, 171 pp. 
+
+
+
+        
+    
+    
+
+
+
+            
+            
+
+
+
+
+
+
+    Creation and Review Dates
+
+    
+        
+        
+            
+                Last DIF Revision Date:
+                2012-08-31
+            
+
+        
+        
+    
+
+
+
+
+
+
+            
+            
+
+
+
+
+
+
+
+
+
+    
+         
+        
+            
+                Reformat as FGDC document
+            
+        
+    
+
+    
+         
+        
+            
+                 Reformat as ISO 19115 document
+            
+        
+    
+
+    
+         
+        
+            
+                View Text Only Format
+            
+        
+    
+
+
+
+
+            
+
+        
+
+
+
+
+
+
+                            
+
+                    
+                    
+                
+
+        
+        
+
+
+	
+            
+                
+        	
+            
+                
+                    NASA Privacy Policy and Important Notices
+            
+
+            
+                Responsible NASA Official:  
+                
+                    Dr. Stephen Wharton
+
+                Webmaster:  
+                
+                    Monica Lyles
+                  ·  Contact 
+                
+                    GCMD User Support for assistance
+            
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+
+

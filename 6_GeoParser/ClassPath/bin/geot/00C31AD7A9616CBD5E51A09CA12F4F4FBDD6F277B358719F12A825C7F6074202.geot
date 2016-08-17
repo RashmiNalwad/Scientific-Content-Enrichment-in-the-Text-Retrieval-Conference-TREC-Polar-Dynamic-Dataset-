@@ -1,0 +1,302 @@
+
+        
+            
+
+
+
+
+    
+        
+            
+                
+                    
+            
+        
+    
+
+
+
+
+    Platform:
+    
+        
+            IMS-1
+            
+            
+
+        
+    
+
+
+
+
+    
+        
+            
+                Platform Category:
+                Earth Observation Satellites
+            
+            
+
+            
+            
+        
+    
+
+    
+        
+    
+
+
+
+
+            
+
+            
+
+            
+
+
+
+
+
+
+
+
+
+    Platform-based Instruments:
+
+    
+        
+            
+                
+                    
+                        MX-T
+                    
+                
+
+            
+                
+                    
+                        CCD IMAGER
+                    
+                
+
+            
+        
+    
+
+    
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+    Orbit
+
+    
+        
+            Orbit Altitude:
+            635 km
+
+        
+        
+        
+            Orbit Inclination:
+            98 km
+
+        
+        
+        
+        
+        
+            Period:
+            97.3 minutes
+
+        
+        
+        
+        
+        
+            Perigee:
+            626.5 km
+
+        
+        
+        
+            Apogee:
+            646.3 km
+
+        
+        
+        
+            Orbit Type:
+            LEO > Low Earth Orbit > Polar Sun-Synchronous
+
+        
+    
+
+
+
+
+Related Data Sets
+
+
+    
+    
+        
+            
+                View all
+                13
+                records related to this platform
+        
+    
+
+
+
+
+
+Description
+
+
+    IMS-1, previously referred to as TWSat (Third World Satellite), is a low-cost microsatellite imaging mission of ISRO (Indian Space Research Organization). The overall objective is to provide  ... medium-resolution imagery for developing countries for free. Around 50 data reception terminals will be installed by ISRO in selected Third World countries and also at some universities in India. 
+ 
+ he project started in 2005 with a definition phase of the mission. The ISRO approach was to develop two versions of a standard small spacecraft bus (SSB) design with the objective to provide a low-cost and a quick-response time approach to space. 
+ 
+ • A microsatellite version (first use by the IMS-1 mission) 
+ 
+ • A minisatellite version (first use by the SARAL mission) 
+ 
+ The main advantage of these "smallsats" is the fact that they can be launched by a PSLV vehicle as a piggyback payload on any one of the larger primary payloads (like IRS satellites). 
+ 
+ The modular design concept of the SSB is suited for series production making the bus a natural choice for constellation-flight applications. The design layout is such that the bus module and the payload module of each series may be integrated and tested separately (thus reducing the interdependency during the realization between both modules). Each SSB version is 3-axis stabilized. SSB is also designed to accommodate different types of payloads with minor modification from mission to mission. 
+ 
+ The SSB micro-bus uses aluminum honeycomb panels arranged in a cuboid structure with internal shear frames. This design is made to provide maximum area for mounting the packages while being sturdy. All the subsystem packages are mounted within the cuboid except sensors and antennas which are mounted outside. The structure includes a launch vehicle interface and solar panel interfaces. The payloads are mounted on the top deck, with optical axis towards the + yaw direction. 
+ 
+ The power subsystem consists of solar panels, battery, power conditioning and distribution units. There are two solar panels of size 0.81m x 0.72 m in the roll direction of the satellite. The panels are stowed during the launch and deployed after injection to the orbit. The satellite is nominally in sun-pointing mode with the solar panels facing the sun. For every payload operation, the satellite is maneuvered into an Earth-pointing mode and goes back to the sun-pointing mode after the imaging operation. Multi-junction solar cells are being used to provide higher efficiency of power conversion to generate about 230 W. A Li-ion battery is used with a capacity of 10.5 Ah, having a mass of about 3.5 kg. The power subsystem provides a single raw bus of 28 to 33 V. There are four DC/DC converters which provide the required secondary voltages for the payloads and bus subsystems. 
+ 
+ The AOCS (Attitude and Orbit Control Subsystem) uses sun sensors with 4π FOV providing an accuracy of 0.5º in all axes. The sun sensors are being used for sun acquisition and safe mode detection and recovery. A MEMS-based magnetometer is being used in the spacecraft de-tumbling support mode and in the momentum dumping of the reaction wheels. A star sensor, providing an inertial quaternion output, is used as prime sensor during 3-axis stabilization and during the maneuver support modes. The accuracy of the star sensor is < 40 arcsec in all axes. In addition, there are two miniaturized gyros which are dynamically tuned. A GPS-based SPS (Satellite Positioning System) is used to provide the satellite position to an accuracy of < 30 m. Actuation is provided by magnetic torquers (momentum dumping), micro reaction wheels,and an RCS (Reaction Control Subsystem). The reaction wheels have aan angular momentum capacity of 0.36 Nms and a torque of 0.015 Nm. The wheels are arranged in a tetrahedral configuration to provide enhanced torques about any axis. The RCS consists of a single tank (8 liter volume) containing a monopropellant fuel and a single 1N thruster. The thruster is primarily used for orbit corrections. 
+ 
+ BMU (Bus Management Unit): The BMU represents the heart of the satellite providing the functions of telecommand decoding, house keeping telemetry, data encoding, sensor processing, on/off control of the subsystems and heaters, command distribution, spacecraft control during initial acquisition, normal mode, safe mode etc., using the actuators. This subsystem is realized in a single PCB (Printed Circuit Board). 
+ 
+ Passive control methods (with elements like multi layer insulation blankets, optical surface reflectors, thermal paints and heaters wherever necessary.) are being used in the thermal control subsystem. 
+ 
+ Launch: A launch of IMS-1 as a secondary payload on a PSLV vehicle (PSLV-C9) took place on April 28, 2008 from the SDSC-SHAR launch site (Sriharikota, India) of ISRO. The primary payload on this flight was CartoSat-2A (launch mass of 690 kg), an Indian military high-resolution panchromatic imaging satellite (based on CartoSat-2 of ISRO). 
+ 
+ TWSat carries two payloads: the Mx-T (Multispectral Camera) and the HySI (Hyperspectral Imager). However, since the data of both imagers is rather high, only one of them will be powered on and data transmitted at any given time. 
+ 
+ Mx-T (Multispectral Camera). The instrument of modular design provides four spectral bands in VNIR, where each band employs an individual lens, a separate CCD detector, and separate front-end electronics. The camera operates in a pushbroom scanning mode to image the Earth. The spatial resolution at nadir is 36 m on a swath of 151 km. The 12 bit video output is coded to 10 bit with multi-linear gain. Mx-T has a mass of 5.5 kg and a power consumption of 18 W. 
+ 
+ All the front end electronics and the video processors are accommodated on the electro optical module (EOM) itself. Each band has one detector which gives out data in 4 ports with 10 bits per pixel. The source data (32 Mbit/s) is sent to the baseband data handling system of the microsatellite bus, compressed and stored in SSR (Solid State Recorder). The recorded data is transmitted to the ground in S-band at 8 Mbit/s. 
+ 
+ HySI-T (Hyperspectral Imager). The prototype instrument providing a total of 64 spectral bands in the VNIR region. Spectral separation is realized using the wedge filter technique. Detection is provided with a CMOS/APS (Active Pixel Sensor) area device. - The HySI-T data may be used for resource characterization and detailed studies. The HySI-T is being used on an experimental basis to obtain experience of such a payload and also of handling the hyperspectral data and generating the application models. 
+ 
+ Mission operations: While Mx-T serves the basic requirement of the imaging mission, the HySI-T is incorporated on an experimental basis. It is planned to operate the Mx-T instrument on for most of the orbits based on the user demands, while the HySI-T is operated over Indian ground stations for evaluation purposes. Either of the payloads will be operated at a time in order to conserve the available resources on board the microsatellite. 
+ 
+ The data from the two payloads is being downlinked separately. The Mx-T data is compressed at a ratio of 3.4:1, formatted, RS (Reed Solomon) encoded and stored on SSR (Solid Sate Recorder). The downlink is in near real-time via the S-band transmitter. The SSR has the storage capacity of 16 Gbit providing a maximum storage volume of 20 minutes data in segmented form. 
+
+
+
+
+
+
+
+    Online Resource:
+
+    
+        
+        
+            
+                
+                    
+                    http://directory.eoportal.org/get_announce.php?an_id=15158
+
+                    
+                
+                
+            
+        
+
+    
+
+
+
+
+
+    
+    
+    
+        
+            
+
+            Launch Date:
+            
+                2008-04-28
+            
+        
+        
+        
+            
+                
+
+                Launch Site:
+                
+                    Sriharikota Island, India
+                
+            
+            
+            
+                
+                    
+
+                    Primary Sponsors:
+
+                    
+                        
+                            
+                            
+                                
+                                Indian Space Research Organization (ISRO)
+                                
+
+                                
+                            
+                            
+                    
+                
+            
+        
+    
+
+
+            
+
+        
+
+        
+    
+
+    
+        Close This Window
+    
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+

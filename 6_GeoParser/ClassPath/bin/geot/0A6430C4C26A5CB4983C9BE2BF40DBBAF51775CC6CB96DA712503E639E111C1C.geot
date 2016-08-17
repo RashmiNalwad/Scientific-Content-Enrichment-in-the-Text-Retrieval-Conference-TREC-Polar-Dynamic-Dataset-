@@ -1,0 +1,113 @@
+
+
+
+
+
+
+Not logged inOcean Color Forum
+
+
+ Forum
+ Ocean Color Home
+ Help
+ Search
+ Login
+
+
+
+
+
+
+
+
+
+
+Topic SeaDAS / MODIS Direct Broadcast Support / How can i convert the units of Normalized water-leaving radiance at 551 nm ? (locked)
+
+
+
+
+
+
+
+
+
+
+By thialalessa
+Date 2009-10-20 14:34
+
+
+
+I'm analyzing images Normalized water-leaving radiance at 551 nm with a resolution of 4 km. For example: A20091212009128.L3m_8D_L551_4. I would like to know how to convert the drive mW cm ^ -2 a ^ -1 sr ^ -1  to  mg / l (milligrams per liter)?
+
+
+
+
+
+
+
+
+
+
+By bryan
+Date 2009-10-20 14:44
+
+
+
+That does not make physical sense.  You can't convert a radiance to a mass per unit volume.  What quantity are you trying to derive?  
+
+Also, this is not a Direct Broadcast question.  A better forum would be Products and Algorithms. 
+
+
+
+
+
+
+
+
+
+
+By thialalessa
+Date 2009-10-20 15:02
+
+
+
+sorry for posting in the wrong place. Indeed
+I would like to get the concentration of suspended matter, because we have the relationship the greater the radiance greater the concentration of material in suspension. I would like to make this relationship in numbers?
+
+
+
+
+
+
+
+
+
+
+Topic SeaDAS / MODIS Direct Broadcast Support / How can i convert the units of Normalized water-leaving radiance at 551 nm ? (locked)
+
+
+
+
+
+
+
+
+
+
+
+	
+            Responsible NASA Official:  Gene C. Feldman
+        
+Curator:  OceanColor Webmaster
+        
+Authorized by:  Gene C. Feldman
+
+Updated: 03 July 2013
+    	Privacy Policy and Important Notices
+    	 
+        
+    
+
+
+
